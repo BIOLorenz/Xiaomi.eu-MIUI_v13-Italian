@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="agenda_weeks_of_year">
+        <item>Settimana 1</item>
+        <item>Settimana 2</item>
+        <item>Settimana 3</item>
+        <item>Settimana %1$d</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="app_commute_tab_array">
+        <item>Guida</item>
+        <item>Trasporto pubblico</item>
+        <item>Taxi</item>
+    </string-array>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 minuti</item>
+        <item>20 minuti</item>
+        <item>30 minuti</item>
+        <item>60 minuti</item>
+    </string-array>
+    <string-array name="app_health_setting_value_array_duration">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>Eccellente</item>
+        <item>Buono</item>
+        <item>Poco Inquinato</item>
+        <item>Inquinato</item>
+        <item>Molto Inquinato</item>
+        <item>Estremamente Inquinato</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s污染</item>
+        <item>%1$s污染</item>
+        <item>%1$s污染</item>
+        <item>%1$s污染</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>空气%1$s</item>
+        <item>空气%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>Notte</item>
+        <item>Notte</item>
+        <item>Mattina</item>
+        <item>Pomeriggio</item>
+        <item>Pomeriggio</item>
+        <item>Sera</item>
+        <item>Sera</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>Notte</item>
+        <item>Mattina presto</item>
+        <item>Mattina</item>
+        <item>Mezzogiorno</item>
+        <item>Pomeriggio</item>
+        <item>Tardo pomeriggio</item>
+        <item>Sera</item>
+    </string-array>
+    <string-array name="detail_font_size">
+        <item>Piccolo</item>
+        <item>Normale</item>
+        <item>Largo</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Rosso - alro, verde - basso</item>
+        <item>Verde - alto, rosso - basso</item>
+    </string-array>
+</resources>
