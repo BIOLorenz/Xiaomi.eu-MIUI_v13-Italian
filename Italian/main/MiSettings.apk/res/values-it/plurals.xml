@@ -120,10 +120,6 @@
         <item quantity="other">≈%s ore</item>
         <item quantity="one">≈%s ora</item>
     </plurals>
-    <plurals name="usage_remain_about_miunte">
-        <item quantity="other">≈%s min</item>
-        <item quantity="one">≈%s min</item>
-    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Sbloccato %d volte</item>
         <item quantity="one">Sbloccato %d volta</item>
@@ -195,10 +191,6 @@
     <plurals name="usage_stats_remain_hour">
         <item quantity="other">%s ore</item>
         <item quantity="one">%s ora</item>
-    </plurals>
-    <plurals name="usage_stats_remain_miunte">
-        <item quantity="other">%s min</item>
-        <item quantity="one">%s min</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" ore"</item>

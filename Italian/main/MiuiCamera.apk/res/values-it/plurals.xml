@@ -56,14 +56,6 @@
         <item quantity="other">Puoi creare fino a %d cloni alla volta.</item>
         <item quantity="one">Puoi creare fino a %d clone alla volta.</item>
     </plurals>
-    <plurals name="fastmotion_pro_min_unit">
-        <item quantity="other">%1$d min</item>
-        <item quantity="one">%1$d min</item>
-    </plurals>
-    <plurals name="fastmotion_pro_sec_unit">
-        <item quantity="other">%1$d sec</item>
-        <item quantity="one">%1$d sec</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>

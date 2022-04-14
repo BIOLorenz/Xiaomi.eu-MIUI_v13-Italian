@@ -5,36 +5,79 @@
     <item>GB</item>
     <item>JP</item>
   </string-array>
-  <string-array name="config_emergency_iso_country_codes">
-    <item>in</item>
+  <string-array name="config_forceQueryablePackages">
+    <item>com.android.settings</item>
+    <item>com.android.bluetooth</item>
   </string-array>
-  <string-array name="config_nightDisplayColorTemperatureCoefficients">
-    <item>0.0</item>
-    <item>0.0</item>
-    <item>1.0</item>
-    <item>-0.00000000962353339</item>
-    <item>0.000153045476</item>
-    <item>0.390782778</item>
-    <item>-0.0000000189359041</item>
-    <item>0.000302412211</item>
-    <item>-0.198650895</item>
+  <string-array name="config_globalActionsList">
+    <item>emergency</item>
+    <item>lockdown</item>
+    <item>potenza</item>
+    <item>restart</item>
+    <item>logout</item>
+    <item>screenshot</item>
+    <item>bugreport</item>
   </string-array>
-  <string-array name="config_nightDisplayColorTemperatureCoefficientsNative">
-    <item>0.0</item>
-    <item>0.0</item>
-    <item>1.0</item>
-    <item>-0.00000000962353339</item>
-    <item>0.000153045476</item>
-    <item>0.390782778</item>
-    <item>-0.0000000189359041</item>
-    <item>0.000302412211</item>
-    <item>-0.198650895</item>
+  <string-array name="config_miuiNonBlockableNotificationPackages">
+    <item>android</item>
+    <item>com.android.incallui</item>
+    <item>com.android.deskclock</item>
+    <item>com.android.mms</item>
+    <item>com.android.bluetooth</item>
+    <item>com.android.updater</item>
+    <item>com.jeejen.family.miui</item>
+    <item>com.miui.hybrid</item>
+    <item>com.xiaomi.xmsf</item>
+    <item>com.google.android.dialer</item>
+    <item>com.android.phone:demo_Version</item>
+    <item>com.miui.securitycore</item>
+    <item>com.android.nfc:tag_dispatch</item>
+  </string-array>
+  <string-array name="config_statusBarIcons">
+    <item>micphone</item>
+    <item>headset</item>
+    <item>mikey</item>
+    <item>call_record</item>
+    <item>privacy_mode</item>
+    <item>ble_unlock_mode</item>
+    <item>quiet</item>
+    <item>gps</item>
+    <item>missed_call</item>
+    <item>ime</item>
+    <item>ime</item>
+    <item>sync_failing</item>
+    <item>sync_active</item>
+    <item>cast</item>
+    <item>location</item>
+    <item>bluetooth</item>
+    <item>bluetooth_handsfree_battery</item>
+    <item>nfc</item>
+    <item>tty</item>
+    <item>speakerphone</item>
+    <item>zen</item>
+    <item>silenzioso</item>
+    <item>volume</item>
+    <item>wifi</item>
+    <item>wimax</item>
+    <item>cdma_eri</item>
+    <item>data_connection</item>
+    <item>phone_evdo_signal</item>
+    <item>phone_signal</item>
+    <item>battery</item>
+    <item>alarm_clock</item>
+    <item>secure</item>
+    <item>clock</item>
+  </string-array>
+  <string-array name="config_udfps_enroll_stage_thresholds">
+    <item>0.25</item>
+    <item>0.5s</item>
+    <item>0.75</item>
   </string-array>
   <string-array name="emailAddressTypes">
-    <item>Home</item>
+    <item>Casa</item>
     <item>Lavoro</item>
     <item>Altro</item>
-    <item>Personalizza</item>
+    <item>Personalizzato</item>
   </string-array>
   <string-array name="fingerprint_acquired_vendor">
     <item>Riprova</item>
@@ -66,23 +109,13 @@
     <item>Questa impronta digitale è già stata aggiunta, cambia dito</item>
   </string-array>
   <string-array name="imAddressTypes">
-    <item>Home</item>
+    <item>Casa</item>
     <item>Lavoro</item>
     <item>Altro</item>
-    <item>Personalizza</item>
-  </string-array>
-  <string-array name="imProtocols">
-    <item>AIM</item>
-    <item>Windows Live</item>
-    <item>Yahoo</item>
-    <item>Skype</item>
-    <item>QQ</item>
-    <item>Google Talk</item>
-    <item>ICQ</item>
-    <item>Jabber</item>
+    <item>Personalizzato</item>
   </string-array>
   <string-array name="network_switch_type_name">
-    <item>mobile data</item>
+    <item>dati mobili</item>
     <item>Wi-Fi</item>
     <item>Bluetooth</item>
     <item>LAN</item>
@@ -91,28 +124,57 @@
   <string-array name="organizationTypes">
     <item>Lavoro</item>
     <item>Altro</item>
-    <item>Personalizza</item>
+    <item>Personalizzato</item>
   </string-array>
   <string-array name="phoneTypes">
-    <item>Home</item>
+    <item>Casa</item>
     <item>Cellulare</item>
     <item>Lavoro</item>
     <item>Fax lavoro</item>
     <item>Fax casa</item>
     <item>Cercapersone</item>
     <item>Altro</item>
-    <item>Personalizza</item>
+    <item>Personalizzato</item>
   </string-array>
   <string-array name="postalAddressTypes">
-    <item>Home</item>
+    <item>Casa</item>
     <item>Lavoro</item>
     <item>Altro</item>
-    <item>Personalizza</item>
+    <item>Personalizzato</item>
+  </string-array>
+  <string-array name="required_apps_managed_device">
+    <item>com.android.settings</item>
+    <item>com.android.contacts</item>
+    <item>com.android.dialer</item>
+    <item>com.android.stk</item>
+    <item>com.jeejen.family.miui</item>
+    <item>com.android.providers.downloads.ui</item>
+    <item>com.android.documentsui</item>
+    <item>com.miui.securitycenter</item>
+    <item>com.android.thememanager</item>
+  </string-array>
+  <string-array name="required_apps_managed_profile">
+    <item>com.android.contacts</item>
+    <item>com.android.settings</item>
+    <item>com.android.systemui</item>
+    <item>com.jeejen.family.miui</item>
+    <item>com.android.providers.downloads.ui</item>
+    <item>com.android.documentsui</item>
+  </string-array>
+  <string-array name="required_apps_managed_user">
+    <item>com.android.settings</item>
+    <item>com.android.systemui</item>
+    <item>com.android.contacts</item>
+    <item>com.android.dialer</item>
+    <item>com.android.stk</item>
+    <item>com.jeejen.family.miui</item>
+    <item>com.android.providers.downloads.ui</item>
+    <item>com.android.documentsui</item>
   </string-array>
   <string-array name="wfcOperatorErrorAlertMessages">
-    <item>Per effettuare chiamate e inviare messaggi tramite Wi-Fi, chiedi prima al tuo operatore di configurare questo servizio. Quindi attiva nuovamente Chiamata Wi-Fi dalle Impostazioni. (Codice errore: %1$s)</item>
+    <item>Per effettuare chiamate e inviare messaggi tramite Wi-Fi, chiedi prima al tuo operatore di impostare questo servizio. Dopodiché, attiva di nuovo la funzione Chiamate Wi-Fi nelle impostazioni. (Codice di errore: %1$s)</item>
   </string-array>
   <string-array name="wfcOperatorErrorNotificationMessages">
-    <item>Problema di registrazione delle chiamate Wi‐Fi con il tuo operatore: %1$s</item>
+    <item>Si è verificato un problema con la registrazione delle chiamate Wi‑Fi con l\'operatore: %1$s</item>
   </string-array>
 </resources>

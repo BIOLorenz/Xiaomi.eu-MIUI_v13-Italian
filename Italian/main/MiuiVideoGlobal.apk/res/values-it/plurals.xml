@@ -44,10 +44,6 @@
         <item quantity="other">Ritorno alla home page tra %1$d secondi…</item>
         <item quantity="one">Ritorno alla home page tra %1$d secondo…</item>
     </plurals>
-    <plurals name="follower">
-        <item quantity="other">%d follower</item>
-        <item quantity="one">%d follower</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>
@@ -72,6 +68,10 @@
         <item quantity="one">Proprio adesso</item>
         <item quantity="other">ora</item>
     </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">I sottotitoli verranno mostrati %.1f secondi prima</item>
         <item quantity="one">I sottotitoli verranno mostrati %.1f secondo prima</item>
@@ -83,10 +83,6 @@
     <plurals name="lv_subtitle_onlinesub_size_float_kb">
         <item quantity="other">Dimensione: %.2fKB</item>
         <item quantity="one">Dimensione: %.2fKB</item>
-    </plurals>
-    <plurals name="lv_video_count">
-        <item quantity="other">%d video</item>
-        <item quantity="one">%d video</item>
     </plurals>
     <plurals name="mediation_animate_close_after">
         <item quantity="other">%s sec rimasti</item>
@@ -108,14 +104,6 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
-    <plurals name="ovp_detail_v_video_count">
-        <item quantity="other">%d video</item>
-        <item quantity="one">%d video</item>
-    </plurals>
-    <plurals name="ovp_home_item_unit">
-        <item quantity="other">%d video</item>
-        <item quantity="one">%d video</item>
-    </plurals>
     <plurals name="plus_edit_delete_comfire_text">
         <item quantity="other">Eliminare %s elementi?</item>
         <item quantity="one">Eliminare %s elemento?</item>
@@ -136,10 +124,6 @@
         <item quantity="other">%d immagini</item>
         <item quantity="one">%d immagine</item>
     </plurals>
-    <plurals name="plus_serval_videos">
-        <item quantity="other">%d video</item>
-        <item quantity="one">%d video</item>
-    </plurals>
     <plurals name="s_double_tap_backward">
         <item quantity="other">Tocca due volte per riavvolgere di %d secondi</item>
         <item quantity="one">Tocca due volte per riavvolgere di %d secondo</item>
@@ -147,10 +131,6 @@
     <plurals name="s_double_tap_forward">
         <item quantity="other">Tocca due volte per avanzare di %d secondi</item>
         <item quantity="one">Tocca due volte per avanzare di %d secondo</item>
-    </plurals>
-    <plurals name="s_forward_tip">
-        <item quantity="other">%1$s sec</item>
-        <item quantity="one">%1$s sec</item>
     </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s iscritti</item>

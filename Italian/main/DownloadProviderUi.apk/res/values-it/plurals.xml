@@ -52,14 +52,6 @@
         <item quantity="other">%1$d ore</item>
         <item quantity="one">%1$d ora</item>
     </plurals>
-    <plurals name="durationMinutes">
-        <item quantity="other">%1$d min</item>
-        <item quantity="one">%1$d min</item>
-    </plurals>
-    <plurals name="durationSeconds">
-        <item quantity="other">%1$d sec</item>
-        <item quantity="one">%1$d sec</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>

@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="AVL">AVL</string>
-    <string name="Avast">Avast</string>
-    <string name="DesAVL">AVL</string>
-    <string name="DesAvast">Avast</string>
-    <string name="DesMi">Mi</string>
     <string name="DesTencent">Tencent</string>
-    <string name="Mi">Mi</string>
     <string name="Tencent">Tencent</string>
     <string name="app_name">com.securitycore.miui_t</string>
     <string name="avast_dialog_header">"Questa funzione crittografa e carica l'ID del tuo dispositivo sui server di Avast (%s)."</string>
@@ -14,7 +8,7 @@
     <string name="avast_dialog_title">"Informativa sulla Privacy di Avast"</string>
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=it_IT</string>
     <string name="avast_virus_type_adware_description">Questo virus è un adware. Visualizza automaticamente le pubblicità.</string>
-    <string name="avast_virus_type_cryportor_description">Questo virus è un cryptor. È un software pericoloso trasmesso con lo scopo di danneggiare i dati, duplicarsi all\'interno dello spazio di archiviazione e diffondersi.</string>
+    <string name="avast_virus_type_cryportor_description">Questo virus è un cryptor. È un software pericoloso trasmesso con lo scopo di danneggiare i dati, duplicarsi all\'interno dello memoria e diffondersi.</string>
     <string name="avast_virus_type_dropper_description">Questo virus è un dropper. Contiene il codice che consente l\'installazione di altri virus pericolosi.</string>
     <string name="avast_virus_type_exploit_description">Questo virus è un exploit. Sfrutta bug o vulnerabilità del sistema per forzare azioni senza autorizzazioni.</string>
     <string name="avast_virus_type_heuristic_description">L\'infezione è stata rilevata utilizzando un metodo euristico specifico. Dall\'analisi euristica specifica risulta come virus.</string>
@@ -34,6 +28,12 @@
     <string name="common_ids_permission_label">Permesso comune ID Avast</string>
     <string name="hello_world">Ciao mondo!</string>
     <string name="menu_settings">Impostazioni</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_tera_byte">TB</string>
     <string name="tencent_dialog_cloudscan">Carica e scansiona i nomi delle app di dettagli utilizzando le definizioni online dei virus.</string>
     <string name="tencent_dialog_dbupdate">Aggiorna definizioni virus automaticamente</string>
     <string name="tencent_dialog_header">"Questa funzionalità critta ed invia l'ID del tuo dispositivo ai server di Tencent (%s)."</string>

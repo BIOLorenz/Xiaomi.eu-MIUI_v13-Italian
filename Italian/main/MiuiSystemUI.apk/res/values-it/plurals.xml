@@ -128,10 +128,6 @@
         <item quantity="other">Immetti PIN SIM, hai %d tentativi rimasti.</item>
         <item quantity="one">Immetti PIN SIM, hai %d tentativo rimanente prima di contattare il tuo operatore per sbloccare il dispositivo.</item>
     </plurals>
-    <plurals name="kg_password_default_pin_message_multi_sim">
-        <item quantity="other">Inserisci il PIN della SIM %1$d, hai ancora %2$d tentativi.</item>
-        <item quantity="one">Inserisci il PIN della SIM %1$d, hai ancora %2$d tentativo prima di dover contattare il tuo operatore per sbloccare il dispositivo.</item>
-    </plurals>
     <plurals name="kg_password_default_puk_message">
         <item quantity="other">La SIM è ora disabilitata. Immetti codice PUK per continuare. Hai %d tentativi rimanenti prima che la SIM diventi permanentemente inutilizzabile. Contatta l\'operatore per i dettagli.</item>
         <item quantity="one">La SIM è ora disabilitata. Immetti codice PUK per continuare. Hai %d tentativo rimanente prima che la SIM diventi permanentemente inutilizzabile. Contatta l\'operatore per i dettagli.</item>
@@ -139,10 +135,6 @@
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">Codice PIN SIM errato, hai %d tentativi rimanenti.</item>
         <item quantity="one">Codice PIN SIM errato, hai %d tentativo rimanente prima di contattare il tuo operatore per sbloccare il tuo dispositivo.</item>
-    </plurals>
-    <plurals name="kg_password_wrong_pin_code_multi_sim">
-        <item quantity="other">Codice PIN della SIM %1$d non corretto, hai ancora %2$d tentativi.</item>
-        <item quantity="one">Codice PIN della SIM %1$d non corretto, hai ancora %2$d tentativo prima di dover contattare il tuo operatore per sbloccare il dispositivo.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
         <item quantity="other">Codice PUK SIM errato, hai %d tentativi rimanenti prima che la SIM diventi definitivamente inutilizzabile.</item>

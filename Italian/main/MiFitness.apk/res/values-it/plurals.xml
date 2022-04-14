@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="common_selected_num">
+        <item quantity="other">%1$d selezionati</item>
+        <item quantity="one">%1$d selezionato</item>
+    </plurals>
+    <plurals name="common_unit_day_desc">
+        <item quantity="other">%1$d giorni</item>
+        <item quantity="one">%1$d giorno</item>
+    </plurals>
+    <plurals name="common_unit_step">
+        <item quantity="other">" passi"</item>
+        <item quantity="one">" passo"</item>
+    </plurals>
+    <plurals name="common_unit_step_desc">
+        <item quantity="other">%1$d passi</item>
+        <item quantity="one">%1$d passo</item>
+    </plurals>
+    <plurals name="common_unit_time">
+        <item quantity="other">volte</item>
+        <item quantity="one">volta</item>
+    </plurals>
+    <plurals name="common_unit_time_desc">
+        <item quantity="other">%1$d ore</item>
+        <item quantity="one">%1$d ora</item>
+    </plurals>
+    <plurals name="device_settings_world_clock_select_number_v2">
+        <item quantity="other">%1$d selezionati</item>
+        <item quantity="one">%1$d selezionato</item>
+    </plurals>
+    <plurals name="device_tab_device_size">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avanti %d secondi</item>
+        <item quantity="one">Avanti %d secondo</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Riavvolgi %d secondi</item>
+        <item quantity="one">Riavvolgi %d secondo</item>
+    </plurals>
+    <plurals name="habit_share_days">
+        <item quantity="other">giorni</item>
+        <item quantity="one">giorno</item>
+    </plurals>
+    <plurals name="habit_world_clock_select_number_v2">
+        <item quantity="other">%1$d selezionati</item>
+        <item quantity="one">%1$d selezionato</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="health_common_unit_step">
+        <item quantity="other">passi</item>
+        <item quantity="one">passo</item>
+    </plurals>
+    <plurals name="health_common_unit_step_desc">
+        <item quantity="other">%1$d passi</item>
+        <item quantity="one">%1$d passo</item>
+    </plurals>
+    <plurals name="health_curse_day">
+        <item quantity="other">giorni</item>
+        <item quantity="one">giorno</item>
+    </plurals>
+    <plurals name="health_sleep_dream_talk_count_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="health_stand_count_desc">
+        <item quantity="other">%1$d ore</item>
+        <item quantity="one">%1$d ora</item>
+    </plurals>
+    <plurals name="health_target_stand_times_unit">
+        <item quantity="other">%1$d ore</item>
+        <item quantity="one">%1$d ora</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="provider_exercise_goal_unit">
+        <item quantity="other">passi</item>
+        <item quantity="one">passo</item>
+    </plurals>
+    <plurals name="provider_step_goal_unit">
+        <item quantity="other">passi</item>
+        <item quantity="one">passo</item>
+    </plurals>
+    <plurals name="time_update_days_before">
+        <item quantity="other">%1$d giorni fa</item>
+        <item quantity="one">%1$d giorno fa</item>
+    </plurals>
+    <plurals name="trail_hint_unit_step">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trail_label_step">
+        <item quantity="other">passi</item>
+        <item quantity="one">passo</item>
+    </plurals>
+    <plurals name="trail_sport_hour_unit">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d ora</item>
+    </plurals>
+    <plurals name="trail_unit_time_rope_skipping">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="unit_hour_desc">
+        <item quantity="other">%1$d ore</item>
+        <item quantity="one">%1$d ora</item>
+    </plurals>
+    <plurals name="unit_hour_desc2">
+        <item quantity="other">%1$d ore</item>
+        <item quantity="one">%1$d ora</item>
+    </plurals>
+    <plurals name="unit_min_1">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="unit_min_2">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="userinfo_birthday_format">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_age">
+        <item quantity="other">%1$d anni</item>
+        <item quantity="one">%1$d anno</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_step">
+        <item quantity="other">" passi"</item>
+        <item quantity="one">" passo"</item>
+    </plurals>
+    <plurals name="userinfo_target_stand_times_unit">
+        <item quantity="other">%1$d ore</item>
+        <item quantity="one">%1$d ora</item>
+    </plurals>
+</resources>

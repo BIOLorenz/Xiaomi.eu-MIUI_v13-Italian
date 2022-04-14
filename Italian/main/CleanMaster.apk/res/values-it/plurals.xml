@@ -48,6 +48,10 @@
         <item quantity="other">"Non utilizzata per %d anni"</item>
         <item quantity="one">"Non utilizzata per %d anno"</item>
     </plurals>
+    <plurals name="clean_app_data_selected_app">
+        <item quantity="other">Selezionate %d app per cancellare i dati</item>
+        <item quantity="one">Selezionata %d app per cancellare i dati</item>
+    </plurals>
     <plurals name="clean_long_msg_p1">
         <item quantity="other">"Pulizia di %1$d file (%2$d%%)
 "</item>
@@ -69,6 +73,10 @@
     <plurals name="dc_item_summary_app_data">
         <item quantity="other">&lt;Data&gt;Puoi eliminare i dati di &lt;font color=#0097FF&gt;%d&lt;/font&gt; app&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;Puoi eliminare i dati di &lt;font color=#0097FF&gt;%d&lt;/font&gt; app&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="dc_item_summary_app_reset">
+        <item quantity="other">&lt;Data&gt;&lt;font color=#0097FF&gt;%d&lt;/font&gt; app utilizzano molto memoria&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;&lt;font color=#0097FF&gt;%d&lt;/font&gt; app utilizza molto memoria&lt;/Data&gt;</item>
     </plurals>
     <plurals name="dc_item_summary_image">
         <item quantity="other">&lt;Data&gt;Puoi eliminare &lt;font color=#0097FF&gt;%d&lt;/font&gt; foto non necessarie&lt;/Data&gt;</item>
@@ -121,6 +129,10 @@
     <plurals name="dialog_content_delete_image_from_all_devices_confirm">
         <item quantity="other">Eliminare %1$s foto da tutti i dispositivi?</item>
         <item quantity="one">Eliminare %1$s foto da tutti i dispositivi?</item>
+    </plurals>
+    <plurals name="every_x_day">
+        <item quantity="other">Ogni %d giorni</item>
+        <item quantity="one">Ogni %d giorno</item>
     </plurals>
     <plurals name="global_wa_clean_finish_audio">
         <item quantity="other">&lt;Data&gt;Liberati &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (abbastanza per  &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; canzoni)&lt;/Data&gt;</item>
@@ -178,6 +190,10 @@
         <item quantity="other">Trovate %d app</item>
         <item quantity="one">Trovata %d app</item>
     </plurals>
+    <plurals name="last_x_day">
+        <item quantity="other">Ultimi %d giorni</item>
+        <item quantity="one">Ultimo %d giorno</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Proprio adesso</item>
         <item quantity="other">ora</item>
@@ -206,6 +222,10 @@
         <item quantity="other">Scaricato da %1$d persone</item>
         <item quantity="one">Scaricato da %1$d persone</item>
     </plurals>
+    <plurals name="reset_app_selected_app">
+        <item quantity="other">Selezionate %d app da reimpostare</item>
+        <item quantity="one">Selezionata %d app da reimpostare</item>
+    </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">%d app non sono state utilizzate per lungo tempo, dagli un\'occhiata.</item>
         <item quantity="one">%d app non sono state utilizzate per lungo tempo, dagli un\'occhiata.</item>
@@ -222,6 +242,14 @@
         <item quantity="other">%1$d secondi</item>
         <item quantity="one">%1$d secondo</item>
     </plurals>
+    <plurals name="select_app">
+        <item quantity="other">Selezionate %d app</item>
+        <item quantity="one">Selezionato %d app</item>
+    </plurals>
+    <plurals name="unload_app_selected_app">
+        <item quantity="other">Selezionate %d app da disinstallare</item>
+        <item quantity="one">Selezionata %d app da disinstallare</item>
+    </plurals>
     <plurals name="video_clean_scan_app_result">
         <item quantity="other">%d app con video in cache</item>
         <item quantity="one">%d app con video in cache</item>
@@ -237,14 +265,6 @@
     <plurals name="wechat_empty_files">
         <item quantity="other">(%1$d file vuoti) %2$s</item>
         <item quantity="one">(%1$d file vuoti) %2$s</item>
-    </plurals>
-    <plurals name="wechat_video_time_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-    </plurals>
-    <plurals name="wechat_video_time_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
     </plurals>
     <plurals name="whatsapp_delete_files">
         <item quantity="other">Vuoi eliminare %1$d file?</item>

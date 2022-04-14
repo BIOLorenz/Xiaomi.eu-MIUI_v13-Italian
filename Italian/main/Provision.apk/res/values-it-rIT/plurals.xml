@@ -36,6 +36,10 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
+    <plurals name="authorization_status_hold_time">
+        <item quantity="other">%d secondi</item>
+        <item quantity="one">%d secondo</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>

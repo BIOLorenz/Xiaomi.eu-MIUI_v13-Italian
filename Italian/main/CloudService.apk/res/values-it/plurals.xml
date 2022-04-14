@@ -36,10 +36,6 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
-    <plurals name="cloud_space_full_gallery_notification_content_title">
-        <item quantity="other">"impossibile sincronizzare %s gli elementi "</item>
-        <item quantity="one">"impossibile sincronizzare %s l'elemento"</item>
-    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d elementi bloccati</item>
         <item quantity="one">%d elemento bloccato</item>
@@ -68,10 +64,6 @@
         <item quantity="other">%d SMS</item>
         <item quantity="one">%d SMS</item>
     </plurals>
-    <plurals name="dirty_music_count">
-        <item quantity="other">%d brani</item>
-        <item quantity="one">%d brano</item>
-    </plurals>
     <plurals name="dirty_note_count">
         <item quantity="other">%d note</item>
         <item quantity="one">%d nota</item>
@@ -92,10 +84,6 @@
         <item quantity="other">%d registrazioni</item>
         <item quantity="one">%d registrazione</item>
     </plurals>
-    <plurals name="dirty_secretphoto_count">
-        <item quantity="other">"%d le foto nascoste non vengono sincronizzate. Esci dopo che tutti gli elementi sono stti sincronizzati per mantenerli; altrimenti verranno eliminati."</item>
-        <item quantity="one">"%d la foto nascosta non viene sincronizzata. Esci dopo che tutti gli elementi sono stti sincronizzati per mantenerli; altrimenti verranno eliminati."</item>
-    </plurals>
     <plurals name="dirty_wlan_count">
         <item quantity="other">%d reti Wi-Fi</item>
         <item quantity="one">%d rete Wi-Fi</item>
@@ -104,9 +92,25 @@
         <item quantity="other">%d reti Wi-Fi</item>
         <item quantity="one">%d rete Wi-Fi</item>
     </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s ore</item>
+        <item quantity="one">%s ora</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s minuti</item>
+        <item quantity="one">%s minuto</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s secondi</item>
+        <item quantity="one">%s secondo</item>
+    </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">Riprova fra %d secondi</item>
         <item quantity="one">Riprova fra %d secondo</item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">"Impossibile sincronizzare %s elementi"</item>
+        <item quantity="one">"Impossibile sincronizzare %s elemento"</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>

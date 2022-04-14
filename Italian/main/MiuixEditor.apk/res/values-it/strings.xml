@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Aggiungi frase</string>
+    <string name="call">Chiama</string>
+    <string name="edit_frequent_phrases">Modifica le frasi frequenti</string>
+    <string name="floating_toolbar_open_overflow_description">Altre opzioni</string>
+    <string name="frequent_phrases">Frasi frequenti</string>
+    <string name="open">Naviga</string>
+    <string name="select">Scegli</string>
+    <string name="translate">Traduci</string>
+    <string name="translation_more">Altro</string>
+    <string name="translation_query_error">"Impossibile trovare risultati"</string>
+</resources>

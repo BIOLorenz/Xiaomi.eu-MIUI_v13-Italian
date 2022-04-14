@@ -40,14 +40,6 @@
         <item quantity="other">%d giochi aggiunti</item>
         <item quantity="one">%d gioco aggiunto</item>
     </plurals>
-    <plurals name="app_behavior_dashboard_title_desc">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
-    </plurals>
-    <plurals name="app_behavior_dashboard_total_usage_item">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
-    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">Permesso %3$d volte tra le %1$s e le %2$s</item>
         <item quantity="one">Permesso %3$d volta tra le %1$s e le %2$s</item>
@@ -63,6 +55,10 @@
     <plurals name="app_behavior_desc_deny_minute">
         <item quantity="other">Negato %2$d volte alle %1$s</item>
         <item quantity="one">Negato %2$d volta alle %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Permesso %3$d volte tra le %1$s e le %2$s</item>
+        <item quantity="one">Permesso %3$d volta tra le %1$s e le %2$s</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual">
         <item quantity="other">Risposto con %3$d messaggi vuoti tra le %1$s e le %2$s</item>
@@ -139,6 +135,10 @@
     <plurals name="applock_one_key_lock">
         <item quantity="other">%s app saranno protette con il blocco app</item>
         <item quantity="one">%s app sarà protetta con il blocco App</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d volte</item>
+        <item quantity="one">%d volta</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d app non possono collegarsi alla rete in background</item>
@@ -224,14 +224,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d SMS</item>
         <item quantity="one">%d SMS</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d persone stanno giocando</item>
         <item quantity="one">%1$d persona sta giocando</item>
@@ -247,10 +239,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="gb_game_video_ai_record_finish_tips">
         <item quantity="other">Salvate %d registrazioni IA su Game Turbo</item>
         <item quantity="one">Salavat %d registrazione IA su Game Turbo</item>
-    </plurals>
-    <plurals name="gb_record_time_title">
-        <item quantity="other">%d sec</item>
-        <item quantity="one">%d sec</item>
     </plurals>
     <plurals name="gb_signed_days_sum">
         <item quantity="other">Registrato %d giorni di seguito</item>
@@ -327,10 +315,6 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
     <plurals name="hints_handle_item_text_virus_number">
         <item quantity="other">%d trojan,</item>
         <item quantity="one">%d trojan,</item>
-    </plurals>
-    <plurals name="hints_permission_apps_count">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
         <item quantity="other">"%d app non possono utilizzare il roaming dati"</item>
@@ -496,10 +480,6 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">%d app bloccate</item>
         <item quantity="one">%d app bloccata</item>
     </plurals>
-    <plurals name="number_masked">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
-    </plurals>
     <plurals name="number_masked_text">
         <item quantity="other">%d notifiche sono state nascoste</item>
         <item quantity="one">%d notifica è stata nascosta</item>
@@ -519,14 +499,6 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
     <plurals name="om_locked_apps_title">
         <item quantity="other">%d app bloccate</item>
         <item quantity="one">%d app bloccata</item>
-    </plurals>
-    <plurals name="om_running_apps_num">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
-    </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d sapp tanno consumando la batteria</item>
@@ -656,10 +628,6 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">%d °C</item>
         <item quantity="one">%d °C</item>
     </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="one">%d mAh</item>
-    </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Aggiungi %d minuti</item>
         <item quantity="one">Aggiungi %d minuto</item>
@@ -719,10 +687,6 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s volte</item>
         <item quantity="one">%s volta</item>
-    </plurals>
-    <plurals name="privacy_risk_app_count">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="privacy_risk_dangerous_permissions_tip">
         <item quantity="other">%d permessi ad alto rischio concessi</item>
@@ -836,6 +800,10 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">"Non hai sincronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorni"</item>
         <item quantity="one">"Non hai sincronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorno"</item>
     </plurals>
+    <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d sicuri</item>
         <item quantity="one">%1$d sicuro</item>
@@ -848,10 +816,6 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">%d virus eliminati</item>
         <item quantity="one">%d virus eliminato</item>
     </plurals>
-    <plurals name="traffic_setting_app_count">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
-    </plurals>
     <plurals name="uninstall_game_count_title">
         <item quantity="other">"%d giochi non aggiunti"</item>
         <item quantity="one">"%d gioco non aggiunto"</item>
@@ -863,10 +827,6 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
     <plurals name="unlock_set_unlock_pin_summary_new">
         <item quantity="other">Inserisci %s cifre</item>
         <item quantity="one">Inserisci %s cifra</item>
-    </plurals>
-    <plurals name="videobox_settings_manager_apps_count">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="videobox_settings_timing_bubble">
         <item quantity="other">"Stai guardando i video già da %d ore.
@@ -881,9 +841,5 @@ Fai una pausa!"</item>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">App pericolose: %d</item>
         <item quantity="one">App pericolosa: %d</item>
-    </plurals>
-    <plurals name="white_list_trojan_header">
-        <item quantity="other">Trojan: %d</item>
-        <item quantity="one">Trojan: %d</item>
     </plurals>
 </resources>

@@ -8,15 +8,10 @@
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
     <string name="abc_capital_off">DISATTIVATO</string>
     <string name="abc_capital_on">ATTIVATO</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
     <string name="abc_menu_enter_shortcut_label">invio</string>
     <string name="abc_menu_function_shortcut_label">Funzione+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Spazio</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menù+</string>
     <string name="abc_search_hint">Ricerca…</string>
     <string name="abc_searchview_description_clear">Cancella campo</string>
@@ -28,9 +23,11 @@
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
     <string name="about_device_info">Mostra dettagli dispositivo</string>
+    <string name="accept">Consenti</string>
     <string name="access_token_expired_warning">L\'account Weibo è scaduto</string>
     <string name="access_token_invalid_warning">L\'account Weibo non è valido</string>
     <string name="account">Account</string>
+    <string name="account_and_password">Password</string>
     <string name="account_bind_devices">Dispositivi</string>
     <string name="account_bind_secure_email_title">Aggiungi email</string>
     <string name="account_bind_secure_phone_title">Aggiungi numero di telefono</string>
@@ -49,7 +46,6 @@
     <string name="account_limit_update_birthday">"Impossibile aggiornare il compleanno in questo momento"</string>
     <string name="account_mibi_center">Mi Credit</string>
     <string name="account_mibi_charge">Ricarica</string>
-    <string name="account_mipay_info">Mi Pay</string>
     <string name="account_no_set">Nessuno</string>
     <string name="account_none">Nessuno</string>
     <string name="account_none_binded_info">Nessuno</string>
@@ -70,7 +66,6 @@
     <string name="account_user_email">Recupera email</string>
     <string name="account_user_gender">Genere</string>
     <string name="account_user_id">ID Mi Account</string>
-    <string name="account_user_id_show">Mi Account: %s</string>
     <string name="account_user_name">Nome</string>
     <string name="account_user_name_dialog_title">Inserisci username</string>
     <string name="account_user_other_info">Altre risorse</string>
@@ -86,13 +81,12 @@
     <string name="add_account">Aggiungi account</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="agreement_and_privacy">Termini e condizioni</string>
-    <string name="am">AM</string>
     <string name="app_name">Account</string>
+    <string name="area_code_no_search_result">"Impossibile trovare risultati"</string>
     <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo più tardi</string>
     <string name="authorize_title">Autorizzazione</string>
     <string name="bind_facebook">Collega  il tuo account Facebook</string>
     <string name="bind_google">Collega il tuo account Google</string>
-    <string name="bind_qq">QQ</string>
     <string name="bind_safe_phone_msg">Aggiungi un numero sicuro per il prossimo accesso</string>
     <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
     <string name="bind_sns_description">Completa il tuo profilo utilizzando le informazioni personali su %s.</string>
@@ -101,7 +95,11 @@
     <string name="binded">Connesso</string>
     <string name="binded_description" formatted="false">"%s collegato correttamente. 
 Puoi accedere al tuo Mi Account con %s."</string>
+    <string name="button_agree">Accetto</string>
+    <string name="button_close">Chiudi</string>
+    <string name="button_refuse">"Non accetto"</string>
     <string name="button_unbind">Disconnetti</string>
+    <string name="cancel">Annulla</string>
     <string name="change_activate_email">Cambia indirizzo email</string>
     <string name="change_email_address">Cambia indirizzo email</string>
     <string name="change_password">Cambia password</string>
@@ -181,6 +179,9 @@ Puoi accedere al tuo Mi Account con %s."</string>
     <string name="cloud_description_closed">Occupato | Sincronizzazione spenta</string>
     <string name="cloud_description_normal">Occupato</string>
     <string name="cloud_service">Mi Cloud</string>
+    <string name="cloud_service_status_cloud_not_open">Spenta</string>
+    <string name="cloud_service_status_storage_full">Memoria piena</string>
+    <string name="cloud_service_status_storage_not_enough">Spazio insufficiente</string>
     <string name="collect_diagnosis_log">Raccolta log diagnosi</string>
     <string name="com_facebook_device_auth_instructions">Visita &lt;b&gt;facebook.com/device&lt;/b&gt; ed inserisci il codice visualizzato sopra.</string>
     <string name="com_facebook_image_download_unknown_error">Errore inaspettato durante il download di un\'immagine.</string>
@@ -242,6 +243,7 @@ Puoi accedere al tuo Mi Account con %s."</string>
     <string name="delete_device_btn">Rimuovi</string>
     <string name="delete_device_failed">"Impossibile rimuovere il dispositivo"</string>
     <string name="delete_device_notice">"Dopo la rimozione del dispositivo, verrà automaticamente effettuata l'uscita dal Mi Account. Non potrai più utilizzare questo dispositivo per accedere alle foto, ai messaggi e agli altri contenuti memorizzati sul Mi Account."</string>
+    <string name="deny">Nega</string>
     <string name="device_delete_success_message">"Se non hai eseguito l'accesso su questo dispositivo, cambia subito la tua password."</string>
     <string name="device_delete_success_title">Uscito</string>
     <string name="device_list__header">I miei dispositivi</string>
@@ -266,6 +268,7 @@ Invia questo codice ai tecnici."</string>
     <string name="earthly_branches_you">You</string>
     <string name="earthly_branches_zi">Zi</string>
     <string name="empty_device_list_notice">Nessun dispositivo</string>
+    <string name="enable">Impostazioni</string>
     <string name="ep_unsupported">"Impossibile accedere a Mi Account sul tuo dispositivo"</string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
@@ -275,9 +278,9 @@ Invia questo codice ai tecnici."</string>
     <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro MI account.</string>
     <string name="exit">Esci</string>
     <string name="expand_button_title">Avanzate</string>
-    <string name="facebook">Facebook</string>
     <string name="facebook_login">Accedi con Facebook</string>
     <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
+    <string name="family_share">Condivisione familiare</string>
     <string name="find_device">Trova Telefono</string>
     <string name="find_device_access_denied">"Impossibile recuperare lo stato, accesso negato"</string>
     <string name="find_device_account_error">"Impossibile recuperare lo stato a causa di un errore con l'account"</string>
@@ -306,6 +309,7 @@ Invia questo codice ai tecnici."</string>
     <string name="find_device_set_lost_model">Mod. Dispositivo Perso</string>
     <string name="find_device_title">Trova Telefono</string>
     <string name="find_device_unknown_error">"Impossibile recuperare lo stato, riprova più tardi"</string>
+    <string name="find_equipment">Trova Telefono</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -326,24 +330,20 @@ Invia questo codice ai tecnici."</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time_12hour">hh</string>
+    <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_24hour">HH</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour">"HH"</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_minute_second">"m:s"</string>
+    <string name="fmt_time_minute_second_millis">"m:s.S"</string>
+    <string name="fmt_time_second_millis">"s.S"</string>
     <string name="fmt_time_timezone">zT</string>
     <string name="fmt_weekday_date">DW</string>
     <string name="fmt_weekday_date_time">DW T</string>
     <string name="fmt_weekday_date_time_timezone">zDW T</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
     <string name="for_diagnosis_usage_only">Utilizzo di queste informazioni a solo scopo di diagnosi.</string>
@@ -355,8 +355,8 @@ Invia questo codice ai tecnici."</string>
     <string name="get_identity_auth_url_failed">"Impossibile verificare l'ID"</string>
     <string name="get_phone_bind_exceed_limit">"È possibile associare fino a 3 Mi Account a un numero di telefono. Impossibile aggiungere nuovi account."</string>
     <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
-    <string name="google">Google</string>
     <string name="google_login">Accedi con Google</string>
+    <string name="goto_accept">OK</string>
     <string name="guest_account_label">Mi Account Ospite</string>
     <string name="health_action_activate">Attiva</string>
     <string name="health_action_install">Installa</string>
@@ -394,6 +394,7 @@ Invia questo codice ai tecnici."</string>
     <string name="login_check_find_device">Recupero informazioni di sicurezza…</string>
     <string name="login_check_find_device_failed_title">"Impossibile verificare le informazioni di sicurezza del dispositivo"</string>
     <string name="login_find_device_bind">Questo account è già associato ad un ID Mi Account (%s).</string>
+    <string name="login_with_other">Altre opzioni</string>
     <string name="logout_account">Disconetti</string>
     <string name="logout_failed">"Impossibile uscire"</string>
     <string name="mi_account_identity_title">Verifica la tua identità</string>
@@ -410,6 +411,8 @@ Invia questo codice ai tecnici."</string>
     <string name="mipay_indentity_done">Verificato</string>
     <string name="mipay_others">Altro</string>
     <string name="mipay_transit_card">Carta di trasporto</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -424,8 +427,10 @@ Invia questo codice ai tecnici."</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -480,8 +485,10 @@ Invia questo codice ai tecnici."</string>
     <string name="my_device_title">Dispositivo attuale</string>
     <string name="need_install_wechat">Installa prima WeChat</string>
     <string name="night">Sera</string>
+    <string name="no_install">Non installato</string>
     <string name="no_network_btn">Aggiorna</string>
     <string name="no_network_title">"Nessuna rete disponibile"</string>
+    <string name="no_password_set">Non impostato</string>
     <string name="no_phone">Nessun numero di telefono</string>
     <string name="no_response_retry">Nessuna risposta, riprova.</string>
     <string name="no_sim_card_or_unactivated">"La SIM non è installata o attivata"</string>
@@ -492,11 +499,17 @@ Invia questo codice ai tecnici."</string>
     <string name="notify_network_restricted_content_hidden_state">"L'attività in background di Mi Account è limitata. Tocca per consentire."</string>
     <string name="notify_network_restricted_content_mobile_network">"L'accesso ad internet di Mi Account è limitato. Tocca per consentire."</string>
     <string name="notify_network_restricted_title">"Mi Account non è riuscito a connettersi alla rete"</string>
+    <string name="notify_verify_again_security_phone">Conferma</string>
+    <string name="notify_verify_security_phone">Telefono</string>
     <string name="oauth_get_scopes_failed">"Impossibile ottenere informazioni sull'account"</string>
     <string name="oauth_getting_scopes">Verifica account…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; otterrà i seguenti permessi:&lt;br&gt; &lt;br&gt; %3$s</string>
     <string name="oauth_title">Esegui l\'accesso ed utilizza Mi Cloud</string>
     <string name="ok">OK</string>
+    <string name="operator_mobile">Cina Mobile</string>
+    <string name="operator_other">Numero di telefono</string>
+    <string name="operator_telecom">Cina Telecom</string>
+    <string name="operator_unicom">Cina Unicom</string>
     <string name="optional_permissions">可选权限</string>
     <string name="passport_Resend">Invia di nuovo</string>
     <string name="passport_access_denied">Accesso negato</string>
@@ -564,6 +577,7 @@ Invia questo codice ai tecnici."</string>
     <string name="passport_error_sim_not_ready">"Impossibile trovare SIM"</string>
     <string name="passport_error_ssl_hand_shake">"Errore nella connessione con il server. Controlla che l'orario di sistema sia corretto."</string>
     <string name="passport_error_unknown">"Impossibile eseguire l'accesso"</string>
+    <string name="passport_error_user_agreement_error">Accettare i termini e le condizioni</string>
     <string name="passport_error_user_name">Nome utente non valido</string>
     <string name="passport_error_verify_activator_phone_message">Assicurati che il tuo servizio SIM sia attivato ed il tuo dispositivo sia collegato alla rete.</string>
     <string name="passport_error_verify_activator_phone_title">"Impossibile verificare il numero di telefono"</string>
@@ -623,8 +637,6 @@ Invia questo codice ai tecnici."</string>
     <string name="passport_prev">Indietro</string>
     <string name="passport_privacy_policy">Informativa sulla Privacy</string>
     <string name="passport_privacy_policy_required">Informativa Privacy (obbligatorio)</string>
-    <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
-    <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
     <string name="passport_provision_input_email_register_prompt">I tuoi dati personali saranno conservati in conformità alle leggi e ai regolamenti della regione da te selezionata.</string>
     <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> caratteri di almeno <xliff id="min_pwd_type" refersto="2">%3$d</xliff> dei seguenti tipi: lettere, cifre, simboli speciali</string>
     <string name="passport_pwd_generate_failure">"Impossibile generare la password"</string>
@@ -747,10 +759,14 @@ Invia questo codice ai tecnici."</string>
     <string name="permission_group_phone">Telefono</string>
     <string name="permission_group_sms">SMS</string>
     <string name="permission_group_storage">Archiviazione</string>
+    <string name="permission_instructions">Comportamento dell\'app</string>
+    <string name="permission_read_sms">Accesso ai messaggi</string>
+    <string name="permission_withdraw">Revoca</string>
+    <string name="permission_write_external_storage">Accedi e salva gli oggetti nella memoria</string>
     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
-    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="privacy_policy_update_title">Informativa sulla privacy aggiornata</string>
     <string name="provision_back">Indietro</string>
     <string name="provision_next">Successivo</string>
     <string name="provision_skip_underline">Salta</string>
@@ -759,11 +775,13 @@ Invia questo codice ai tecnici."</string>
     <string name="push_notify_dialog_message">"Un nuovo dispositivo sta cercando di accedere al tuo Mi Account. Inserisci il codice di verifica sul tuo nuovo dispositivo per completare la verifica di sicurezza. Se non lo hai richiesto tu, modifica la password del tuo Mi Account."</string>
     <string name="push_notify_dialog_title">Verifica dell\'account</string>
     <string name="pwd_width_phone_number_or_mail_num">"La password non può contenere il numero di telefono, l'indirizzo e-mail o l'ID del Mi Account"</string>
-    <string name="qq">QQ</string>
     <string name="recycle_phone_notification_msg">Sembra che il tuo numero di telefono sia stato recuperato. Tocca per aggiornare.</string>
     <string name="recycle_phone_notification_title">Rischio di sicurezza per il Mi Account</string>
     <string name="removing_account">Rimozione account…</string>
     <string name="replace_binded_phone">Modifica numero di telefono</string>
+    <string name="request_open_permission">Permessi richiesti</string>
+    <string name="request_use_camera_title">Accesso alla fotocamera</string>
+    <string name="request_use_gallery_title">Accesso alla Galleria</string>
     <string name="resend_active_email">Invia di nuovo</string>
     <string name="resend_email_reach_limit_message">"Hai richiesto troppe email di verifica. Assicurati che l'email di verifica non sia nella cartella Spam."</string>
     <string name="resend_email_reach_limit_title">"Impossibile inviare email"</string>
@@ -771,6 +789,8 @@ Invia questo codice ai tecnici."</string>
     <string name="restart_action">Riavvia</string>
     <string name="restart_phone_bind_message">È necessario un po\' di tempo per la ricezione dell\'SMS, sei sicuro di voler cambiare il recapito telefonico di ripristino?</string>
     <string name="restart_phone_bind_title">Modifica il numero di telefono di ripristino</string>
+    <string name="revoke_privacy_policy">Revoca autorizzazione...</string>
+    <string name="revoke_privacy_policy_title">Revoca autorizzazione...</string>
     <string name="risky_pwd_not_allow">"La nuova password non è sicura. Impostane una diversa."</string>
     <string name="same_new_and_old_pwd">Non può essere la password corrente</string>
     <string name="saturday">Sabato</string>
@@ -793,6 +813,7 @@ Invia questo codice ai tecnici."</string>
     <string name="search_user_detail_path">Mi Account/Informazioni personali</string>
     <string name="search_user_detail_top_key_words">Informazioni personali,Modifica immagine profilo,Cambia nome utente,Cambia Nick,Modifica compleanno,Modifica genere</string>
     <string name="select_all">Seleziona tutto</string>
+    <string name="self_account_info">Info personali</string>
     <string name="send">Invia</string>
     <string name="send_diagnosis_log">Invio log di diagnosi</string>
     <string name="send_email_activate_message">Email di verifica inviata</string>
@@ -804,6 +825,7 @@ Invia questo codice ai tecnici."</string>
     <string name="sim_changed_notification_msg">Tocca per aggiornare la recovery del tuo telefono e mantieni il tuo account al sicuro.</string>
     <string name="sim_changed_notification_title">Hai cambiato numero di telefono?</string>
     <string name="sina_weibo">Sina Weibo</string>
+    <string name="skip_query_account">Salta</string>
     <string name="sms_send_success">Inviato</string>
     <string name="sns_access_token_expired_warning">La sessione è scaduta. Accedi di nuovo per aggiungere questo account.</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
@@ -832,8 +854,6 @@ Invia questo codice ai tecnici."</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="state_data_error">"Impossibile ottenere dati"</string>
     <string name="state_loading">Attendi…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -903,6 +923,7 @@ Invia questo codice ai tecnici."</string>
     <string name="two_factor_auth_need_code_summary">"Vedrai un codice sugli altri dispositivi Mi collegati. Inserire questo codice in un nuovo dispositivo per l'accesso."</string>
     <string name="two_factor_auth_summary">"Quando tenti di accedere da un nuovo dispositivo o in una nuova posizione, riceverai una notifica sugli altri dispositivi connessi. Dovrai verificare se tali tentativi di accesso sono autorizzati dall'utente."</string>
     <string name="unbind_sns_description">"Scollegando l'account non potrai accedere alle informazioni del tuo account %s per accedere al tuo Mi Account"</string>
+    <string name="unknown_error_info">Errore sconosciuto</string>
     <string name="unlock_help_notice">"Aiuto:
 · Se hai dimenticato la password, vai su id.mi.com per ripristinarla.
 · Se non puoi sbloccare il dispositivo, vai su i.mi.com per disattivare Trova Telefono
@@ -923,6 +944,5 @@ Invia questo codice ai tecnici."</string>
     <string name="wednesday_shortest">Mer</string>
     <string name="weixin">WeChat</string>
     <string name="weixin_login">Accedi con WeChat</string>
-    <string name="xiao_mi_vip">Mi VIP</string>
     <string name="yesterday">Ieri</string>
 </resources>

@@ -84,8 +84,4 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d dispositivi connessi</item>
-        <item quantity="one">%1$d dispositivo connesso</item>
-    </plurals>
 </resources>

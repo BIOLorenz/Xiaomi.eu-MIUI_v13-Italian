@@ -15,7 +15,6 @@
     <string name="bugreport_info_title">Titolo bug</string>
     <string name="bugreport_intent_chooser_title">Condividi segnalazione bug</string>
     <string name="bugreport_notification_channel">Segnalazioni bug</string>
-    <string name="bugreport_screenshot_action">Screenshot</string>
     <string name="bugreport_screenshot_failed">Impossibile acquisire screenshot.</string>
     <string name="bugreport_screenshot_taken">Screenshot acquisito con successo.</string>
     <string name="bugreport_storage_title">Segnalazioni bug</string>
@@ -24,5 +23,4 @@
     <string name="bugreport_updating_title">Aggiunta di dettagli alla segnalazione bug</string>
     <string name="bugreport_updating_wait">Attendere prego…</string>
     <string name="save">Salva</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

@@ -84,10 +84,6 @@
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>
     </plurals>
-    <plurals name="hashtag_followers">
-        <item quantity="other">%d follower</item>
-        <item quantity="one">%d follower</item>
-    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d ore fa</item>
         <item quantity="one">%1$d ora fa</item>
@@ -168,17 +164,9 @@
         <item quantity="other">%d brani</item>
         <item quantity="one">%d brano</item>
     </plurals>
-    <plurals name="suggest_access_item_singer_albums">
-        <item quantity="other">%d album</item>
-        <item quantity="one">%d album</item>
-    </plurals>
     <plurals name="suggest_access_item_singer_pop">
         <item quantity="other">%d brani popolari</item>
         <item quantity="one">%d brano popolare</item>
-    </plurals>
-    <plurals name="transfer_prompt">
-        <item quantity="other">Riproduci video tra %1$d secondi</item>
-        <item quantity="one">Riproduci video tra %1$d secondo</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other"> %1$d selezionati</item>
@@ -187,30 +175,6 @@
     <plurals name="video_collection_reminder_view">
         <item quantity="other">"Non hai guardato %d video preferiti da molto tempo."</item>
         <item quantity="one">"Non hai guardato %d video preferito da molto tempo."</item>
-    </plurals>
-    <plurals name="video_download_clear_info">
-        <item quantity="other">%1$d video rimossi.</item>
-        <item quantity="one">%1$d video rimosso.</item>
-    </plurals>
-    <plurals name="video_download_clear_prompt">
-        <item quantity="other">Eliminare %1$d video?</item>
-        <item quantity="one">Eliminare %1$d video?</item>
-    </plurals>
-    <plurals name="video_history_clear_info">
-        <item quantity="other">%1$d elementi eliminati dalla cronologia.</item>
-        <item quantity="one">%1$d elemento eliminato dalla cronologia.</item>
-    </plurals>
-    <plurals name="video_history_clear_prompt">
-        <item quantity="other">Eliminare %1$d elementi dalla cronologia?</item>
-        <item quantity="one">Eliminare %1$d elemento dalla cronologia?</item>
-    </plurals>
-    <plurals name="video_push_multi_message">
-        <item quantity="other">%1$d aggiornamenti disponibili.</item>
-        <item quantity="one">%1$d aggiornamento disponibile.</item>
-    </plurals>
-    <plurals name="video_subtitle_last_message">
-        <item quantity="other">%d minuti rimanenti</item>
-        <item quantity="one">%d minuti rimanenti</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">Guarda %1$d nuovi video</item>

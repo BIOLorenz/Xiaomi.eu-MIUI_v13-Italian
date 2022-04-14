@@ -9,15 +9,10 @@
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
     <string name="abc_capital_off">DISATTIVATO</string>
     <string name="abc_capital_on">ATTIVATO</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
     <string name="abc_menu_enter_shortcut_label">invio</string>
     <string name="abc_menu_function_shortcut_label">Funzione+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Spazio</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menù+</string>
     <string name="abc_search_hint">Ricerca…</string>
     <string name="abc_searchview_description_clear">Cancella campo</string>
@@ -45,7 +40,6 @@
     <string name="afternoon">Pomeriggio</string>
     <string name="allPerms">Tutto</string>
     <string name="all_permissions">Tutte le autorizzazioni</string>
-    <string name="am">AM</string>
     <string name="anonymous_source_continue">Continua</string>
     <string name="anonymous_source_warning">Il telefono e i dati personali sono più vulnerabili agli attacchi di app sconosciute. Installando questa app, l\'utente accetta di essere responsabile per eventuali danni al telefono o perdita di dati che potrebbero derivare dal suo utilizzo.</string>
     <string name="app_install_failed_button_text">Cerca app</string>
@@ -60,7 +54,6 @@
     <string name="app_permissions_group_summary">Sono consentite %1$d app su %2$d</string>
     <string name="app_store_install_hint">Installa ora</string>
     <string name="app_store_installing_message">Installazione…</string>
-    <string name="app_store_missing_message">"Sembra che tu non abbia installato il nostro App Store. Installarlo ora?"</string>
     <string name="app_store_missing_title">"App Store non installato"</string>
     <string name="application_detail_tips">Dettagli app e permessi richiesti</string>
     <string name="auto_startup_dialog_msg">Questa app può avviarsi senza il tuo permesso.</string>
@@ -209,26 +202,6 @@
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_24hour">HH</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second_millis">s.S</string>
-    <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_weekday_date">DW</string>
-    <string name="fmt_weekday_date_time">DW T</string>
-    <string name="fmt_weekday_date_time_timezone">zDW T</string>
-    <string name="fmt_weekday_date_timezone">zDW</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">zW T</string>
-    <string name="fmt_weekday_timezone">zW</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
@@ -268,6 +241,7 @@
     <string name="install_confirm_dialog_title">Attenzione</string>
     <string name="install_confirm_question">Vuoi installare questa applicazione? Avrà accesso a:</string>
     <string name="install_confirm_question_des_10">"Se siete disposti a correre i rischi e volete procedere con l'installazione, autorizzare l'installazione in Sicurezza &gt; Gestione applicazioni &gt; Autorizzazioni &gt; Applicazioni con possibili rischi. Se non riesci a trovare \"Applicazioni con possibili rischi\", aggiorna l'app Sicurezza e riprova."</string>
+    <string name="install_confirm_question_des_10_tablet">"Se siete disposti a correre i rischi e volete procedere con l'installazione, autorizzare l'installazione in Sicurezza &gt; Gestione applicazioni &gt; Autorizzazioni &gt; Applicazioni con possibili rischi. Se non riesci a trovare \"Applicazioni con possibili rischi\", aggiorna l'app Sicurezza e riprova."</string>
     <string name="install_confirm_question_no_perms">"Vuoi installare questa applicazione? Non richiede alcun accesso speciale."</string>
     <string name="install_confirm_question_update">"Vuoi installare un aggiornamento per questa applicazione esistente? I tuoi dati esistenti non andranno persi. L'applicazione aggiornata avrà accesso a:"</string>
     <string name="install_confirm_question_update_no_perms">"Vuoi installare un aggiornamento di questa applicazione esistente? I dati correnti verranno conservati. Non occorrono accessi speciali."</string>
@@ -291,8 +265,8 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
     <string name="install_failed_invalid_apk">Il pacchetto potrebbe essere danneggiato.</string>
     <string name="install_failed_msg">"Impossibile installare %1$s sul telefono."</string>
     <string name="install_failed_system_incompatible">"Questa app non è compatibile con MIUI"</string>
-    <string name="install_finished_notification_summary">Tocca per liberare spazio di archiviazione</string>
-    <string name="install_finished_notification_title">%1$s installato con successo. È possibile liberare %2$s di spazio di archiviazione.</string>
+    <string name="install_finished_notification_summary">Tocca per liberare memoria</string>
+    <string name="install_finished_notification_title">%1$s installato con successo. È possibile liberare %2$s di memoria.</string>
     <string name="install_from_appstore_hint">Ti consigliamo di installare l\'app da &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
     <string name="install_vip_account_mode_explain_des">Questa è una versione Beta dell\'app. Richiedi i permessi di Beta test prima di installarla.</string>
     <string name="install_vip_account_mode_solution_des">Registrati per la Beta</string>
@@ -328,7 +302,6 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
     <string name="miui_app_danger">"Questa app non è sicura, non installarla."</string>
     <string name="miui_app_detail">Dettagli</string>
     <string name="miui_app_permission_detail">Permessi richiesti</string>
-    <string name="miui_app_permission_number_desc">%1$s (%2$s)</string>
     <string name="miui_app_virus">"Questa app è un virus, non installarla."</string>
     <string name="miui_clean">Cancella</string>
     <string name="miui_clear_apk_desc">Pacchetto d\'installazione e dati residui eliminati (%s)</string>
@@ -339,7 +312,7 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
     <string name="miui_failed_already_exists">Questa app è già installata</string>
     <string name="miui_failed_conflicting_provider">In conflitto con fornitori di servizi</string>
     <string name="miui_failed_duplicate_permission">Permessi in conflitto</string>
-    <string name="miui_failed_insufficient_storage">Spazio di archiviazione insufficiente</string>
+    <string name="miui_failed_insufficient_storage">Memoria insufficiente</string>
     <string name="miui_failed_invalid_apk">Errore pacchetto installazione</string>
     <string name="miui_failed_invalid_uri">Percorso di installazione non valido</string>
     <string name="miui_failed_miui_system_incompatible">"Pacchetto di installazione non compatibile con MIUI"</string>
@@ -415,7 +388,7 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -512,7 +485,6 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
     <string name="permission_title">Autorizzazioni %1$s</string>
     <string name="permission_warning_template">Consentire a %1$s di %2$s?</string>
     <string name="permlab_togglePermissions">Comandi permessi</string>
-    <string name="pm">PM</string>
     <string name="pref_ads">Consigliati</string>
     <string name="pref_key_about_privacy_title">Informativa sulla Privacy</string>
     <string name="pref_key_antivirus">Controllo di sicurezza</string>
@@ -522,7 +494,6 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacyPerms">Privacy</string>
     <string name="privacy_relative">Privacy</string>
-    <string name="reboot_time">Prepararsi al riavvio… (%1$s)</string>
     <string name="replace_app_des_text">Sostituire l\'app con questa versione?</string>
     <string name="review_button_cancel">Annulla</string>
     <string name="review_button_continue">Continua</string>
@@ -547,11 +518,11 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
  \"&lt;li&gt;Se il pacchetto di installazione proviene da una fonte sconosciuta.&lt;/li&gt;</string>
     <string name="settings_warning_dialog_msg">"Il telefono è soggetto a rischi per la sicurezza. Non ti verrà richiesto di installare versioni sicure dell'applicazione se disattivi questa funzione. Disattivarla?"</string>
     <string name="settings_warning_dialog_title">Attenzione</string>
+    <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
@@ -578,8 +549,6 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="spannable_continue_text">Capisco i rischi. Installa comunque.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -656,13 +625,12 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
     <string name="uninstalling">Disinstallazione…</string>
     <string name="unknown">Sconosciuto</string>
     <string name="unknown_apps_admin_dlg_text">"L'amministratore non consente l'installazione di app ottenute da origini sconosciute."</string>
-    <string name="unknown_apps_dlg_text">Il telefono è impostato per bloccare l\'installazione di applicazioni da fonti sconosciute.</string>
     <string name="unknown_installer">Strumenti PC non identificati</string>
     <string name="unlike">Non ora</string>
     <string name="untrusted_external_source_always_click">Consenti sempre</string>
     <string name="untrusted_external_source_title">Consentire a \"%1$s\" di installare applicazioni?</string>
-    <string name="untrusted_external_source_warning">"Per motivi di sicurezza, il telefono non è autorizzato a installare app sconosciute da questa fonte."</string>
     <string name="untrusted_external_source_warning_summary">"Il tuo dispositivo e i dati personali sono vulnerabili agli attacchi delle app installate da fonti sconosciute. Consentendo di installare app da questa fonte, accetti la responsabilità per qualsiasi danno o perdita di dati che potrebbe verificarsi durante l'utilizzo di queste applicazioni."</string>
+    <string name="untrusted_external_source_warning_summary_tablet">"Il tuo dispositivo e i dati personali sono vulnerabili agli attacchi delle app installate da fonti sconosciute. Consentendo di installare app da questa fonte, accetti la responsabilità per qualsiasi danno o perdita di dati che potrebbe verificarsi durante l'utilizzo di queste applicazioni."</string>
     <string name="user_is_not_allowed_dlg_text">L\'utente corrente non è autorizzato a eseguire questa disinstallazione.</string>
     <string name="user_is_not_allowed_dlg_title">Non autorizzato</string>
     <string name="v7_preference_off">DISATTIVATO</string>

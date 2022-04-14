@@ -3,8 +3,6 @@
     <string name="BookTitleDisplayName">Titolo del libro</string>
     <string name="DefaultParagraphFontDisplayName">Carattere paragrafo predefinito</string>
     <string name="EmphasisDisplayName">Enfasi</string>
-    <string name="FontAsian">SimSun</string>
-    <string name="FontLatin">Times New Roman</string>
     <string name="Heading1DisplayName">Titolo 1</string>
     <string name="Heading2DisplayName">Titolo 2</string>
     <string name="Heading3DisplayName">Titolo 3</string>
@@ -34,27 +32,10 @@
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
     <string name="abc_capital_off">DISATTIVATO</string>
     <string name="abc_capital_on">ATTIVATO</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
     <string name="abc_menu_enter_shortcut_label">invio</string>
     <string name="abc_menu_function_shortcut_label">Funzione+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Spazio</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menù+</string>
     <string name="abc_search_hint">Ricerca…</string>
     <string name="abc_searchview_description_clear">Cancella campo</string>
@@ -172,7 +153,6 @@
     <string name="ppt_no_note">Nessun commento</string>
     <string name="ppt_no_slide_for_play">"Il file non può essere mostrato perché non contiene diapositive."</string>
     <string name="ppt_note_null">(Vuoto)</string>
-    <string name="ppt_sharedplay_by_miracast">Miracast</string>
     <string name="ppt_sharedplay_device_searching">Ricerca dispositivi Miracast visibili</string>
     <string name="ppt_sharedplay_miracast_device_list_title">Dispositivi</string>
     <string name="ppt_sharedplay_search_failed_toast">Nessun dispositivo Miracast visibile trovato</string>
@@ -251,7 +231,6 @@
     <string name="public_other_app">Apri in un\'altra app</string>
     <string name="public_outline">Contenuto</string>
     <string name="public_paste">Incolla</string>
-    <string name="public_pdf_converter_item_name">PDF</string>
     <string name="public_pdf_converter_normal">Normale</string>
     <string name="public_pdf_converter_open_tip">Aprire questo documento?</string>
     <string name="public_pdf_converter_success">"Esportato in "</string>
@@ -316,7 +295,6 @@
     <string name="public_undo">Annulla</string>
     <string name="public_unsave">Ignora</string>
     <string name="public_warnedit_dialog_title_text">Suggerimenti</string>
-    <string name="public_wps_name">WPS</string>
     <string name="public_wpscloud_recovery_edit_not_exist_tips">Il documento è stato eliminato da altre applicazioni ed è stato recuperato da WPS Cloud.</string>
     <string name="public_wpscloud_recovery_edit_not_save_tips">"L'ultima modifica dei contenuti non è stata salvata ed è stata recuperata da WPS Cloud."</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Salva il documento in modo sicuro</string>
@@ -342,7 +320,6 @@
     <string name="reader_writer_table_edit_add_row">aggiungi riga</string>
     <string name="search_menu_title">Cerca</string>
     <string name="ss_card_mode_filter_title_text">Seleziona gli elementi da visualizzare</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="wps_lite_xiaomi_app_packageName">Documenti Mi (Fornito da WPS)</string>
     <string name="writer_characters">Caratteri (senza spazi)</string>
     <string name="writer_characters_with_spaces">Caratteri (con spazi)</string>
@@ -363,7 +340,6 @@
     <string name="writer_mi_search_prev">Indietro</string>
     <string name="writer_mi_server_support">Servizio Documenti Wps Office</string>
     <string name="writer_page_break">Interruzione di pagina</string>
-    <string name="writer_page_setting_units"> cm</string>
     <string name="writer_page_setting_units_inch">pollici</string>
     <string name="writer_paragraph_set_firstlineindent" formatted="false">Rientro prima riga: %.2f%2$s</string>
     <string name="writer_paragraph_set_hangingindent" formatted="false">Rientro in sospensione: %.2f%2$s</string>

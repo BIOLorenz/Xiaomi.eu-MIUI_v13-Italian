@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="private_dns_broken_detailed">Non è possibile accedere al server DNS privato</string>
+</resources>

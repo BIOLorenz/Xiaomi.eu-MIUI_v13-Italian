@@ -128,6 +128,10 @@
         <item quantity="other">%d dispositivi disponibili</item>
         <item quantity="one">%d dispositivo disponibile</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d secondi</item>
+        <item quantity="one">%d secondo</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d dispositivi</item>
         <item quantity="one">%d dispositivo</item>
@@ -167,10 +171,6 @@
     <plurals name="enterprise_privacy_number_failed_password_wipe">
         <item quantity="other">%d tentativi</item>
         <item quantity="one">%d tentativo</item>
-    </plurals>
-    <plurals name="enterprise_privacy_number_packages">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="enterprise_privacy_number_packages_lower_bound">
         <item quantity="other">Minimo %d app</item>
@@ -312,10 +312,6 @@
         <item quantity="other">%d elementi selezionati</item>
         <item quantity="one">%d elemento selezionato</item>
     </plurals>
-    <plurals name="mobile_network_summary_count">
-        <item quantity="other">%1$d SIM</item>
-        <item quantity="one">%1$d SIM</item>
-    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d restrizioni</item>
         <item quantity="one">1 restrizione</item>
@@ -351,10 +347,6 @@
     <plurals name="number_of_device_admins">
         <item quantity="other">%d app attive</item>
         <item quantity="one">%d app attiva</item>
-    </plurals>
-    <plurals name="permission_bar_chart_label">
-        <item quantity="other">%s app</item>
-        <item quantity="one">1 app</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">%d permessi concessi</item>
@@ -583,18 +575,6 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
     <plurals name="zen_mode_bypassing_apps_subtext">
         <item quantity="other">Le notifiche da %1$d app possono sovrascrivere la modalità Non Disturbare</item>
         <item quantity="one">Le notifiche da 1 app possono sovrascrivere la modalità Non Disturbare</item>
-    </plurals>
-    <plurals name="zen_mode_contacts_count">
-        <item quantity="other">%d contatti</item>
-        <item quantity="one">1 contatto</item>
-    </plurals>
-    <plurals name="zen_mode_conversations_count">
-        <item quantity="other">%d conversazioni</item>
-        <item quantity="one">1 conversazione</item>
-    </plurals>
-    <plurals name="zen_mode_duration_summary_time_hours">
-        <item quantity="other">%d ore (se non attivato automaticamente)</item>
-        <item quantity="one">1 ora (se non attivato automaticamente)</item>
     </plurals>
     <plurals name="zen_mode_other_sounds_summary">
         <item quantity="other">Le notifiche da %1$d app possono sovrascrivere la modalità Non Disturbare</item>

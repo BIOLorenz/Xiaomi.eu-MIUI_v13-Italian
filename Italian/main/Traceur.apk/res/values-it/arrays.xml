@@ -9,15 +9,6 @@
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
     </string-array>
-    <string-array name="animator_duration_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite standard</item>
         <item>Nessun processo in background</item>
@@ -25,19 +16,6 @@
         <item>Massimo 2 processi</item>
         <item>Massimo 3 processi</item>
         <item>Massimo 4 processi</item>
-    </string-array>
-    <string-array name="app_process_limit_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Usa impostazione di sistema (Predefinito)</item>
@@ -51,12 +29,6 @@
         <item>24 bit/campione</item>
         <item>32 bit/campione</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>4</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>Usa impostazione di sistema (Predefinito)</item>
         <item>Mono</item>
@@ -66,11 +38,6 @@
         <item>Usa impostazione di sistema (Predefinito)</item>
         <item>Mono</item>
         <item>Stereo</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Ottimizzato per qualità audio</item>
@@ -98,48 +65,33 @@
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>4</item>
-        <item>8</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Usa impostazione di sistema (Predefinito)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD audio</item>
+        <item>Audio Qualcomm® aptX™</item>
+        <item>Audio Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Usa impostazione di sistema (Predefinito)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD audio</item>
+        <item>Audio Qualcomm® aptX™</item>
+        <item>Audio Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_values">
-        <item>1000000</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
         <item>, attivo</item>
         <item>, attivo (media)</item>
         <item>, attivo (telefono)</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Predefinito)</item>
@@ -156,15 +108,11 @@
         <item>Disabilitato</item>
         <item>Filtrato Abilitato</item>
         <item>Attivato</item>
-        <item>Intestazioni Filtrate Abilitate</item>
-        <item>Pkt Multimediali Filtrati</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_values">
         <item>disabilitato</item>
         <item>filtrato</item>
         <item>pieno</item>
-        <item>snoopheadersfiltered</item>
-        <item>mediapktsfiltered</item>
     </string-array>
     <string-array name="cached_apps_freezer_values">
         <item>device_default</item>
@@ -192,12 +140,6 @@
         <item>Systrace (grafico)</item>
         <item>Stack di chiamate su glGetError</item>
     </string-array>
-    <string-array name="enable_opengl_traces_values">
-        <item>0</item>
-        <item>1</item>
-        <item>systrace</item>
-        <item>error</item>
-    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Non usare mai il controllo HDCP</item>
         <item>Usa controllo HDCP solo per contenuti DRM</item>
@@ -207,11 +149,6 @@
         <item>Non controllare mai</item>
         <item>Controlla solo per contenuti DRM</item>
         <item>Controlla sempre</item>
-    </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nessuno</item>
@@ -243,9 +180,9 @@
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Spenta</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
+        <item>64 kB</item>
+        <item>256 kB</item>
+        <item>1 MB</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Spenta</item>
@@ -257,10 +194,10 @@
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Spenta</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
+        <item>64 kB</item>
+        <item>256 kB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
         <item>16M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
@@ -279,13 +216,6 @@
         <item>Spenta</item>
         <item>Area ritaglio non rettangolare blu</item>
         <item>Evidenzia comandi di disegno test in verde</item>
-    </string-array>
-    <string-array name="simulate_color_space_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>2</item>
-        <item>1</item>
-        <item>3</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Spenta</item>
@@ -306,15 +236,6 @@
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
     </string-array>
-    <string-array name="transition_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="tts_rate_entries">
         <item>Molto lento</item>
         <item>Lento</item>
@@ -325,17 +246,6 @@
         <item>Rapido</item>
         <item>Molto rapido</item>
         <item>Rapidissimo</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Ricarica</item>
@@ -381,6 +291,20 @@
         <item>Filtro sconosciuti</item>
         <item>Al momento vengono evitate connessioni deboli</item>
     </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Scansione…</item>
+        <item>Connessione…</item>
+        <item>Autenticazione…</item>
+        <item>Acquisizione indirizzo IP…</item>
+        <item>Connesso</item>
+        <item>Sospeso</item>
+        <item>Disconnessione…</item>
+        <item>Disconnesso</item>
+        <item>Fallito</item>
+        <item>Bloccato</item>
+        <item>Al momento vengono evitate connessioni deboli</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animazioni disattivate</item>
         <item>Scala animazione .5x</item>
@@ -389,14 +313,5 @@
         <item>Scala animazione 2x</item>
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
-    </string-array>
-    <string-array name="window_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
     </string-array>
 </resources>

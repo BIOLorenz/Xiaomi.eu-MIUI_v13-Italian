@@ -8,15 +8,10 @@
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
     <string name="abc_capital_off">DISATTIVATO</string>
     <string name="abc_capital_on">ATTIVATO</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
     <string name="abc_menu_enter_shortcut_label">invio</string>
     <string name="abc_menu_function_shortcut_label">Funzione+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Spazio</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menù+</string>
     <string name="abc_search_hint">Ricerca…</string>
     <string name="abc_searchview_description_clear">Cancella campo</string>
@@ -35,7 +30,7 @@
     <string name="alert_message_delete_record">Vuoi eliminare la registrazione selezionata?</string>
     <string name="alert_message_delete_record_title">Vuoi eliminare questa registrazione?</string>
     <string name="all_record">Tutte le registrazioni</string>
-    <string name="am">AM</string>
+    <string name="allowed">Concesso</string>
     <string name="app_name">Registratore</string>
     <string name="app_record">Registrazioni app</string>
     <string name="app_record_preference_title">Registrazioni app</string>
@@ -47,6 +42,7 @@
     <string name="call_record_list_group_connected">Connesso</string>
     <string name="call_record_list_group_unconnected">Non connesso</string>
     <string name="cancel_rename">Annulla</string>
+    <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -139,7 +135,7 @@
     <string name="delete_recorder">Elimina</string>
     <string name="deleting_message">Eliminazione…</string>
     <string name="details">Dettagli</string>
-    <string name="dialog_content_storage_full">"A causa della mancanza di spazio di archiviazione, la registrazione è stata interrotta ed è necessario eliminare alcuni file. Procedere ora?"</string>
+    <string name="dialog_content_storage_full">"A causa della mancanza di memoria, la registrazione è stata interrotta ed è necessario eliminare alcuni file. Procedere ora?"</string>
     <string name="dialog_privacy_revoke_tips">"Dopo la revoca dell'autorizzazione, l'app smetterà di raccogliere dati, e tutti quelli raccolti verranno eliminati dai server. Questo potrebbe rendere l'app virtualmente non utilizzabile. Revocare comunque le autorizzazioni? Per garantire la sicurezza del tuo account, accedi a i.mi.com prima di revocare le autorizzazioni dei servizi Mi Cloud."</string>
     <string name="dialog_title_storage_full">Spazio insufficiente</string>
     <string name="download">Scarica</string>
@@ -160,6 +156,7 @@
     <string name="earthly_branches_you">You</string>
     <string name="earthly_branches_zi">Zi</string>
     <string name="empty_recognition_tip">Vuoto</string>
+    <string name="empty_tips">Tocca l\'icona per avviare una registrazione.​</string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
     <string name="err_msg_abandon">Ordine annullato</string>
@@ -184,6 +181,7 @@
     <string name="error_file_access">"File corrotto o inesistente"</string>
     <string name="error_filename_illegal_char">Il nome del file contiene caratteri non validi.</string>
     <string name="error_filename_too_long">Nome file troppo lungo</string>
+    <string name="error_icon_content_description">Errore</string>
     <string name="error_sdcard_access">"Impossibile accedere alla scheda SD"</string>
     <string name="error_sdcard_unmounted">Inserisci una scheda SD adesso</string>
     <string name="evening">Pomeriggio</string>
@@ -199,7 +197,6 @@
 
   3. In che modo il testo trasferito dalla registrazione può essere più accurato?
   La registrazione su testo attualmente supporta solo la trascrizione in mandarino. La precisione dei risultati di trascrizione sarà influenzata dalla distanza, dall'ambiente, dagli accenti parlati e così via. Il tasso di precisione può variare notevolmente. Se desideri una trascrizione del testo più accurata, puoi scegliere di allontanarti dal tuo telefono cellulare."</string>
-    <string name="fm_record">Radio</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -220,24 +217,20 @@
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time_12hour">hh</string>
+    <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_24hour">HH</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour">"HH"</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_minute_second">"m:s"</string>
+    <string name="fmt_time_minute_second_millis">"m:s.S"</string>
+    <string name="fmt_time_second_millis">"s.S"</string>
     <string name="fmt_time_timezone">zT</string>
     <string name="fmt_weekday_date">DW</string>
     <string name="fmt_weekday_date_time">DW T</string>
     <string name="fmt_weekday_date_time_timezone">zDW T</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
     <string name="friday">Venerdì</string>
@@ -275,12 +268,17 @@
     <string name="lyric_item_point_count">%1$d a %2$d</string>
     <string name="mark_point_list_title">Segna punto lista</string>
     <string name="marketSdkVersion">3.2.5</string>
+    <string name="material_timepicker_hour">Ora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_select_time">Imposta ora</string>
     <string name="menu">Premi Menu</string>
     <string name="message_file_size_error">La registrazione ha raggiunto la lunghezza massima per %s</string>
     <string name="mi_account_msg">Accedi al Mi Account per utilizzare il riconoscimento di precisione, entro 30 minuti libero per un nuovo utente</string>
     <string name="mi_account_ok">Accedi</string>
     <string name="mi_account_title">Esegui l\'accesso ed utilizza Mi Cloud</string>
     <string name="midnight">Notte</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -298,8 +296,10 @@
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -347,12 +347,19 @@
     <string name="month_september_shortest">Set</string>
     <string name="more">Altro</string>
     <string name="morning">Mattina</string>
+    <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
+    <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
+    <string name="mtrl_picker_save">Salva</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
+    <string name="mtrl_picker_text_input_day_abbr">dd</string>
     <string name="network_tip_dialog_cancel">"Non accetto"</string>
     <string name="network_tip_dialog_content">Il motore di riconoscimento vocale deve collegarsi ad Internet per funzionare correttamente.</string>
     <string name="network_tip_dialog_ok">Accetto</string>
     <string name="network_tip_dialog_title">E\' necessaria la connessione internet</string>
     <string name="network_unavailable_tip">Controllare la connessione di rete e riprovare</string>
     <string name="new_record_name">Registra</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Successivo</string>
     <string name="night">Sera</string>
     <string name="no_content">Nessun oggetto</string>
     <string name="no_file">Vuoto</string>
@@ -360,6 +367,7 @@
     <string name="no_playback_file">Seleziona una registrazione per visualizzare i dettagli</string>
     <string name="noon">Mezzogiorno</string>
     <string name="normal_settings_pref_title">Impostazioni generali</string>
+    <string name="not_allowed">Non concesso</string>
     <string name="not_set">Non impostato</string>
     <string name="notification_message_all_paused">Potrebbe aumentare l\'utilizzo dei dati su rete cellulare.</string>
     <string name="notification_playback">Riproduzione in corso…</string>
@@ -375,7 +383,6 @@
     <string name="online_recognize_duration_limite">(limite di 10 minuti)</string>
     <string name="online_recognize_fail">"fallito"</string>
     <string name="online_recognize_login_fail">"Impossibile accedere"</string>
-    <string name="online_recognize_order_audio_price">%s CNY</string>
     <string name="online_recognize_order_create">Accedi</string>
     <string name="online_recognize_order_duration_key">Durata</string>
     <string name="online_recognize_order_pay">Paga e ottieni i risultati</string>
@@ -396,17 +403,22 @@
     <string name="online_recognize_service_unavailable">"Il servizio non è al momento disponibile. Riprova più tardi"</string>
     <string name="order_item_duration">Durata %s</string>
     <string name="order_item_number">Numero d\'ordine: %s</string>
-    <string name="order_item_price">%s CNY</string>
     <string name="other_settings_pref_title">Altre impostazioni</string>
+    <string name="password_toggle_content_description">Mostra password</string>
     <string name="path_soundrecorder_setting">Applicazioni sistema/Registratore</string>
     <string name="pause">Pausa</string>
     <string name="pay_error_cancel">Pagamento annullato</string>
     <string name="pay_error_null">"Errore nel pagamento, controlla l'account"</string>
     <string name="pay_error_unknown">Errore sconosciuto</string>
+    <string name="permission_desc">Dettagli permessi</string>
+    <string name="permission_dialog_cancel">Annulla</string>
+    <string name="permission_dialog_ok">Impostazioni</string>
+    <string name="permission_read_phone_state">Accesso alle info dispositivo</string>
+    <string name="permission_record">Registra audio</string>
+    <string name="permission_storage">Accesso alla memoria</string>
     <string name="play_speed">Velocità %1$.1fX</string>
     <string name="playback_delete_records">Elimina la registrazione</string>
     <string name="playback_share_records">Condividi la registrazione</string>
-    <string name="pm">PM</string>
     <string name="preference_clear_data">Cancella dati</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="preference_enable_earpiece_summary">Riproduci l\'audio usando l\'auricolare</string>
@@ -424,6 +436,7 @@
     <string name="preference_status_bar_indicator_prompt">Mostra un indicatore blu sulla schermata di blocco durante la registrazione</string>
     <string name="preference_tip_rename">Rinomina al termine della registrazione</string>
     <string name="privacy_policy_title">Informativa sulla Privacy</string>
+    <string name="privacy_settings">Privacy</string>
     <string name="recognition_button_add_to_queue">Aggiungi alla coda</string>
     <string name="recognition_button_cancel">Non adesso</string>
     <string name="recognition_button_start">Riconoscimento di precisione online</string>
@@ -493,6 +506,8 @@
     <string name="record_downloading_notification_complete">Download completato</string>
     <string name="record_downloading_notification_count">%d in download</string>
     <string name="record_format_preference_title">Formato di registrazione</string>
+    <string name="record_item_title_multi_choice">Scegli</string>
+    <string name="record_item_title_send">Condividi</string>
     <string name="record_list">Registrazioni</string>
     <string name="record_list_app">Registrazioni app</string>
     <string name="record_list_call">Chiamate registrate</string>
@@ -503,7 +518,6 @@
     <string name="record_list_fm">Registrazioni FM</string>
     <string name="record_list_item_recognize_text">Testo</string>
     <string name="record_mark_point">Segna %s</string>
-    <string name="record_name_hour">.</string>
     <string name="record_quliaty_preference_title">Qualità di registrazione</string>
     <string name="record_resotre">Ripristina registrazioni</string>
     <string name="recorder_record">Audio</string>
@@ -512,8 +526,6 @@
     <string name="recording_quality_low">Bassa</string>
     <string name="recording_quality_standard">Standard</string>
     <string name="recording_stopped">Registrazione interrotta</string>
-    <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
-    <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
     <string name="recovery">Ripristina</string>
     <string name="recovery_failed_dialog_button">Ok</string>
     <string name="recovery_failed_dialog_title">Attenzione</string>
@@ -538,6 +550,10 @@
     <string name="rename_no_more_tip">"Non mostrare più"</string>
     <string name="retry">Riprova</string>
     <string name="runtime_permission_ungranted">"Impossibile utilizzare il Registratore per mancanza di autorizzazioni"</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">Impostazioni</string>
+    <string name="saf_permission_dialog_later">Non ora</string>
+    <string name="saf_permission_dialog_no_more_tip">"Non mostrare più"</string>
+    <string name="saf_permission_dialog_title">Permessi richiesti</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
@@ -561,11 +577,11 @@
     <string name="shortcut_records">Registrazioni</string>
     <string name="shortcut_start_record">Avvia registrazione</string>
     <string name="shortcut_stop_record">Interrompi registrazione</string>
+    <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
@@ -596,13 +612,14 @@
     <string name="speech_recognition_running_tip">"in esecuzione"</string>
     <string name="start">Riprendi</string>
     <string name="status_bar_back">Premi per tornare al Registratore</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Registrazione…</string>
     <string name="status_bar_recording_pause">Registrazione in pausa</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="tab_all">Tutto</string>
+    <string name="tab_apps">Applicazioni</string>
+    <string name="tab_call">Chiamate</string>
     <string name="tap_to_record">Tocca l\'icona per avviare una registrazione.​</string>
     <string name="text_btn_backward_3_seconds">Riavvolgi di 3 secondi</string>
     <string name="text_btn_complete">Interrompi</string>
@@ -660,13 +677,11 @@
     <string name="the_united_nations_day">Festa unità nazionale</string>
     <string name="the_valentines_day">"San Valentino"</string>
     <string name="the_water_lantern_festival">Festa delle Lanterne d\'Acqua</string>
+    <string name="this_folder">Usa questa cartella</string>
     <string name="thursday">Giovedì</string>
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
-    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">App: %1$s tempo di registrazione massima %2$s</string>
     <string name="toast_uninstall_fileexplorer">"File Explorer non è installato!"</string>
     <string name="today">Oggi</string>
@@ -683,6 +698,7 @@
     <string name="user_feedback">Segnalazione</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
+    <string name="view_privacy">Visualizza Informativa sulla Privacy</string>
     <string name="webview_check_network">Impostazioni di rete</string>
     <string name="webview_data_error">Si è verificato un errore</string>
     <string name="webview_locating_fail">"Impossibile trovare la tua posizione"</string>

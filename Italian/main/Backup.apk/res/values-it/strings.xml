@@ -8,15 +8,10 @@
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
     <string name="abc_capital_off">DISATTIVATO</string>
     <string name="abc_capital_on">ATTIVATO</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
     <string name="abc_menu_enter_shortcut_label">invio</string>
     <string name="abc_menu_function_shortcut_label">Funzione+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Spazio</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menù+</string>
     <string name="abc_search_hint">Ricerca…</string>
     <string name="abc_searchview_description_clear">Cancella campo</string>
@@ -34,6 +29,8 @@
     <string name="account_summary">Backup Gmail, Email e Mi Account</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="agree_button">Accetto</string>
+    <string name="agree_revoke_permission_title">Ritiro dei permessi</string>
     <string name="alert_button_agree_and_continue">Consenti</string>
     <string name="alert_button_deny">Rifiuta</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite sta chiedendo l\'autorizzazione per eseguire un backup sul computer. Consentire?</string>
@@ -45,7 +42,7 @@
     <string name="alert_title_backup_to_miasist">Eseguire il backup utilizzando Mi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">Ripristinare gli elementi sul tuo telefono?</string>
     <string name="already_enable_encrypt">Crittografia abilitata</string>
-    <string name="am">AM</string>
+    <string name="alternative_ui_content">Questa funzione consente di eseguire il backup e ripristinare gli elementi utilizzando il dispositivo mobile e il computer. Questa funzione deve connettersi a Internet e richiede le seguenti autorizzazioni per poter funzionare normalmente:</string>
     <string name="app_name">Backup e ripristino</string>
     <string name="apps_and_data_item_desc">App e dati</string>
     <string name="apps_item_desc">Applicazione</string>
@@ -79,6 +76,7 @@
     <string name="backup_hint_pad">Non spegnere il dispositivo</string>
     <string name="backup_is_running">Dispositivo in fase di backup</string>
     <string name="backup_new">Nuovo:</string>
+    <string name="backup_notification_title">\"Backup\" in esecuzione…</string>
     <string name="backup_progress">Backup in corso</string>
     <string name="backup_report">Vedi dettagli</string>
     <string name="backup_security_tips_message">Il backup o il ripristino di alcune app potrebbe non andare a buon fine.</string>
@@ -106,6 +104,7 @@
     <string name="cancel_moving_dialog_message">Sicuro di voler interrompere l\'importazione?</string>
     <string name="cancel_moving_dialog_title">Interrompi importazione</string>
     <string name="cancel_restore">Interrompi</string>
+    <string name="check_privacy_policy">Visualizza Informativa sulla Privacy</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -200,7 +199,6 @@ https://appleid.apple.com/#!&amp;page=signin per chiudere"</string>
     <string name="cloud_restore_title">Ripristina dati backup</string>
     <string name="cloud_restore_window_title">Ripristino Cloud</string>
     <string name="cloud_search">Ricerca…</string>
-    <string name="comma_seperator">", "</string>
     <string name="compute_backup_info">Recupero info backup</string>
     <string name="compute_delete_contact_info">Recupero info…</string>
     <string name="confirm_exit_link">Esci</string>
@@ -240,6 +238,9 @@ https://appleid.apple.com/#!&amp;page=signin per chiudere"</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">Nessuna crittografia</string>
     <string name="disable_encrypt_title">Crittografia disabilitata</string>
+    <string name="disable_local_backup">Disattiva backup locale</string>
+    <string name="disable_local_backup_and_restore">Disattiva backup locale</string>
+    <string name="disable_local_backup_tips">"Dopo aver disattivato questa funzionalità, tutti i backup locali verranno eliminati. Le impostazioni di backup verranno cancellate e gli elementi non verranno più salvati automaticamente. Sarai ancora in grado di utilizzare il tuo dispositivo come al solito. Spegnilo comunque?"</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -260,6 +261,10 @@ https://appleid.apple.com/#!&amp;page=signin per chiudere"</string>
     <string name="enable_encrypt_summery1">Il sistema critterà il tuo backup locale basato sul tuo Mi Account. Devi accedere al tuo Mi Account per rimuovere dati o usare altri dispositivi per ripristinare il backup.</string>
     <string name="enable_encrypt_summery2">"Il nuovo backup verrà crittografato automaticamente. Devi accedere al tuo Mi Account per rimuovere i dati o usare altri dispositivi per ripristinare il backup."</string>
     <string name="enable_encrypt_title">Crittografia abilitata</string>
+    <string name="enable_local_backup">Attiva backup locale</string>
+    <string name="enable_local_backup_and_restore">Attiva backup locale</string>
+    <string name="enable_local_backup_tips">Attivare questa funzione per poter salvare i backup su questo dispositivo e copiarli sul computer o sul dispositivo di archiviazione USB. Attivarla ora?</string>
+    <string name="enable_local_backup_tips_global">Attivare questa funzione per poter salvare i backup su questo dispositivo e copiarli sul computer. Attivarla ora?</string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
     <string name="err_acquire_system_service">"Impossibile eseguire servizio di sistema."</string>
@@ -305,6 +310,7 @@ Assicurati che la memoria USB abbia abbastanza spazio libero prima di iniziare."
     <string name="flash_drive_search_backup_files">"Ricerca backup USB…
 Non cambiare o rinominare i file di backup."</string>
     <string name="fmt_chinese_date">dd/MM</string>
+    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -324,30 +330,28 @@ Non cambiare o rinominare i file di backup."</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time_12hour">hh</string>
+    <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_24hour">HH</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour">"HH"</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_minute_second">"m:s"</string>
+    <string name="fmt_time_minute_second_millis">"m:s.S"</string>
+    <string name="fmt_time_second_millis">"s.S"</string>
     <string name="fmt_time_timezone">zT</string>
     <string name="fmt_weekday_date">DW</string>
     <string name="fmt_weekday_date_time">DW T</string>
     <string name="fmt_weekday_date_time_timezone">zDW T</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="gallery_summary">Impostaizoni galleria (foto non incluse)</string>
+    <string name="grant_all_permission_content">Concedi tutti i permessi obbligatori per poter eseguire il backup e ripristinare gli elementi.</string>
+    <string name="grant_all_permission_title">Permessi richiesti</string>
     <string name="guarded_mode_dialog_backup_message">"I backup non sono consentiti in modalità Ospite"</string>
     <string name="guarded_mode_dialog_title">"Sei in modalità Ospite"</string>
     <string name="guarded_mode_dialog_transfer_message">"Impossibile utilizzare Mi Mover in modalità Ospite"</string>
@@ -424,7 +428,6 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="local_main_backup">Backup locali</string>
     <string name="local_main_backup_and_restore">Su questo dispositivo</string>
     <string name="local_main_backup_detail_title">Impostazioni di sistema, account e dati app</string>
-    <string name="local_main_backup_manage_null">%s</string>
     <string name="local_main_backup_manager">Gestisci backup locali</string>
     <string name="local_main_backup_manager_title">Gestisci backup</string>
     <string name="local_main_backup_settings">Impostazioni backup locali</string>
@@ -452,6 +455,8 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="midnight">Notte</string>
     <string name="miliao_account_guide">Utilizza il tuo Mi Account per accedere a Mi Cloud e agli altri servizi.</string>
     <string name="miliao_account_login">Login Mi Talk</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra dell\'indice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -466,8 +471,10 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -536,11 +543,15 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="new_local_detail_description">"Avviso:
 %1$d. Copia i backup sul tuo computer per evitare perdite di dati. %2$s.
 %3$d. I backup verranno salvati in MIUI-Backup-AllBackup."</string>
+    <string name="new_local_detail_description_global">"Nota:
+%1$d. Copiare i backup sul computer per evitare la perdita di dati. %2$s.
+%3$d. I backup verranno salvati su MIUI-Backup-AllBackup.
+%4$d. Alcune applicazioni potrebbero non supportare i backup."</string>
     <string name="new_local_tab_backup">Backup</string>
     <string name="new_local_tab_backup_pad">Backup</string>
     <string name="new_local_tab_restore">Ripristina</string>
     <string name="new_local_tab_restore_pad">Ripristina</string>
-    <string name="new_low_storage_title">Spazio di archiviazione insufficiente</string>
+    <string name="new_low_storage_title">Memoria insufficiente</string>
     <string name="new_more_settings_label">Altre impostazioni</string>
     <string name="new_pc_backup_content1">%1$d. Apri \"%2$s\".</string>
     <string name="new_pc_backup_content2">%d. Attendi il backup di tutti gli elementi.</string>
@@ -571,17 +582,17 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="new_task_finished">Fatto</string>
     <string name="new_usb_detail_description">"Avviso:
 %1$d. Questo metodo consente il backup delle applicazioni di terze parti e dei dati delle app.
-%2$d. Assicurati che ci sia spazio di archiviazione sufficiente sul tuo dispositivo USB per memorizzare i backup."</string>
+%2$d. Assicurati che ci sia memoria sufficiente sul tuo dispositivo USB per memorizzare i backup."</string>
     <string name="new_usb_disconnect_dialog_message">Collegare prima una memoria USB.</string>
     <string name="new_usb_disconnect_dialog_title">"Memoria USB non trovata"</string>
-    <string name="new_usb_select_data_no_space">Solo %s di spazio è disponibile sulla memoria USB. Libera spazio di archiviazione.</string>
+    <string name="new_usb_select_data_no_space">Solo %s di spazio è disponibile sulla memoria USB. Libera memoria.</string>
     <string name="new_usb_tab_backup">Backup</string>
     <string name="new_usb_tab_restore">Ripristina</string>
     <string name="night">Sera</string>
     <string name="no_encrypt_password">Nessuna password crittografata</string>
     <string name="no_network">"Impossibile connettersi alla rete"</string>
     <string name="noon">Mezzogiorno</string>
-    <string name="not_enough_storage_tips">Spazio di archiviazione insufficiente. Liberare spazio e riprovare.</string>
+    <string name="not_enough_storage_tips">Memoria insufficiente. Liberare spazio e riprovare.</string>
     <string name="not_set">Non impostato</string>
     <string name="note_title">Note</string>
     <string name="nothing_searched">Nessun risultato trovato</string>
@@ -627,13 +638,53 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="perm_read_phone_state">"Visualizza stato del telefono"</string>
     <string name="perm_read_sms">Visualizza SMS</string>
     <string name="perm_storage">Leggi e scrivi su memoria esterna</string>
+    <string name="permission_admitted">Concesso</string>
+    <string name="permission_backup_calendar">Per eseguire il backup degli eventi del calendario</string>
+    <string name="permission_backup_calendar_desc">Per essere in grado di eseguire il backup degli eventi del calendario, consentire a questa app di modificare gli eventi del calendario.</string>
+    <string name="permission_backup_calllog">Per il backup della cronologia chiamate</string>
+    <string name="permission_backup_calllog_desc">Per essere in grado di eseguire il backup della cronologia chiamate, consentire a questa app di accedere alla cronologia chiamate.</string>
+    <string name="permission_backup_contacts">Per il backup dei contatti</string>
+    <string name="permission_backup_contacts_desc">Per essere in grado di eseguire il backup dei contatti, consentire a questa app di accedere ai tuoi contatti.</string>
+    <string name="permission_backup_file">Per il backup dei file</string>
+    <string name="permission_backup_sms">Per il backup dei messaggi</string>
+    <string name="permission_backup_sms_desc">Per essere in grado di eseguire il backup dei messaggi, consentire a questa app di accedere ai messaggi.</string>
+    <string name="permission_content_title">Permessi richiesti</string>
+    <string name="permission_dialog_positive_btn">Impostazioni</string>
+    <string name="permission_intro">Dettagli permessi</string>
+    <string name="permission_management_entrance">Gestisci permessi</string>
+    <string name="permission_not_admit">Non concesso</string>
+    <string name="permission_purpose">Questa funzione consente di eseguire il backup e ripristinare gli elementi utilizzando il dispositivo mobile, computer e unità USB.</string>
+    <string name="permission_read_apps">Accedi alla lista delle app installate su questo dispositivo</string>
+    <string name="permission_read_calendar">Accedere agli eventi del calendario</string>
+    <string name="permission_read_calllog">Accesso alla cronologia chiamate</string>
+    <string name="permission_read_contacts">Accesso ai contatti</string>
+    <string name="permission_read_sms">Accesso ai messaggi</string>
+    <string name="permission_read_storage">Accedi e salva gli oggetti nella memoria</string>
+    <string name="permission_read_storage_global">Accesso alla memoria</string>
+    <string name="permission_read_write_storage">Per essere in grado di eseguire il backup degli elementi, consentire a questa funzione di accedere alla memoria.</string>
+    <string name="permission_read_write_sys_app">Per essere in grado di eseguire il backup e ripristinare messaggi, contatti e cronologia chiamate, consentire a questa funzione di accedere a questi elementi.</string>
+    <string name="permission_related">Permessi</string>
+    <string name="permission_restore_calendar">Per ripristinare gli eventi del calendario</string>
+    <string name="permission_restore_calendar_desc">Per essere in grado di ripristinare gli eventi del calendario, consentire a questa app di modificare gli eventi del calendario.</string>
+    <string name="permission_restore_calllog">Per ripristinare la cronologia chiamate</string>
+    <string name="permission_restore_calllog_desc">Per essere in grado di ripristinare la cronologia delle chiamate, consentire a questa app di modificare la cronologia delle chiamate.</string>
+    <string name="permission_restore_contacts">Per ripristinare i contatti</string>
+    <string name="permission_restore_contacts_desc">Per essere in grado di ripristinare i contatti, consentire a questa app di modificare i contatti.</string>
+    <string name="permission_show_all_apps">Per visualizzare le app che possono essere salvate</string>
+    <string name="permission_show_all_apps_desc">Per essere in grado di visualizzare le applicazioni che possono essere backup, consentire a questa app di accedere all\'elenco delle applicazioni installate su questo dispositivo.</string>
+    <string name="permission_write_calllog">Modifica cronologia chiamate</string>
+    <string name="permission_write_contacts">Modifica contatti</string>
+    <string name="permission_write_storage">Salva gli elementi nella memoria</string>
     <string name="phone_title">Impostazioni telefono</string>
     <string name="platform_chooser_item_android_mi">Telefono Mi</string>
     <string name="platform_chooser_item_android_others">Altri brand</string>
     <string name="platform_chooser_item_ios">Importa da dispositivo Apple</string>
     <string name="platform_chooser_title">Scegli vecchio dispositivo</string>
-    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="privacy_policy_link"><Data>\"Per saperne di più sulle nostre pratiche di trattamento dei dati e sui tuoi diritti di utente, leggi e accetta la nostra &lt;a href=\'%1s\'&gt;Informativa sulla privacy&lt;/a&gt; prima di continuare.</Data></string>
+    <string name="privacy_settings">Privacy</string>
+    <string name="privacy_settings_title">Informativa sulla Privacy</string>
+    <string name="private_policy_text">Informativa sulla Privacy</string>
     <string name="progress_backup_hint">Backup in corso</string>
     <string name="progress_restore_hint">Ripristina</string>
     <string name="prompt_reading">Lettura…</string>
@@ -652,6 +703,7 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="restore_counts">Ripristino:</string>
     <string name="restore_data">Ripristina dati</string>
     <string name="restore_failed">"Impossibile ripristinare"</string>
+    <string name="restore_files">Per il ripristino degli elementi</string>
     <string name="restore_finished">Ripristino completato</string>
     <string name="restore_is_running">Dispositivo in fase di ripristino</string>
     <string name="restore_launcher_layout_hit">(Nota: Ripristina il layout della Schermata Home)</string>
@@ -660,6 +712,7 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="restore_telephony_hit">(Nota: Il processo di ripristino riavvierà l\'applicazione Telefono)</string>
     <string name="retry">Riprova</string>
     <string name="reverse_all">Cancella tutto</string>
+    <string name="revoke_permission_dialog_content">"Non sarai in grado di eseguire il backup o ripristinare gli oggetti senza tutti i permessi obbligatori. Ritirare i permessi comunque?"</string>
     <string name="router_backup_hint">Non spegnere il dispositivo</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
@@ -702,9 +755,12 @@ Libera almeno %s"</string>
     <string name="send">Invia</string>
     <string name="service_stoped">Servizio interrotto</string>
     <string name="settings_summary">Backup impostazioni dispositivo e messaggi</string>
+    <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_tera_byte">TB</string>
     <string name="sms_title">Messaggi</string>
     <string name="soft_ap_create_failed">"Impossibile creare un hotspot"</string>
     <string name="soft_ap_creating">Creazione hotspot…</string>
@@ -737,12 +793,10 @@ Libera almeno %s"</string>
     <string name="start_restore">Ripristina</string>
     <string name="state_mounting">Accesso alla memoria del router…</string>
     <string name="state_waiting">Attendi…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_sd_card">Scheda SD</string>
     <string name="storage_usb">Memoria USB</string>
     <string name="succ_description">Completato</string>
     <string name="succeed">Completo</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_err_backup_encrypting">Accedi al tuo Mi Account.</string>
     <string name="summary_err_backup_no_network">"Impossibile connettersi alla rete"</string>
     <string name="summary_err_restore_encrypting">"Impossibile ripristinare. Assicurati che questo backup sia stato eseguito con il tuo Mi Account."</string>
@@ -825,7 +879,6 @@ Libera almeno %s"</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
-    <string name="total_size">, %s</string>
     <string name="trans_backingup">Backup in corso…</string>
     <string name="trans_backingup_no_items">Sincronizzazione…</string>
     <string name="trans_button_cancel">Annulla</string>
@@ -933,10 +986,10 @@ per scaricare ed installare Mi Mover."</string>
     <string name="trans_intro_title_private">Album nascosto:</string>
     <string name="trans_main_tutor">Trasferisci contatti, registro chiamate, messaggi, layout home, app, impostazioni e altro su un nuovo dispositivo</string>
     <string name="trans_my_device">Il mio dispositivo</string>
-    <string name="trans_native_no_space">"Lo spazio di archiviazione sul vecchio dispositivo (%s disponibile) non è sufficiente.
+    <string name="trans_native_no_space">"Lo memoria sul vecchio dispositivo (%s disponibile) non è sufficiente.
   Liberare spazio o trasferire solo gli elementi importanti."</string>
-    <string name="trans_old_phone_low_space_msg">"Mi Mover necessita di un pò di spazio di archiviazione per comprimere i dati trasferiti, ma sembra che non ci sia abbastanza spazio disponibile sul vecchio dispositivo. Libera spazio in \"Sicurezza\" o trasferisci solo gli elementi importanti."</string>
-    <string name="trans_old_phone_low_space_title">Spazio di archiviazione insufficiente</string>
+    <string name="trans_old_phone_low_space_msg">"Mi Mover necessita di un pò di memoria per comprimere i dati trasferiti, ma sembra che non ci sia abbastanza spazio disponibile sul vecchio dispositivo. Libera spazio in \"Sicurezza\" o trasferisci solo gli elementi importanti."</string>
+    <string name="trans_old_phone_low_space_title">Memoria insufficiente</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_open_camera_failed_message">Riavvia il dispositivo o verifica che Mi Mover sia autorizzato ad utilizzare la &lt;b&gt;Camera&lt;/b&gt;.</string>
     <string name="trans_open_camera_failed_title">"Impossible connettersi alla Camera"</string>
@@ -1026,18 +1079,20 @@ In attesa del trasferimento…"</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="unit_byte">B</string>
     <string name="unknown_hint">Sconosciuto</string>
-    <string name="usb_backup_select_data_too_large">"I file selezionati sono troppo grandi. Assicurati che la memoria USB abbia spazio di archiviazione sufficiente.
+    <string name="usb_backup_select_data_too_large">"I file selezionati sono troppo grandi. Assicurati che la memoria USB abbia memoria sufficiente.
 Trasferisci solo gli elementi importanti."</string>
     <string name="usb_restore_select_data_too_large">"I file di backup sono grandi. Potrebbe volerci un pò per ripristinarli.
 Ripristinare solo gli elementi importanti velocizzerà l'operazione."</string>
     <string name="usb_trans_native_no_space">"Solo %s è disponibile sul tuo dispositivo.
 Libera spazio o effettua trasferimenti multipli più piccoli."</string>
     <string name="usb_trans_old_phone_low_space_msg">"È necessario spazio di memorizzazione aggiuntivo per il pacchetto dei backup. Non c'è abbastanza spazio per continuare il trasferimento. È possibile liberare spazio ed eliminare file non necessari in Sicurezza o provare a trasferire solo gli elementi importanti."</string>
-    <string name="usb_trans_old_phone_low_space_title">Spazio di archiviazione insufficiente</string>
+    <string name="usb_trans_old_phone_low_space_title">Memoria insufficiente</string>
     <string name="usb_trans_select_data_no_space">"Solo %s è disponibile sulla tua memoria USB.
 Libera spazio o trasferisci solo gli elementi più importanti."</string>
     <string name="user_feedback">Segnalazione</string>
+    <string name="user_know_button_text">Ok</string>
     <string name="user_name">Apple ID o email</string>
     <string name="user_name_null">"Il nome utente non può essere vuoto"</string>
     <string name="user_notice_declaration_ignore">"Non mostrare più"</string>
@@ -1055,6 +1110,8 @@ Non uscire da quea pagina finché non è stata stabilita una connessione."</stri
     <string name="wifi_title">Impostazioni Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">"Connessione Download Manager fallita, controlla lo stato del Download Manager nella Gestione Applicazioni."</string>
     <string name="xiaomi_external_storage_unavailable">"Memoria non disponibile, verifica la scheda SD."</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s

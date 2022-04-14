@@ -144,13 +144,13 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
         <item quantity="one">Proprio adesso</item>
         <item quantity="other">ora</item>
     </plurals>
-    <plurals name="list_header_fans_count">
-        <item quantity="other">%d follower</item>
-        <item quantity="one">%d follower</item>
-    </plurals>
     <plurals name="list_header_follow_count">
         <item quantity="other">Seguite %d persone</item>
         <item quantity="one">Seguita %d persona</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d nuove notifiche</item>
@@ -172,10 +172,6 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
-    <plurals name="reader_count">
-        <item quantity="other">%d follower</item>
-        <item quantity="one">%d follower</item>
-    </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d brani saranno inviati</item>
         <item quantity="one">%d brano sarà inviato</item>
@@ -195,10 +191,6 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
     <plurals name="sound_fade_duration_in_seconds">
         <item quantity="other">Dissolvenza incrociata tra le canzoni: %d secondi</item>
         <item quantity="one">Dissolvenza incrociata tra le canzoni: %d secondo</item>
-    </plurals>
-    <plurals name="video_count">
-        <item quantity="other">Video</item>
-        <item quantity="one">Video</item>
     </plurals>
     <plurals name="video_play_count">
         <item quantity="other">%1$s visualizzazioni</item>

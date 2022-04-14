@@ -8,15 +8,10 @@
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
     <string name="abc_capital_off">DISATTIVATO</string>
     <string name="abc_capital_on">ATTIVATO</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
     <string name="abc_menu_enter_shortcut_label">invio</string>
     <string name="abc_menu_function_shortcut_label">Funzione+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Spazio</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menù+</string>
     <string name="abc_search_hint">Ricerca…</string>
     <string name="abc_searchview_description_clear">Cancella campo</string>
@@ -65,7 +60,6 @@
     <string name="activity_not_found_notice">"Impossibile trovare l'app"</string>
     <string name="add_to_trust_device">Questo device è affidabile</string>
     <string name="afternoon">Pomeriggio</string>
-    <string name="am">AM</string>
     <string name="app_name">Mi Credit</string>
     <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo.</string>
     <string name="bind_sign_in_title">Aggiungi Mi Account</string>
@@ -175,7 +169,6 @@ Invia questo codice al supervisore."</string>
     <string name="error_invalid_bind_address">Questo indirizzo email non è valido.</string>
     <string name="evening">Pomeriggio</string>
     <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro MI account.</string>
-    <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
     <string name="find_psw">Password dimenticata</string>
     <string name="fmt_chinese_date">dd/MM</string>
@@ -198,24 +191,20 @@ Invia questo codice al supervisore."</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time_12hour">hh</string>
+    <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_24hour">HH</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour">"HH"</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_minute_second">"m:s"</string>
+    <string name="fmt_time_minute_second_millis">"m:s.S"</string>
+    <string name="fmt_time_second_millis">"s.S"</string>
     <string name="fmt_time_timezone">zT</string>
     <string name="fmt_weekday_date">DW</string>
     <string name="fmt_weekday_date_time">DW T</string>
     <string name="fmt_weekday_date_time_timezone">zDW T</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
     <string name="for_diagnosis_usage_only">I log sono utilizzati solo per la diagnostica.</string>
@@ -247,6 +236,9 @@ Invia questo codice al supervisore."</string>
     <string name="just_a_second">Attendi…</string>
     <string name="loading">Attendi…</string>
     <string name="logout_account">Disconetti</string>
+    <string name="mibi_account_disable_dialog_btn_negative">Annulla</string>
+    <string name="mibi_account_disable_dialog_btn_positive">Attiva</string>
+    <string name="mibi_account_disable_dialog_title">Avviso</string>
     <string name="mibi_all_license_message">"Stai per utilizzare del Mi Credit, un servizio fornito da Xiaomi Inc. Prima che tu possa utilizzare questo servizio, dovrai concordare con i Termini di Servizio. Tocca OK se hai concordato con i termini e le condizioni descritte in %1$s e %2$s. Dovrai connetterti ad Internet, localizzare il tuo dispositivo ed utilizzare i Mi Credit.\""</string>
     <string name="mibi_app_name">Mi Credit</string>
     <string name="mibi_applock_config">"Impossibile impostare App lock quando è in uso lo Split Screen."</string>
@@ -254,6 +246,8 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_applock_dialog_content">A causa di un aggiornamento di sistema, la sequenza di sblocco attuale è scaduta. Imposta una nuova sequenza di blocco.</string>
     <string name="mibi_applock_dialog_ok">Imposta</string>
     <string name="mibi_applock_dialog_title">Imposta una nuova sequenza di blocco</string>
+    <string name="mibi_auth_manage_perm_grant">Concesso</string>
+    <string name="mibi_auth_manage_perm_ungrant">Attiva</string>
     <string name="mibi_balance_payment_title">Mi Credit</string>
     <string name="mibi_balance_title">Saldo</string>
     <string name="mibi_bill_delete_dialog_title">Elimina %1$s</string>
@@ -279,7 +273,6 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_button_call">Chiama</string>
     <string name="mibi_button_cancel">Annulla</string>
     <string name="mibi_button_confirm">Conferma</string>
-    <string name="mibi_button_count_down_finish">OK(%1$s)</string>
     <string name="mibi_button_custom_service_phone">Ok</string>
     <string name="mibi_button_next">Successivo</string>
     <string name="mibi_button_pay">Conferma</string>
@@ -300,7 +293,6 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_deduct_success_sub">Metodo di addebito:%1$s</string>
     <string name="mibi_deduct_type">Metodi pagamento</string>
     <string name="mibi_denomination_mibi_unit">Questo SMS viene utilizzato per attivare i tuoi servizi Mi</string>
-    <string name="mibi_denomination_money_unit">CNY</string>
     <string name="mibi_detail_consume_account">ID acquisto</string>
     <string name="mibi_detail_consume_amount">Ammontare</string>
     <string name="mibi_detail_consume_name">Prodotto</string>
@@ -391,6 +383,8 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_giftcard_with_num"><Data>&lt;font color=#FF7700&gt;&lt;xliff:g id=value&gt;%1$d&lt;/xliff:g&gt; Il coupon Mi Coin è disponibile&lt;/font&gt;</Data></string>
     <string name="mibi_header_network_error">"Impossibile collegarsi alla rete."</string>
     <string name="mibi_illegal_intent">Richiesta di intenti non valida</string>
+    <string name="mibi_incognito_mode_dialog_cancel">Annulla</string>
+    <string name="mibi_incognito_mode_dialog_to_close">Impostazioni</string>
     <string name="mibi_is_what">Cosa puoi acquistare con i Mi Credit?</string>
     <string name="mibi_label_balance">Saldo</string>
     <string name="mibi_label_giftcard">Carta regalo</string>
@@ -413,9 +407,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_msg_error">Ricarica fallita</string>
     <string name="mibi_msg_order_hint_1_1">Dopo aver toccato \'Conferma Acquisto\', il telefono eseguirà l\'operazione</string>
     <string name="mibi_msg_order_hint_1_2">Contatta automaticamente il tuo fornitore di servizi.</string>
-    <string name="mibi_msg_picker_hint_1_1">1.</string>
     <string name="mibi_msg_picker_hint_1_2">Il riempimento testuale potrebbe essere più costoso: &lt;font color=red&gt;￥%1$d = %2$d Mi Credit&lt;/font&gt;</string>
-    <string name="mibi_msg_picker_hint_2_1">2.</string>
     <string name="mibi_msg_picker_hint_2_a">L\'operatore ha ricaricato ￥%1$s in base al costo del servizio ricarica</string>
     <string name="mibi_msg_picker_hint_2_b">Un SMS ti verrà recapitato dal tuo operatore dopo che toccherai il pulsante \"Ricarica\". L\'operatore ti addebiterà il costo di un normale SMS.</string>
     <string name="mibi_msg_picker_hint_3_2">Ricarica mensile massima: ￥%1$s</string>
@@ -456,14 +448,12 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_payment_recharge_group_title">Scegli metodo di ricarica</string>
     <string name="mibi_payment_success_title">Pagamento ricevuto</string>
     <string name="mibi_payment_with_login_title">Mi Credit</string>
-    <string name="mibi_paytool_alipay">Alipay</string>
     <string name="mibi_paytool_app_not_installed">"Non hai installato %1$s. Scaricare ed installare ora?\""</string>
     <string name="mibi_paytool_error_install">Errore nell\'installazione del plugin di sicurezza mobile %1$s</string>
     <string name="mibi_paytool_error_msp">%1$s non riuscito</string>
     <string name="mibi_paytool_mipay">Mi Pay</string>
     <string name="mibi_paytool_msp_not_installed">Non hai installato il plugin di sicurezza mobile %1$s, installare ora?</string>
     <string name="mibi_paytool_paypal">PayPal</string>
-    <string name="mibi_paytool_tenpay">Tenpay</string>
     <string name="mibi_paytool_wechat_return_cancel">Annullamento ritorno WeChat</string>
     <string name="mibi_paytool_weixin">WeChat</string>
     <string name="mibi_permanently_denied_perm_camera">Consenti l\'uso della fotocamera in Impostazioni per utilizzare le funzionalità.</string>
@@ -480,15 +470,14 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_prepaid_error_password">Password carta non valida</string>
     <string name="mibi_prepaid_number_edit_hint">Numero</string>
     <string name="mibi_prepaid_password_edit_hint">Password</string>
-    <string name="mibi_prepaid_picker_hint_1_1">1.</string>
     <string name="mibi_prepaid_picker_hint_1_2">Supportato solo addebito una tantum;</string>
-    <string name="mibi_prepaid_picker_hint_2_1">2.</string>
     <string name="mibi_prepaid_picker_hint_2_2_a">"Il valore nominale selezionato deve essere coerente con quello della carta prepagata. La scelta di un altro valore invaliderà la carta. Questa azione non può essere annullata."</string>
     <string name="mibi_prepaid_picker_hint_2_2_b">Se il valore nominale della carta prepagata non lo è del &lt;font color=red&gt;￥%1$s&lt;/font&gt;, la carta verrà invalidata. Xiaomi non si riterrà responsabile per eventuali perdite monetarie che potrebbero verificarsi a seguito di un errore dell\'utente.</string>
     <string name="mibi_prepaid_picker_hint_3_2">Inserisci il numero della carta, il valore nominale e la password. <b>Qualsiasi perdita causata dalla discrepanza tra le informazioni fornite e le informazioni effettive sarà a carico dell\'utente.</b></string>
     <string name="mibi_prepaid_picker_title_default">Seleziona ammontare</string>
     <string name="mibi_prepaid_picker_title_selected">Ammontare</string>
     <string name="mibi_privacy_license_name">Informativa sulla Privacy</string>
+    <string name="mibi_privacy_manage_user_license">Accordo utente</string>
     <string name="mibi_privacy_policy">Informativa sulla Privacy</string>
     <string name="mibi_privacy_tip_message">"Non puoi utilizzare i Mi Credits dopo aver revocato l'autorizzazione."</string>
     <string name="mibi_privacy_tip_title">Concedi prima le autorizzazioni</string>
@@ -521,7 +510,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_progress_warning_waiting">"Il pagamento non ha ancora raggiunto il tuo account."</string>
     <string name="mibi_prompt_info_button_hint">Attenzione (%d)</string>
     <string name="mibi_prompt_info_button_text">OK</string>
-    <string name="mibi_prompt_info_for_first_use">I Mi Credit non possono essere utilizzati per acquistare prodotti hardware su Mi.com.</string>
+    <string name="mibi_prompt_info_for_first_use">"I Mi Credit non possono essere utilizzati per acquistare prodotti hardware su Mi.com."</string>
     <string name="mibi_prompt_info_title">Suggerimenti</string>
     <string name="mibi_push_register_fail">Registrazione push non riuscita.</string>
     <string name="mibi_push_register_success">Registrazione push riuscita.</string>
@@ -537,13 +526,20 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_recharge_grid_money_picker_hint">Seleziona ammontare</string>
     <string name="mibi_recharge_label">Ricarica</string>
     <string name="mibi_recharge_mibi_title">Mi Credit</string>
+    <string name="mibi_recharge_more_channels_title">Altro</string>
     <string name="mibi_recharge_novalid_method">Nessun metodo di ricarica valido.</string>
     <string name="mibi_recharge_other">Visualizza altri metodi</string>
+    <string name="mibi_recharge_other_amount">Altro importo</string>
     <string name="mibi_recharge_push_notification_prime_title">%1$d aggiunti di %2$s Mi Credit presenti sul tuo account</string>
     <string name="mibi_recharge_push_notification_sub_title">Ricarica completa.</string>
     <string name="mibi_recharge_value_money">Acquista il valore di %s CNY in Mi Coins</string>
     <string name="mibi_recharge_value_money_special_unit">Acquista %1$s %2$s di Mi Coins</string>
     <string name="mibi_recharge_warn_text">"Non puoi pagare beni fisici usando Mi Credit."</string>
+    <string name="mibi_return">Ritorna</string>
+    <string name="mibi_review_model_icon_1">Tema</string>
+    <string name="mibi_review_model_icon_3">Leggi</string>
+    <string name="mibi_review_model_icon_4">Video</string>
+    <string name="mibi_review_model_icon_5">Musica</string>
     <string name="mibi_scan_prompt_number">Scansionamento numero di carta prepagato %1$s</string>
     <string name="mibi_scan_prompt_password">Scansionamento password carta prepagata %1$s</string>
     <string name="mibi_scan_prompt_voucher">Scansionamento password Mi Credit</string>
@@ -555,9 +551,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_sms_code_empty">Inserisci il codice di verifica inviato al tuo telefono.</string>
     <string name="mibi_sms_code_error">Si è verificato un errore nel codice di verifica del telefono, riprova</string>
     <string name="mibi_sms_code_hint">Immetti codice di verifica a 6 cifre</string>
-    <string name="mibi_string_with_bracket">(%s)</string>
     <string name="mibi_summary_bind_phone">Per garantire la sicurezza del tuo account, completa il pagamento dopo aver abbinato il numero di telefono.</string>
-    <string name="mibi_summary_custom_service_phone">Tel:</string>
     <string name="mibi_summary_sms_code">Immetti il codice di verifica inviato a %1$s，e quindi termina il pagamento</string>
     <string name="mibi_tianyi_create_order">SMS China Unicom</string>
     <string name="mibi_title_bind_phone">Abbina numero di telefono.</string>
@@ -582,6 +576,8 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_web_login_waiting">Attendere prego…</string>
     <string name="mibi_web_sso_login_fail">Devi accedere di nuovo</string>
     <string name="midnight">Notte</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -596,8 +592,10 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
@@ -662,7 +660,6 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="passport_bad_authentication">Nome utente o password non validi</string>
     <string name="passport_barcode_add_account_prompt">Per connettere un account, scansiona il codice QR dopo aver completato l\'accesso.</string>
     <string name="passport_can_not_receive_verification_code">"Non riesci a ricevere il codice di verifica?"</string>
-    <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Controlla la password…</string>
     <string name="passport_close">Chiudi</string>
     <string name="passport_delete_account">Disconetti</string>
@@ -750,10 +747,8 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
     <string name="phone_number">Numero di telefono</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
-    <string name="pm">PM</string>
     <string name="psw_hint">Password</string>
     <string name="psw_sign_in">Accedi con password</string>
-    <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="request_camera_permission_message">Questo servizio richiede la tua autorizzazione, rispetteremo rigorosamente le leggi pertinenti per proteggere le tue informazioni personali: &lt;br&gt;&lt;br&gt;&lt;b&gt; Accesso Fotocamera: necessario per l\'impostazione di Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Se non accetti di consentire i permessi di cui sopra, questa funzione non funzionerà correttamente, ma non influenzerà l\'uso delle funzioni di base di questa applicazione. È possibile scegliere di disattivare l\'autorizzazione di cui sopra nelle impostazioni di sistema.</string>
     <string name="resend_active_email">Invia di nuovo</string>
     <string name="resend_email_reach_limit_message">"Hai richiesto troppe email di verifica. Assicurati che l'email di verifica non sia nella cartella Spam."</string>
