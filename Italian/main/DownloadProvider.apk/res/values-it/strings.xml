@@ -128,10 +128,13 @@
     <string name="download_apk_desktop_pending">In attesa</string>
     <string name="download_apk_desktop_running">In download</string>
     <string name="download_error">Fallito</string>
+    <string name="download_no_application">Nessuna app supporta questo formato</string>
     <string name="download_no_application_title">"Impossibile aprire il file"</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_queued">In coda</string>
     <string name="download_remaining">%s rimasti</string>
     <string name="download_running">In corso</string>
+    <string name="download_running_percent">In corso, %d%%</string>
     <string name="download_unknown_title">&lt;Nessun titolo&gt;</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>

@@ -20,6 +20,7 @@
     <string name="burst">Carica</string>
     <string name="candy">Caramella</string>
     <string name="carousel">Carosello</string>
+    <string name="celesta">Celesta</string>
     <string name="child">Infanzia</string>
     <string name="childhood">Infanzia</string>
     <string name="childrens_day">Giornata dei bambini</string>
@@ -37,6 +38,7 @@
     <string name="cold_dews">Giornata della rugiada fredda</string>
     <string name="country">Paese</string>
     <string name="countryside">Campagna</string>
+    <string name="cowboy">Cowboy</string>
     <string name="crystal">Cristallo</string>
     <string name="cta_button_continue">Accetto</string>
     <string name="cta_button_quit">Esci</string>
@@ -47,6 +49,13 @@
     <string name="cta_permission_delimiter">, </string>
     <string name="cta_title">Termini di Utilizzo</string>
     <string name="dance">Danza</string>
+    <string name="daydream">Daydream</string>
+    <string name="device_hongmi">Redmi</string>
+    <string name="device_pad">Mi Pad</string>
+    <string name="device_poco">POCO</string>
+    <string name="device_poco_global">POCOPHONE</string>
+    <string name="device_poco_india">POCO PHONE</string>
+    <string name="device_redmi">Redmi</string>
     <string name="device_xiaomi">Telefono Mi</string>
     <string name="dewdrops">Rugiada</string>
     <string name="digitaluniverse">Universo digitale (stereo)</string>
@@ -60,6 +69,7 @@
     <string name="fireflies">Lucciole</string>
     <string name="flute">Flauto</string>
     <string name="fools_day">Pesce d\'aprile</string>
+    <string name="frenchchic">Chic</string>
     <string name="fresh">Fresco</string>
     <string name="frog">Rana</string>
     <string name="game">Gioco</string>
@@ -78,9 +88,11 @@
     <string name="heavy_snow">Forti nevicate</string>
     <string name="icelatte">Latte ghiacciato</string>
     <string name="incomingmessage">Messaggio in arrivo</string>
+    <string name="kungfu">Kung fu</string>
     <string name="labour_day">Festa dei lavoratori</string>
     <string name="leisure">Svago</string>
     <string name="light_snow">Nevicate leggere</string>
+    <string name="lollipop">Lecca-lecca</string>
     <string name="lunar_ba">8</string>
     <string name="lunar_calendar">Calendario lunare</string>
     <string name="lunar_chu">Primo</string>
@@ -103,11 +115,17 @@
     <string name="lunar_yue">Mese</string>
     <string name="lunar_zheng">1</string>
     <string name="makewishes">Buon compleanno</string>
+    <string name="martix">Matrix</string>
     <string name="messagesent">Messaggio inviato</string>
+    <string name="mi">Mi</string>
     <string name="mihouse">Mi Elettronica</string>
+    <string name="mijazz">Mi Jazz</string>
+    <string name="miremix">Mi (Remix)</string>
     <string name="miui_clock_city_name_local">Locale</string>
     <string name="miui_clock_city_name_second">Secondo orologio</string>
+    <string name="miui_clock_fancy_colon"></string>
     <string name="miui_device_name">Android</string>
+    <string name="miui_digital_clock_dot">:</string>
     <string name="miui_lock_screen_date">EEEE dd/MM</string>
     <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
@@ -118,6 +136,11 @@ dd/MM"</string>
 dd/MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 dd/MM"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
+    <string name="mix">MIX</string>
     <string name="moment">Momento</string>
     <string name="monet">Stagno</string>
     <string name="morning">Mattino</string>
@@ -135,6 +158,7 @@ dd/MM"</string>
     <string name="presentation_payphone">Telefono pubblico</string>
     <string name="presentation_private">Numero privato</string>
     <string name="presentation_unknown">Numero sconosciuto</string>
+    <string name="radar">Radar</string>
     <string name="raindrops">Pioggia</string>
     <string name="reveries">Fantasia (stereo)</string>
     <string name="secretgarden">Giardino segreto</string>
@@ -146,6 +170,7 @@ dd/MM"</string>
     <string name="summer_solstice">Solstizio d\'estate</string>
     <string name="sunrise">Alba</string>
     <string name="surprise">Sorpresa</string>
+    <string name="swoosh">Swoosh</string>
     <string name="teachers_day">Giornata degli insegnanti</string>
     <string name="toyrobot">Robot giocattolo</string>
     <string name="valentines_day">San Valentino</string>
@@ -156,7 +181,9 @@ dd/MM"</string>
     <string name="vip_not_login">Accesso non effettuato</string>
     <string name="vip_sign">Firma:</string>
     <string name="wallpaper_group_black_white_title">Bianco e nero</string>
+    <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Nebulosa dinamica</string>
+    <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
     <string name="wallpaper_group_geometric_title">Geometria</string>
     <string name="wallpaper_group_minimalist_scenery_title">Minimalismo</string>
     <string name="wallpaper_group_more_system_wallpaper_title">Altri sfondi di sistema</string>

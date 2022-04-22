@@ -24,6 +24,7 @@
     <string name="abc_toolbar_collapse_description">Riduci</string>
     <string name="about_device_info">Mostra dettagli dispositivo</string>
     <string name="accept">Consenti</string>
+    <string name="access_denied_info">Troppi tentativi. Attendi e riprova.</string>
     <string name="access_token_expired_warning">L\'account Weibo è scaduto</string>
     <string name="access_token_invalid_warning">L\'account Weibo non è valido</string>
     <string name="account">Account</string>
@@ -87,6 +88,7 @@
     <string name="authorize_title">Autorizzazione</string>
     <string name="bind_facebook">Collega  il tuo account Facebook</string>
     <string name="bind_google">Collega il tuo account Google</string>
+    <string name="bind_qq">QQ</string>
     <string name="bind_safe_phone_msg">Aggiungi un numero sicuro per il prossimo accesso</string>
     <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
     <string name="bind_sns_description">Completa il tuo profilo utilizzando le informazioni personali su %s.</string>
@@ -484,6 +486,8 @@ Invia questo codice ai tecnici."</string>
     <string name="multi_user_not_show_sync_activity_title">"Non attivare la sincronizzazione con Mi Cloud"</string>
     <string name="my_device_title">Dispositivo attuale</string>
     <string name="need_install_wechat">Installa prima WeChat</string>
+    <string name="network_error_info">Si è verificato un errore di rete. Controlla le impostazioni di rete e riprova.</string>
+    <string name="network_timeout_info">"Impossibile connettersi alla rete. Riprova."</string>
     <string name="night">Sera</string>
     <string name="no_install">Non installato</string>
     <string name="no_network_btn">Aggiorna</string>
@@ -767,6 +771,7 @@ Invia questo codice ai tecnici."</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_policy_update_title">Informativa sulla privacy aggiornata</string>
+    <string name="progressbar_title">Verifica falle di sicurezza…</string>
     <string name="provision_back">Indietro</string>
     <string name="provision_next">Successivo</string>
     <string name="provision_skip_underline">Salta</string>
@@ -775,6 +780,7 @@ Invia questo codice ai tecnici."</string>
     <string name="push_notify_dialog_message">"Un nuovo dispositivo sta cercando di accedere al tuo Mi Account. Inserisci il codice di verifica sul tuo nuovo dispositivo per completare la verifica di sicurezza. Se non lo hai richiesto tu, modifica la password del tuo Mi Account."</string>
     <string name="push_notify_dialog_title">Verifica dell\'account</string>
     <string name="pwd_width_phone_number_or_mail_num">"La password non può contenere il numero di telefono, l'indirizzo e-mail o l'ID del Mi Account"</string>
+    <string name="qq">QQ</string>
     <string name="recycle_phone_notification_msg">Sembra che il tuo numero di telefono sia stato recuperato. Tocca per aggiornare.</string>
     <string name="recycle_phone_notification_title">Rischio di sicurezza per il Mi Account</string>
     <string name="removing_account">Rimozione account…</string>
@@ -862,6 +868,7 @@ Invia questo codice ai tecnici."</string>
     <string name="system_ad_summary">"Attiva questa funzione per consentire la visualizzazione di un numero ridotto di annunci nelle app di sistema. Questi annunci ci aiutano a sviluppare e migliorare i nostri prodotti e servizi. È possibile disattivare questa funzione in qualsiasi momento. Grazie per il sostegno! "</string>
     <string name="system_ad_switch">Pubblicità nelle app di sistema</string>
     <string name="system_ad_switch_failed">"Impossibile applicare"</string>
+    <string name="system_error_info">Il sistema è occupato. Aspetta un minuto o due e riprova.</string>
     <string name="talkback_scan_barcode">Rileva codice QR</string>
     <string name="temporary_not_available">"temporaneamente non disponibile"</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
@@ -935,6 +942,15 @@ Invia questo codice ai tecnici."</string>
     <string name="used_cloud_storage_info">Spazio utilizzato %s</string>
     <string name="user_avatar_update_title">Aggiorna immagine profilo</string>
     <string name="user_avatar_uploading">Attendi…</string>
+    <string name="user_license_with_3rd_app_mobile"><Data>\"Ho letto e accettato &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt;, Mi Account\'s &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, così come &lt;a href=%5$s&gt;Termini e condizioni dei servizi di verifica della Cina Mobile&lt;/a&gt;.</Data></string>
+    <string name="user_license_with_3rd_app_no_operator"><Data>\"Ho letto e accettato &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; e &lt;a href=%3$s&gt;Accordo utente di Mi Account&lt;/a&gt; e &lt;a href=%4$s&gt;Informativa sulla privacy&lt;/a&gt;.</Data></string>
+    <string name="user_license_with_3rd_app_telcom"><Data>\"Ho letto e accettato &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt;, Mi Account\'s &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, così come &lt;a href=%5$s&gt;Termini e condizioni dei servizi di verifica dell\'account eSurfing&lt;/a&gt;.</Data></string>
+    <string name="user_license_with_3rd_app_unicom"><Data>\"Ho letto e accettato &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt;, Mi Account\'s &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, così come &lt;a href=%5$s&gt;Termini e condizioni dei servizi di verifica Cina Unicom&lt;/a&gt;.</Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator"><Data>\"Ho letto e accettato il &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e l\' &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt;di Mi Account.\"</Data></string>
+    <string name="user_license_without_3rd_app"><Data>\"Ho letto e accettato il &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e l\' &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt;di Mi Account.\"</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>\"Ho letto e accettato il &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy di Mi Account&lt;/a&gt;, così come &lt;a href=%3$s&gt;Termini e condizioni dei servizi di verifica di Cina Mobile&lt;/a&gt;.</Data></string>
+    <string name="user_license_without_3rd_telcom"><Data>\"Ho letto e accettato il &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy di Mi Account&lt;/a&gt;, oltre a &lt;a href=%3$s&gt;Termini e condizioni dei servizi di verifica dell\'account eSurfing&lt;/a&gt;.</Data></string>
+    <string name="user_license_without_3rd_unicom"><Data>\"Ho letto e accettato il &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy di Mi Account&lt;/a&gt;, così come &lt;a href=%3$s&gt;Termini e condizioni dei servizi di verifica di Cina Unicom&lt;/a&gt;.</Data></string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="vip_account_settings">Impostazioni VIP</string>

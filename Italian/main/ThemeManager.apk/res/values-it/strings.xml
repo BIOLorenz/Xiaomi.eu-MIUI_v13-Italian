@@ -81,6 +81,7 @@
     <string name="app_disable_transparent_wallpaper">Senza sfondo trasparente</string>
     <string name="app_enable_transparent_wallpaper">Con sfondo trasparente</string>
     <string name="app_name">Temi</string>
+    <string name="app_name_pad">Personalizzazione</string>
     <string name="application_notify_title">Attenzione</string>
     <string name="apply_choosen_type_resource">Applica gli elementi selezionati</string>
     <string name="apply_default_font_tip">"Vuoi continuare a utilizzare il font attuale del sistema?"</string>
@@ -116,6 +117,7 @@
     <string name="boot_audio_dialog_title">Attenzione</string>
     <string name="both_all_apply_failured">"Impossibile impostare sfondo"</string>
     <string name="both_all_apply_success">Sfondo applicato</string>
+    <string name="bottomsheet_action_expand_halfway">Espandi a metà</string>
     <string name="browser_local_resource">Risorse locali</string>
     <string name="can_not_apply">Impossibile installare</string>
     <string name="can_not_apply_error">"Il formato video non è supportato"</string>
@@ -380,6 +382,7 @@
     <string name="exo_download_paused_for_network">Download in attesa della rete</string>
     <string name="exo_download_paused_for_wifi">Download in attesa del WiFi</string>
     <string name="exo_download_removing">Rimozione download</string>
+    <string name="exo_track_mono">Mono</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_commentary">Commento</string>
     <string name="exo_track_role_supplementary">Supplementare</string>
@@ -554,11 +557,19 @@ Per disattivare questa funzione, vai in Impostazioni &gt; Suoni e Vibrazione &gt
     <string name="lockscreen_wallpaper">Schemata di blocco</string>
     <string name="lockstyle_personal_settings">Impostazioni schede</string>
     <string name="long_click_can_hide_resource">Tieni premuto per nascondere gli elementi</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Seleziona AM o PM</string>
+    <string name="material_hour_selection">Seleziona l\'ora</string>
+    <string name="material_hour_suffix">"%1$s in punto"</string>
+    <string name="material_minute_selection">Seleziona i minuti</string>
+    <string name="material_minute_suffix">%1$s minuti</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
+    <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
+    <string name="material_timepicker_text_input_mode_description">Passa alla modalità di inserimento testo per inserire l\'ora.</string>
     <string name="mi_wallpaper">Sfondo MIUI</string>
     <string name="midnight">AM</string>
     <string name="mine_tab_not_login">"Accedi per visualizzare.
@@ -569,6 +580,8 @@ Tocca per accedere."</string>
     <string name="mine_tab_title_purchase">Ordini</string>
     <string name="miui_clock_city_name_local">Dispositivo</string>
     <string name="miui_clock_city_name_second">Secondo orologio</string>
+    <string name="miui_clock_fancy_colon"></string>
+    <string name="miui_digital_clock_dot">:</string>
     <string name="miui_lock_screen_date">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
@@ -579,6 +592,10 @@ d MMMM"</string>
 dd/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 dd/M"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuishare_account_activate_confirmation">Attivazione richiesta</string>
     <string name="miuishare_account_activate_ok">Attiva</string>
     <string name="miuishare_account_login_cancel">Annulla</string>
@@ -591,6 +608,7 @@ dd/M"</string>
     <string name="miuishare_no_network">"Impossibile connettersi alla rete."</string>
     <string name="miuishare_please_retry">"Impossibile ottenere info. Verifica la tue impostazioni di rete e riprova.\""</string>
     <string name="miuishare_publish">Invia</string>
+    <string name="miuishare_qzone_title">Qzone</string>
     <string name="miuishare_share_done">Condivisione riuscita</string>
     <string name="miuishare_share_editor_title">Condividi</string>
     <string name="miuishare_share_fail">"Impossibile condividere"</string>
@@ -599,6 +617,7 @@ dd/M"</string>
     <string name="miuishare_title_more">Altro</string>
     <string name="miuishare_title_share">Condividi</string>
     <string name="miuishare_wechat_timeline_title">Momenti WeChat</string>
+    <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_access_state_desc">Selezionato</string>
     <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
@@ -751,6 +770,7 @@ dd/M"</string>
     <string name="ota_recovery_theme_notity_content">"Puoi tornare al tema che hai usato prima dell'aggiornamento"</string>
     <string name="ota_recovery_theme_notity_title">Ripristina il tuo tema</string>
     <string name="password_toggle_content_description">Mostra password</string>
+    <string name="personalize">Personalizzazione</string>
     <string name="personalize_alarm_ringtone_title">Sveglie</string>
     <string name="personalize_call_ringtone_title">Suoneria</string>
     <string name="personalize_charge_style_title">Ricarica</string>
@@ -774,6 +794,8 @@ dd/M"</string>
     <string name="present_local_themes_subtitle">Personalizza il tuo dispositivo</string>
     <string name="present_official_themes">Selezione ufficiale</string>
     <string name="present_online_themes">Online</string>
+    <string name="privacy_action_failed_net_content">Si è verificato un errore di rete. Attendi e riprova.</string>
+    <string name="privacy_action_failed_server_content">Si è verificato un errore del server. Aspetta e prova di nuovo.</string>
     <string name="privacy_action_failed_title">Errore</string>
     <string name="privacy_confirm_logoff_and_exit">Annulla servizi</string>
     <string name="privacy_exit_btn">Esci</string>
@@ -782,18 +804,23 @@ dd/M"</string>
     <string name="privacy_i_know_btn">Continua</string>
     <string name="privacy_important_prompt_title">Attenzione</string>
     <string name="privacy_log_off_succeed">Servizi cancellati</string>
+    <string name="privacy_loging_off_warning">Annullamento servizi…</string>
     <string name="privacy_logoff_services_title">Annulla servizi</string>
+    <string name="privacy_network_exception">Si è verificato un errore di rete. Attendi e riprova.</string>
     <string name="privacy_pad_fold_Read_write_storage">Accesso alla memoria</string>
     <string name="privacy_pad_fold_entry">Privacy</string>
     <string name="privacy_permission_management_description">Dettagli permessi</string>
     <string name="privacy_permission_related_content">Permessi</string>
     <string name="privacy_phone_read_and_write_storage">Accesso alla memoria</string>
     <string name="privacy_read_statement">Accettare i termini e le condizioni</string>
+    <string name="privacy_read_the_updated_privacy_policy_content">"Leggi e accetta la nuova versione dell'&lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Informativa sulla privacy&lt;/font&gt;&lt;/a&gt; prima di continuare."</string>
     <string name="privacy_reading_the_application_list">Accedi alla lista delle app installate su questo dispositivo</string>
     <string name="privacy_remind_user_mode_agree">Accetto</string>
     <string name="privacy_remind_user_mode_title">Attenzione</string>
     <string name="privacy_revoke_agree_content">Revoca autorizzazione...</string>
     <string name="privacy_revoke_succeed">Consenso revocato</string>
+    <string name="privacy_revoking_warning">Revoca del consenso…</string>
+    <string name="privacy_select_mode">Seleziona modalità</string>
     <string name="privacy_settings">Privacy</string>
     <string name="privacy_update_prompt_title">Informativa sulla privacy aggiornata</string>
     <string name="provision_default_theme_title">Predefinita</string>
@@ -1083,6 +1110,8 @@ dd/M"</string>
     <string name="share_send_to_friend">WeChat</string>
     <string name="share_share_suffix">\@MIUI Themes</string>
     <string name="share_theme_content_text">"Puoi scaricare un fantastico tema \"%1$s\" qui: %2$s. Da "</string>
+    <string name="share_to_qq">QQ</string>
+    <string name="share_to_weibo">Weibo</string>
     <string name="share_wallpaper_content_text">"Puoi scaricare uno sfondo incredibile \"%1$s\" qui: %2$s. Da "</string>
     <string name="shortcut_add">Aggiungi</string>
     <string name="shortcut_cancel">Non ora</string>
@@ -1450,6 +1479,7 @@ dd/M"</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">Annulla</string>
     <string name="wifi_check_confirm">Conferma</string>
     <string name="wifi_check_message">Utilizzare i dati mobili per scaricare gli aggiornamenti?</string>

@@ -106,8 +106,11 @@
     <string name="com_xiaomi_gamecenter">Giochi</string>
     <string name="com_xiaomi_jr">Mi Finanza</string>
     <string name="com_xiaomi_scanner">Scanner</string>
+    <string name="com_xiaomi_shop">Mi Store</string>
     <string name="confirm_description">Conferma</string>
+    <string name="copyright">Copyright</string>
     <string name="country_name_ac">CA</string>
+    <string name="country_name_ad">Annuncio</string>
     <string name="country_name_ai">IA</string>
     <string name="country_name_im">Chat</string>
     <string name="country_name_kg">Kg</string>

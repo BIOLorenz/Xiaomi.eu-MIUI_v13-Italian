@@ -28,7 +28,7 @@
     <string name="audio_relay_default_device_name">Altoparlante Mi IA</string>
     <string name="ble_device_address">Dispositivi smart MAC bluetooth</string>
     <string name="ble_device_profile">Profilo dispositivo bluetooth</string>
-    <string name="ble_device_profile_header_title">Impostazioni</string>
+    <string name="ble_device_profile_header_title">Altro</string>
     <string name="ble_device_profile_title">Dispositivi smart abbinati via bluetooth</string>
     <string name="ble_device_rename">Rinomina</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Connesso ad audio media</string>
@@ -87,6 +87,7 @@
     <string name="bluetooth_sap_profile_summary_use_for">Usa per accesso SIM</string>
     <string name="bluetooth_search_for_devices">Ricerca dispositivi</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+    <string name="bluetooth_talkback_computer">Computer</string>
     <string name="bluetooth_talkback_headphone">Cuffie</string>
     <string name="bluetooth_talkback_headset">Cuffie</string>
     <string name="bluetooth_talkback_imaging">Immagine</string>
@@ -294,6 +295,8 @@ Protocollo di connessione più veloce."</string>
     <string name="headset_fw_error_failed">"Impossibile aggiornare. Informazioni firmware errate."</string>
     <string name="headset_fw_file_position_failed">"Impossibile accedere al file"</string>
     <string name="headset_fw_file_readfailed">"Impossibile ottenere info sugli aggiornamenti"</string>
+    <string name="headset_incall_answer">Scorri in alto per rispondere</string>
+    <string name="headset_incall_reject">Annulla</string>
     <string name="headset_loss_notify_summary">Sembra che almeno uno dei tuoi auricolari non sia nella custodia. Cercalo in giro!</string>
     <string name="headset_loss_notify_title">Avviso auricolare mancante</string>
     <string name="headset_read_fw_state">"Impossibile ottenere info sugli aggiornamenti"</string>

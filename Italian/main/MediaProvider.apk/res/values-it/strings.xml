@@ -25,6 +25,9 @@
     <string name="allow">Consenti</string>
     <string name="app_label">Archiviazione media</string>
     <string name="artist_label">Artista</string>
+    <string name="cache_clearing_dialog_text">%s vorrebbe cancellare alcuni file temporanei. Questo potrebbe comportare un maggiore utilizzo della batteria o dei dati cellulari.</string>
+    <string name="cache_clearing_dialog_title">Cancella file temporanei</string>
+    <string name="cache_clearing_in_progress_title">Cancellazione dei file temporanei delle app…</string>
     <string name="clear">Cancella</string>
     <string name="deny">Nega</string>
     <string name="grant_dialog_button_allow">Consenti</string>
@@ -38,6 +41,12 @@
     <string name="search_menu_title">Cerca</string>
     <string name="storage_description">Memoria locale</string>
     <string name="transcode_cancel">Annulla</string>
+    <string name="transcode_denied">"%s non può elaborare file multimediali"</string>
+    <string name="transcode_processing">Elaborazione multimediale…</string>
+    <string name="transcode_processing_cancelled">Elaborazione multimediale annullata</string>
+    <string name="transcode_processing_error">Errore elaborazione multimediale</string>
+    <string name="transcode_processing_started">Elaborazione multimediale avviata</string>
+    <string name="transcode_processing_success">Elaborazione multimediale riuscita</string>
     <string name="transcode_wait">Attendi</string>
     <string name="uid_label">MEDIA</string>
     <string name="unknown">Sconosciuto</string>

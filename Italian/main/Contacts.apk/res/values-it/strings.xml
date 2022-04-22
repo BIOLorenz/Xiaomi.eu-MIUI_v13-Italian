@@ -154,6 +154,8 @@
     <string name="bh_not_contact">"Impossibile trovare risultati"</string>
     <string name="bh_notice">Attenzione</string>
     <string name="bh_online_service">Supporto online</string>
+    <string name="bh_open_carrier_services_short">Servizi Operatore Mi</string>
+    <string name="bh_open_carrier_services_short_reason">Attiva Mi Carrier Services per poter utilizzare questa funzionalità.</string>
     <string name="bh_option_agree_dec">Consenti a Servizi Operatore Mi di connettersi a Internet e di concedere le autorizzazioni richieste prima di utilizzare l\'app.</string>
     <string name="bh_order_detail">Dettagli ordine</string>
     <string name="bh_order_id">ID Ordine</string>
@@ -185,6 +187,7 @@
     <string name="bh_please_fill_total_limit_title">Si prega di compilare il form completo</string>
     <string name="bh_please_set_pkg">Impostare il piano per essere in grado di controllare il saldo.</string>
     <string name="bh_privacy_policy">Informativa sulla Privacy</string>
+    <string name="bh_qualification_and_certificate">Licenze e certificazioni</string>
     <string name="bh_receive_zero_card">SIM Gratuita</string>
     <string name="bh_recharge_money">Ammontare</string>
     <string name="bh_recharge_record">Cronologia ricariche</string>
@@ -203,7 +206,7 @@
     <string name="bh_stop_carrier_services_short">Disattiva servizi Mi Carrier</string>
     <string name="bh_stop_result">"Non sarai in grado di gestire il tuo piano operatore o di acquistare dati e chiamare minuti se disattivi i Servizi Mi Carrier. Disattivarla comunque?"</string>
     <string name="bh_system_recommend">Consigli di sistema</string>
-    <string name="bh_system_recommend_des">Permetteteci di analizzare il tuo traffico e di consigliare prodotti digitali in base ai risultati</string>
+    <string name="bh_system_recommend_des">"Quando i consigli personalizzati sono spenti, vedrai ancora la stessa quantità di annunci, ma non saranno rilevanti"</string>
     <string name="bh_tag_phones">Numeri di telefono più usati</string>
     <string name="bh_tags_number_exceed">"Impossibile salvare altri numeri di telefono"</string>
     <string name="bh_tb">TB</string>
@@ -1115,7 +1118,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="preference_privacy_settings_title">Privacy</string>
     <string name="preference_remove_duplicate">Unisci contatti duplicati</string>
     <string name="preference_show_firewall_calllog">Mostra le chiamate bloccate nella cronologia delle chiamate</string>
-    <string name="preference_show_yellowpage_tab_description">Se chiudi la scheda delle Pagine Gialle, la funzionalità Pagine Gialle non funzionerà correttamente</string>
+    <string name="preference_show_yellowpage_tab_description">"Pagine gialle e i relativi servizi non verranno mostrati se disattivi questa funzionalità"</string>
     <string name="preference_show_yellowpage_tab_title">Mostra la scheda delle PagineGialle</string>
     <string name="preference_simple_mode_title">Vista dettagliata</string>
     <string name="preference_smart_group_company_summary">Raggruppa per azienda</string>
@@ -1126,6 +1129,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="preference_smart_group_location_title">Per località</string>
     <string name="preference_smart_group_title">Gruppi intelligenti</string>
     <string name="preference_tone_title">Toni</string>
+    <string name="preference_yellowpage_function_setting">Impostazioni pagine gialle</string>
     <string name="previous">Indietro</string>
     <string name="privacy_password_message1">La password di protezione privacy funziona per le app, foto, note e cartelle nascoste.</string>
     <string name="privacy_password_message2">Usa la password di protezione Privacy. Funziona per foto, note e cartelle nascoste.</string>
@@ -1135,6 +1139,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="privacy_password_title2">Usa la password di protezione privacy</string>
     <string name="privacy_password_title3">Aggiorna la password</string>
     <string name="privacy_password_title4">Password aggiornata</string>
+    <string name="privacy_settings_blue_scan_connect">Connettiti ai dispositivi vicini</string>
     <string name="privacy_settings_call_phone">Effettuare chiamate</string>
     <string name="privacy_settings_call_phone_description">Per effettuare chiamate tramite i collegamenti della schermata Home</string>
     <string name="privacy_settings_call_phone_description_for_pad">Per effettuare chiamate in app di terze parti</string>
@@ -1440,6 +1445,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="toast_for_failed_saving_nickname">"Impossibile salvare il soprannome"</string>
     <string name="toast_for_saving_nickname">Soprannome salvato</string>
     <string name="toast_join_with_empty_contact">Inserisci il nome del contatto prima di unirlo a un altro contatto.</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">Consenti a questa funzionalità di connettersi ai dispositivi vicini tramite Bluetooth per poter importare i contatti da altri dispositivi.</string>
     <string name="toast_not_show_camera_perm_req">Per essere in grado di utilizzare la fotocamera per scattare foto profilo, consentire a questa app di scattare foto e registrare i video.</string>
     <string name="toast_not_show_location_perm_req">Per essere in grado di importare contatti da altri dispositivi tramite Bluetooth, consentire a questa app di accedere alla tua posizione.</string>
     <string name="toast_not_show_read_calllogs_perm_req">Per essere in grado di visualizzare la cronologia delle chiamate, consentire a questa app di accedere alla cronologia delle chiamate.</string>

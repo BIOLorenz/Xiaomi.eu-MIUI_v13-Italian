@@ -266,6 +266,7 @@
     <string name="pa_express_i_known">OK</string>
     <string name="pa_express_inquiry">Controlla ordine</string>
     <string name="pa_express_inquiry_frequently_used_logistics">Popolari</string>
+    <string name="pa_express_inquiry_no_history">Non c\'è niente qui</string>
     <string name="pa_express_item_menu_delete">Elimina</string>
     <string name="pa_express_item_menu_edit">Modifica</string>
     <string name="pa_express_main_select">Scegli</string>
@@ -276,6 +277,8 @@
     <string name="pa_express_phone_binding_retry">Invia nuovamente</string>
     <string name="pa_express_phone_binding_send_ok">Invia codice di verifica a %s</string>
     <string name="pa_express_phone_binding_title">Aggiungi numero di telefono</string>
+    <string name="pa_express_provider_jingdong">JD</string>
+    <string name="pa_express_provider_mimall">Mi Store</string>
     <string name="pa_express_query_fail_title">"Nessun dato richiesto"</string>
     <string name="pa_express_send">Invia</string>
     <string name="pa_express_setting_number_title">Aggiungi numero di telefono</string>
@@ -287,6 +290,7 @@
     <string name="pa_express_settings_phone_bind">Aggiungi</string>
     <string name="pa_express_settings_phone_unbind">Rimuovi</string>
     <string name="pa_express_settings_recommend_item_2">Informativa sulla privacy</string>
+    <string name="pa_express_settings_recommend_title">Maggiori informazioni</string>
     <string name="pa_express_shunfeng_verify_dialog_ok">OK</string>
     <string name="pa_express_state_canceled">Annullato</string>
     <string name="pa_express_state_reject">Rifiutata</string>
@@ -323,6 +327,7 @@
     <string name="pa_picker_detail_download_app_dialog_cancel">Annulla</string>
     <string name="pa_picker_detail_download_app_dialog_confirm">OK</string>
     <string name="pa_picker_detail_download_app_dialog_message_install_prefix">Installa</string>
+    <string name="pa_picker_detail_download_app_dialog_message_install_suffix">Aggiunto</string>
     <string name="pa_picker_detail_download_app_dialog_message_upgrade_prefix">Aggiorna</string>
     <string name="pa_picker_detail_download_maml_dialog_cancel">In attesa di Wi-Fi</string>
     <string name="pa_picker_detail_download_maml_dialog_confirm">Scarica</string>
@@ -338,6 +343,7 @@
     <string name="pa_picker_home_request_failed">Errore rete</string>
     <string name="pa_picker_home_title">Aggiungi widget</string>
     <string name="pa_picker_list_load_complete">Tocca per caricare altro</string>
+    <string name="pa_picker_list_load_end">Nient\'altro da mostrare</string>
     <string name="pa_picker_list_loading">Attendi…</string>
     <string name="pa_picker_loading">Attendi…</string>
     <string name="pa_picker_maml_list_activity_title">Aggiungi widget</string>
@@ -383,6 +389,8 @@
     <string name="pa_setting_privacy_policy_update_title">Informativa sulla privacy aggiornata</string>
     <string name="pa_setting_privacy_revoke_cta">Revoca autorizzazione...</string>
     <string name="pa_setting_privacy_revoke_cta_positive">Revoca</string>
+    <string name="pa_setting_privacy_revoke_cta_progress">Preleva (%ds)</string>
+    <string name="pa_setting_privacy_revoke_error_message">Si è verificato un errore del server. Aspetta e prova di nuovo.</string>
     <string name="pa_setting_privacy_revoke_error_title">"Impossibile revocare il consenso"</string>
     <string name="pa_setting_privacy_revoke_no_net_message">Impossibile collegarsi alla rete. Controlla le impostazioni e riprova.</string>
     <string name="pa_setting_privacy_revoke_no_net_title">"Impossibile connettersi alla rete"</string>
@@ -398,6 +406,7 @@
     <string name="pa_shortcut_widget_label_4x2">Scorciatoie</string>
     <string name="pa_ski_foreground_service_noitification_name">Accesso alla posizione</string>
     <string name="pa_smart_shortcut_widget_label">App consigliate</string>
+    <string name="pa_sports_action_preview">Anteprima</string>
     <string name="pa_sports_all_league">Agenda</string>
     <string name="pa_sports_all_match">Mostra tutto</string>
     <string name="pa_sports_cancel_followed">Non seguire più</string>

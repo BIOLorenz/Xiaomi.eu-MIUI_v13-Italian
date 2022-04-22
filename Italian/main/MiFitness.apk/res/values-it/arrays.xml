@@ -4,6 +4,11 @@
         <item>Maschio</item>
         <item>Femmina</item>
     </string-array>
+    <string-array name="aivs_huami_command_list">
+        <item>"Che tempo fa?"</item>
+        <item>"Quanti passi ho fatto?"</item>
+        <item>Trova il mio telefono.</item>
+    </string-array>
     <string-array name="common_week_array">
         <item>Dom</item>
         <item>Lun</item>
@@ -34,7 +39,7 @@
         <item>Conakry</item>
         <item>Dakar</item>
         <item>Dar es Salaam</item>
-        <item>Djibouti</item>
+        <item>Gibuti</item>
         <item>Freetown</item>
         <item>Gaborone</item>
         <item>Harare</item>
@@ -109,8 +114,8 @@
         <item>Port-au-Prince</item>
         <item>Porto Rico</item>
         <item>Santo Domingo</item>
-        <item>São Paulo</item>
-        <item>"St. John's"</item>
+        <item>San Paolo</item>
+        <item>"San Giovanni"</item>
         <item>St. Kitts</item>
         <item>Santa Lucia</item>
         <item>St. Thomas</item>
@@ -130,14 +135,14 @@
         <item>Bangkok</item>
         <item>Beirut</item>
         <item>Kolkata</item>
-        <item>Damascus</item>
+        <item>Damasco</item>
         <item>Dhaka</item>
         <item>Dubai</item>
         <item>Gaza</item>
         <item>Hebron</item>
         <item>Ho Chi Minh</item>
         <item>Hong Kong</item>
-        <item>Jakarta</item>
+        <item>Giacarta</item>
         <item>Gerusalemme</item>
         <item>Kabul</item>
         <item>Karachi</item>
@@ -161,7 +166,7 @@
         <item>Tokyo</item>
         <item>Ulaanbaatar</item>
         <item>Bermuda</item>
-        <item>Canary Islands</item>
+        <item>Isole Canarie</item>
         <item>Capo Verde</item>
         <item>Reykjavik</item>
         <item>Stanley</item>
@@ -170,57 +175,57 @@
         <item>Canberra</item>
         <item>Darwin</item>
         <item>Melbourne</item>
-        <item>New South Wales</item>
+        <item>Nuovo Galles Del Sud</item>
         <item>Perth</item>
         <item>Queensland</item>
         <item>Sydney</item>
         <item>Victoria</item>
         <item>Terranova</item>
         <item>Saskatchewan</item>
-        <item>Easter Island</item>
+        <item>Isola di Pasqua</item>
         <item>Amsterdam</item>
         <item>Andorra</item>
-        <item>Athens</item>
+        <item>Atene</item>
         <item>Belfast</item>
         <item>Belgrado</item>
-        <item>Berlin</item>
+        <item>Berlino</item>
         <item>Bratislava</item>
         <item>Bruxelles</item>
-        <item>Bucharest</item>
+        <item>Bucarest</item>
         <item>Budapest</item>
         <item>Chisinau</item>
         <item>Copenhagen</item>
-        <item>Dublin</item>
-        <item>Gibraltar</item>
+        <item>Dublino</item>
+        <item>Gibilterra</item>
         <item>Helsinki</item>
-        <item>Isle of Man</item>
+        <item>Isola di Man</item>
         <item>Istanbul</item>
-        <item>Lisbon</item>
-        <item>London</item>
-        <item>Luxembourg</item>
+        <item>Lisbona</item>
+        <item>Londra</item>
+        <item>Lussemburgo</item>
         <item>Madrid</item>
         <item>Malta</item>
         <item>Minsk</item>
         <item>Monaco</item>
         <item>Mosca</item>
         <item>Oslo</item>
-        <item>Paris</item>
-        <item>Prague</item>
+        <item>Parigi</item>
+        <item>Praga</item>
         <item>Riga</item>
         <item>Roma</item>
         <item>San Marino</item>
         <item>Sarajevo</item>
-        <item>Simferopol</item>
+        <item>Sinferopoli</item>
         <item>Skopje</item>
         <item>Sofia</item>
-        <item>Stockholm</item>
+        <item>Stoccolma</item>
         <item>Tallinn</item>
-        <item>Vatican</item>
+        <item>Città del Vaticano</item>
         <item>Vienna</item>
         <item>Vilnius</item>
-        <item>Warsaw</item>
-        <item>Zagreb</item>
-        <item>Zurich</item>
+        <item>Varsavia</item>
+        <item>Zagabria</item>
+        <item>Zurigo</item>
         <item>Antananarivo</item>
         <item>Maldive</item>
         <item>Mauritius</item>
@@ -251,12 +256,12 @@
         <item>San José</item>
         <item>San Salvador</item>
         <item>Seattle</item>
-        <item>St. Louis</item>
+        <item>Saint Louis</item>
         <item>Washington D.C.</item>
         <item>Houston</item>
         <item>San Antonio</item>
         <item>Jacksonville</item>
-        <item>Baltimore</item>
+        <item>Baltimora</item>
         <item>Nashville</item>
         <item>Milwaukee</item>
         <item>Oklahoma City</item>
@@ -280,10 +285,10 @@
         <item>Osaka</item>
         <item>Lahore</item>
         <item>"Sana'a"</item>
-        <item>Barcelona</item>
-        <item>Munich</item>
-        <item>Milan</item>
-        <item>Frankfurt</item>
+        <item>Barcellona</item>
+        <item>Monaco</item>
+        <item>Milano</item>
+        <item>Francoforte</item>
         <item>Hanoi</item>
         <item>Ankara</item>
         <item>Bangalore</item>
@@ -307,10 +312,10 @@
         <item>Gurgaon</item>
         <item>Manchester</item>
         <item>Kyiv</item>
-        <item>St. Petersburg</item>
+        <item>San Pietroburgo</item>
         <item>Kraków</item>
-        <item>Wroclaw</item>
-        <item>Hamburg</item>
+        <item>Breslavia</item>
+        <item>Amburgo</item>
         <item>Oulu</item>
         <item>Haifa</item>
         <item>San Juan</item>
@@ -323,11 +328,11 @@
         <item>Kingston</item>
         <item>Praia</item>
         <item>Reykjavik</item>
-        <item>Geneva</item>
+        <item>Ginevra</item>
         <item>Windhoek</item>
         <item>Sofia</item>
-        <item>Athens</item>
-        <item>Kaliningrad</item>
+        <item>Atene</item>
+        <item>Kalingrad</item>
         <item>Khartoum</item>
         <item>Nairobi</item>
         <item>Aden</item>
@@ -335,7 +340,7 @@
         <item>Kuwait</item>
         <item>Abu Dhabi</item>
         <item>Samara</item>
-        <item>New Delhi</item>
+        <item>Nuova Delhi</item>
         <item>Novosibirsk</item>
         <item>Tailandia</item>
         <item>Irkutsk</item>
@@ -367,7 +372,7 @@
         <item>Guinea</item>
         <item>Senegal</item>
         <item>Tanzania</item>
-        <item>Djibouti</item>
+        <item>Gibuti</item>
         <item>Sierra Leone</item>
         <item>Botswana</item>
         <item>Zimbabwe</item>
@@ -405,7 +410,7 @@
         <item>Canada</item>
         <item>El Salvador</item>
         <item>Brasile</item>
-        <item>Turks and Caicos Islands</item>
+        <item>Isole Turks e Caicos</item>
         <item>Granada</item>
         <item>Guatemala</item>
         <item>Guyana</item>
@@ -524,13 +529,13 @@
         <item>Moldavia</item>
         <item>Danimarca</item>
         <item>Irlanda</item>
-        <item>Gibraltar</item>
+        <item>Gibilterra</item>
         <item>Finlandia</item>
-        <item>Isle of Man</item>
+        <item>Isola di Man</item>
         <item>Turchia</item>
         <item>Portogallo</item>
         <item>Regno Unito</item>
-        <item>Luxembourg</item>
+        <item>Lussemburgo</item>
         <item>Spagna</item>
         <item>Malta</item>
         <item>Bielorussia</item>
@@ -544,11 +549,11 @@
         <item>San Marino</item>
         <item>Bosnia e Herzegovina</item>
         <item>Ucraina</item>
-        <item>North Macedonia</item>
+        <item>Macedonia Del Nord</item>
         <item>Bulgaria</item>
         <item>Svezia</item>
         <item>Estonia</item>
-        <item>Vatican</item>
+        <item>Città del Vaticano</item>
         <item>Austria</item>
         <item>Lituania</item>
         <item>Polonia</item>
@@ -565,7 +570,7 @@
         <item>Nuova Caledonia</item>
         <item>Samoa</item>
         <item>Polinesia Francese</item>
-        <item>Antigua and Barbuda</item>
+        <item>Antigua e Barbuda</item>
         <item>Stati Uniti</item>
         <item>Stati Uniti</item>
         <item>Canada</item>
@@ -702,22 +707,22 @@
         <item>Battito cardiaco</item>
         <item>Stress</item>
         <item>Sonno</item>
-        <item>Energy</item>
+        <item>Energia</item>
         <item>Passi</item>
         <item>Calorie</item>
-        <item>Standing</item>
+        <item>In piedi</item>
         <item>Battery</item>
         <item>Data</item>
         <item>Meteo</item>
-        <item>Air pressure</item>
-        <item>Elevation</item>
+        <item>Pressione atmosferica</item>
+        <item>Altezza</item>
         <item>Conto alla rovescia</item>
         <item>Sveglia</item>
         <item>IQA</item>
         <item>UMIDITÀ RELATIVA</item>
         <item>Allenamento</item>
-        <item>UV Index</item>
-        <item>Sunrise &amp; sunset</item>
+        <item>Indice UV</item>
+        <item>Alba e tramonto</item>
         <item>Vento</item>
     </string-array>
     <string-array name="device_settings_reminder_period_array">
@@ -729,31 +734,31 @@
         <item>Personalizza</item>
     </string-array>
     <string-array name="device_settings_unlock_phone_distance_list">
-        <item>Very close</item>
+        <item>Molto vicino</item>
         <item>Chiudi</item>
-        <item>Less close</item>
+        <item>Meno vicino</item>
     </string-array>
     <string-array name="face_fun">
         <item>@string/face_common_null</item>
         <item>Battito cardiaco</item>
         <item>Stress</item>
         <item>Sonno</item>
-        <item>Energy</item>
+        <item>Energia</item>
         <item>Passi</item>
         <item>Calorie</item>
-        <item>Standing</item>
+        <item>In piedi</item>
         <item>Battery</item>
         <item>Data</item>
         <item>Meteo</item>
-        <item>Air pressure</item>
-        <item>Elevation</item>
+        <item>Pressione atmosferica</item>
+        <item>Altezza</item>
         <item>Conto alla rovescia</item>
         <item>Sveglia</item>
         <item>IQA</item>
         <item>UMIDITÀ RELATIVA</item>
         <item>Allenamento</item>
-        <item>UV Index</item>
-        <item>Sunrise &amp; sunset</item>
+        <item>Indice UV</item>
+        <item>Alba e tramonto</item>
         <item>Vento</item>
     </string-array>
     <string-array name="habit_date_week">
@@ -788,11 +793,55 @@
         <item>Sab</item>
         <item>Dom</item>
     </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_descriptions">
+        <item>Posiziona il telefono accanto a te quando dormi per monitorare i movimenti del corpo e generare le statistiche del ciclo di sonno.</item>
+        <item>"Per ottenere statistiche accurate, posiziona il telefono accanto o sotto il cuscino e assicurati che non sia a più di 50 cm di distanza dal tuo corpo."</item>
+        <item>Quando viene impostato il programma per andare a dormire, il tuo sonno verrà tracciato automaticamente.</item>
+        <item>Il monitoraggio del sonno consuma solo l\'1% circa di batteria per notte.</item>
+    </string-array>
     <string-array name="health_deep_shallow_sleep_guide_titles">
         <item>Monitora il tuo sonno</item>
-        <item>Place your phone next to your pillow</item>
+        <item>Posiziona il telefono accanto al cuscino</item>
         <item>Genera statistiche automaticamente</item>
         <item>Basso consumo energetico</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_daily_sleep_arr">
+        <item>Limitare il pisolino a 30 minuti ti aiuta ad addormentarti meglio.</item>
+        <item>Un sonno sano può aiutarti a sentirti meglio.</item>
+        <item>Fare un pisolino per 10 o 20 minuti è rilassante.</item>
+        <item>Fare un pisolino prima delle 13:30 è energizzante.</item>
+        <item>Fare un pisolino può aumentare la tua energia e le tue prestazioni.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_long_sleep_arr">
+        <item>Discreto. La maggior parte degli adulti necessita tra le 7 e le 9 ore di sonno.</item>
+        <item>Discreto. Mantieni ore di sonno regolari.</item>
+        <item>Buono. Continua così.</item>
+        <item>Sonno breve. La maggior parte degli adulti necessita tra le 7 e le 9 ore di sonno.</item>
+        <item>Superiore alla media. La maggior parte degli adulti necessita tra le 7 e le 9 ore di sonno.</item>
+        <item>Buona durata del sonno profondo. Recupero e potenziamento della memoria.</item>
+        <item>Buona durata del sonno profondo. Ricostituente e potenziatore dell\'immunità.</item>
+        <item>Sonno profondo superiore alla media. Tieni d\'occhio la tua salute.</item>
+        <item>Sonno profondo breve. Prova un po\' di esercizio, ma non prima di andare a dormire.</item>
+        <item>Sonno profondo breve. Rilassare la mente concilia il sonno.</item>
+        <item>Sonno profondo breve. Evita le bevande stimolanti prima di dormire.</item>
+        <item>Cerca di andare a dormire fra le 22:00 e le 23:00.</item>
+        <item>Late bedtime. Set a regular bedtime schedule.</item>
+        <item>Late bedtime. Keep regular sleep hours.</item>
+        <item>Having night-owl tendencies may come with health effects.</item>
+        <item>Higher than average time awake. Keep your bedroom dark and quiet.</item>
+        <item>Few wake-ups. Keep your bedroom quiet.</item>
+        <item>A few wake-ups. Keep your bedroom dark and quiet.</item>
+        <item>Good amount of REM sleep. Your creativity and problem-solving skills are boosted.</item>
+        <item>Good amount of REM sleep. Restful and relaxing.</item>
+        <item>A little REM sleep. Try exercise, but not right before bed.</item>
+        <item>A little REM sleep. Getting enough sleep can help.</item>
+        <item>Higher than average amount of REM sleep. Set aside your worries before bedtime.</item>
+        <item>Higher than average amount of REM sleep. Keep regular sleep hours.</item>
+        <item>Good amount of light sleep. Restful and creativity-boosting.</item>
+        <item>Good amount of light sleep. Restorative and stress-reducing.</item>
+        <item>Higher than average amount of light sleep. Relax and unwind before bed.</item>
+        <item>To find your morning energy, go to bed before 12 p.m.</item>
+        <item>To find your morning energy, go to bed before 12 p.m.</item>
     </string-array>
     <string-array name="health_sleep_evaluation_stage_arr">
         <item>Nessun dato</item>

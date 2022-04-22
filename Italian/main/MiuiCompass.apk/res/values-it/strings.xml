@@ -293,6 +293,7 @@
     <string name="open_perm_msg">La bussola richiede gli accessi alle info della posizione ed alla camera. Queste sono necessarie per determinare le coordinate e per fornire previsioni in tempo reale. Procedere?</string>
     <string name="open_perm_msg_no_camera">Bussola deve accedere alle informazioni sulla posizione per essere in grado di determinare le coordinate. Consenti?</string>
     <string name="open_perm_title">Permessi richiesti</string>
+    <string name="pageIndicator">%1$s. %2$s.</string>
     <string name="permission_camera_desc">Per visualizzare azimuth sull\'anteprima live</string>
     <string name="permission_description">Dettagli permessi</string>
     <string name="permission_location_desc">Per mostrare le coordinate</string>

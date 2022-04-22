@@ -164,6 +164,10 @@
         <item quantity="other">Trovati %1$d nuovi video</item>
         <item quantity="one">Trovato %1$d nuovo video</item>
     </plurals>
+    <plurals name="search_head_hint_all">
+        <item quantity="other">Risultati di ricerca (%1$d elementi)</item>
+        <item quantity="one">Risultati di ricerca (%1$d elemento)</item>
+    </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">App %1$s file associati (%2$d elementi)</item>
         <item quantity="one">App %1$s file associati (%2$d elemento)</item>
@@ -191,6 +195,10 @@
     <plurals name="user_sign_limt">
         <item quantity="other">Puoi inserire %d caratteri</item>
         <item quantity="one">Puoi inserire %d carattere</item>
+    </plurals>
+    <plurals name="video_ad_download_tip">
+        <item quantity="other"> Download</item>
+        <item quantity="one"> Download</item>
     </plurals>
     <plurals name="video_count">
         <item quantity="other">%d video</item>

@@ -247,8 +247,10 @@
     <string name="midnight">Notte</string>
     <string name="miplay_accessibility_cast">Seleziona dispositivo</string>
     <string name="miplay_accessibility_cover">Copertura</string>
+    <string name="miplay_accessibility_next">Brano Successivo</string>
     <string name="miplay_accessibility_pause">Pausa</string>
     <string name="miplay_accessibility_play">Riproduci</string>
+    <string name="miplay_accessibility_prev">Brano precedente</string>
     <string name="miplay_accessibility_seekbar">Barra di avanzamento</string>
     <string name="miplay_accessibility_volume">Volume</string>
     <string name="miplay_detail_divider_title">TV e diffusori</string>

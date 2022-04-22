@@ -28,7 +28,9 @@
     <string name="about_checking_update">Controllo aggiornamenti...</string>
     <string name="about_go_to_update">Da aggiornare</string>
     <string name="about_lasted_version">Non ci sono nuove versioni</string>
+    <string name="account_add_other_sub_des">Altri account</string>
     <string name="account_add_title">Seleziona servizio email</string>
+    <string name="account_cache_provider">Fornitore Cache Account</string>
     <string name="account_change">Cambia account</string>
     <string name="account_child_dialog_neg_text">Esci</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
@@ -394,6 +396,7 @@
     <string name="click_to_reload">Tocca lo schermo per ricaricare</string>
     <string name="close">Chiudi</string>
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
+    <string name="colon">:</string>
     <string name="compose">Scrivi</string>
     <string name="compose_encrypt_lock_description">Crittografia</string>
     <string name="compose_encrypt_unlock_description">Decripta</string>
@@ -1333,6 +1336,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="select_attachment_type">Scegli tipo di allegato</string>
     <string name="select_no_file">Nessun allegato selezionato per la condivisione.</string>
     <string name="select_path">Seleziona percorso</string>
+    <string name="selected">selezionato</string>
     <string name="send">Invia</string>
     <string name="send_encrypt_dialog_fail_content">"Sembra che il destinatario non abbia il certificato di fiducia richiesto per crittografare questa email. Inviare email normale?"</string>
     <string name="send_encrypt_dialog_fail_title">"Impossibile inviare email cifrate"</string>
@@ -1438,6 +1442,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="special_text_3">Ha scritto:</string>
     <string name="special_text_4">Ha scritto:</string>
     <string name="special_text_5">ha scritto:</string>
+    <string name="special_text_colon_en">:</string>
     <string name="special_text_sender_en">mittente</string>
     <string name="str_select_all">Seleziona tutto</string>
     <string name="str_select_none">Deseleziona tutto</string>

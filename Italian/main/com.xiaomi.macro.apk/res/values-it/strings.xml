@@ -55,6 +55,8 @@
     <string name="gb_game_macro_guide_tips">Dopo aver iniziato, esegui più azioni per combinarle in una macro.</string>
     <string name="gb_game_macro_guide_tips_two">Tocca per assegnare un pulsante</string>
     <string name="gb_game_macro_play_count">Numero di ripetizioni</string>
+    <string name="gb_game_macro_preview">Anteprima</string>
+    <string name="gb_game_macro_preview_macro">Anteprima</string>
     <string name="gb_game_macro_re_record">Riavvia</string>
     <string name="gb_game_macro_record_action">Tocca per iniziare</string>
     <string name="gb_game_macro_save">Salva</string>

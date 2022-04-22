@@ -520,6 +520,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_push_set_alias_success">Imposta riuscita pseudonimo entro \"%1$s\".</string>
     <string name="mibi_push_unset_alias_fail">Disimposta fallimenti pseudonimo entro %1$s.</string>
     <string name="mibi_push_unset_alias_success">Disimposta riuscita pseudonimo entro  \"%1$s\".</string>
+    <string name="mibi_recharge_amount_list_mibi_unit">Mi</string>
     <string name="mibi_recharge_grid_error_denomination">Il totale deve essere tra %1$s e %2$s Mi Credit.</string>
     <string name="mibi_recharge_grid_item_more">Altro</string>
     <string name="mibi_recharge_grid_mibi_picker_hint">Seleziona ammontare</string>
@@ -540,6 +541,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_review_model_icon_3">Leggi</string>
     <string name="mibi_review_model_icon_4">Video</string>
     <string name="mibi_review_model_icon_5">Musica</string>
+    <string name="mibi_review_model_icon_6">Gioco</string>
     <string name="mibi_scan_prompt_number">Scansionamento numero di carta prepagato %1$s</string>
     <string name="mibi_scan_prompt_password">Scansionamento password carta prepagata %1$s</string>
     <string name="mibi_scan_prompt_voucher">Scansionamento password Mi Credit</string>
@@ -660,6 +662,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="passport_bad_authentication">Nome utente o password non validi</string>
     <string name="passport_barcode_add_account_prompt">Per connettere un account, scansiona il codice QR dopo aver completato l\'accesso.</string>
     <string name="passport_can_not_receive_verification_code">"Non riesci a ricevere il codice di verifica?"</string>
+    <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Controlla la password…</string>
     <string name="passport_close">Chiudi</string>
     <string name="passport_delete_account">Disconetti</string>

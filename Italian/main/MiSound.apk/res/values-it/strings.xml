@@ -27,6 +27,7 @@
     <string name="afternoon">Pomeriggio</string>
     <string name="app_name">Cuffie</string>
     <string name="apply_sound">Applica</string>
+    <string name="bottomsheet_action_expand_halfway">Espandi a metà</string>
     <string name="can_you_here">Riesci a sentire il suono?</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="chinese_day_1">1</string>
@@ -230,9 +231,17 @@
     <string name="input_hint_prefix">Inserisci %1$s</string>
     <string name="keep_sound">Salva preset</string>
     <string name="low_pitch">Basse tonalità</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Seleziona AM o PM</string>
+    <string name="material_hour_selection">Seleziona l\'ora</string>
+    <string name="material_hour_suffix">"%1$s in punto"</string>
+    <string name="material_minute_selection">Seleziona i minuti</string>
+    <string name="material_minute_suffix">%1$s minuti</string>
+    <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
+    <string name="material_timepicker_text_input_mode_description">Passa alla modalità di inserimento testo per inserire l\'ora.</string>
     <string name="midnight">Notte</string>
     <string name="misound_effect_setting">Audio Mi</string>
     <string name="miuix_access_state_desc">Selezionato</string>
@@ -303,6 +312,8 @@
     <string name="morning">Mattina</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
+    <string name="mtrl_picker_date_header_title">Seleziona Data</string>
+    <string name="mtrl_picker_range_header_title">Seleziona Intervallo</string>
     <string name="mtrl_picker_save">Salva</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>

@@ -17,6 +17,11 @@
         <item>Massimo 3 processi</item>
         <item>Massimo 4 processi</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="battery_options">
         <item>Mostra sempre la percentuale</item>
         <item>Mostra la percentuale quando in carica (predefinito)</item>
@@ -677,6 +682,20 @@
         <item>Promemoria</item>
         <item>FloatAndKeyguard</item>
     </string-array>
+    <string-array name="data_type_name_default_value">
+        <item></item>
+        <item>G</item>
+        <item>E</item>
+        <item>3G</item>
+        <item>H</item>
+        <item>H+</item>
+        <item>4G</item>
+        <item>4G+</item>
+        <item></item>
+        <item>LTE</item>
+        <item>5G</item>
+        <item>5G+</item>
+    </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Spenta</item>
         <item>Mostra aree sovradisegnate</item>
@@ -1165,6 +1184,22 @@
         <item>Scala animazione 2x</item>
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
+    </string-array>
+    <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Molto lento</item>

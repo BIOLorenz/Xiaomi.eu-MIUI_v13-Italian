@@ -28,8 +28,10 @@
     <string name="action_mode_select_all">Seleziona tutto</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="ad_download">Scarica</string>
+    <string name="add_one">(1)</string>
     <string name="add_private">Aggiungi file alle cartelle nascoste</string>
     <string name="add_private_files">Aggiungi file</string>
+    <string name="added_category">Aggiunto</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="aggree_desc">Consentire a questa applicazione di connettersi a Internet e concedere le autorizzazioni obbligatorie elencate sopra.</string>
     <string name="agree">Accetto</string>
@@ -42,14 +44,20 @@
     <string name="app_name_downloadedrom">Pacchetti</string>
     <string name="app_name_downloads">Download</string>
     <string name="app_name_market">App store</string>
+    <string name="app_name_midrop">Mi Drop</string>
     <string name="app_name_miui">MIUI</string>
     <string name="app_name_miuimusic">Musica</string>
     <string name="app_name_miuiringtone">Suoneria</string>
     <string name="app_name_miuiwallpaper">Sfondi</string>
+    <string name="app_name_recorder">Registratore</string>
     <string name="app_name_screenshot">Screenshot</string>
+    <string name="available_size">Disponibile: %s</string>
     <string name="big5_summary">Codifica predefinita del sistema Windows in Cinese tradizionale</string>
+    <string name="big5_title">BIG5</string>
+    <string name="by_date">Data di modifica</string>
     <string name="by_name">Nome</string>
     <string name="by_size">Dimensione</string>
+    <string name="by_type">Tipo</string>
     <string name="byteShort">B</string>
     <string name="can_not_send_with_too_many">"Impossibile inviare così tanti elementi"</string>
     <string name="cancel">Annulla</string>
@@ -77,8 +85,10 @@
     <string name="category_other">Altro</string>
     <string name="category_photo">Foto</string>
     <string name="category_picture">Immagini</string>
+    <string name="category_qq">QQ</string>
     <string name="category_recent">Recenti</string>
     <string name="category_source">Fonte</string>
+    <string name="category_taobao">Taobao</string>
     <string name="category_theme">Temi</string>
     <string name="category_time">Ora</string>
     <string name="category_type_document">Documenti</string>
@@ -222,7 +232,14 @@
     <string name="directory_info_divider">"  |  "</string>
     <string name="disk_available">Disponibile:</string>
     <string name="disk_total">Totale:</string>
+    <string name="display_setting">Elementi visualizzati</string>
     <string name="doc_all">Tutto</string>
+    <string name="doc_epub">EPUB</string>
+    <string name="doc_ppt">PPT</string>
+    <string name="doc_txt">TXT</string>
+    <string name="doc_word">DOC</string>
+    <string name="doc_wps">WPS</string>
+    <string name="doc_xls">XLS</string>
     <string name="downloading">In download</string>
     <string name="drag_not_support_with_dir">"Impossibile riordinare o inviare cartelle"</string>
     <string name="early_morning">Mattina</string>
@@ -247,7 +264,10 @@
     <string name="encrypt_success">Tutti i file adesso sono nascosti</string>
     <string name="encrypt_success_first_five">"\"Crittografato correttamente. Tira in basso nella pagina principale di File Explorer per vedere i file."</string>
     <string name="encrypting">Crittografia…</string>
+    <string name="enter">Apri Gestore File</string>
     <string name="entry_phone_storage_internal">Memoria interna</string>
+    <string name="entry_storage_cloned_app">App clonate</string>
+    <string name="entry_storage_usb">Dispositivo USB</string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
     <string name="error_contains_sharer_path">"Impossibile crittografare i file in /MIUI/Gallery/cloud/sharer, sposta il file in un'altra cartella e prova di nuovo"</string>
@@ -346,6 +366,7 @@
     <string name="function_set_private">Per visualizzare e crittografare i file; </string>
     <string name="function_use_imei">Per accedere a IMEI e crittografare i file; </string>
     <string name="gbk_summary">Codifica che migliora la visualizzazione del testo cinese semplificato</string>
+    <string name="gbk_title">GBK</string>
     <string name="gigabyteShort">GB</string>
     <string name="go_ahead">Apri</string>
     <string name="grid_mode">Griglia</string>
@@ -355,6 +376,12 @@
     <string name="group_title_extra_new">Nuovo</string>
     <string name="guide_newfunc_content">Ora puoi filtrare i formati dei file, riorganizzare gli elementi e passare tra le viste toccando il collegamento.</string>
     <string name="guide_newfunc_title">Nuova funzionalità</string>
+    <string name="guide_one_summary">Gli elementi recenti sono raggruppati per data.</string>
+    <string name="guide_one_title">Elementi disposti su una linea temporale</string>
+    <string name="guide_three_summary">Aggiungi, rimuovi e riordina i collegamenti della pagina iniziale.</string>
+    <string name="guide_three_title">Riordina collegamenti</string>
+    <string name="guide_two_summary">Le foto della galleria e gli screenshot sono nascosti per impostazione predefinita.</string>
+    <string name="guide_two_title">Vedi solo elementi essenziali</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -387,6 +414,7 @@
     <string name="launcher_icon_add_description">Aggiungi collegamento sulla Home</string>
     <string name="launcher_icon_remove_description_content">"File Manager è un'app di sistema. Non sarai in grado di gestire i file sul tuo dispositivo dopo aver rimosso il collegamento dalla schermata Home."</string>
     <string name="launcher_icon_remove_description_title">Rimuovere \"File Manager\" dalla schermata Home?</string>
+    <string name="least_quick_category_hint">Aggiungi almeno %d collegamento</string>
     <string name="list_mode">Lista</string>
     <string name="load_more">Mostra altro</string>
     <string name="load_more_fail">Caricamento fallito</string>
@@ -402,6 +430,8 @@
     <string name="material_slider_range_start">Inizio intervallo,</string>
     <string name="megabyteShort">MB</string>
     <string name="menu_item_cleanup">Pulizia</string>
+    <string name="menu_item_ftp">FTP</string>
+    <string name="menu_item_midrop">Mi Drop</string>
     <string name="menu_item_router">Gateway</string>
     <string name="menu_item_search">Cerca</string>
     <string name="menu_item_sort">Ordina per</string>
@@ -414,8 +444,10 @@
     <string name="menu_pc_open">Apri nel computer</string>
     <string name="menu_set_wallpaper">Imposta come sfondo</string>
     <string name="mi_router_label">Gateway</string>
+    <string name="mi_share">MiShare</string>
     <string name="midnight">Notte</string>
     <string name="midriver_install_button_text">Installa</string>
+    <string name="midriver_not_install_title">Mi Drive è disinstallato</string>
     <string name="midrop_msg_1">Attiva Mi Drop su altri dispositivi</string>
     <string name="midrop_msg_2">Quando Mi Drop è attivo, puoi cercare dispositivi vicini ed inviare file</string>
     <string name="midrop_send_files">Seleziona i file da inviare</string>
@@ -429,6 +461,7 @@
     <string name="mirror_paste_no_file">"Questo file non esiste"</string>
     <string name="mirror_progress_copy">Copia…</string>
     <string name="mirror_side_bar_tab_app_name">Applicazioni</string>
+    <string name="mirror_side_bar_tab_mine_name">Mi Share</string>
     <string name="mirror_side_bar_tab_phone_name">Memoria del cellulare</string>
     <string name="mirror_side_bar_tab_recent_name">Recenti</string>
     <string name="mirror_side_bar_tab_tranfer_name">Trasferimenti e download</string>
@@ -510,12 +543,14 @@
     <string name="month_september_shortest">Set</string>
     <string name="more">Altro</string>
     <string name="morning">Mattina</string>
+    <string name="most_quick_category_hint">Puoi aggiungere fino a %d collegamenti</string>
     <string name="move_failed">"Impossibile spostare"</string>
     <string name="move_icon_to_desktop_hint">Crea un collegamento sulla Home per File Explorer per gestire più rapidamente i file.</string>
     <string name="move_icon_to_desktop_success">Adesso puoi vedere il collegamento del File Explorer sulla Home.</string>
     <string name="move_to">Sposta in…</string>
     <string name="msg_set_password">Prima imposta la password</string>
     <string name="mtp_device">Dispositivo multimediale (MTP)</string>
+    <string name="mtp_label">MTP</string>
     <string name="mtrl_badge_numberless_content_description">Nuove notifiche</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Piu di %1$d nuove notifiche</string>
@@ -545,6 +580,7 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa a modalità inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="name_empty">Inserisci un nome</string>
+    <string name="need_open_content">Permetti a File Manager di accedere alle tue foto e ai tuoi file per utilizzare questa funzionalità.</string>
     <string name="need_open_permission">Permessi richiesti</string>
     <string name="need_read_storage_permission">"File Explorer richiede i permessi per accedere ala memoria del dispositivo"</string>
     <string name="network_not_available">"Impossibile connettersi alla rete"</string>
@@ -557,6 +593,7 @@
     <string name="no_enough_storage_indication">"Spazio insufficiente, impossibile incollare. Cancella i file non necessari e riprova, oppure usa lo Strumento di Pulizia per liberare spazio."</string>
     <string name="no_enough_storage_title">Spazio insufficiente</string>
     <string name="no_file">Vuoto</string>
+    <string name="no_permission">Concedi i permessi necessari per accedere a questa funzione</string>
     <string name="no_wifi">Nessuna rete Wi-Fi</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_added_category">Disponibile</string>
@@ -566,6 +603,7 @@
     <string name="notif_server_starting">Avviato server FTP</string>
     <string name="notif_title">Server FTP in esecuzione</string>
     <string name="online_not_support">"In questo momento non è possibile vedere il file."</string>
+    <string name="open_or_close_wlan">Attiva e disattiva il Wi-Fi</string>
     <string name="open_private_folder">Creazione cartella nascosta…</string>
     <string name="operation_add_fav">Aggiunto ai preferiti…</string>
     <string name="operation_cancel">Annulla</string>
@@ -607,6 +645,7 @@
     <string name="otg_data_transferring">"Trasferimento di file in corso... Non scollegare l'archiviazione esterna."</string>
     <string name="otg_file_security_confirm">copia sul telefono</string>
     <string name="otg_file_security_details">Per favore copialo sul telefono</string>
+    <string name="otg_file_security_note">OGTSecurity</string>
     <string name="overwrite_msg">\"%s\" è già esistente. Tocca per sostituirlo con il nuovo file.</string>
     <string name="pad">Memoria interna</string>
     <string name="partial_cancel_successful">"Impossibile rimuovere alcuni file. Gli altri file verranno spostati in %s."</string>
@@ -642,6 +681,7 @@
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
     <string name="privacy_policy_renew">Informativa sulla privacy aggiornata</string>
+    <string name="privacy_policy_renew_content"><Data>\"L\'Informativa sulla privacy &lt;a href=\"%1$s\"&gt;di Gestore File&lt;/a&gt; è stata aggiornata. Per comprendere appieno i tuoi diritti come utente e le modalità con cui utilizziamo i tuoi dati, leggi e accetta la nuova versione prima di continuare.\"</Data></string>
     <string name="private_files">Nascosti</string>
     <string name="private_folder">Cartella nascosta</string>
     <string name="private_folder_no_file_hints">Tieni premuto sul file o la cartella per nasconderli.</string>
@@ -655,11 +695,14 @@
     <string name="pull_to_refresh">Trascina per aggiornare</string>
     <string name="qq_msg">"A causa delle restrizioni di Android 11, Gestore File non può accedere e visualizzare i documenti di QQ."</string>
     <string name="qq_title">"Impossibile accedere ai documenti di WeChat"</string>
+    <string name="recent_hide_camera_and_screenshots">"Non mostrare gli elementi della galleria e gli screenshot tra i file recenti"</string>
     <string name="refresh_fail">Aggiornamento fallito</string>
     <string name="refresh_success">Aggiornamento completato</string>
     <string name="refreshing">Aggiornamento</string>
+    <string name="reinstall_midriver_message">Installare di nuovo?</string>
     <string name="release_enter_private">Rilascia per aprire la cartella privata</string>
     <string name="release_refresh">Rilascia per aggiornare</string>
+    <string name="remainder_size">Rimanente: %s</string>
     <string name="rename_alert">"Modificando l'estensione di questo file potresti non essere più in grado di aprirlo."</string>
     <string name="rename_alert2">Il file verrà nascosto.</string>
     <string name="rename_failed">"Impossibile rinominare %1$s"</string>
@@ -690,6 +733,8 @@
     <string name="search_description">Cerca tutti i file sul dispositivo</string>
     <string name="search_empty_view_hint">"Nessun risultato"</string>
     <string name="search_error_hint">Cerca</string>
+    <string name="search_file_type_apk">Apk</string>
+    <string name="search_file_type_doc">Doc</string>
     <string name="search_file_type_music">Musica</string>
     <string name="search_file_type_picture">Foto</string>
     <string name="search_file_type_video">Video</string>
@@ -714,6 +759,12 @@
     <string name="set_pattern">Password aggiornata</string>
     <string name="set_pattern_btn">Imposta</string>
     <string name="set_pattern_msg">Imposta di nuovo la tua password. La password per la protezione della privacy funziona anche per foto e messaggi.</string>
+    <string name="size_lv1">Minore di %d KB</string>
+    <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
+    <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
+    <string name="size_lv4" formatted="false">%1d MB - %2d MB</string>
+    <string name="size_lv5" formatted="false">%1d MB - %2d GB</string>
+    <string name="size_lv6">Maggiore di %d GB</string>
     <string name="skip">Salta</string>
     <string name="skip_file">Salta</string>
     <string name="smb_loading">Attendi…</string>
@@ -830,6 +881,7 @@
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
     <string name="tools">STRUMENTI</string>
+    <string name="total_size">Totale: %s</string>
     <string name="transfer">Trasferimenti e download</string>
     <string name="transfer_done">File spostati con successo.</string>
     <string name="transfer_private_data">Spostamento dei file nascosti dalla scheda SD…</string>
@@ -851,6 +903,7 @@
     <string name="user_guide_continue_use">OK</string>
     <string name="user_not_login">Prima accedi</string>
     <string name="utf8_summary">Tipo di codifica predefinito</string>
+    <string name="utf8_title">UTF-8</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="view_type">Mostra</string>
@@ -863,6 +916,8 @@
     <string name="wifi_state">Rete Wi-Fi</string>
     <string name="withdraw">Revoca</string>
     <string name="withdraw_consent">Revoca autorizzazione...</string>
+    <string name="withdraw_consent_content">"Se continui, ritirerai il tuo consenso all'Informativa sulla privacy di Gestore File. Le informazioni personali già raccolte e conservate saranno cancellate entro un determinato periodo in conformità delle disposizioni legislative e regolamentari applicabili, salvo altrimenti disposto. Come Gestore File fornisce i propri servizi basati sulla raccolta delle informazioni personali necessarie, il vostro ritiro del consenso sarà considerato come rifiuto di accettare i servizi di Gestore File."</string>
+    <string name="withdraw_consent_summary">Ritira il consenso all\'informativa sulla privacy di Gestore File</string>
     <string name="year_month_day_format">dd MMM, yyyy</string>
     <string name="yes">Sì</string>
     <string name="yesterday">Ieri</string>

@@ -304,6 +304,7 @@
     <string name="miui_main_ring_africa">Savana</string>
     <string name="miui_main_ring_amazon">Foresta pluviale</string>
     <string name="miui_main_ring_arctic">Artico</string>
+    <string name="miui_main_ring_australia">Australia</string>
     <string name="miui_main_ring_defalut">Usa suono di notifica attuale</string>
     <string name="miui_main_ring_mute_tips">"Impossibile riprodurre i suoni in modalità silenziosa"</string>
     <string name="miui_main_ring_sub_title">Tocca per riprodurre i suoni e selezionare il suono di notifica</string>
@@ -445,6 +446,7 @@
     <string name="share_title">Condividi</string>
     <string name="share_wechat_timeline_title">Momenti WeChat</string>
     <string name="share_wechat_title">WeChat</string>
+    <string name="share_weibo_title">Weibo</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
@@ -529,6 +531,8 @@
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
     <string name="withdraw_consent_failed">"Impossibile revocare il consenso"</string>
+    <string name="withdraw_consent_failed_hint">Si è verificato un errore del server. Aspetta e prova di nuovo.</string>
     <string name="withdraw_consent_failed_hint_connect_net">Impossibile collegarsi alla rete. Controlla le impostazioni e riprova.</string>
+    <string name="withdrawing">Revoca del consenso…</string>
     <string name="yesterday">Ieri</string>
 </resources>

@@ -168,6 +168,7 @@
     <string name="accessibility_multi_user_switch_switcher">Cambia utente</string>
     <string name="accessibility_multi_user_switch_switcher_with_current">Cambia utente, utente attuale %s</string>
     <string name="accessibility_no_battery">Nessuna batteria.</string>
+    <string name="accessibility_no_calling">Nessuna chiamata.</string>
     <string name="accessibility_no_data">Nessun dato.</string>
     <string name="accessibility_no_phone">Nessun telefono.</string>
     <string name="accessibility_no_signal">Nessun segnale.</string>
@@ -351,11 +352,18 @@
     <string name="adbwifi_warning_message">Il debug wireless è destinato solo a fini di sviluppo. Usalo per copiare i dati tra il computer e il dispositivo, installare applicazioni sul dispositivo senza notifica e leggere i dati di log.</string>
     <string name="adbwifi_warning_title">Consentire il debug wireless?</string>
     <string name="add_tile">Aggiungi tile</string>
+    <string name="add_user_failed">Creazione nuovo utente non riuscita</string>
     <string name="adjust_button_width">Regola larghezza pulsante</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="airplane_mode">Modalità Aereo</string>
     <string name="alarm_template">a %1$s</string>
     <string name="alarm_template_far">su %1$s</string>
+    <string name="alarms_and_reminders_footer_title">"Consenti a questa app di impostare sveglie e programmare azioni per le quali il fattore temporale è decisivo. L'app potrà essere eseguita in background, comportando un consumo maggiore della batteria.
+
+Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi basati sull'orario programmati da questa app non funzioneranno."</string>
+    <string name="alarms_and_reminders_label">Sveglie e promemoria</string>
+    <string name="alarms_and_reminders_switch_title">Consenti l\'impostazione di sveglie e promemoria</string>
+    <string name="alarms_and_reminders_title">Sveglie e promemoria</string>
     <string name="allow_mock_location">Permettere false localizzazioni?</string>
     <string name="allow_mock_location_summary">Permettere false localizzazioni?</string>
     <string name="always_use_accessory">Usa per impostazione predef. per accessorio USB</string>
@@ -396,6 +404,7 @@
     <string name="battery_info_status_charging">Ricarica</string>
     <string name="battery_info_status_charging_fast">Carica rapida</string>
     <string name="battery_info_status_charging_slow">Carica lenta</string>
+    <string name="battery_info_status_charging_wireless">Ricarica wireless in corso</string>
     <string name="battery_info_status_discharging">Non in carica</string>
     <string name="battery_info_status_full">Piena</string>
     <string name="battery_info_status_not_charging">Non in carica</string>
@@ -530,6 +539,7 @@ Qualità di Riproduzione"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">Frequenza Campione Audio Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Seleziona Codec Audio Bluetooth:
 Frequenza Campione"</string>
+    <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">Codec Audio Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Seleziona Codec Audio Bluetooth"</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">Grigio significa che non è supportato dal telefono o dalle cuffie</string>
@@ -540,12 +550,14 @@ Frequenza Campione"</string>
     <string name="bluetooth_show_devices_without_names">Mostra i dispositivi Bluetooth senza nomi</string>
     <string name="bluetooth_show_devices_without_names_summary">Verranno mostrati i dispositivi Bluetooth senza nome (solo indirizzo MAC)</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+    <string name="bluetooth_talkback_computer">Computer</string>
     <string name="bluetooth_talkback_headphone">Cuffie</string>
     <string name="bluetooth_talkback_headset">Cuffie</string>
     <string name="bluetooth_talkback_imaging">Immagine</string>
     <string name="bluetooth_talkback_input_peripheral">Periferica Input</string>
     <string name="bluetooth_talkback_phone">Telefono</string>
     <string name="bluetooth_tethered">Bluetooth con tethering</string>
+    <string name="bottomsheet_action_expand_halfway">Espandi a metà</string>
     <string name="branded_monitoring_description_app_personal">"Sei connesso a %1$s, che può monitorare la tua attività di rete personale, incluse e-mail, app e siti web."</string>
     <string name="branded_vpn_footer">La rete può essere monitorata</string>
     <string name="broadcast_tile">Trasmissione tile</string>
@@ -695,6 +707,7 @@ Frequenza Campione"</string>
     <string name="confirm_enable_oem_unlock_text">ATTENZIONE: La protezione dispositivo non funzionerà su questo dispositivo mentre questa opzione sarà attiva.</string>
     <string name="confirm_enable_oem_unlock_title">Permettere sblocco OEM?</string>
     <string name="confirm_pin_msg">Immetti di nuovo il PIN</string>
+    <string name="connected_to_metered_access_point">Connesso a rete limitata</string>
     <string name="connected_via_app">Collegato tramite %1$s</string>
     <string name="connected_via_carrier">Collegato tramite %1$s</string>
     <string name="connected_via_network_scorer">Connesso automaticamente tramite %1$s</string>
@@ -759,15 +772,26 @@ Frequenza Campione"</string>
     <string name="convert_to_file_encryption_done">File già crittografato</string>
     <string name="convert_to_file_encryption_enabled">Converti…</string>
     <string name="copy">Copia</string>
+    <string name="creating_new_user_dialog_message">Creazione nuovo utente…</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteronomalia (rosso-verde)</string>
     <string name="daltonizer_mode_disabled">Disabilitato</string>
     <string name="daltonizer_mode_monochromacy">Monocromia</string>
     <string name="daltonizer_mode_protanomaly">Protonomalia (rosso-verde)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalia (blu-giallo)</string>
     <string name="daltonizer_type_overridden">Sovrascritto da %1$s</string>
+    <string name="data_connection_3_5g_plus">H+</string>
+    <string name="data_connection_3g">3G</string>
+    <string name="data_connection_4g">4G</string>
+    <string name="data_connection_4g_plus">4G+</string>
+    <string name="data_connection_5g">5G</string>
+    <string name="data_connection_5g_plus">5G+</string>
+    <string name="data_connection_5ge_html">&lt;i&gt;5G &lt;small&gt;E&lt;/small&gt;&lt;/i&gt;</string>
+    <string name="data_connection_carrier_wifi">W+</string>
+    <string name="data_connection_cdma">1X</string>
     <string name="data_connection_edge">EDGE</string>
     <string name="data_connection_gprs">GPRS</string>
     <string name="data_connection_hspa">HSPA</string>
+    <string name="data_connection_lte">LTE</string>
     <string name="data_connection_lte_plus">LTE+</string>
     <string name="data_connection_no_internet">Non connesso ad Internet</string>
     <string name="data_saver">Risparmio dati</string>
@@ -822,6 +846,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="device_locked_without_biometric_face">"Impossibile sbloccare questo dispositivo con i dati del viso quando si utilizza un blocco schermo di terze parti"</string>
     <string name="device_locked_without_biometric_finger">"Impossibile sbloccare questo dispositivo con impronte digitali quando si utilizza un blocco schermo di terze parti"</string>
     <string name="device_services">Servizi Del Dispositivo</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: dopo un reboot, questa app non può avviarsi finché non sblocchi il telefono"</string>
     <string name="disable_carrier_button_text">Disattiva eSIM</string>
     <string name="disable_overlays">Disabilita overlay HW</string>
@@ -1016,6 +1041,7 @@ Inserisci il PIN per sbloccare."</string>
     <string name="fs_gesture_switch_recents_summary">Scorri dal basso e attendi un secondo</string>
     <string name="fsg_demo_back">Indietro</string>
     <string name="fsg_demo_go_on">Inizia</string>
+    <string name="game_status">In riproduzione</string>
     <string name="garbage_count">Ci sono %1$s vecchie istanze</string>
     <string name="global_action_lock_message">Sblocca il telefono per ulteriori opzioni</string>
     <string name="go_to_web">Naviga in Internet</string>
@@ -1031,7 +1057,10 @@ Inserisci il PIN per sbloccare."</string>
     <string name="guest_notification_remove_action">RIMUOVI OSPITE</string>
     <string name="guest_notification_text">Per eliminare app  e dati, rimuovere l\'utente ospite</string>
     <string name="guest_notification_title">Utente Ospite</string>
+    <string name="guest_reset_guest">Reimposta ospite</string>
     <string name="guest_reset_guest_confirm_button">Resetta</string>
+    <string name="guest_reset_guest_dialog_title">Reimpostare account ospite?</string>
+    <string name="guest_resetting">Ripristino account ospite…</string>
     <string name="guest_wipe_session_dontwipe">Sì, continua</string>
     <string name="guest_wipe_session_message">Vuoi continuare la tua sessione?</string>
     <string name="guest_wipe_session_title">Ben tornato Ospite!</string>
@@ -1230,6 +1259,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
     <string name="keyguard_carrier_default">Nessun servizio</string>
     <string name="keyguard_charged">Caricato</string>
     <string name="keyguard_charging_back_to_lockscreen">Torna alla schermata di blocco</string>
+    <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_double_fast_and_level_tip">Potenziamento della velocità di ricarica %s</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Oggi %s</string>
@@ -1248,7 +1278,9 @@ Utilizza solo l'alimentatore in dotazione."</string>
     <string name="keyguard_indication_trust_unlocked">Mantenuto sbloccato da Agente di Attendibilità</string>
     <string name="keyguard_instructions_when_pattern_disabled">Premi Menu per sbloccare.</string>
     <string name="keyguard_invalid_sim_puk_hint">Il codice PUK deve contenere %1$d cifre.</string>
+    <string name="keyguard_left_mi_wallet">Mi Wallet</string>
     <string name="keyguard_left_remotecentral">Telecomando Mi</string>
+    <string name="keyguard_left_smarthome">Mi Home</string>
     <string name="keyguard_left_torch">Torcia</string>
     <string name="keyguard_left_view_lock_wallpaper">Sfondi Carousel</string>
     <string name="keyguard_low_battery">Collega il tuo caricabatteria.</string>
@@ -1285,6 +1317,7 @@ Contatta il tuo provider di rete per richiedere un'altra SIM."</string>
     <string name="keyguard_unlock_press">Premi per aprire</string>
     <string name="keyguard_widget_12_hours_format">hh:mm</string>
     <string name="keywords_adb_wireless">ADB, debug, sviluppatori</string>
+    <string name="keywords_alarms_and_reminders">pianificazione, sveglia, promemoria, orologio</string>
     <string name="kg_enter_confirm_pin_hint">Conferma il PIN</string>
     <string name="kg_face_not_recognized">Non riconosciuto</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">Hai provato a sbloccare il telefono senza successo per %1$d volte. Dopo altri %2$d tentativi sbagliati, il profilo di lavoro verrà rimosso, e tutti i dati del profilo eliminati.</string>
@@ -1433,9 +1466,17 @@ d MMMM"</string>
     <string name="manage_notifications_history_text">Cronologia</string>
     <string name="manage_notifications_text">Gestisci</string>
     <string name="managed_user_title">Tutte le app attive</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Seleziona AM o PM</string>
+    <string name="material_hour_selection">Seleziona l\'ora</string>
+    <string name="material_hour_suffix">"%1$s in punto"</string>
+    <string name="material_minute_selection">Seleziona i minuti</string>
+    <string name="material_minute_suffix">%1$s minuti</string>
+    <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Hour</string>
     <string name="material_timepicker_minute">Minuti</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
+    <string name="material_timepicker_text_input_mode_description">Passa alla modalità di inserimento testo per inserire l\'ora.</string>
     <string name="media_category">Media</string>
     <string name="media_output_dialog_add_output">Aggiungi output</string>
     <string name="media_output_dialog_connect_failed">"Impossibile connettersi. Riprova."</string>
@@ -1452,6 +1493,7 @@ d MMMM"</string>
     <string name="media_projection_remember_text">"Non mostrare più"</string>
     <string name="media_seamless_remote_device">Dispositivo</string>
     <string name="media_transfer_this_device_name">Questo dispositivo</string>
+    <string name="media_transfer_this_phone">Questo telefono</string>
     <string name="media_transfer_wired_device_name">Dispositivo audio cablato</string>
     <string name="media_transfer_wired_usb_device_name">Cuffie cablate</string>
     <string name="megabyte_per_second">M/s</string>
@@ -1466,6 +1508,8 @@ d MMMM"</string>
     <string name="missed_call">Chiamata persa</string>
     <string name="miui_clock_city_name_local">Dispositivo</string>
     <string name="miui_clock_city_name_second">Secondo orologio</string>
+    <string name="miui_clock_fancy_colon"></string>
+    <string name="miui_digital_clock_dot">:</string>
     <string name="miui_keyboard_shortcut_click">Pressione</string>
     <string name="miui_keyboard_shortcut_double_click">Doppio tocco</string>
     <string name="miui_keyboard_shortcut_system_dock">Mostra barra inferiore app</string>
@@ -1504,6 +1548,10 @@ dd/MM"</string>
     <string name="miui_snooze_user_set_fail">Vai su Impostazioni &gt; Notifiche &amp; Centro di controllo per opzioni aggiuntive</string>
     <string name="miui_snooze_user_set_success">Applicato con successo. Vai su Impostazioni &gt; Notifiche &amp; Centro di controllo per opzioni aggiuntive.</string>
     <string name="miui_unimportant_notifications">Notifiche non importanti</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuix_access_state_desc">Selezionato</string>
     <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
@@ -1669,7 +1717,9 @@ Se hai domande, contatta %2$s."</string>
     <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
     <string name="mtrl_picker_cancel">Annulla</string>
     <string name="mtrl_picker_confirm">Salva</string>
+    <string name="mtrl_picker_date_header_title">Seleziona Data</string>
     <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Seleziona Intervallo</string>
     <string name="mtrl_picker_save">Salva</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
@@ -1841,11 +1891,15 @@ Se hai domande, contatta %2$s."</string>
     <string name="plugins">Plugin</string>
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
+    <string name="power_charging_duration">%1$s - %2$s rimanenti fino al completamento</string>
+    <string name="power_charging_limited">%1$s - Ricarica temporaneamente limitata</string>
     <string name="power_discharge_by">Dovrebbe durare circa fino al %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Dovrebbe durare almeno fino a %1$s in base al tuo utilizzo (%2$s)</string>
     <string name="power_discharge_by_only">Dovrebbe durare circa fino a %1$s</string>
     <string name="power_discharge_by_only_enhanced">Dovrebbe durare circa fino a %1$s in base al tuo utilizzo</string>
     <string name="power_discharge_by_only_short">Fino alle %1$s</string>
+    <string name="power_discharging_duration">Circa %1$s rimanenti (%2$s)</string>
+    <string name="power_discharging_duration_enhanced">Circa %1$s rimanenti in base al tuo utilizzo (%2$s)</string>
     <string name="power_notification_controls_description">"Con i controlli energia nell'area notifiche, puoi impostare un livello di importanza da 0 a 5 per le notifiche di un'app.
 \"<b>Livello 5</b>\"
 - Mostra in cima all'elenco delle notifiche
@@ -1896,6 +1950,9 @@ Se hai domande, contatta %2$s."</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
     <string name="profile_owned_footer">Il profilo potrebbe essere monitorato</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
+    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="qs_alarm_tile_no_alarm">Nessuna sveglia</string>
     <string name="qs_bill_message_balance">%1$s %2$s rimanenti</string>
     <string name="qs_control_big_tile_state_closed">Spenta</string>
@@ -2057,6 +2114,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="quick_settings_settings_label">Impostazioni</string>
     <string name="quick_settings_sim_disabled">" (Disabilitato)"</string>
     <string name="quick_settings_sync_label">Sincronizza</string>
+    <string name="quick_settings_tethering_label">Tethering</string>
     <string name="quick_settings_tiles_old_mode">wifi,cell,bt,flashlight,batterysaver,screenshot,edit</string>
     <string name="quick_settings_tiles_super_save">wifi,bt,gps,cell,vibrate</string>
     <string name="quick_settings_time_label">Ora</string>
@@ -2209,6 +2267,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="sensor_privacy_start_use_mic_dialog_content">Questo sblocca l\'accesso a tutte le applicazioni e i servizi autorizzati a utilizzare il microfono.</string>
     <string name="sensor_privacy_start_use_mic_dialog_title">Sbloccare il microfono del dispositivo?</string>
     <string name="settings_label">Impostazioni</string>
+    <string name="settingslib_learn_more_text">Maggiori informazioni</string>
     <string name="shared_data_delete_failure_text">Si è verificato un errore durante l\'eliminazione dei dati condivisi.</string>
     <string name="shared_data_no_accessors_dialog_text">Non ci sono lease acquisiti per questi dati condivisi. Vuoi eliminarlo?</string>
     <string name="shared_data_no_blobs_text">Non ci sono dati condivisi per questo utente.</string>
@@ -2336,6 +2395,7 @@ d MMM"</string>
     <string name="switch_bar_off">Spenta</string>
     <string name="switch_bar_on">Attivata</string>
     <string name="switch_system_user">Apri Primo Spazio</string>
+    <string name="symbol_colon">:</string>
     <string name="system_ui_aod_date_pattern">eeedMMM</string>
     <string name="system_ui_tuner">Messa a punto UI di Sistema</string>
     <string name="tap_again">Tocca di nuovo</string>
@@ -2343,6 +2403,7 @@ d MMM"</string>
     <string name="tether_settings_title_all">Tethering e hotspot</string>
     <string name="tether_settings_title_bluetooth">Tethering bluetooth</string>
     <string name="tether_settings_title_usb">Tethering USB</string>
+    <string name="tether_settings_title_usb_bluetooth">Tethering</string>
     <string name="tether_settings_title_wifi">Hotspot portatile</string>
     <string name="tethering_hardware_offload">Accelerazione hardware tethering</string>
     <string name="tethering_hardware_offload_summary">Usa accelerazione hardware tethering se disponibile</string>
@@ -2415,6 +2476,12 @@ Il tuo telefono potrebbe diventare troppo caldo se:
     <string name="traffic_unit_gigabyte">GB</string>
     <string name="traffic_unit_kilobyte">KB</string>
     <string name="traffic_unit_megabyte">MB</string>
+    <string name="transcode_default">Supponendo che le app supportino formati moderni</string>
+    <string name="transcode_disable_cache">Disabilita la cache transcodifica</string>
+    <string name="transcode_enable_all">Abilita la transcodifica</string>
+    <string name="transcode_notification">Mostra notifiche di transcodifica</string>
+    <string name="transcode_settings_title">Impostazioni transcodifica multimediale</string>
+    <string name="transcode_user_control">Sovrascrivi transcodifica predefinita</string>
     <string name="transition_animation_scale_title">Transizione scala animazione</string>
     <string name="tts_default_lang_summary">Imposta la lingua specifica per il testo parlato</string>
     <string name="tts_default_lang_title">Lingua</string>
@@ -2624,6 +2691,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_cant_connect">"Impossibile connettersi"</string>
     <string name="wifi_cant_connect_to_ap">"Impossibile collegare a '%1$s'"</string>
     <string name="wifi_check_password_try_again">Controlla la password e prova di nuovo</string>
+    <string name="wifi_connected_low_quality">Bassa qualità</string>
     <string name="wifi_connected_no_internet">Non connesso ad Internet</string>
     <string name="wifi_debugging_allow">Consenti</string>
     <string name="wifi_debugging_always">Consenti sempre su questa rete</string>
@@ -2665,12 +2733,31 @@ Indirizzo Wi-Fi (BSSID)
     <string name="wifi_scan_throttling_summary">Riduce il consumo della batteria e migliora le prestazioni di rete</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_eap_suiteb">WPA3-Enterprise</string>
+    <string name="wifi_security_eap_wpa">WPA-Enterprise</string>
+    <string name="wifi_security_eap_wpa2_wpa3">WPA2/WPA3-Enterprise</string>
+    <string name="wifi_security_eap_wpa3">WPA3-Enterprise</string>
+    <string name="wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
     <string name="wifi_security_none">Nessuno</string>
     <string name="wifi_security_none_owe">Nessuna/Aperta</string>
     <string name="wifi_security_owe">OWE</string>
+    <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
     <string name="wifi_security_sae">SAE</string>
+    <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifi_security_short_eap_wpa">WPA-EAP</string>
+    <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
     <string name="wifi_security_short_none_owe">Nessuna/OWE</string>
+    <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
     <string name="wifi_security_short_sae">SAE</string>
+    <string name="wifi_security_short_wep">WEP</string>
+    <string name="wifi_security_short_wpa">WPA</string>
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_wapi_cert">WAPI-Cert</string>
+    <string name="wifi_security_wapi_psk">WAPI-PSK</string>
+    <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
@@ -2691,10 +2778,12 @@ Assicurati che i certificati siano validi."</string>
 Sembra che l'archiviazione delle credenziali non sia stato attivato."</string>
     <string name="wifi_wapi_psk_type">Tip di password</string>
     <string name="wifi_wapi_user_certificate">Certificato utente</string>
+    <string name="wifitrackerlib_auto_connect_disable">Connessione automatica spenta</string>
     <string name="wifitrackerlib_available_via_app">Disponibile tramite %1$s</string>
     <string name="wifitrackerlib_connected_via_app">Connesso tramite %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Collegato automaticamente tramite %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Collegato automaticamente tramite fornitore di servizi di valutazione rete</string>
+    <string name="wifitrackerlib_imsi_protection_warning">Questa rete riceve un ID SIM che può essere utilizzato per tracciare la posizione del dispositivo. <annotation id="url">Scopri di più</annotation></string>
     <string name="wifitrackerlib_osu_completing_sign_up">Completamento della registrazione…</string>
     <string name="wifitrackerlib_osu_connect_failed">Impossibile collegarsi</string>
     <string name="wifitrackerlib_osu_opening_provider">Apertura di %1$s…</string>
@@ -2708,20 +2797,50 @@ Sembra che l'archiviazione delle credenziali non sia stato attivato."</string>
     <string name="wifitrackerlib_speed_label_slow">Lento</string>
     <string name="wifitrackerlib_speed_label_very_fast">Molto veloce</string>
     <string name="wifitrackerlib_speed_label_very_slow">Molto lenta</string>
+    <string name="wifitrackerlib_summary_separator">" / "</string>
+    <string name="wifitrackerlib_tap_to_renew_subscription_and_connect">Tocca per rinnovare l\'abbonamento e connetterti</string>
     <string name="wifitrackerlib_tap_to_sign_up">Tocca per registrarti</string>
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Punto di accesso momentaneamente al completo</string>
     <string name="wifitrackerlib_wifi_check_password_try_again">Controlla la password e riprova</string>
+    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Connesso al dispositivo. Internet non disponibile."</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Disattivato</string>
+    <string name="wifitrackerlib_wifi_disabled_network_failure">Errore di configurazione IP</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Problema di autenticazione</string>
     <string name="wifitrackerlib_wifi_disconnected">Disconnesso</string>
     <string name="wifitrackerlib_wifi_limited_connection">Connessione limitata</string>
+    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Impossibile connettersi. Riprova più tardi."</string>
+    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">È stata superata la capacità della rete. Riprova più tardi.</string>
+    <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Segnale debole. Prova ad avvicinarti al router.</string>
     <string name="wifitrackerlib_wifi_metered_label">A consumo</string>
+    <string name="wifitrackerlib_wifi_network_not_found">"Impossibile connettersi. Riprova più tardi."</string>
     <string name="wifitrackerlib_wifi_no_internet">Nessun accesso a Internet</string>
+    <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Non si connetterà automaticamente</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Scaduto</string>
+    <string name="wifitrackerlib_wifi_poor_channel_conditions">Condizioni di rete temporaneamente scadenti</string>
     <string name="wifitrackerlib_wifi_remembered">Salvato</string>
+    <string name="wifitrackerlib_wifi_security_eap_suiteb">WPA3-Enterprise 192-bit</string>
+    <string name="wifitrackerlib_wifi_security_eap_wpa3">WPA3-Enterprise</string>
+    <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
+    <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_none">Nessuno</string>
+    <string name="wifitrackerlib_wifi_security_owe">Aperta</string>
+    <string name="wifitrackerlib_wifi_security_passpoint">Passpoint</string>
+    <string name="wifitrackerlib_wifi_security_sae">WPA3-Personal</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_owe">OWE</string>
+    <string name="wifitrackerlib_wifi_security_short_sae">WPA3</string>
+    <string name="wifitrackerlib_wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifitrackerlib_wifi_security_short_wpa_wpa2_wpa3">WPA/WPA2/WPA3</string>
+    <string name="wifitrackerlib_wifi_security_wep">WEP</string>
+    <string name="wifitrackerlib_wifi_security_wpa_wpa2">WPA/WPA2-Personal</string>
+    <string name="wifitrackerlib_wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Personal</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Non a consumo</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi non si collegherà automaticamente</string>
     <string name="window_animation_scale_title">Scala animazioni finestra</string>
+    <string name="window_blurs">Permetti sfocature a livello finestra</string>
     <string name="wireless_change_to_ac_charging">Sei passato alla ricarica con filo</string>
     <string name="wireless_charge_current">Ricarica</string>
     <string name="wireless_charge_dialog_cancel">Ok</string>

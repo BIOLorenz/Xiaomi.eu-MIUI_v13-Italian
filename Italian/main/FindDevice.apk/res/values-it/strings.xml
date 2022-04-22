@@ -27,6 +27,7 @@
     <string name="adding_or_updating_account">Aggiornamento account…</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="app_name">Trova Telefono</string>
+    <string name="captcha">Captcha</string>
     <string name="change_find_device_status_failed">"Impossibile sbloccare. %s."</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -134,6 +135,10 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
     <string name="evening">Pomeriggio</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="find_device">Trova Telefono</string>
+    <string name="find_device_capture_done_notification_content">Visualizza la foto su i.mi.com</string>
+    <string name="find_device_capture_done_notification_title">Trova dispositivo ha scattato una foto da remoto</string>
+    <string name="find_device_capture_notification_content">Una richiesta di scattare una foto in remoto con questo dispositivo è stata inviata dal tuo account</string>
+    <string name="find_device_capture_notification_title">Trova dispositivo sta per scattare una foto</string>
     <string name="find_device_crash">Trova Dispositivo si è chiuso in modo inaspettato</string>
     <string name="find_device_error_access_denied">Accesso negato.</string>
     <string name="find_device_error_account_sys_timeout">"Impossibile collegarsi al Mi Account"</string>
@@ -172,6 +177,7 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>

@@ -31,7 +31,9 @@
     <string name="action_back">Indietro</string>
     <string name="action_settings">Impostazioni</string>
     <string name="actionbar_button_up_description">Indietro</string>
+    <string name="ad">Annuncio</string>
     <string name="ad_download">Installa</string>
+    <string name="ad_mark">Annuncio</string>
     <string name="ad_title">Altre persone hanno scaricato anche %1$s </string>
     <string name="ad_title_other">Con questa immagine, altri hanno scaricato anche</string>
     <string name="add_flow_fail_haveget_msg">Il periodo di prova è scaduto.</string>
@@ -61,6 +63,7 @@
     <string name="cancel">Annulla</string>
     <string name="cancel_running_download">Annulla</string>
     <string name="cancle">Annulla</string>
+    <string name="category">Categoria</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -144,6 +147,7 @@
     <string name="copy_info">Copiato negli appunti. Puoi condividerlo con gli amici!</string>
     <string name="creat_task_success">Aggiunto alla coda dei download</string>
     <string name="create_task">Crea attività</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Per scaricare gli elementi e per la visualizzazione e la gestione di download</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="delete">Elimina</string>
@@ -466,6 +470,7 @@
     <string name="no_share_file_content">Il file selezionato è già stato eliminato</string>
     <string name="no_share_files">"Impossibile condividere file che sono già stati eliminati"</string>
     <string name="no_share_files_content">"Alcuni dei file che stai cercando di condividere sono già stati eliminati. Altri file condivisi con successo."</string>
+    <string name="no_support_modify_path">"Impossibile cambiare posizione per gli elementi scaricati a causa di motivi di sicurezza"</string>
     <string name="no_vip_info">Ottieni l\'abbonamento a Xunlei per velocizzare i download</string>
     <string name="no_vip_show_info">"Velocizza i download
 su tutti i tuoi dispositivi con Xunlei"</string>
@@ -506,6 +511,7 @@ su tutti i tuoi dispositivi con Xunlei"</string>
     <string name="pref_download_revert_default">Salva nella posizione predefinita</string>
     <string name="pref_download_settings_title">Il download tramite dati mobili è limitato</string>
     <string name="pref_download_storage_path">Salva in un percorso personalizzato</string>
+    <string name="pref_download_storage_path_2">Posizione degli elementi scaricati</string>
     <string name="pref_permission_description">Dettagli permessi</string>
     <string name="pref_sniff_shortcut">Crea collegamento nella schermata Home per la ricerca web</string>
     <string name="pref_summary_any_bytes_popup">Attendi sempre la connessione Wi-Fi per scaricare i file</string>
@@ -837,6 +843,7 @@ Accelera i download su tutti i tuoi dispositivi."</string>
     <string name="xlunbind_sub_title">Rimuovi il tuo account Xunlei e aggiungi Mi Account</string>
     <string name="xunlei_account_has_unbind_message">Account Xunlei rimosso</string>
     <string name="xunlei_brand">Fornito da Xunlei</string>
+    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_close_tips_button">Attiva</string>
     <string name="xunlei_close_tips_content">Acceleratore download Xunlei.</string>
     <string name="xunlei_close_tips_title">Accelera i tuoi download</string>

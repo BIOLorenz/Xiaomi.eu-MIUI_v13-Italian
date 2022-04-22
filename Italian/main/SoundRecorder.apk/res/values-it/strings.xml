@@ -35,6 +35,7 @@
     <string name="app_record">Registrazioni app</string>
     <string name="app_record_preference_title">Registrazioni app</string>
     <string name="back">Indietro</string>
+    <string name="bottomsheet_action_expand_halfway">Espandi a metà</string>
     <string name="button_queue_for_wifi">Attendi</string>
     <string name="button_start_now">Scarica</string>
     <string name="call_record">Chiamate registrate</string>
@@ -268,9 +269,17 @@
     <string name="lyric_item_point_count">%1$d a %2$d</string>
     <string name="mark_point_list_title">Segna punto lista</string>
     <string name="marketSdkVersion">3.2.5</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Seleziona AM o PM</string>
+    <string name="material_hour_selection">Seleziona l\'ora</string>
+    <string name="material_hour_suffix">"%1$s in punto"</string>
+    <string name="material_minute_selection">Seleziona i minuti</string>
+    <string name="material_minute_suffix">%1$s minuti</string>
+    <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
+    <string name="material_timepicker_text_input_mode_description">Passa alla modalità di inserimento testo per inserire l\'ora.</string>
     <string name="menu">Premi Menu</string>
     <string name="message_file_size_error">La registrazione ha raggiunto la lunghezza massima per %s</string>
     <string name="mi_account_msg">Accedi al Mi Account per utilizzare il riconoscimento di precisione, entro 30 minuti libero per un nuovo utente</string>
@@ -349,6 +358,8 @@
     <string name="morning">Mattina</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
+    <string name="mtrl_picker_date_header_title">Seleziona Data</string>
+    <string name="mtrl_picker_range_header_title">Seleziona Intervallo</string>
     <string name="mtrl_picker_save">Salva</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
@@ -383,6 +394,7 @@
     <string name="online_recognize_duration_limite">(limite di 10 minuti)</string>
     <string name="online_recognize_fail">"fallito"</string>
     <string name="online_recognize_login_fail">"Impossibile accedere"</string>
+    <string name="online_recognize_order_audio_price">%s CNY</string>
     <string name="online_recognize_order_create">Accedi</string>
     <string name="online_recognize_order_duration_key">Durata</string>
     <string name="online_recognize_order_pay">Paga e ottieni i risultati</string>
@@ -403,6 +415,7 @@
     <string name="online_recognize_service_unavailable">"Il servizio non è al momento disponibile. Riprova più tardi"</string>
     <string name="order_item_duration">Durata %s</string>
     <string name="order_item_number">Numero d\'ordine: %s</string>
+    <string name="order_item_price">%s CNY</string>
     <string name="other_settings_pref_title">Altre impostazioni</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="path_soundrecorder_setting">Applicazioni sistema/Registratore</string>

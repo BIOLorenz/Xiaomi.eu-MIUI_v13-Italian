@@ -886,6 +886,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="priority_label">"Priorità: "</string>
     <string name="priority_low">Bassa</string>
     <string name="priority_normal">Normale</string>
+    <string name="privacy_dialog_error_service">Si è verificato un errore del server. Aspetta e prova di nuovo.</string>
     <string name="privacy_dialog_text_policy_link">Informativa sulla Privacy</string>
     <string name="privacy_dialog_title_revoke_confim">Revoca autorizzazione...</string>
     <string name="privacy_dialog_title_update">Informativa sulla privacy aggiornata</string>

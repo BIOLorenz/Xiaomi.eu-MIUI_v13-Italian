@@ -137,6 +137,7 @@
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="freeform_demo_back">Indietro</string>
     <string name="freeform_demo_final_over">Fatto</string>
     <string name="freeform_demo_final_restart">Riavvia</string>

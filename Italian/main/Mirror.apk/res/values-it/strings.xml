@@ -180,6 +180,7 @@
     <string name="loading">Attendi…</string>
     <string name="loading_view_abort_close_text">Chiudi</string>
     <string name="low_version_dialog_message">Aggiorna MIUI + sul tuo computer o scarica l\'ultima versione da plus.miui.com.</string>
+    <string name="mi_drop">Mi Share</string>
     <string name="midnight">Notte</string>
     <string name="miuix_access_state_desc">Selezionato</string>
     <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
@@ -263,6 +264,7 @@
     <string name="pad_settings_handoff_wps_title">Documenti</string>
     <string name="pad_settings_pc_trusted_title">Connetti automaticamente</string>
     <string name="pad_settings_pc_use_tile">Info su questa funzione</string>
+    <string name="pad_settings_phone_handoff_title">Trasferimento</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_describe_storage">Per l\'invio e la ricezione dei file</string>
     <string name="relay_msg_photo_text">Salvataggio in Galleria riuscito</string>
@@ -378,6 +380,7 @@
     <string name="wednesday_shortest">Mer</string>
     <string name="worker_authorization_loading">Attendi…</string>
     <string name="worker_connect_fail_btn_retry">Riprova</string>
+    <string name="worker_connect_fail_message">Si è verificato un errore di rete. Attendi e riprova.</string>
     <string name="worker_connect_fail_title">"Connessione fallita"</string>
     <string name="worker_connect_help">Guida</string>
     <string name="worker_connecting_message">Connessione…</string>

@@ -33,6 +33,7 @@ dd/MM"</string>
     <string name="aod_signature_12">hh:mm aa</string>
     <string name="apply">Applica</string>
     <string name="apply_succeed">Applicato correttamente</string>
+    <string name="bottomsheet_action_expand_halfway">Espandi a metà</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -167,6 +168,7 @@ dd/MM"</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
+    <string name="has_add_contact">Aggiunto</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -177,9 +179,18 @@ dd/MM"</string>
     <string name="heavenly_stems_wu">Wu</string>
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
+    <string name="keyguard_charging_battery_level">%s%%</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Seleziona AM o PM</string>
+    <string name="material_hour_selection">Seleziona l\'ora</string>
+    <string name="material_hour_suffix">"%1$s in punto"</string>
+    <string name="material_minute_selection">Seleziona i minuti</string>
+    <string name="material_minute_suffix">%1$s minuti</string>
+    <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
+    <string name="material_timepicker_text_input_mode_description">Passa alla modalità di inserimento testo per inserire l\'ora.</string>
     <string name="midnight">Notte</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
@@ -246,6 +257,8 @@ dd/MM"</string>
     <string name="morning">Mattina</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
+    <string name="mtrl_picker_date_header_title">Seleziona Data</string>
+    <string name="mtrl_picker_range_header_title">Seleziona Intervallo</string>
     <string name="mtrl_picker_save">Salva</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
@@ -254,6 +267,7 @@ dd/MM"</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_add_contact">Non aggiunto</string>
     <string name="not_set">Non impostato</string>
+    <string name="page_detail_version_label">"Versione:"</string>
     <string name="page_time_format_string">dd/MM/yyyy</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>

@@ -126,6 +126,7 @@
     <string name="back_confirm">Tocca ancora per uscire</string>
     <string name="banner_op">Musica Mi</string>
     <string name="bluetooth_device">Dispositivo Bluetooth</string>
+    <string name="bottomsheet_action_expand_halfway">Espandi a metà</string>
     <string name="btn_text_edit">Modifica</string>
     <string name="btn_text_view_all">Mostra tutto</string>
     <string name="buffering">Buffer in corso…</string>
@@ -222,6 +223,7 @@
     <string name="click_to_shuffle">Riproduzione casuale</string>
     <string name="close">Chiudi</string>
     <string name="close_music_time">"Tempo rimanente: "</string>
+    <string name="columbus_ad_flag_text">Annuncio</string>
     <string name="columbus_player_close_desc">Perderai il premio</string>
     <string name="columbus_player_close_resume">RIPRENDI IL VIDEO</string>
     <string name="columbus_player_close_title">Chiudere il Video?</string>
@@ -375,7 +377,9 @@
     <string name="download_method">Scarica</string>
     <string name="download_no_application_title">"Impossibile aprire il file"</string>
     <string name="download_paused_in_power_save_mode">Il dispositivo è in Modalità Risparmio Energetico, download in pausa</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Download in corso…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Qualità download</string>
     <string name="download_quality_summary">Impostazioni aggiuntive per i brani scaricati</string>
     <string name="download_queued">In coda</string>
@@ -475,6 +479,7 @@
     <string name="exo_media_action_repeat_all_description">Ripeti tutto</string>
     <string name="exo_media_action_repeat_off_description">Non ripetere</string>
     <string name="exo_media_action_repeat_one_description">Ripeti una volta</string>
+    <string name="exo_track_mono">Mono</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_commentary">Commento</string>
     <string name="exo_track_role_supplementary">Supplementare</string>
@@ -748,11 +753,19 @@ attendere o selezionare Musica Online."</string>
     <string name="m3_sys_typescale_title_large_font">sans-serif</string>
     <string name="m3_sys_typescale_title_medium_font">sans-serif-medium</string>
     <string name="m3_sys_typescale_title_small_font">sans-serif-medium</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Seleziona AM o PM</string>
+    <string name="material_hour_selection">Seleziona l\'ora</string>
+    <string name="material_hour_suffix">"%1$s in punto"</string>
+    <string name="material_minute_selection">Seleziona i minuti</string>
+    <string name="material_minute_suffix">%1$s minuti</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
+    <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
+    <string name="material_timepicker_text_input_mode_description">Passa alla modalità di inserimento testo per inserire l\'ora.</string>
     <string name="menu_title_pause_all">Tutto in pausa</string>
     <string name="menu_title_resume_all">Riprendi tutti</string>
     <string name="message_delete_playlist">Eliminare la playlist %s?</string>
@@ -1387,6 +1400,7 @@ E gioiscine"</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="version_info">Versione</string>
+    <string name="vhigh_sound_quality">HD</string>
     <string name="video_play_cellular">"Il tuo dispositivo non è connesso al Wi-Fi. Utilizzare i dati mobili?"</string>
     <string name="video_replay_btn">Riproduci nuovamente</string>
     <string name="video_retry_btn">Riprova</string>

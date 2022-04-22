@@ -17,6 +17,23 @@
         <item>3 processi al massimo</item>
         <item>4 processi al massimo</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="blood_type_values">
+        <item>0+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>H/H</item>
+        <item></item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Usa selezione di sistema (predefinita)</item>
         <item>16 bit/campione</item>
@@ -41,13 +58,13 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Ottimizzato per qualità audio</item>
-        <item>Audio bilanciato e qualità di connessione</item>
+        <item>Bilancia audio e qualità di connessione</item>
         <item>Ottimizzato per qualità di connessione</item>
         <item>Qualità migliore possibile (velocità in bit adattiva)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Ottimizzato per qualità audio (990 kbps/909 kbps)</item>
-        <item>Audio bilanciato e qualità di connessione (660 kbps/606 kbps)</item>
+        <item>Bilancia audio e qualità di connessione (660 kbps/606 kbps)</item>
         <item>Ottimizzato per qualità di connessione (330 kbps/303 kbps)</item>
         <item>Qualità migliore possibile (velocità in bit adattiva)</item>
     </string-array>
@@ -211,6 +228,22 @@
         <item>Scala animazione 2x</item>
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
+    </string-array>
+    <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Molto lenta</item>

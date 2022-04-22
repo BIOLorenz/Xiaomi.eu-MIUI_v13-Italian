@@ -4,6 +4,30 @@
         <item>Maschio</item>
         <item>Femmina</item>
     </string-array>
+    <string-array name="baidu">
+        <item>百度</item>
+        <item>baidu.com</item>
+        <item>https://m.baidu.com/favicon.ico</item>
+        <item>https://m.baidu.com/s?from=1269a&amp;wd={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>https://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="bing">
+        <item>Bing</item>
+        <item>bing.com</item>
+        <item>https://www.bing.com/s/wlflag.ico</item>
+        <item>https://www.bing.com/search?q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>https://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
+    </string-array>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>https://www.google.com/favicon.ico</item>
+        <item>https://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>https://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
+    </string-array>
     <string-array name="language_name_list">
         <item>Azərbaycan</item>
         <item>Melayu</item>
@@ -157,6 +181,14 @@
         <item>Messaggio dal browser</item>
         <item>Segui le Olimpiadi con Mi</item>
     </string-array>
+    <string-array name="sogou">
+        <item>搜狗</item>
+        <item>sogou.com</item>
+        <item>https://wap.sogou.com/favicon.ico</item>
+        <item>https://wap.sogou.com/web/sl?keyword={searchTerms}&amp;bid=sogou-mobp-95e62984b87e9064</item>
+        <item>UTF-8</item>
+        <item>https://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
     <string-array name="speed_result_tips">
         <item>"La connessione di rete attuale è molto lenta. Sembra che tu sia in un'area con scarsa copertura di rete."</item>
         <item>La connessione di rete è lenta.</item>
@@ -173,5 +205,13 @@
         <item>Scarica video</item>
         <item>Salva Stato WhatsApp</item>
         <item>File privati</item>
+    </string-array>
+    <string-array name="yahoo">
+        <item>Yahoo!</item>
+        <item>yahoo.com</item>
+        <item>https://search.yahoo.com/favicon.ico</item>
+        <item>https://search.yahoo.com/search;_ylt=A0oG7l7PeB5P3G0AKASl87UF?p={searchTerms}&amp;ei={inputEncoding}</item>
+        <item>UTF-8</item>
+        <item>https://ff.search.yahoo.com/gossip?output=fxjson&amp;command={searchTerms}</item>
     </string-array>
 </resources>

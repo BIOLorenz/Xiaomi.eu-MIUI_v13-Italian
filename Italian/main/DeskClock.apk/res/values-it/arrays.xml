@@ -75,7 +75,7 @@
         <item>Conakry</item>
         <item>Dakar</item>
         <item>Dar es Salaam</item>
-        <item>Djibouti</item>
+        <item>Gibuti</item>
         <item>Freetown</item>
         <item>Gaborone</item>
         <item>Harare</item>
@@ -100,7 +100,7 @@
         <item>Buenos Aires</item>
         <item>Cancun</item>
         <item>Caracas</item>
-        <item>George Town</item>
+        <item>Georgetown</item>
         <item>Chicago</item>
         <item>San José</item>
         <item>Willemstad</item>
@@ -111,7 +111,7 @@
         <item>Edmonton</item>
         <item>El Salvador</item>
         <item>Fortaleza</item>
-        <item>"St. George's"</item>
+        <item>"St. George"</item>
         <item>Guatemala</item>
         <item>Georgetown</item>
         <item>Halifax</item>
@@ -145,7 +145,7 @@
         <item>Phoenix</item>
         <item>Port of Spain</item>
         <item>Port-au-Prince</item>
-        <item>São Paulo</item>
+        <item>San Paolo</item>
         <item>St. Johns</item>
         <item>St. Kitts</item>
         <item>Castries</item>
@@ -165,14 +165,14 @@
         <item>Bangkok</item>
         <item>Beirut</item>
         <item>Calcutta</item>
-        <item>Damascus</item>
+        <item>Damasco</item>
         <item>Dhaka</item>
         <item>Dubai</item>
         <item>Gaza</item>
         <item>Hebron</item>
         <item>Ho Chi Minh</item>
         <item>Hong Kong</item>
-        <item>Jakarta</item>
+        <item>Giacarta</item>
         <item>Gerusalemme</item>
         <item>Kabul</item>
         <item>Karachi</item>
@@ -196,7 +196,7 @@
         <item>Tokyo</item>
         <item>Ulaanbaatar</item>
         <item>Hamilton</item>
-        <item>Canary Islands</item>
+        <item>Isole Canarie</item>
         <item>Praia</item>
         <item>Reykjavik</item>
         <item>Stanley</item>
@@ -205,57 +205,57 @@
         <item>Canberra</item>
         <item>Darwin</item>
         <item>Melbourne</item>
-        <item>New South Wales</item>
+        <item>Nuovo Galles Del Sud</item>
         <item>Perth</item>
         <item>Queensland</item>
         <item>Sydney</item>
         <item>Victoria</item>
         <item>Terranova</item>
         <item>Saskatchewan</item>
-        <item>Easter Island</item>
+        <item>Isola di Pasqua</item>
         <item>Amsterdam</item>
         <item>Andorra la Vella</item>
-        <item>Athens</item>
+        <item>Atene</item>
         <item>Belfast</item>
         <item>Belgrado</item>
-        <item>Berlin</item>
+        <item>Berlino</item>
         <item>Bratislava</item>
         <item>Bruxelles</item>
-        <item>Bucharest</item>
+        <item>Bucarest</item>
         <item>Budapest</item>
         <item>Chisinau</item>
         <item>Copenhagen</item>
-        <item>Dublin</item>
-        <item>Gibraltar</item>
+        <item>Dublino</item>
+        <item>Gibilterra</item>
         <item>Helsinki</item>
-        <item>Isle of Man</item>
+        <item>Isola di Man</item>
         <item>Istanbul</item>
-        <item>Lisbon</item>
-        <item>London</item>
-        <item>Luxembourg</item>
+        <item>Lisbona</item>
+        <item>Londra</item>
+        <item>Lussemburgo</item>
         <item>Madrid</item>
         <item>Valletta</item>
         <item>Minsk</item>
         <item>Monaco</item>
         <item>Mosca</item>
         <item>Oslo</item>
-        <item>Paris</item>
-        <item>Prague</item>
+        <item>Parigi</item>
+        <item>Praga</item>
         <item>Riga</item>
         <item>Roma</item>
         <item>San Marino</item>
         <item>Sarajevo</item>
-        <item>Simferopol</item>
+        <item>Sinferopoli</item>
         <item>Skopje</item>
         <item>Sofia</item>
-        <item>Stockholm</item>
+        <item>Stoccolma</item>
         <item>Tallinn</item>
-        <item>Vatican</item>
+        <item>Città del Vaticano</item>
         <item>Vienna</item>
         <item>Vilnius</item>
-        <item>Warsaw</item>
-        <item>Zagreb</item>
-        <item>Zurich</item>
+        <item>Varsavia</item>
+        <item>Zagabria</item>
+        <item>Zurigo</item>
         <item>Antananarivo</item>
         <item>Malé</item>
         <item>Port Louis</item>
@@ -283,12 +283,12 @@
         <item>San José</item>
         <item>San Salvador</item>
         <item>Seattle</item>
-        <item>St. Louis</item>
+        <item>Saint Louis</item>
         <item>Washington D.C.</item>
         <item>Houston</item>
         <item>San Antonio</item>
         <item>Jacksonville</item>
-        <item>Baltimore</item>
+        <item>Baltimora</item>
         <item>Nashville</item>
         <item>Milwaukee</item>
         <item>Oklahoma City</item>
@@ -309,14 +309,14 @@
         <item>Pechino</item>
         <item>Mumbai</item>
         <item>Delhi</item>
-        <item>New Delhi</item>
+        <item>Nuova Delhi</item>
         <item>Osaka</item>
         <item>Lahore</item>
         <item>"Sana'a"</item>
-        <item>Barcelona</item>
-        <item>Munich</item>
-        <item>Milan</item>
-        <item>Frankfurt</item>
+        <item>Barcellona</item>
+        <item>Monaco</item>
+        <item>Milano</item>
+        <item>Francoforte</item>
         <item>Hanoi</item>
         <item>Ankara</item>
         <item>Bangalore</item>
@@ -340,10 +340,10 @@
         <item>Gurgaon</item>
         <item>Manchester</item>
         <item>Kyiv</item>
-        <item>St. Petersburg</item>
+        <item>San Pietroburgo</item>
         <item>Kraków</item>
-        <item>Wroclaw</item>
-        <item>Hamburg</item>
+        <item>Breslavia</item>
+        <item>Amburgo</item>
         <item>Oulu</item>
         <item>Haifa</item>
         <item>San Juan</item>
@@ -653,6 +653,20 @@
         <item>Ven</item>
         <item>Sab</item>
     </string-array>
+    <string-array name="minute_spinner">
+        <item>00</item>
+        <item>05</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+    </string-array>
     <string-array name="notification_adv_time_entries">
         <item>All\'ora impostata</item>
         <item>15 minuti prima</item>
@@ -671,8 +685,17 @@
     </string-array>
     <string-array name="stat_volume_button_behaviors">
         <item>无</item>
-        <item>稍后再响</item>
+        <item>Suona piu tardi</item>
         <item>Spegni</item>
+    </string-array>
+    <string-array name="time">
+        <item>%1$s</item>
+        <item>%2$s</item>
+        <item>%1$s%2$s</item>
+        <item>%3$s</item>
+        <item>%1$s%3$s</item>
+        <item>%2$s%3$s</item>
+        <item>%1$s%2$s%3$s</item>
     </string-array>
     <string-array name="timer_duration">
         <item>Totale %1$s</item>

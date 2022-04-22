@@ -32,6 +32,7 @@ Tocca per visualizzarla"</string>
     <string name="app_notification_title">Registrazione schermo</string>
     <string name="auto_stop_title">Video salvato con successo!</string>
     <string name="battery_not_allowed" formatted="false">"Non puoi registrare quando la batteria è al di sotto del 3%%. Assicurati di avere la batteria almeno al 20%% di carica."</string>
+    <string name="battery_not_allowed_warning">"Impossibile registrare quando la batteria è inferiore a %1$s. Assicurati che la batteria sia almeno al %2$s."</string>
     <string name="bit_rate">Qualità video</string>
     <string name="bit_rate_summary">Più alta la qualità maggiore sarà la dimensione occupata</string>
     <string name="bubble_text">Tocca per iniziare</string>
@@ -206,9 +207,12 @@ Tocca per visualizzarla"</string>
     <string name="is_go_home_summary">"Apri la pagina iniziale di Registrazione schermo dopo aver interrotto la registrazione"</string>
     <string name="loopback_sound">Altoparlante</string>
     <string name="low_battery">Carica il tuo telefono prima di iniziare una registrazione dello schermo</string>
+    <string name="low_battery_for_pad">Carica il dispositivo prima di iniziare la registrazione</string>
     <string name="low_battery_title">Batteria scarica</string>
     <string name="low_battery_warning">La batteria è quasi scarica. La registrazione video è stata fermata e salvata.</string>
     <string name="low_memory">Hai meno di 200MB di spazio disponibile. Puoi registrare fino a 5 minuti.</string>
+    <string name="low_memory_for_pad">Hai meno di %1$d GB di spazio disponibile. Puoi registrare fino a %2$d minuti.</string>
+    <string name="low_memory_for_phone">Hai meno di %1$d GB di spazio disponibile. Puoi registrare fino a %2$d minuti.</string>
     <string name="low_memory_title">Memoria insufficiente</string>
     <string name="low_momery_warning">Non hai memoria sufficiente. La registrazione video è stata fermata e salvata.</string>
     <string name="memory_not_allowed">Spazio non disponibile. Libera lo spazio prima di registrare.</string>
@@ -315,7 +319,9 @@ Tocca per visualizzarla"</string>
     <string name="settings_other">Altro</string>
     <string name="settings_privacy">Informativa sulla Privacy</string>
     <string name="show_hard_key">Visualizza tasti di navigazione</string>
+    <string name="show_hard_key_new">Mostra i tocchi dei pulsanti</string>
     <string name="show_hard_key_summary">Come da istruzioni premi i tasti Home, Menu, e Indietro</string>
+    <string name="show_hard_key_summary_new">Visualizza i tocchi dei pulsanti di navigazione</string>
     <string name="show_screen_touch">Mostra tocchi</string>
     <string name="show_screen_touch_summary">Visualizza i tocchi attraverso un punto bianco</string>
     <string name="size_byte">B</string>
@@ -418,6 +424,7 @@ Tocca per visualizzarla"</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="view_privacy">Visualizza Informativa sulla Privacy</string>
     <string name="view_recorded_file">Tocca per vedere il file registrato</string>
+    <string name="view_recorded_videos">Visualizza registrazioni</string>
     <string name="warning_recording_when_a2dp_connect">"Il tuo dispositivo non supporta la registrazione dei suoni di sistema durante l'utilizzo di cuffie Bluetooth."</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>

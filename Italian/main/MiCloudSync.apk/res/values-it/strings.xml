@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">MiCloudSync</string>
     <string name="error_data_in_transfer">Trasferimento dei dati in corso. Ci vorranno circa %s ore.</string>
     <string name="error_forbidden">La sincronizzazione è stata disattivata a causa di problemi con il tuo Mi Account.</string>
     <string name="error_not_acceptable">La sincronizzazione è stata disattivata.</string>

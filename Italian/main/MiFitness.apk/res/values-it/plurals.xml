@@ -60,6 +60,18 @@
         <item quantity="other">%1$d ore</item>
         <item quantity="one">%1$d ora</item>
     </plurals>
+    <plurals name="device_settings_common_minute">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="device_settings_heart_rate_monitor_freq">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="device_settings_spo2_freq_freq">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
     <plurals name="device_settings_world_clock_select_number_v2">
         <item quantity="other">%1$d selezionati</item>
         <item quantity="one">%1$d selezionato</item>
@@ -88,6 +100,10 @@
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>
     </plurals>
+    <plurals name="health_common_minute_unit">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
     <plurals name="health_common_unit_step">
         <item quantity="other">passi</item>
         <item quantity="one">passo</item>
@@ -107,6 +123,10 @@
     <plurals name="health_stand_count_desc">
         <item quantity="other">%1$d ore</item>
         <item quantity="one">%1$d ora</item>
+    </plurals>
+    <plurals name="health_target_mhs_unit">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
     </plurals>
     <plurals name="health_target_stand_times_unit">
         <item quantity="other">%1$d ore</item>
@@ -132,9 +152,17 @@
         <item quantity="one">Proprio adesso</item>
         <item quantity="other">ora</item>
     </plurals>
+    <plurals name="min_in_simplify_2">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementi selezionati</item>
         <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="notify_sms_reply_delay_time">
+        <item quantity="other">%1$d sec</item>
+        <item quantity="one">%1$d sec</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuti fa</item>
@@ -184,6 +212,30 @@
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
     </plurals>
+    <plurals name="unit_min_desc">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="unit_min_desc2">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="unit_min_desc2_with_space">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="unit_min_desc3">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="unit_seconds_desc">
+        <item quantity="other">%1$d sec</item>
+        <item quantity="one">%1$d sec</item>
+    </plurals>
+    <plurals name="unit_seconds_short_desc">
+        <item quantity="other">%1$d sec</item>
+        <item quantity="one">%1$d sec</item>
+    </plurals>
     <plurals name="userinfo_birthday_format">
         <item quantity="other">(%1$d)</item>
         <item quantity="one">(%1$d)</item>
@@ -195,6 +247,10 @@
     <plurals name="userinfo_common_unit_step">
         <item quantity="other">" passi"</item>
         <item quantity="one">" passo"</item>
+    </plurals>
+    <plurals name="userinfo_target_mhs_unit">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
     </plurals>
     <plurals name="userinfo_target_stand_times_unit">
         <item quantity="other">%1$d ore</item>

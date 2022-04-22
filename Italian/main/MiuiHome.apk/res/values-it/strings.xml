@@ -480,6 +480,7 @@
     <string name="launcher_slide_up_title">Scorri in alto sulla Home</string>
     <string name="launcher_sliding_up_gesture">Scorri verso l\'alto nella Home per avviare la ricerca</string>
     <string name="launcher_title">Schermata Home e Recenti</string>
+    <string name="lib_name">Filament Android</string>
     <string name="like">Aggiungi ai preferiti</string>
     <string name="liked">Aggiunto ai preferiti</string>
     <string name="loading_desktop">Attendi…</string>
@@ -744,6 +745,7 @@
     <string name="reset_scene_prompt">La scena verrà ripristinata alla disposizione predefinita</string>
     <string name="reset_title">Ripristina</string>
     <string name="restore_icon_successful">Aggiunto con successo</string>
+    <string name="russia_preinstall_folder_name">Russia</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>

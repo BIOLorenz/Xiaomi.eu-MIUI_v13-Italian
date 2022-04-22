@@ -125,6 +125,7 @@
     <string name="album_jump_failed">Attendi fino a che gli album non sono stati sincronizzati con Mi Cloud e prova di nuovo</string>
     <string name="album_lockscreen_wallpapers">Sfondi schermata sblocco</string>
     <string name="album_member">Iscritto album %s</string>
+    <string name="album_midrop">Mi Drop</string>
     <string name="album_name">Nome album</string>
     <string name="album_name_all_photos">Tutte le foto</string>
     <string name="album_name_all_photos_shortcut">Tutto</string>
@@ -484,6 +485,7 @@
     <string name="cityname_221">Prefettura autonoma Qiangxinan Buyi e Miao</string>
     <string name="cityname_228">Contee autonome Qiongzhong Li e Miao</string>
     <string name="cityname_232">Area Shigatse</string>
+    <string name="cityname_244">Shanghai</string>
     <string name="cityname_250">Regione forestale Shennongjia</string>
     <string name="cityname_27">Contee autonome Baoting Li e Miao</string>
     <string name="cityname_29">Pechino</string>
@@ -507,6 +509,7 @@
     <string name="cityname_74">Distretto Fancheng</string>
     <string name="cityname_82">Prefettura autonoma Gannan Tibetan</string>
     <string name="cityname_83">Prefettura autonoma Ganzi Tibetan</string>
+    <string name="cityname_89">Guangzhou</string>
     <string name="cityname_93">Prefettura autonoma Golog Tibetan</string>
     <string name="cityname_96">Prefettura autonoma Haibei Tibetan</string>
     <string name="cityname_97">Prefettura Haidong</string>
@@ -554,6 +557,7 @@
     <string name="clip_menu_remove">Elimina</string>
     <string name="clip_menu_reveerse">Invertito</string>
     <string name="clip_menu_speedx">Velocità</string>
+    <string name="clip_speedX_1x">1X</string>
     <string name="close">Chiudi</string>
     <string name="close_dialog_desc">Chiudi finestra di dialogo</string>
     <string name="cloud_action_open">Attiva</string>
@@ -621,8 +625,11 @@
     <string name="collage_title_layout">Disposizione</string>
     <string name="collage_title_stitching">Film</string>
     <string name="collaps_people">Nascondi</string>
+    <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
+    <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">Momenti WeChat</string>
+    <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
     <string name="confirm">OK</string>
     <string name="confirm_cancel_task_files">Annullare l\'invio dei file a %1$s?</string>
     <string name="confirm_cancel_task_images">Annullare l\'invio delle immagini a %1$s?</string>
@@ -703,6 +710,7 @@
     <string name="device_status_waiting">In attesa…</string>
     <string name="device_storage_space_low_dialog_title">Memoria insufficiente</string>
     <string name="device_storage_space_low_textline_button">Avvia</string>
+    <string name="device_type_pc">Computer</string>
     <string name="disable_auto_upload_tip">Le foto nuove e quelle eliminate non verranno sincronizzate con Mi Cloud. Questo album verrà spostato in \"Altri album\".</string>
     <string name="disable_auto_upload_title">Disattiva sincronizzazione con Mi Cloud</string>
     <string name="do_not_remind_me">"Non mostrare più"</string>
@@ -1352,6 +1360,7 @@ per personalizzare la Galleria"</string>
     <string name="merge_album">Unisci</string>
     <string name="merge_album_title">Unisci album</string>
     <string name="messagelist_sender_self">Io</string>
+    <string name="mi_drop">Mi Share</string>
     <string name="mi_mover_working_desc">Mi Mover sta trasferendo gli elementi…</string>
     <string name="micloud_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
     <string name="midnight">Notte</string>
@@ -1641,6 +1650,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="other_album_operation_remove_from_other_albums">Rimuovi dalle eccezioni</string>
     <string name="other_settings">Altre impostazioni</string>
     <string name="owner_album_subtitle">Condiviso con %1$s membri</string>
+    <string name="pc_device_model_name">Computer</string>
     <string name="people_album_empty_title">Le foto possono essere ordinate in base alle persone presenti in esse</string>
     <string name="people_jump_failed">Attendi fino a che le foto con persone non sono state sincronizzate con Mi Cloud e prova di nuovo</string>
     <string name="people_mark_mode_title">Seleziona \"%s\"</string>
@@ -2307,6 +2317,8 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="text_item_type_talkback_bubble_signature">Firma</string>
     <string name="text_item_type_talkback_bubble_watermark_3">Viaggi</string>
     <string name="text_item_type_talkback_city_beijing">Pechino</string>
+    <string name="text_item_type_talkback_city_guangzhou">Guangzhou</string>
+    <string name="text_item_type_talkback_city_shanghai">Shanghai</string>
     <string name="text_item_type_talkback_festival_chaojiyueliang">Superluna</string>
     <string name="text_item_type_talkback_festival_chunjie">Festival di primavera</string>
     <string name="text_item_type_talkback_festival_ertongjie">"Giornata dei bambini"</string>
@@ -2408,6 +2420,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="tip_file_path">Percorso:</string>
     <string name="tip_not_download">Nessun download. Verrà scaricato automaticamente quando in riproduzione.</string>
     <string name="tip_screenshot_package_info">Nome app:</string>
+    <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="title_set_name">Inserisci il nome</string>
     <string name="title_tip">Suggerimento</string>
     <string name="title_warn">Attenzione</string>
@@ -2603,6 +2616,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="video_post_module_loading">Scaricamento del plugin \"Effetti video\"…</string>
     <string name="video_quality_1080p_hd">1080P (alta definizione)</string>
     <string name="video_quality_1080p_original">1080P (non compresso)</string>
+    <string name="video_quality_4k">4K</string>
     <string name="video_quality_4k_hd">4K (alta definizione)</string>
     <string name="video_quality_4k_original">4K (non compresso)</string>
     <string name="video_quality_720p_hd">720P (alta definizione)</string>
@@ -2735,6 +2749,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="vlog_support_max_duration">Un progetto può essere lungo fino a %1$d ore</string>
     <string name="vlog_support_max_number">Puoi aggiungere fino a %1$d video a un progetto</string>
     <string name="vlog_talkback_ratio_1_1">Quadrato</string>
+    <string name="vlog_talkback_speed_normal">1X</string>
     <string name="vlog_talkback_text_add">Inserisci testo</string>
     <string name="vlog_talkback_text_baby_vlog2">Infanzia</string>
     <string name="vlog_talkback_text_bird">Uccelli</string>
@@ -2747,6 +2762,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="vlog_template_city">Città</string>
     <string name="vlog_template_food">Cibo</string>
     <string name="vlog_template_fugu">Retrò</string>
+    <string name="vlog_template_mandiao">Daydream</string>
     <string name="vlog_template_memory">Assistente</string>
     <string name="vlog_template_mengchong">Bambino</string>
     <string name="vlog_template_rixi">Pastello</string>
@@ -2791,6 +2807,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="widget_editor_title">Modifica</string>
     <string name="widget_label_recommend">Assistente</string>
     <string name="widget_recommend_default_title_on_story">Assistente</string>
+    <string name="xiaomi">Mi</string>
     <string name="xiaomi_account_not_exists_toast">"Mi Account non esistente"</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Non ora</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>

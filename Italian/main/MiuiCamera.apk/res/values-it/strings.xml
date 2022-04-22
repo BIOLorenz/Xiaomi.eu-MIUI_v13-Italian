@@ -214,6 +214,7 @@
     <string name="ai_gateway_mumbai">MUMBAI</string>
     <string name="ai_great_wall">Grande Muraglia</string>
     <string name="ai_gu_lang_island">Isola Di Gulang</string>
+    <string name="ai_guangzhou">Guangzhou</string>
     <string name="ai_hang_ya_cave">Grotta Di Hongya</string>
     <string name="ai_laba_festival">Festival di Laba</string>
     <string name="ai_mid_autumn_festival">Festival di metà autunno</string>
@@ -266,6 +267,7 @@
  ed ottimizza l'immagine"</string>
     <string name="ai_scene_top_moon_off">Modalità luce ridotta</string>
     <string name="ai_scene_top_tip">Modalità luna</string>
+    <string name="ai_shanghai">Shanghai</string>
     <string name="ai_spring_festival">Festival di primavera</string>
     <string name="ai_suzhou_gardens">Giardini Suzhou</string>
     <string name="ai_temple_of_heaven">Tempio Paradisiaco</string>
@@ -905,6 +907,7 @@ in modalità Portrait"</string>
     <string name="live_reverse_confirm">Elimina</string>
     <string name="live_reverse_message">Eliminare gli elementi precedenti?</string>
     <string name="live_share_moments">Momenti</string>
+    <string name="live_share_qq">QQ</string>
     <string name="live_share_wechat">WeChat</string>
     <string name="live_speed_extreme_fast">Velocissimo</string>
     <string name="live_speed_extreme_slow">Lentissimo</string>
@@ -1251,6 +1254,7 @@ lo sfondo sulle tue foto"</string>
     <string name="portrait_bokeh_text">Modalità ritratto</string>
     <string name="portrait_bokeh_tips">Posiziona l\'oggetto nel raggio di 1,5 metri</string>
     <string name="portrait_india_effect_entry_memory">Memoria</string>
+    <string name="portrait_india_effect_entry_mono">Mono</string>
     <string name="portrait_india_effect_entry_pink">Rosa</string>
     <string name="portrait_india_effect_entry_portrait">Ritratto</string>
     <string name="portrait_india_effect_entry_retro">Retrò</string>
@@ -1317,6 +1321,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_coloreffect_entry_instagram_hudson">Glaciale</string>
     <string name="pref_camera_coloreffect_entry_long_face">Allungato</string>
     <string name="pref_camera_coloreffect_entry_mirror">Specchio</string>
+    <string name="pref_camera_coloreffect_entry_mono">Mono</string>
     <string name="pref_camera_coloreffect_entry_mosaic">Mosaico</string>
     <string name="pref_camera_coloreffect_entry_none">Normale</string>
     <string name="pref_camera_coloreffect_entry_sketch">Fumetto</string>
@@ -1433,6 +1438,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_high_quality_preferred_title">Migliora la qualità dell\'immagine</string>
     <string name="pref_camera_histogram_entry_disable">Disattiva</string>
     <string name="pref_camera_histogram_entry_enable">Attiva</string>
+    <string name="pref_camera_iso_entry_iso50">50</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_low">Bassa</string>
     <string name="pref_camera_jpegquality_entry_normal">Normale</string>

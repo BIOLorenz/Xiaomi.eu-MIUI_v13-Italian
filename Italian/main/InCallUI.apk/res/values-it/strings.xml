@@ -30,9 +30,12 @@
     <string name="ai_mode_auto">Auto</string>
     <string name="ai_mode_manual">Manuale</string>
     <string name="ai_mode_subtitles">Sottotitoli</string>
+    <string name="antifraud_center">Piattaforma di allarme antifrode</string>
+    <string name="antifraud_center_incoming_prompt">"Non perdetevi le chiamate dalla piattaforma ufficiale di avvertimento antifrode"</string>
     <string name="antispam_local_marked">Segnalato localmente</string>
     <string name="antispam_notification_title">Numero sconosciuto</string>
     <string name="antispam_provider">Identificato da %s</string>
+    <string name="bluetooth_permission_content">I permessi di sistema sono stati aggiornati. Consenti a questa app di accedere ai nomi dei tuoi dispositivi Bluetooth per poterli visualizzare.</string>
     <string name="bluetooth_permission_grant_immediately">Consenti</string>
     <string name="bluetooth_permission_later">Non ora</string>
     <string name="bluetooth_permission_title">Permessi richiesti</string>
@@ -66,6 +69,17 @@
     <string name="call_contacts_deny_permission_msg">"Hai limitato i permessi di lettura dei contatti, impossibile mostrare le informazioni del contatto."</string>
     <string name="call_description_recording">Registrazione…</string>
     <string name="call_not_support_high_frequency_click">"Non premere il tasto troppo di frequente"</string>
+    <string name="call_progress_info_call_forwarding">Questa chiamata è stata inoltrata</string>
+    <string name="call_progress_info_call_rejected">L\'altra persona è occupata. Richiamala più tardi.</string>
+    <string name="call_progress_info_call_waiting">L\'altra persona è in chiamata. Per favore attendi…</string>
+    <string name="call_progress_info_no_answer_from_user">"La chiamata non ha ricevuto risposta"</string>
+    <string name="call_progress_info_no_user_responding">"Il numero selezionato non è temporaneamente in servizio"</string>
+    <string name="call_progress_info_nonuser_call_rejected">"Il numero composto è attualmente fuori servizio"</string>
+    <string name="call_progress_info_remote_available">L\'altra persona è stata avvisata della tua chiamata. Per favore attendi…</string>
+    <string name="call_progress_info_subscriber_absent">"Il numero selezionato non è disponibile"</string>
+    <string name="call_progress_info_unallocated_number">"Il numero che hai composto non esiste"</string>
+    <string name="call_progress_info_user_busy">L\'altra persona è occupata. Richiamala più tardi.</string>
+    <string name="call_progress_info_user_call_rejected">Il numero non è al momento disponibile</string>
     <string name="call_record_wait_label">In attesa</string>
     <string name="call_recording_deny_permission_msg">"Hai limitato i permessi di registrazione, impossibile registrare."</string>
     <string name="call_recording_error_low_storage">Spazio insufficiente: la scheda SD è troppo piena</string>
@@ -79,6 +93,7 @@
     <string name="call_recording_notification_message_sd_unmounted">La scheda SD è stata rimossa</string>
     <string name="call_recording_notification_title">Chiamata registrata</string>
     <string name="call_recording_notification_title_error">"Non è stato possibile registrare la chiamata"</string>
+    <string name="caller_info_name_delimiter">" o "</string>
     <string name="caller_manage_header">Audioconferenza %s</string>
     <string name="can_not_use">"Impossibile utilizzare"</string>
     <string name="cancel">Annulla</string>
@@ -89,6 +104,8 @@
     <string name="card_title_hanging_up">"In fase di chiusura\u0020"</string>
     <string name="card_title_in_call">In chiamata</string>
     <string name="card_title_in_call_short">In chiamata</string>
+    <string name="card_title_in_crbt">In attesa di risposta…</string>
+    <string name="card_title_in_video">Video </string>
     <string name="card_title_incoming_conference_call">Audio conferenza in arrivo</string>
     <string name="card_title_on_hold">"In attesa\u0020"</string>
     <string name="card_title_threeway_call">Audioconferenza a tre</string>
@@ -272,6 +289,7 @@
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="font_camera_tip">Piega il dispositivo per utilizzare la fotocamera frontale</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
@@ -303,6 +321,8 @@
     <string name="incoming_circle_text_reject_p">Scorri per rispondere</string>
     <string name="incoming_circle_text_video_answer">Rilascia per rispondere con video</string>
     <string name="incoming_circle_text_video_answer_p">Scorri verso l\'alto per rispondere con video</string>
+    <string name="incoming_show_permission_msg">"Impossibile riprodurre i video del profilo per le chiamate in arrivo senza i permessi di archiviazione"</string>
+    <string name="incoming_video_crs_call">Riproduzione video profilo…</string>
     <string name="manageConferenceLabel">Gestione chiamate in conferenza</string>
     <string name="manager_conference_done">Fatto</string>
     <string name="midnight">Notte</string>
@@ -416,12 +436,24 @@
     <string name="picking_participant">Recupero informazioni di contatto…</string>
     <string name="private_num">Numero privato</string>
     <string name="prompt_no_volte_when_failed">"Il servizio VoLTE non è disponibile."</string>
+    <string name="relay_cal_from_device_name">Da: %1$s</string>
+    <string name="relay_call">Trasferimento</string>
+    <string name="relay_call_device_name">Dispositivo connesso (%1$s)</string>
+    <string name="relay_deny_permission_msg">"Impossibile disattivare le chiamate senza l'autorizzazione per registrare l'audio"</string>
+    <string name="relay_grant_permissions_on_phone">Concedi il permesso per registrare audio sul tuo telefono</string>
     <string name="relay_known">Ok</string>
     <string name="relay_network_error">Errore rete</string>
+    <string name="relay_network_error_msg">"Non è possibile effettuare chiamate su questo dispositivo a causa di un errore di rete. Torna al telefono."</string>
     <string name="remind_unlock_message">Il tuo dispositivo è stato bloccato. \"%s\" sarà di nuovo disponibile dopo lo sblocco del dispositivo. Sbloccare adesso?</string>
+    <string name="remind_unlock_screen_message">Sblocca il tuo dispositivo per essere in grado di utilizzare \"%s\". Sbloccarlo ora?</string>
     <string name="respond_via_sms_custom_message">Messaggio personalizzato…</string>
+    <string name="saf_permission_content">"Le autorizzazioni di sistema sono state aggiornate. Per poter registrare le chiamate, concedi prima la tua autorizzazione.
+
+Come concedere l'autorizzazione
+Tocca \"%1$s\" e quindi seleziona \"%2$s\"."</string>
     <string name="saf_permission_grant_permission_immediately">Successivo</string>
     <string name="saf_permission_later">Non ora</string>
+    <string name="saf_permission_refused">"Impossibile registrare le chiamate a causa di permessi mancanti"</string>
     <string name="saf_permission_title">Permessi richiesti</string>
     <string name="saf_permission_use_this_folder">Usa questa cartella</string>
     <string name="saturday">Sabato</string>
@@ -436,6 +468,11 @@
     <string name="select_voice_call_sim">Scegli SIM</string>
     <string name="send">Invia</string>
     <string name="separate_from_conference">Separa chiamata</string>
+    <string name="sim1_description">SIM1</string>
+    <string name="sim1_heduohao_card">Sub1</string>
+    <string name="sim2_description">SIM2</string>
+    <string name="sim2_heduohao_card">Sub2</string>
+    <string name="sim3_heduohao_card">Sub3</string>
     <string name="sip_call_not_support_record">"Impossibile registrare le chiamate SIP"</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
@@ -461,6 +498,7 @@
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="speakerphone_tip">Piega il dispositivo per utilizzare l\'auricolare o altoparlante</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -522,6 +560,7 @@
     <string name="video_call_downgrade_insufficient_bandwidth">Larghezza di banda insufficiente, downgrade a chiamata vocale</string>
     <string name="video_conference_caller_info_name">"Videoconferenza di %1$s"</string>
     <string name="video_crbt_title">È in riproduzione il tono di richiamata di un altro gruppo in videoconferenza</string>
+    <string name="voice_control_deny_permission_msg">"Impossibile utilizzare i controlli vocali ora. Prima consenti a questa app di registrare l'audio."</string>
     <string name="voicemail">Segreteria</string>
     <string name="volte_call">Chiamata VoLTE</string>
     <string name="volume_boost_text">Incremento del volume riuscita</string>

@@ -22,6 +22,7 @@
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
+    <string name="access_denied_info">Troppi tentativi. Attendi e riprova.</string>
     <string name="account_bind_secure_email_title">Aggiungi email di ripristino</string>
     <string name="account_bind_secure_phone_title">Aggiungi numero di telefono di ripristino</string>
     <string name="account_crop_user_avatar">Ritaglia foto</string>
@@ -213,6 +214,7 @@ Invia questo codice al supervisore."</string>
     <string name="discard_draft_dialog_content">"Tutte le modifiche apportate a questa segnalazione andranno perse."</string>
     <string name="discard_draft_dialog_title">Eliminare la bozza?</string>
     <string name="doing_login">Accesso…</string>
+    <string name="doing_query_account">Controllo info account…</string>
     <string name="doing_register">Creazione account…</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
@@ -245,6 +247,7 @@ Invia questo codice al supervisore."</string>
     <string name="err_type_system_summary">Memoria, prestazioni, ecc.</string>
     <string name="err_type_systemapp">App MIUI</string>
     <string name="err_type_translate">Lingua</string>
+    <string name="err_type_xiaomi_family">Mi Home</string>
     <string name="err_type_xiaomi_service">Servizio clienti</string>
     <string name="error_dup_binded_email">Questa email è già associata ad un altro MI account.</string>
     <string name="error_invalid_bind_address">Questo indirizzo email non è valido.</string>
@@ -421,6 +424,7 @@ Invia questo codice al supervisore."</string>
     <string name="identity">Identificazione</string>
     <string name="inconsistent_pwd">"Le password non corrispondono"</string>
     <string name="input_email_address_notice">"Useremo questa email per verificare il tuo account"</string>
+    <string name="input_length_exceeds_limit">Il testo inserito è troppo lungo</string>
     <string name="input_new_pwd">Inserisci una nuova password</string>
     <string name="isornot_your_mi_account">È questo il tuo Mi Account?</string>
     <string name="issue_search">Cerca</string>
@@ -444,12 +448,20 @@ Invia questo codice al supervisore."</string>
     <string name="kr_authorization_storage_desc">Per accedere alla memoria e per il salvataggio di file, inclusi log, immagini e video</string>
     <string name="kr_authorization_summary">Documenti legali</string>
     <string name="kr_authorization_user_protocol">Accordo utente (obbligatorio)</string>
+    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
     <string name="library_android_database_sqlcipher_isOpenSource">vero</string>
     <string name="library_android_database_sqlcipher_libraryDescription">API SQLite Android basate su SQLCipher</string>
     <string name="library_android_database_sqlcipher_libraryName">SQLCipher per Android</string>
+    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
+    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
+    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="loading">Attendi…</string>
     <string name="loading_apps">Caricamento lista…</string>
+    <string name="login_by_local_phone_long_text">Accedi ora</string>
     <string name="login_by_local_phone_short_text">Accedi</string>
+    <string name="login_other">Cambia Mi Account</string>
     <string name="login_register_by_local_phone_long_text">Crea account</string>
     <string name="login_with_sns">Altri modo per accedere</string>
     <string name="logo_title">Segnalazione</string>
@@ -461,6 +473,7 @@ Invia questo codice al supervisore."</string>
     <string name="mi_service_dialog_content">Tutte le funzionalità di feedback sono state spostate nella nuova app \"Servizi e feedback\". L\'app Feedback verrà rimossa dalla schermata Home. Tocca \"Apri\" per provare \"Servizi e feedback\".</string>
     <string name="mi_service_dialog_title">Introduzione a \"Servizi e feedback\"</string>
     <string name="midnight">Notte</string>
+    <string name="mishop_login_other">Altro Account</string>
     <string name="miuix_access_state_desc">Selezionato</string>
     <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
@@ -556,6 +569,8 @@ Invia questo codice al supervisore."</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="net_error_info">Nessuna connessione di rete, tocca qui per andare nelle Impostazioni</string>
     <string name="network_err">"Nessuna rete disponibile"</string>
+    <string name="network_error_info">Si è verificato un errore di rete. Controlla le impostazioni di rete e riprova.</string>
+    <string name="network_timeout_info">"Impossibile connettersi alla rete. Riprova."</string>
     <string name="network_unavailable_dialog_button_ok">OK</string>
     <string name="network_unavailable_dialog_content">La tua segnalazione verrà inviata quando avrai una connessione dati.</string>
     <string name="network_unavailable_dialog_title">"Impossibile connettersi alla rete"</string>
@@ -578,6 +593,7 @@ Invia questo codice al supervisore."</string>
     <string name="passport_bad_authentication">Nome utente o password non validi</string>
     <string name="passport_barcode_add_account_prompt">Per connettere un account, scansiona il codice QR dopo aver completato l\'accesso.</string>
     <string name="passport_can_not_receive_verification_code">"Non riesci a ricevere il codice di verifica?"</string>
+    <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Controlla la password…</string>
     <string name="passport_close">Chiudi</string>
     <string name="passport_delete_account">Disconetti</string>
@@ -665,11 +681,13 @@ Invia questo codice al supervisore."</string>
     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
     <string name="phone_number">Numero di telefono</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
+    <string name="please_agree_protocal">Si prega di accettare il protocollo</string>
     <string name="post_miui_bbs_failed">"Impossibile postare nel forum MIUI"</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_category_title">Privacy</string>
     <string name="privacy_policy_title">Informativa sulla privacy</string>
     <string name="privacy_policy_update_title">Informativa sulla privacy aggiornata</string>
+    <string name="progressbar_title">Verifica falle di sicurezza…</string>
     <string name="protocal_dialog_cancel">Annulla</string>
     <string name="protocal_dialog_confirm">Accetto</string>
     <string name="protocal_dialog_title">Attenzione</string>
@@ -688,6 +706,9 @@ Invia questo codice al supervisore."</string>
     <string name="request_camera_permission_message">"Questo servizio richiede la tua autorizzazione, rispetteremo rigorosamente le leggi pertinenti per proteggere le tue informazioni personali: &lt;br&gt;&lt;br&gt;&lt;b&gt; Accesso Fotocamera: necessario per l'impostazione di Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Se non accetti di consentire i permessi di cui sopra, questa funzione non funzionerà correttamente, ma non influenzerà l'uso delle funzioni di base di questa applicazione. È possibile scegliere di disattivare l'autorizzazione di cui sopra nelle impostazioni di sistema."</string>
     <string name="request_cancel">Annulla</string>
     <string name="request_error_invalid_token">"Autenticazione non riuscita"</string>
+    <string name="request_error_network">Si è verificato un errore di rete. Controlla le impostazioni di rete e riprova.</string>
+    <string name="request_error_unknown">Si è verificato un errore di sistema. Riprova.</string>
+    <string name="request_gallery_permission_message">Consenti l\'accesso alla Galleria:&lt;br /&gt;Per impostare le foto profilo</string>
     <string name="resend_active_email">Invia di nuovo</string>
     <string name="resend_email_reach_limit_message">"Hai richiesto troppe email di verifica. Assicurati che l'email di verifica non sia nella cartella Spam."</string>
     <string name="resend_email_reach_limit_title">Troppi tentativi</string>
@@ -760,6 +781,7 @@ Invia questo codice al supervisore."</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="system_app_select">App integrate</string>
+    <string name="system_error_info">Il sistema è occupato. Aspetta un minuto o due e riprova.</string>
     <string name="tab_title_chat">Domande frequenti</string>
     <string name="tab_title_my_reports">Il mio feedback</string>
     <string name="tab_title_preferences">Impostazioni</string>
@@ -862,6 +884,7 @@ Dimensioni: %2$s"</string>
     <string name="update_phone_notice">Modifica impostazioni di sicurezza</string>
     <string name="upload_error_log">Carica log</string>
     <string name="upload_log_failed">"Impossibile inviare i log"</string>
+    <string name="user_agreement_hint_first_login">"Creeremo automaticamente un account se utilizzi il numero di telefono per la prima volta."</string>
     <string name="user_avatar_update_title">Aggiorna immagine profilo</string>
     <string name="user_avatar_uploading">Attendi…</string>
     <string name="user_id_hint">Email/Telefono</string>
@@ -876,7 +899,9 @@ Dimensioni: %2$s"</string>
     <string name="withdraw">Revoca</string>
     <string name="withdraw_consent">Revoca autorizzazione...</string>
     <string name="withdraw_consent_failed">"Impossibile revocare il consenso"</string>
+    <string name="withdraw_consent_failed_hint">Si è verificato un errore del server. Aspetta e prova di nuovo.</string>
     <string name="withdraw_consent_failed_hint_connect_net">Impossibile collegarsi alla rete. Controlla le impostazioni e riprova.</string>
+    <string name="withdrawing">Revoca del consenso…</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connessione al Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentazione versione %1$s
 Size: %2$s"</string>

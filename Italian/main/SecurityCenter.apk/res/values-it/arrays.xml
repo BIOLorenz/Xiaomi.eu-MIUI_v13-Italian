@@ -143,6 +143,13 @@
         <item>Mostra avviso</item>
         <item>Avvisa e disattiva i dati mobili</item>
     </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>Predefinita</item>
         <item>Priorità alle prestazioni</item>

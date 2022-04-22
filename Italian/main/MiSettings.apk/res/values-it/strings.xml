@@ -50,6 +50,7 @@
     <string name="area_africa">Savana</string>
     <string name="area_amazon">Foresta pluviale</string>
     <string name="area_arctic">Artico</string>
+    <string name="area_australia">Australia</string>
     <string name="asian_badger">Tasso asiatico</string>
     <string name="asian_black_bear">Orso nero asiatico</string>
     <string name="atarctic_shag">Arboscello antartico</string>
@@ -258,6 +259,7 @@
     <string name="exo_download_failed">Download non riuscito</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
+    <string name="exo_track_mono">Mono</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_commentary">Commento</string>
     <string name="exo_track_role_supplementary">Supplementare</string>
@@ -320,6 +322,7 @@
     <string name="fps_high">Alta</string>
     <string name="fps_nature_summary">Una frequenza di aggiornamento elevata fa sembrare tutto nitido e fluido</string>
     <string name="fps_nature_title">Massimo</string>
+    <string name="fps_normal">Standard</string>
     <string name="fps_smooth_summary">Un\'elevata frequenza di aggiornamento aggiunge maggiore chiarezza ai dettagli</string>
     <string name="fps_smooth_title">Alta</string>
     <string name="fps_standard_summary">La velocità di aggiornamento normale consente di risparmiare batteria</string>
@@ -886,6 +889,7 @@ Questa app deve collegarsi a internet e richiede le seguenti autorizzazioni per 
     <string name="usage_state_num_level">"Livello %d: "</string>
     <string name="usage_state_open_focus_mode">Attiva modalità Concentrazione</string>
     <string name="usage_state_over_p">Meglio di</string>
+    <string name="usage_state_percent">%s%%</string>
     <string name="usage_state_remind_new_summary">Ricevi una notifica quando viene raggiunto il limite impostato</string>
     <string name="usage_state_remind_summary">Attiva per ricevere avvisi sul tempo di schermo attivo</string>
     <string name="usage_state_remind_title">Avviso schermo attivo</string>

@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string-array name="config_callBarringMMI">
+    <item>33</item>
+    <item>331</item>
+    <item>332</item>
+    <item>35</item>
+    <item>351</item>
+    <item>330</item>
+    <item>333</item>
+    <item>353</item>
+  </string-array>
+  <string-array name="config_callBarringMMI_for_ims">
+    <item>33</item>
+    <item>331</item>
+    <item>332</item>
+    <item>35</item>
+    <item>351</item>
+    <item>330</item>
+    <item>333</item>
+    <item>353</item>
+  </string-array>
   <string-array name="config_display_no_service_when_sim_unready">
     <item>DE</item>
     <item>GB</item>
@@ -113,6 +133,16 @@
     <item>Lavoro</item>
     <item>Altro</item>
     <item>Personalizzato</item>
+  </string-array>
+  <string-array name="imProtocols">
+    <item>AIM</item>
+    <item>Windows Live</item>
+    <item>Yahoo</item>
+    <item>Skype</item>
+    <item>QQ</item>
+    <item>Google Talk</item>
+    <item>ICQ</item>
+    <item>Jabber</item>
   </string-array>
   <string-array name="network_switch_type_name">
     <item>dati mobili</item>

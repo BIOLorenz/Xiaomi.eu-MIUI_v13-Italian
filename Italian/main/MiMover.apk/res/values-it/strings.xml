@@ -621,6 +621,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="prompt_before_transmission_message5_summary">"Il trasferimento di grandi quantità di dati in modalità wireless potrebbe causare un leggero surriscaldamento. Il dispositivo tornerà normale subito dopo il completamento."</string>
     <string name="prompt_before_transmission_message5_title">Il tuo dispositivo potrebbe scaldarsi durante i trasferimenti.</string>
     <string name="provision_receiver_finish_button">Successivo</string>
+    <string name="qq_app">QQ</string>
     <string name="qq_app_receive_fail">"Impossibile ricevere QQ"</string>
     <string name="qq_app_send_fail">"Impossibile inviare QQ"</string>
     <string name="qq_data_external">Dati scheda SD QQ</string>
