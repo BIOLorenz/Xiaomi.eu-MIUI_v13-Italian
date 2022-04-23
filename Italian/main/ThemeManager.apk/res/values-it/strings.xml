@@ -996,7 +996,6 @@ mm"</string>
     <string name="resource_restore">Ripristina</string>
     <string name="resource_restore_fail">"Impossibile ripristinare"</string>
     <string name="resource_restore_succ">Ripristino completato</string>
-    <string name="resource_ring_ranking_list_divider">-</string>
     <string name="resource_ringtone_default">Suoneria</string>
     <string name="resource_ringtone_playing_error">Errore</string>
     <string name="resource_ringtone_volume_mute">La suoneria è silenziata</string>

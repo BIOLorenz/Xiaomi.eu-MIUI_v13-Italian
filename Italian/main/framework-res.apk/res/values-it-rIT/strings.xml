@@ -868,7 +868,6 @@ Visita \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Rimuovi</string>
     <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">Sblocco scheda SIM…</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Hai digitato la tua password %1$d volte in modo errato. 
 
 Riprova tra %2$d secondi."</string>
@@ -1832,8 +1831,6 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="ssl_certificate">Certificato di sicurezza</string>
     <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
     <string name="status_bar_airplane">aereo</string>
-    <string name="status_bar_managed_profile">ime</string>
-    <string name="status_bar_mute">silenzioso</string>
     <string name="status_communication_speaker_summary">Una chiamata in vivavoce è in corso. L\'audio continuerà ad essere riprodotto attraverso l\'altoparlante quando le cuffie sono collegate.</string>
     <string name="status_communication_summary">Una chiamata è in corso. È possibile regolare solo il volume delle chiamate.</string>
     <string name="stk_cc_ss_to_dial">Richiesta SS modificata in chiamata normale</string>
@@ -2057,7 +2054,6 @@ Vuoi chiuderla?"</string>
     <string name="zen_mode_feature_name">Non disturbare</string>
     <string name="zen_mode_forever">Fino alla disattivazione</string>
     <string name="zen_mode_forever_dnd">Fino alla disattivazione di Non disturbare</string>
-    <string name="zen_mode_rule_name_combination">%1$s/%2$s</string>
     <string name="zen_mode_until">Fino a %1$s</string>
     <string name="zen_mode_until_next_day">Fino alle %1$s</string>
     <string name="zen_upgrade_notification_content">"Tocca per controllare le notifiche bloccate."</string>

@@ -19,7 +19,6 @@
     <string name="fix">Rivedi permessi</string>
     <string name="forget">Dimentica</string>
     <string name="hostname_or_ip">Nome host o indirizzo IP</string>
-    <string name="ip_hint">192.168.0.4</string>
     <string name="media_size_4x6in">4x6 pollici</string>
     <string name="media_size_5x7in">5x7 pollici</string>
     <string name="media_size_8x10in">8x10 pollici</string>
@@ -45,7 +44,6 @@
     <string name="recommendation_summary">Il servizio di stampa predefinito fornisce opzioni di base. Altre opzioni per questa stampante potrebbero essere disponibili da un altro servizio di stampa.</string>
     <string name="recommendations_heading">Servizi consigliati</string>
     <string name="reject">Rifiuto</string>
-    <string name="resolution_300_dpi">300 dpi</string>
     <string name="saved_printers">Stampanti salvate</string>
     <string name="searching">Ricerca…</string>
     <string name="security">Sicurezza</string>

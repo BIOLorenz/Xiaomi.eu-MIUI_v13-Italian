@@ -337,7 +337,6 @@
     <string name="international_details_humidity">UMIDITÀ</string>
     <string name="international_details_real_feel_title">Temp. Percepita</string>
     <string name="international_details_uv_index_title">INDICE UV</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">Abilita servizi di localizzazione</string>
     <string name="location_tag">Individua</string>
     <string name="manager_city_option_add_home">Aggiungi alla pagina iniziale</string>
