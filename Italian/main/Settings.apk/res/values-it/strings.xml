@@ -539,6 +539,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
     <string name="ambient_display_pickup_title">Alza per controllare</string>
     <string name="ambient_display_screen_summary_always_on">Schermo sempre attivo/Incremento del consumo di batteria</string>
     <string name="ambient_display_screen_summary_notifications">Nuove notifiche</string>
+    <string name="ambient_display_screen_title">Always-on display</string>
     <string name="ambient_display_summary">Tocca due volte lo schermo per controllare rapidamente.</string>
     <string name="ambient_display_tap_screen_summary">Per controllare l\'ora, le notifiche e altre informazioni, tocca lo schermo.</string>
     <string name="ambient_display_tap_screen_title">Tocca per controllare il telefono</string>
@@ -563,10 +564,13 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
     <string name="anti_spam">Blacklist</string>
     <string name="aod_and_lock_screen_settings_title">Always-on display e Schermata di Blocco</string>
     <string name="aod_close_color_inversion">"Questa funzionalità non funziona con l'inversione dei colori. Disattiva prima l'inversione dei colori."</string>
+    <string name="aod_name_wanxiang">Always-on display</string>
     <string name="aod_notification_style">Effetto notifiche</string>
     <string name="aod_notification_style_animation">Mostra animazione</string>
     <string name="aod_notification_style_none">Nessuno</string>
     <string name="aod_notification_style_screen_on">Accendi lo schermo</string>
+    <string name="aod_settings_category_name">Always-on display</string>
+    <string name="aod_settings_title">Always-on display</string>
     <string name="aod_show_mode_title">Mostra elementi</string>
     <string name="aod_style_description">Visualizza orologio, data, ora, notifiche e altri elementi quando lo schermo è spento</string>
     <string name="aod_style_title">Stile Libero</string>
@@ -1883,6 +1887,7 @@ Questa funzione può essere disattivata in [Settings]</string>
     <string name="color_black">Nero</string>
     <string name="color_blue">Blu</string>
     <string name="color_calibration_none">Questo dispositivo</string>
+    <string name="color_calibration_srgb">sRGB</string>
     <string name="color_cyan">Ciano</string>
     <string name="color_game_led_applications_title">Seleziona app</string>
     <string name="color_game_led_applications_title_summary">Seleziona le singole app che funzioneranno con la luce LED</string>
@@ -2606,6 +2611,7 @@ Se il problema continua a verificarsi, potrebbe essere necessario disinstallare 
     <string name="dialog_wifi_context">Devi connetterti a internet per configurare il tuo dispositivo. A meno che non ti connetti al Wi-Fi, potrebbero essere utilizzati i dati mobili. L\'utilizzo di dati mobili potrebbe generare costi aggiuntivi. Utilizzare comunque i dati mobili?</string>
     <string name="dialog_wifi_title">Utilizzo dati rete mobile</string>
     <string name="dialog_yes">Sì</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: dopo un reboot, questa app non può avviarsi finché non sblocchi il telefono"</string>
     <string name="disableNetwork">Disattiva rete</string>
     <string name="disable_overlays">Disabilita overlay HW</string>
@@ -2659,6 +2665,7 @@ Se il problema continua a verificarsi, potrebbe essere necessario disinstallare 
     <string name="display_dashboard_summary">Sfondo, sospensione, dimensione carattere</string>
     <string name="display_label">Schermo</string>
     <string name="display_order_text">Ordina per:</string>
+    <string name="display_prompt_confirm">Ok</string>
     <string name="display_settings">Schermo</string>
     <string name="display_settings_title">Schermo</string>
     <string name="display_summary">Sospensione dopo %1$s di inattività</string>
@@ -2760,6 +2767,7 @@ Se il problema continua a verificarsi, potrebbe essere necessario disinstallare 
     <string name="download_current_rom">Scarica l\'ultima versione di MIUI</string>
     <string name="downloading_description">Download in corso…</string>
     <string name="doze_always_on_summary">Utilizzo batteria aumentato</string>
+    <string name="doze_always_on_title">Always-on display</string>
     <string name="doze_summary">Accende lo schermo quando sollevi il dispositivo o arrivano notifiche</string>
     <string name="doze_title">Schermo Ambient</string>
     <string name="dpp_before_share_summary">Condividere la rete Wi-Fi \"%1$s\" con un\'altra persona?</string>
@@ -3572,6 +3580,7 @@ Quando si accende il backup automatico, i dati del dispositivo e dell'app vengon
     <string name="hdmi_3dplay_control_enable_subtext">Uscita 3D Stereoscopica verso uno schermo 3D esterno abilitato</string>
     <string name="hdmi_3dplay_control_text">Abilita 3D</string>
     <string name="hdmi_color_calibration_none">Questo dispositivo</string>
+    <string name="hdmi_color_calibration_srgb">sRGB</string>
     <string name="header_account_settings">Impostazioni account</string>
     <string name="header_add_an_account">Aggiungi un account</string>
     <string name="header_application_sync_settings">Impostazioni sincronizzazione applicazioni</string>
@@ -3600,6 +3609,8 @@ Quando si accende il backup automatico, i dati del dispositivo e dell'app vengon
     <string name="headset_find_tip_title">Attenzione</string>
     <string name="headset_find_title">Trova gli auricolari</string>
     <string name="headset_find_voice_warning">Avviso volume elevato</string>
+    <string name="headset_head_tracking_desc">Regola il suono surround in base al movimento della testa</string>
+    <string name="headset_head_tracking_title">Traccia movimento della testa</string>
     <string name="headset_notification_switch_summary">Mostra lo stato sul widget nell\'area notifiche quando gli auricolari sono connessi</string>
     <string name="headset_notification_switch_title">Widget pannello notifiche</string>
     <string name="headset_remove_message">Dissociare il dispositivo?</string>
@@ -3879,6 +3890,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
     <string name="keyguard_advance_setting_title">Impostazioni avanzate</string>
     <string name="keyguard_security_setting_others">Altri</string>
     <string name="keyguard_security_setting_privacy_policy">Informativa sulla Privacy</string>
+    <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
     <string name="keywords_accounts">account</string>
     <string name="keywords_adb_wireless">ADB, debug, sviluppatori</string>
     <string name="keywords_add_language">aggiungi lingua, aggiungi una lingua</string>
@@ -4548,6 +4560,7 @@ Ci sono altri utenti presenti su questo dispositivo.
     <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
     <string name="memory_usage">Memoria occupata</string>
     <string name="memory_usage_apps">Memoria usata dalle app</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">%1$s di memoria usati in media nelle ultime 3 ore</string>
     <string name="memorycard_calculating">Calcolo…</string>
     <string name="menu_cancel">Ignora</string>
@@ -4636,6 +4649,7 @@ Ci sono altri utenti presenti su questo dispositivo.
     <string name="miheadset_game_mode_summary">Riduce il ritardo audio durante il gioco</string>
     <string name="miheadset_gesture_operation">Gesti</string>
     <string name="miheadset_hd_audio_title">Audio HD</string>
+    <string name="miheadset_head_tracking">Traccia movimento della testa</string>
     <string name="miheadset_high_quality">Alta qualità</string>
     <string name="miheadset_ignore">Dissocia</string>
     <string name="miheadset_in_ear_check">Rilevamento nell\'orecchio</string>
@@ -4684,6 +4698,7 @@ Ci sono altri utenti presenti su questo dispositivo.
     <string name="miheadset_triple_press_left">Tocca tre volte l\'auricolare sinistro</string>
     <string name="miheadset_triple_press_right">Tocca tre volte l\'auricolare destro</string>
     <string name="miheadset_unpair_device_text">%1$s sarà disaccoppiato da tutti i dispositivi associati a questo Mi Account.</string>
+    <string name="miheadset_virtual_surround">Suono immersivo virtuale</string>
     <string name="miheadset_windnoise">Vento</string>
     <string name="misc_files">File vari</string>
     <string name="misc_files_selected_count">selezionati %1$d di %2$d</string>
@@ -5507,6 +5522,7 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
     <string name="overlay_settings_title">Consenti sovrapposizioni dello schermo nelle impostazioni</string>
     <string name="overlay_toast_failed_to_apply">Applicazione dell\'overlay non riuscita</string>
     <string name="owner_info_settings_edit_text_hint">Testo da visualizzare sulla Schermata di blocco</string>
+    <string name="owner_info_settings_status">%1$d di %2$d</string>
     <string name="owner_info_settings_summary">Nessuno</string>
     <string name="owner_info_settings_title">Info proprietario</string>
     <string name="owner_space">Primo spazio</string>
@@ -5951,6 +5967,8 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="private_sms_recording_intro_header">Disegna una sequenza di sblocco:</string>
     <string name="private_sms_reset_by_account">Per reimpostare la tua password, accedi al tuo Mi Account</string>
     <string name="process_dex2oat_label">Ottimizzazione app</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">Sistema operativo Android</string>
     <string name="process_mediaserver_label">Server media</string>
     <string name="process_provider_in_use_description">Il provider %1$s è in uso.</string>
     <string name="process_service_in_use_description">Il servizio %1$s è in uso.</string>
@@ -5993,10 +6011,13 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="proxy_error_invalid_exclusion_list">L\'elenco di eccezioni digitato non è nel formato corretto. Digita un elenco di domini esclusi separati da virgole.</string>
     <string name="proxy_error_invalid_host">Il nome host specificato non è valido.</string>
     <string name="proxy_error_invalid_port">La porta specificata non è valida.</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_exclusionlist_label">Ignora per</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_hostname_label">Nome Host</string>
     <string name="proxy_port_label">Porta</string>
     <string name="proxy_settings_label">Impostazioni proxy</string>
+    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="proxy_warning_limited_support">Il proxy HTTP viene utilizzato dal browser ma potrebbe non essere utilizzato da altre applicazioni.</string>
     <string name="qtifeedback_settings_subtitle">Qualcomm Technologies Reporting</string>
     <string name="qtifeedback_settings_title">Feedback Hardware</string>
@@ -6280,6 +6301,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="screen_fps_summary_power_save">Utilizzare una velocità fissa consuma meno energia</string>
     <string name="screen_fps_summary_smooth">Alcune app aumenteranno automaticamente la frequenza di aggiornamento per migliorare la qualità delle immagini</string>
     <string name="screen_fps_title">Frequenza di aggiornamento</string>
+    <string name="screen_fps_unit">%d Hz</string>
     <string name="screen_fps_unit_power_save">%dHz (risparmio batteria)</string>
     <string name="screen_fps_unit_smooth">%dHz (miglior qualità)</string>
     <string name="screen_key_long_press">Pressione prolungata tasti</string>
@@ -7487,6 +7509,7 @@ Prova ad utilizzare una ^3 più veloce, o usa questa ^4 come memoria portatile"<
     <string name="string_int_hour">%d ora</string>
     <string name="string_int_hours">%d ore</string>
     <string name="string_int_minutes">%d minuti</string>
+    <string name="string_int_seconds">%d secondi</string>
     <string name="string_never">Mai</string>
     <string name="string_off">Spenta</string>
     <string name="string_offed">Spenta</string>
@@ -7555,6 +7578,7 @@ Prova ad utilizzare una ^3 più veloce, o usa questa ^4 come memoria portatile"<
     <string name="stylus_ota_serial_number">Numero di serie</string>
     <string name="stylus_ota_timeout_failed">Errore account</string>
     <string name="stylus_ota_update">Aggiorna</string>
+    <string name="stylus_ota_update_failed">"Impossibile aggiornare il firmware"</string>
     <string name="stylus_ota_updating">Aggiornamento</string>
     <string name="stylus_screen_shot">Esegui screenshot</string>
     <string name="stylus_success">Fatto</string>
@@ -7587,6 +7611,9 @@ Prova ad utilizzare una ^3 più veloce, o usa questa ^4 come memoria portatile"<
     <string name="supplicant_state_label">Stato supplicante:</string>
     <string name="support_summary">Articoli di aiuto, supporto telefonico e chat</string>
     <string name="sure_sync_now">Sincronizzare adesso?</string>
+    <string name="surround_sound_all_desc">Migliora la profondità della riproduzione del suono per auricolari e altoparlanti</string>
+    <string name="surround_sound_only_headset_desc">Migliora la profondità di riproduzione del suono per gli auricolari</string>
+    <string name="surround_sound_title">Suono immersivo</string>
     <string name="swipe_direction_ltr">Scorri verso destra per ignorare, verso sinistra per mostrare il menu</string>
     <string name="swipe_direction_rtl">Scorri verso sinistra per ignorare, verso destra per mostrare il menu</string>
     <string name="swipe_direction_title">Azioni di scorrimento</string>
@@ -8333,6 +8360,8 @@ Aggiungi una parola toccando il tasto +."</string>
     <string name="virtual_sim_global_description">Non è richiesta nessuna SIM per collegarsi alla rete dati</string>
     <string name="virtual_sim_global_title">Servizio traffico dati</string>
     <string name="virtual_sim_title">Rete dati roaming</string>
+    <string name="virtual_surround_sound_switch_summary">"Migliora la profondità del suono per la riproduzione audio e video nelle cuffie (questa funzione non funzionerà quando l'audio %.1f viene riprodotto)"</string>
+    <string name="virtual_surround_sound_switch_title">Suono immersivo</string>
     <string name="virus_scan">Scansione virus</string>
     <string name="virus_scan_app_continue">Continua scansione</string>
     <string name="virus_scan_app_finish">Fatto</string>
@@ -8910,6 +8939,7 @@ L'impostazione della rete come nascosta non cambierà le impostazioni del router
     <string name="wifi_sap_no_channel_error">Banda 5GHz non disponibile in questa nazione</string>
     <string name="wifi_save">Salva</string>
     <string name="wifi_saved_access_points_label">Reti salvate</string>
+    <string name="wifi_saved_other_networks_tab">Altre reti</string>
     <string name="wifi_scan_always_available">Scansione sempre disponibile</string>
     <string name="wifi_scan_always_confirm_allow">Consenti</string>
     <string name="wifi_scan_always_confirm_deny">Nega</string>

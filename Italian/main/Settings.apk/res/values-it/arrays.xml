@@ -43,6 +43,23 @@
         <item>Fine settimana</item>
         <item>Personalizza</item>
     </string-array>
+    <string-array name="always_enabled_app_list">
+        <item>com.android.providers.applications</item>
+        <item>com.android.providers.calendar</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.jeejen.family.miui</item>
+        <item>com.android.providers.drm</item>
+        <item>com.android.providers.media</item>
+        <item>com.android.providers.telephony</item>
+        <item>com.android.providers.userdictionary</item>
+        <item>com.miui.providers.userbook</item>
+        <item>com.miui.providers.weather</item>
+        <item>com.miui.yellowpage</item>
+        <item>com.miui</item>
+        <item>com.android.htmlviewer</item>
+        <item>com.google.android.packageinstaller</item>
+        <item>com.miui.core</item>
+    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animazioni disattivate</item>
         <item>Scala animazione .5x</item>
@@ -975,6 +992,39 @@
         <item>Suoneria</item>
         <item>Media</item>
     </string-array>
+    <string-array name="device_support_pickup_by_MTK">
+        <item>cactus</item>
+        <item>cereus</item>
+        <item>lotus</item>
+    </string-array>
+    <string-array name="disable_apptitmer_device_list">
+        <item>cactus</item>
+        <item>pine</item>
+        <item>rosy</item>
+        <item>willow</item>
+        <item>olive</item>
+        <item>tiare</item>
+        <item>cereus</item>
+        <item>riva</item>
+        <item>rolex</item>
+        <item>markw</item>
+        <item>santoni</item>
+        <item>land</item>
+        <item>vince</item>
+        <item>nikel</item>
+        <item>ugglite</item>
+        <item>ugg</item>
+        <item>kate</item>
+        <item>prada</item>
+        <item>dandelion</item>
+        <item>lime</item>
+        <item>citrus</item>
+        <item>cannon</item>
+        <item>lemon</item>
+        <item>rainbow</item>
+        <item>camellian</item>
+        <item>camellia</item>
+    </string-array>
     <string-array name="dream_timeout_entries">
         <item>Mai</item>
         <item>15 secondi</item>
@@ -1588,6 +1638,10 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Critico</item>
         <item>\?</item>
     </string-array>
+    <string-array name="remove_oldman_mode_device_list">
+        <item>davinci</item>
+        <item>raphael</item>
+    </string-array>
     <string-array name="screen_button_style">
         <item>Stile mano sinistra</item>
         <item>Stile mano destra</item>
@@ -1753,63 +1807,9 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Predefinita</item>
         <item>Compatto</item>
     </string-array>
-    <string-array name="stylus_language_entries">
-        <item>Afrikaans</item>
-        <item>Čeština</item>
-        <item>Dansk</item>
-        <item>Deutsch</item>
-        <item>Inglese</item>
-        <item>Français</item>
-        <item>Italiano</item>
-        <item>Magyar</item>
-        <item>Nederlands</item>
-        <item>Norsk bokmål</item>
-        <item>Polski</item>
-        <item>Português</item>
-        <item>Română</item>
-        <item>Shqip</item>
-        <item>Suomi</item>
-        <item>Svenska</item>
-        <item>Türkçe</item>
-        <item>Ελληνικά</item>
-        <item>български</item>
-        <item>Русский</item>
-        <item>Українська</item>
-        <item>العربية</item>
-        <item>ไทย</item>
-        <item>日本語</item>
-        <item>繁體中文 (台灣)</item>
-        <item>繁體中文 (香港)</item>
-        <item>简体中文</item>
-        <item>한국어</item>
-        <item>Euskara</item>
-        <item>Беларуская</item>
-        <item>Bosanski</item>
-        <item>Català</item>
-        <item>Hrvatski</item>
-        <item>Eesti</item>
-        <item>فارسی</item>
-        <item>Galego</item>
-        <item>עברית</item>
-        <item>íslenska</item>
-        <item>Indonesia</item>
-        <item>Қазақ тілі</item>
-        <item>кыргыз тили</item>
-        <item>Latviešu</item>
-        <item>Lietuvių</item>
-        <item>македонски</item>
-        <item>Melayu</item>
-        <item>монгол</item>
-        <item>srpski</item>
-        <item>slovenčina</item>
-        <item>slovenščina</item>
-        <item>español</item>
-        <item>Swahili</item>
-        <item>Tagalog</item>
-        <item>тоҷикӣ</item>
-        <item>اردو</item>
-        <item>ўзбекча</item>
-        <item>Tiếng Kinh</item>
+    <string-array name="support_accessibility_haptic_device_list">
+        <item>crux</item>
+        <item>venus</item>
     </string-array>
     <string-array name="support_settings_haptic_device_list">
         <item>apollo</item>
@@ -1845,6 +1845,26 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>evergreen</item>
         <item>xaga</item>
         <item>xagapro</item>
+        <item>plato</item>
+        <item>mayfly</item>
+    </string-array>
+    <string-array name="support_size_compat_device_list">
+        <item>zizhan</item>
+    </string-array>
+    <string-array name="support_speaker_auto_clean_device_list">
+        <item>willow</item>
+        <item>ginkgo</item>
+        <item>olive</item>
+        <item>olivelite</item>
+        <item>merlin</item>
+        <item>merlinin</item>
+        <item>curtana</item>
+        <item>curtanacn</item>
+        <item>durandal</item>
+        <item>excalibur</item>
+        <item>joyeuse</item>
+        <item>lancelot</item>
+        <item>galahad</item>
     </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Nitido</item>

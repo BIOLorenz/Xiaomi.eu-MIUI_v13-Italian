@@ -253,6 +253,7 @@
     <string name="de_icon_text_share">Condividi</string>
     <string name="de_mix">Costruisci</string>
     <string name="de_mix_dialog_title">Costruisci il tuo tema</string>
+    <string name="de_mix_mode_aod">Always-on display</string>
     <string name="de_mix_mode_aod_desc">Personalizza sfondo e formato dell\'ora</string>
     <string name="de_mix_mode_desktop">Schermata Home</string>
     <string name="de_mix_mode_desktop_desc">Sfondi e orologio</string>
@@ -350,6 +351,7 @@
     <string name="exit_extreme_mode_dialog_title">Disattiva Modalità estrema</string>
     <string name="exo_controls_cc_disabled_description">Abilita sottotitoli</string>
     <string name="exo_controls_cc_enabled_description">Disabilita sottotitoli</string>
+    <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
     <string name="exo_controls_fastforward_description">Avanti veloce</string>
     <string name="exo_controls_fullscreen_enter_description">Attiva schermo intero</string>
     <string name="exo_controls_fullscreen_exit_description">Disattiva schermo intero</string>
@@ -372,6 +374,7 @@
     <string name="exo_controls_shuffle_off_description">Casuale Spento</string>
     <string name="exo_controls_shuffle_on_description">Riproduzione Casuale</string>
     <string name="exo_controls_stop_description">Interrompi</string>
+    <string name="exo_controls_time_placeholder">00:00:00</string>
     <string name="exo_controls_vr_description">Modalità VR</string>
     <string name="exo_download_completed">Download completato</string>
     <string name="exo_download_description">Scarica</string>
@@ -384,6 +387,7 @@
     <string name="exo_download_removing">Rimozione download</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_role_alternate">Alternato</string>
+    <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
     <string name="exo_track_role_supplementary">Supplementare</string>
     <string name="exo_track_selection_auto">Auto</string>
@@ -798,6 +802,7 @@ mm"</string>
     <string name="privacy_action_failed_server_content">Si è verificato un errore del server. Aspetta e prova di nuovo.</string>
     <string name="privacy_action_failed_title">Errore</string>
     <string name="privacy_confirm_logoff_and_exit">Annulla servizi</string>
+    <string name="privacy_confirm_revoke_and_exit_btn">Ritira il consenso</string>
     <string name="privacy_exit_btn">Esci</string>
     <string name="privacy_give_up_logoff">Indietro</string>
     <string name="privacy_give_up_revoke_btn">Indietro</string>
@@ -996,6 +1001,7 @@ mm"</string>
     <string name="resource_restore">Ripristina</string>
     <string name="resource_restore_fail">"Impossibile ripristinare"</string>
     <string name="resource_restore_succ">Ripristino completato</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
     <string name="resource_ringtone_default">Suoneria</string>
     <string name="resource_ringtone_playing_error">Errore</string>
     <string name="resource_ringtone_volume_mute">La suoneria è silenziata</string>
@@ -1159,6 +1165,7 @@ mm"</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="super_wallpaper">Super Sfondi</string>
+    <string name="super_wallpaper_download_progress">%1$d%%</string>
     <string name="super_wallpaper_list_footer_text">Rimani sintonizzato per le nostre novità!</string>
     <string name="super_wallpaper_list_label">Super Sfondi</string>
     <string name="super_wallpaper_setting_apply_success_toast">Applicato correttamente</string>
@@ -1252,6 +1259,7 @@ mm"</string>
     <string name="theme_component_title_alarm">Sveglia</string>
     <string name="theme_component_title_alarmstyle">Stili sveglia</string>
     <string name="theme_component_title_all">Temi</string>
+    <string name="theme_component_title_aod">Always-on display</string>
     <string name="theme_component_title_audio_effect">Suoni</string>
     <string name="theme_component_title_boot_animation">Animazioni avvio</string>
     <string name="theme_component_title_boot_audio">Suono di avvio</string>

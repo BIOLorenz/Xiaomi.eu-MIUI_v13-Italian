@@ -123,6 +123,9 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="ask">Chiedi</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
     <string name="audio_mode_speaker">Altoparlante</string>
+    <string name="auto_answer_delay_entries_delay_10s">%d secondi</string>
+    <string name="auto_answer_delay_entries_delay_3s">%d secondi</string>
+    <string name="auto_answer_delay_entries_delay_5s">%d secondi</string>
     <string name="auto_answer_scenario_enteries_always">Sempre</string>
     <string name="auto_answer_scenario_enteries_bluetooth_only">Solo Bluetooth</string>
     <string name="auto_answer_summary_not_enabled">Spenta</string>
@@ -920,6 +923,7 @@ Selezione"</string>
     <string name="other_settings_category">Altro</string>
     <string name="overlay_display_devices_title">Simula display secondari</string>
     <string name="overseas_roaming_setting">Roaming dati</string>
+    <string name="password">Password</string>
     <string name="password_changed">Password modificata</string>
     <string name="password_title">Password</string>
     <string name="password_toggle_content_description">Mostra password</string>
@@ -942,6 +946,7 @@ Il tuo telefono verrà bloccato automaticamente dopo un altro tentativo fallito"
     <string name="ping_test_label">Esegui test ping</string>
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Overlay schermo che mostra i dati touch correnti</string>
+    <string name="port">Porta</string>
     <string name="port_title">Numero porta</string>
     <string name="power_charging_duration">%1$s - %2$s rimanenti fino al completamento</string>
     <string name="power_charging_limited">%1$s - Ricarica temporaneamente limitata</string>
@@ -1028,8 +1033,12 @@ Il tuo telefono verrà bloccato automaticamente dopo un altro tentativo fallito"
     <string name="private_dns_mode_provider_failure">"Connessione fallita"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci il nome host del provider DNS</string>
     <string name="private_num">Numero privato</string>
+    <string name="process_kernel_label">Sistema operativo Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Spegni e riaccendi il dispositivo</string>
     <string name="profile_info_settings_title">Informazioni profilo</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
+    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="puk_lock_warning">"
 La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="quick_dial_setting_title">Chiamata rapida</string>

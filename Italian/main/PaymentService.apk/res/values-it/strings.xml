@@ -384,6 +384,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_header_network_error">"Impossibile collegarsi alla rete."</string>
     <string name="mibi_illegal_intent">Richiesta di intenti non valida</string>
     <string name="mibi_incognito_mode_dialog_cancel">Annulla</string>
+    <string name="mibi_incognito_mode_dialog_title">"Sei in incognito"</string>
     <string name="mibi_incognito_mode_dialog_to_close">Impostazioni</string>
     <string name="mibi_is_what">Cosa puoi acquistare con i Mi Credit?</string>
     <string name="mibi_label_balance">Saldo</string>

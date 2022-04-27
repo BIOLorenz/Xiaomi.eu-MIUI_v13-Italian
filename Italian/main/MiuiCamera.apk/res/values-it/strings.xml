@@ -388,7 +388,10 @@
     <string name="beauty_makeups_gentleman">Argento</string>
     <string name="beauty_makeups_pinkfemale">Petalo</string>
     <string name="beauty_makeups_solid">Contorno</string>
+    <string name="beauty_makeups_subeffect_filter">Filtri</string>
+    <string name="beauty_makeups_subeffect_makeup">Trucco</string>
     <string name="beauty_makeups_toughman">Bronzo</string>
+    <string name="beauty_makeups_yuanqi">Fresco</string>
     <string name="beauty_mo_fe">Naturali</string>
     <string name="beauty_mo_or">Apri il file originale</string>
     <string name="beauty_mode_reset_toast">Effetto Rimodellazione rimosso</string>
@@ -579,6 +582,7 @@
     <string name="config_name_super_resolution">Super risoluzione</string>
     <string name="config_name_tilt">Tilt-Shift</string>
     <string name="config_name_timer">Conto alla rovescia</string>
+    <string name="confirm">Conferma</string>
     <string name="confirm_fastmotion_reset_manually_parameter_message">Reimpostare i parametri?</string>
     <string name="confirm_install_scanner_message">"Lo scanner ti permette di scansionare codici QR, a barre, ed altri. E non dovrai connetterti ad internet per installarlo."</string>
     <string name="confirm_install_scanner_title">Installa Scanner</string>
@@ -673,6 +677,7 @@ documenti scansionati automaticamente"</string>
     <string name="download_hint">%1$s MB di dati mobili verranno utilizzati per scaricare gli elementi. Scaricarlo comunque?</string>
     <string name="download_in_progress">Download in corso…</string>
     <string name="download_title">Avviso utilizzo dati</string>
+    <string name="download_waiting">In attesa...</string>
     <string name="dual_camera_lens_covered_toast">L\'obiettivo è coperto\".</string>
     <string name="dual_camera_lowlight_toast">"Sembra che l'ambiente sia troppo buio."</string>
     <string name="dual_camera_too_close_toast">La fotocamera è troppo vicina al soggetto.</string>
@@ -723,6 +728,7 @@ La registrazione a doppio telefono consente anche di connettersi all'altro dispo
     <string name="edit_slim_nose">Naso</string>
     <string name="edit_smile">Sorriso</string>
     <string name="edit_solid">Contorno</string>
+    <string name="edit_touch_up">Trucco</string>
     <string name="emoticon">Pacchetto di sticker</string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
@@ -760,6 +766,7 @@ La registrazione a doppio telefono consente anche di connettersi all'altro dispo
     <string name="face_beauty_intelligent_level_1">Bassa</string>
     <string name="face_beauty_intelligent_level_2">Medio</string>
     <string name="face_beauty_intelligent_level_3">Alta</string>
+    <string name="face_beauty_smart">Smart</string>
     <string name="face_score_info">Punto: %.1f</string>
     <string name="fastmotion_pro_adjust_name">Parametri professionali</string>
     <string name="fastmotion_pro_save_time_infinity">Durata registrazione illimitata</string>
@@ -856,6 +863,7 @@ Stampa la copia, wireless, su un foglio A4."</string>
     <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
     <string name="install_confirmed">Installa</string>
     <string name="invisible_mode_dialog_cancel">Annulla</string>
+    <string name="invisible_mode_dialog_title">"Sei in incognito"</string>
     <string name="invisible_mode_dialog_to_close">Impostazioni</string>
     <string name="kaleidoscope_fragment_tab_name">Kaleidoscopio</string>
     <string name="latitude_text">Latitudine</string>
@@ -1443,6 +1451,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_jpegquality_entry_low">Bassa</string>
     <string name="pref_camera_jpegquality_entry_normal">Normale</string>
     <string name="pref_camera_jpegquality_title">Qualità</string>
+    <string name="pref_camera_jpegquality_value_normal">normale</string>
     <string name="pref_camera_live_sticker_internal_title">Strumenti magici</string>
     <string name="pref_camera_long_press_shutter_feature_title">Tieni premuto il tasto di scatto</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Scatto continuo</string>
@@ -1657,6 +1666,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_simple_hdr_entry_on">Attivata</string>
     <string name="pref_skin_beautify_color_title">Tono</string>
     <string name="pref_skin_beautify_eye_title">Occhi</string>
+    <string name="pref_skin_beautify_intelligent_title">Smart</string>
     <string name="pref_skin_beautify_slim_title">Sottile</string>
     <string name="pref_skin_beautify_smooth_title">Liscio</string>
     <string name="pref_smart_guide_title">Suggerimenti smart</string>
@@ -1679,11 +1689,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_video_focusmode_entry_auto">Tocca</string>
     <string name="pref_video_focusmode_title">Modalità Concentrazione</string>
     <string name="pref_video_hfr_title">Video HFR</string>
-    <string name="pref_video_quality_entry_1080p">Full HD (1080p)</string>
-    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
     <string name="pref_video_quality_entry_480p">SD (480p)</string>
-    <string name="pref_video_quality_entry_4kuhd">4K (2160p)</string>
-    <string name="pref_video_quality_entry_720p">HD (720p)</string>
     <string name="pref_video_quality_hfr_title">Frame rate e qualità foto</string>
     <string name="pref_video_quality_title">Qualità video</string>
     <string name="pref_video_speed_entry_fast">Veloce</string>

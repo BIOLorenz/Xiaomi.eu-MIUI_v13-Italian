@@ -455,6 +455,7 @@
     <string name="composer_not_initialized">"Il compositore di vCard non si è avviato correttamente."</string>
     <string name="conference_call_disable_tip">"Impossibile effettuare chiamate. Assicurati che il tuo dispositivo sia connesso ad una rete 4G con supporto VoLTE."</string>
     <string name="config_export_file_extension">vcf</string>
+    <string name="config_export_vcard_type">v30_generic</string>
     <string name="confirm_call_log_dial_summary">Chiedi conferma prima di comporre dal registro chiamate per evitare chiamate accidentali.</string>
     <string name="confirm_call_log_dial_title">Conferma prima di comporre dal registro chiamate</string>
     <string name="confirm_delete_contact_all_call_logs">"Eliminare cronologia %s?"</string>
@@ -1061,6 +1062,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="permission_retry_setting">Impostazioni</string>
     <string name="permission_write_external_storage_desc">Per salvare i dati dell\'app</string>
     <string name="phoneLabelsGroup">Telefono</string>
+    <string name="phone_info_divider">" | "</string>
     <string name="phone_number_too_long_toast">Numero troppo lungo</string>
     <string name="phone_primary">Primario</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>

@@ -418,6 +418,7 @@
     <string name="local_ocr_recognition">Riconoscimento OCR locale</string>
     <string name="local_ocr_recognition_str">Passato a traduzione offline</string>
     <string name="logistics">Consegna rapida</string>
+    <string name="logout_service">Ritira il consenso</string>
     <string name="low_version_tip">La versione della MIUI è troppo vecchia. Aggiorna la MIUI per usare Scanner.</string>
     <string name="midnight">Notte</string>
     <string name="mihome_goto_install">Installa</string>

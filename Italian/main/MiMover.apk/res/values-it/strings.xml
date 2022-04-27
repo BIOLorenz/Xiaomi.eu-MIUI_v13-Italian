@@ -29,12 +29,18 @@
     <string name="app_name">Mi Mover</string>
     <string name="app_update_64_dialog_cancel">Non ora</string>
     <string name="app_update_64_dialog_confirm">Aggiorna</string>
+    <string name="app_update_64_dialog_title">Aggiorna all\'architettura a 64 bit</string>
+    <string name="app_update_64_notfication_body">Aggiorna per migliorare le prestazioni dell\'app</string>
+    <string name="app_update_title">Aggiorna tutte le app</string>
+    <string name="apple_calendar">Eventi del calendario</string>
     <string name="apple_contacts">Contatti</string>
     <string name="apple_image">Foto</string>
     <string name="apple_video">Video</string>
     <string name="appname_app_data_suffix">%1$s dati app</string>
     <string name="apps_cannot_be_transfered_confirm_button">Avvia</string>
     <string name="apps_cannot_be_transfered_next_button">Successivo</string>
+    <string name="apps_cannot_be_transfered_summary">"Queste app a 64 bit non possono essere trasferite su un dispositivo a 32 bit. Puoi scaricarle direttamente da GetApps dopo il trasferimento."</string>
+    <string name="apps_cannot_be_transfered_title">"Impossibile trasferire queste app"</string>
     <string name="audio">Audio</string>
     <string name="audio_video_document">Audio, video e documenti</string>
     <string name="back">Indietro</string>
@@ -70,6 +76,7 @@
     <string name="button_return">Indietro</string>
     <string name="button_scanning">Scansione…</string>
     <string name="button_send">Invia</string>
+    <string name="calendar_permission_desc">Per il trasferimento di eventi ad altri dispositivi</string>
     <string name="calllog">Registro chiamate</string>
     <string name="cancel">Annulla</string>
     <string name="cancel_btn">Annulla</string>
@@ -179,13 +186,18 @@ Visita https://appleid.apple.com/#!&amp;page=signin per disattivarlo"</string>
     <string name="connection_tips_other_title">Se il vecchio dispositivo è un telefono Android di terze parti:</string>
     <string name="connection_tips_owner_message">Mi Mover è preinstallato su tutti i dispositivi con MIUI 11. Se hai una versione MIUI più vecchia, puoi scaricare l\'ultima versione di Mi Mover in GetApps o utilizzare questo link: %1$s.</string>
     <string name="connection_tips_owner_title">Se il tuo vecchio dispositivo è un Telefono Mi:</string>
+    <string name="contact_records_permission_desc">Per trasferire la cronologia delle chiamate ad altri dispositivi</string>
     <string name="contacts">Contatti</string>
+    <string name="contacts_permission_desc">Per trasferire contatti ad altri dispositivi</string>
     <string name="copy">Copia</string>
     <string name="current_user_not_supported_summary">Le impostazioni di sistema attuali limitano il trasferimento dei dati utilizzando Mi Mover.</string>
     <string name="current_user_not_supported_title">"Impossibile trasferire gli elementi"</string>
+    <string name="data_read_white_permission_desc">Per trasferire elementi ad altri dispositivi</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="dialog_airplane_mode_button">Impostazioni</string>
+    <string name="dialog_airplane_mode_content">"Mi Mover non può funzionare quando la modalità aereo è attiva. Disattivala nelle impostazioni."</string>
+    <string name="dialog_airplane_mode_title">Disattiva la modalità aereo</string>
     <string name="dialog_backup_password_cancel">Annulla</string>
     <string name="dialog_backup_password_change_machine_tips">"Non sarai in grado di trasferire i backup portetti da password. Disattiva la password backup prima di utilizzare Mi Mover."</string>
     <string name="dialog_backup_password_verify">OK</string>
@@ -234,6 +246,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="err_bakfile_broken">"Impossibile utilizzare questo backup."</string>
     <string name="err_bakfile_not_exist">"Il file di backup non esiste."</string>
     <string name="err_binder_died">L\'app si è bloccata in modo inatteso.</string>
+    <string name="err_install_incompatible">Problema di compatibilità</string>
     <string name="err_low_storage">Memoria insufficiente</string>
     <string name="err_no_gms">Versione app incompatibile. Installa questa app separatamente</string>
     <string name="err_not_allow">Non supportato</string>
@@ -304,6 +317,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="guest_unfinished_task_alert_btn_positive">Continua</string>
     <string name="guest_unfinished_task_alert_message">Sembra che tu abbia attività di trasferimento non completate. Continuare con il trasferimento?</string>
     <string name="guest_unfinished_task_alert_title">Attività non terminate</string>
+    <string name="guest_wainting_title">Continua sul nuovo dispositivo</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -315,6 +329,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
     <string name="hide_password_description">Nascondi password</string>
+    <string name="high_temp_summary">Il tuo dispositivo potrebbe surriscaldarsi durante il trasferimento di grandi quantità di dati. Questo è normale, il dispositivo si raffredderà dopo che il trasferimento è stato completato.</string>
     <string name="host_boot_installation_bottom_tips">"Impossibile trovare Mi Mover? Tocca per scaricarlo."</string>
     <string name="host_boot_installation_button">Successivo</string>
     <string name="host_boot_installation_content">"1. Vai su Impostazioni nel tuo vecchio dispositivo.
@@ -340,6 +355,9 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="host_memory_insuff_title">Memoria insufficiente</string>
     <string name="host_new_device_hint">Questo dispositivo</string>
     <string name="host_verify_lock_hint">Inserisci blocco schermo</string>
+    <string name="host_verify_lock_retry">Conferma blocco schermo</string>
+    <string name="host_verify_lock_summary">"Questo diventerà il blocco schermo del tuo dispositivo"</string>
+    <string name="host_verify_lock_title">"Inserisci il blocco schermo del tuo vecchio dispositivo"</string>
     <string name="hsa_code_null">"Il codice di verifica non può essere vuoto"</string>
     <string name="hsa_input_tip">Il tuo ID iCloud attiva l\'autenticazione in due fasi. Inserisci il codice di verifica.</string>
     <string name="hsa_send_again">Invia nuovamente</string>
@@ -370,6 +388,9 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="icloud_signin_fail_message">Il tuo Apple ID è stato bloccato per motivi di sicurezza. Vai su iforgot.apple.com e segui le istruzioni.</string>
     <string name="icloud_start_now">Utilizza dati mobili</string>
     <string name="icloud_verify_tips">Tocca Consenti sul tuo dispositivo iOS e inserisci il codice che appare qui.</string>
+    <string name="idm_discovery_positive_text">Trasferisci</string>
+    <string name="idm_discovery_summary">"Sembra che tu stia attivando un nuovo dispositivo. Trasferire gli elementi da questo dispositivo a quello nuovo?"</string>
+    <string name="idm_discovery_title">Trasferisci elementi sul tuo nuovo dispositivo</string>
     <string name="im_recipient">"Sono il ricevente"</string>
     <string name="im_sender">"Sono il mittente"</string>
     <string name="image">Immagini</string>
@@ -395,7 +416,11 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="launcher">Layout schermata Home</string>
     <string name="less_than_1_minute">Meno di 1 minuto</string>
     <string name="loading_data">Attendi…</string>
+    <string name="location_permission_desc">Per trovare dispositivi nelle vicinanze</string>
     <string name="location_permission_request">用于与另一台手机配对连接</string>
+    <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
+    <string name="lockscreen_access_pattern_cleared">Sequenza annullata</string>
+    <string name="lockscreen_access_pattern_start">Sequenza iniziata</string>
     <string name="login">Accedi</string>
     <string name="login_failed">"Impossibile accedere. Prova di nuovo."</string>
     <string name="logining">Accesso…</string>
@@ -409,7 +434,9 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="main_receiver_title">Nuovo</string>
     <string name="main_sender_summary">Tocca per inviare</string>
     <string name="main_sender_title">Vecchio</string>
+    <string name="manual_connection_hint">Tocca \"Connetti manualmente\" sul tuo vecchio dispositivo.</string>
     <string name="manual_connection_title">connetti il vecchio dispositivo manualmente</string>
+    <string name="message_request_manage_external_storage_perm">Mi Mover ha bisogno di accedere a tutti i file su questo dispositivo per poterli spostare dal vecchio dispositivo a uno nuovo.</string>
     <string name="message_request_package_stats_perm">Premi \"Continua\" per aprire le impostazioni e dare a Mi Mover le autorizzazioni necessarie.</string>
     <string name="midnight">Notte</string>
     <string name="miui_need_location_permission_summary">"Consenti a Mi Mover di accedere alla tua posizione per trovare i dispositivi nelle vicinanze. Non sarai in grado di utilizzare Mi Mover a meno che non concedi questo permesso."</string>
@@ -488,6 +515,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="month_september_shortest">Set</string>
     <string name="more">Altro</string>
     <string name="morning">Mattina</string>
+    <string name="msg_permission_desc">Per il trasferimento di messaggi ad altri dispositivi</string>
     <string name="name_password_not_consistent">"L'Apple ID e la password che hai inserito non corrispondono"</string>
     <string name="need_location_permission_confirm">Impostazioni</string>
     <string name="need_location_permission_summary">Consenti a Mi Mover di accedere alla tua posizione per essere in grado di trovare dispositivi nelle vicinanze.</string>
@@ -582,6 +610,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="password">Inserisci password</string>
     <string name="password_null">"La password non può essere vuota"</string>
     <string name="perm_location">Posizione</string>
+    <string name="perm_manage_external_storage">Accedere a tutti i file</string>
     <string name="perm_package_stats">Accesso alle statistiche di utilizzo</string>
     <string name="perm_read_call_log">Accesso alla cronologia chiamate</string>
     <string name="perm_read_contacts">Accedi ai contatti</string>
@@ -589,6 +618,8 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="perm_read_sms">Accesso ai messaggi</string>
     <string name="perm_storage">Accesso e salvataggio in memoria</string>
     <string name="perm_write_settings">Modifica impostazioni di sistema</string>
+    <string name="permission_about_contacts">È richiesto il permesso di modifica dei contatti e della cronologia chiamate</string>
+    <string name="permission_about_storage">È richiesto il permesso di accedere alla memoria del dispositivo</string>
     <string name="permission_alert_message_usage_access">Mi Mover ha bisogno di accedere alle statistiche di utilizzo dell\'app. Fornisci a Mi Mover i permessi richiesti nelle Impostazioni.</string>
     <string name="permission_alert_title">Permessi richiesti</string>
     <string name="permission_bluetooth_summary">Per cercare dispositivi vicini</string>
@@ -599,10 +630,13 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="permission_call_log_title">Accesso al registro chiamate</string>
     <string name="permission_contacts_summary">Per trasferire i contatti sul tuo nuovo dispositivo</string>
     <string name="permission_contacts_title">Accesso ai contatti</string>
+    <string name="permission_grant_request">Per poter trasferire questo elemento, Mi Mover ha bisogno del permesso \"%1$s\".</string>
     <string name="permission_locale_summary">Per la connessione a dispositivi vicini</string>
     <string name="permission_locale_title">Accesso alla posizione</string>
+    <string name="permission_location_content">"Consenti a Mi Mover di accedere alla tua posizione per poterti connettere al tuo vecchio dispositivo. Se non si consente l'accesso alla posizione, non sarà possibile trasferire gli elementi."</string>
     <string name="permission_message_summary">Per il trasferimento dei messaggi al nuovo dispositivo</string>
     <string name="permission_message_title">Accesso agli SMS</string>
+    <string name="permission_request_title">\"%1$s\" permesso richiesto</string>
     <string name="permission_setting_button">Impostazioni</string>
     <string name="permission_storage_summary">Per il trasferimento di file e foto al nuovo dispositivo</string>
     <string name="permission_storage_title">Accesso e salvataggio di file e foto memorizzati sul tuo dispositivo</string>
@@ -620,7 +654,12 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="prompt_before_transmission_message4_title">Resta connesso durante il trasferimento</string>
     <string name="prompt_before_transmission_message5_summary">"Il trasferimento di grandi quantità di dati in modalità wireless potrebbe causare un leggero surriscaldamento. Il dispositivo tornerà normale subito dopo il completamento."</string>
     <string name="prompt_before_transmission_message5_title">Il tuo dispositivo potrebbe scaldarsi durante i trasferimenti.</string>
+    <string name="provisiion_set_old_phone">Importa dal vecchio dispositivo</string>
+    <string name="provisiion_set_old_phone_summary">Usa Mi Mover per importare dati dal tuo vecchio dispositivo senza connetterti a internet</string>
+    <string name="provision_cta_title">Trasferisci dal vecchio dispositivo</string>
     <string name="provision_receiver_finish_button">Successivo</string>
+    <string name="provision_select_data_null">Seleziona gli elementi da trasferire</string>
+    <string name="provision_set_new_phone">Utilizza come nuovo dispositivo</string>
     <string name="qq_app">QQ</string>
     <string name="qq_app_receive_fail">"Impossibile ricevere QQ"</string>
     <string name="qq_app_send_fail">"Impossibile inviare QQ"</string>
@@ -631,15 +670,25 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="receiver_finish_detail_fail">"Trasferimento fallito"</string>
     <string name="receiver_finish_detail_success">Elementi trasferiti</string>
     <string name="receiver_finish_title">"È tutto pronto!"</string>
+    <string name="receiver_video_summary">Sblocca il vecchio dispositivo, tocca \"Trasferisci\" e scansiona questa immagine</string>
+    <string name="receiver_video_title">Trasferisci dal vecchio dispositivo</string>
     <string name="recommend_hint">Consigliato</string>
     <string name="reconnect">Riconnetti</string>
     <string name="recreate_soft_ap_tips">Tocca il tasto quasotto per provare di nuovo.</string>
     <string name="refuse_accept">"Non accetto"</string>
+    <string name="request_all_permission_content">"Mi Mover deve accedere ai seguenti elementi per poter trasferire gli elementi su un nuovo dispositivo:
+- Posizione
+- Contatti
+- Cronologia chiamate
+- Messaggi di testo
+- Archiviazione"</string>
     <string name="request_all_permission_title">Permessi richiesti</string>
     <string name="restore_data_to_device_content">"I tuoi elementi sono stati sincronizzati con Xiaomi Cloud.
 Accedi al tuo Mi Account per ripristinarli."</string>
     <string name="restore_data_to_device_title">Ripristina gli elementi su questo dispositivo</string>
+    <string name="revoke">Ritira il consenso</string>
     <string name="revoke_agree">Revoca autorizzazione...</string>
+    <string name="revoke_confirm_dialog_statement">"Se continui, ritirerai il tuo consenso all'Informativa sulla privacy di Mi Mover. Le informazioni personali già raccolte e conservate saranno cancellate entro un determinato periodo conformemente alle disposizioni legislative e regolamentari applicabili, salvo altrimenti disposto. Dato che Mi Mover fornisce i suoi servizi sulla base della raccolta delle informazioni personali necessarie, il vostro ritiro del consenso sarà considerato come rifiuto di accettare i servizi Mi Mover."</string>
     <string name="revoke_confirm_dialog_yes">OK</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
@@ -669,6 +718,7 @@ Libera almeno %s."</string>
     <string name="searching_for_new_device">Ricerca di un nuovo dispositivo…</string>
     <string name="select_android_summary">Huawei, OPPO, vivo e altri</string>
     <string name="select_android_title">Android</string>
+    <string name="select_apple_title">Apple</string>
     <string name="select_empty">Seleziona gli elementi da importare</string>
     <string name="select_item_calendar">Calendario</string>
     <string name="select_item_contacts">Contatti</string>
@@ -687,6 +737,14 @@ Libera almeno %s."</string>
     <string name="sender">Invia</string>
     <string name="sender_finish_bottom_tips">"Assicurati di aver eseguito il backup di tutti gli elementi importanti prima di cancellare i dati su questo dispositivo."</string>
     <string name="sender_finish_title">trasferimento riuscito</string>
+    <string name="sender_scanning_code">Posiziona l\'immagine nel riquadro</string>
+    <string name="sender_scanning_connecting">Connessione al nuovo dispositivo…</string>
+    <string name="set_new_device_account">Sincronizza con Mi Account</string>
+    <string name="set_new_device_lock">Imposta blocco schermo</string>
+    <string name="set_new_device_more">Altre impostazioni di sistema…</string>
+    <string name="set_new_device_navigationbar">Imposta navigazione di sistema</string>
+    <string name="set_new_device_title">Impostazione del nuovo dispositivo…</string>
+    <string name="set_new_device_wlan">Configura Wi-Fi</string>
     <string name="settings_phone">Impostazioni telefono</string>
     <string name="settings_powerkeeper">Dati conteggio passi</string>
     <string name="settings_sms">Impostazioni messaggi</string>
@@ -702,6 +760,7 @@ Libera almeno %s."</string>
     <string name="skip_underline">Salta questo passaggio</string>
     <string name="sms">SMS</string>
     <string name="soft_ap_create_failed">"Impossibile creare un hotspot"</string>
+    <string name="soft_ap_create_failed_apple">"Impossibile generare il codice QR"</string>
     <string name="soft_ap_creating">Creazione hotspot…</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
@@ -795,7 +854,19 @@ Libera almeno %s."</string>
     <string name="title_request_write_settings_perm">Consenti modifica delle impostazioni di sistema</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
+    <string name="trans_apple">Collega il tuo iPhone</string>
+    <string name="trans_apple_button_cancel">Annulla trasferimento</string>
+    <string name="trans_apple_button_cancel_hint">Annullare il trasferimento?</string>
+    <string name="trans_apple_button_cancel_negative">"Non annullare"</string>
+    <string name="trans_apple_button_cancel_positive">Annulla trasferimento</string>
     <string name="trans_apple_button_reconnect">Riconnetti</string>
+    <string name="trans_apple_hint">"Non lasciare questa pagina o utilizzare il Wi-Fi fino al completamento del trasferimento."</string>
+    <string name="trans_apple_hint_1_content">"Scarica Mi Mover dall'App Store, o scansiona questo codice QR con l'app Fotocamera del tuo iPhone."</string>
+    <string name="trans_apple_hint_1_title">%d. Installa Mi Mover</string>
+    <string name="trans_apple_hint_2_content">Apri Mi Mover sul tuo iPhone, seleziona \"Tocca per inviare elementi\" e scansiona il codice QR.</string>
+    <string name="trans_apple_hint_2_title">%d. Connetti dispositivi</string>
+    <string name="trans_apple_interrupt_sub">Tocca qui per riconnetterti.</string>
+    <string name="trans_apple_interrupt_title">Trasferimento interrotto</string>
     <string name="trans_detail_item_app_data_skip_data">"Impossibile trsferire i dati app"</string>
     <string name="trans_detail_item_app_skip_data">"Impossibile spostare questa app"</string>
     <string name="trans_detail_qq_data">Dati QQ (inclusa cronologia chat)</string>
@@ -814,13 +885,17 @@ audio, video, documenti e applicazioni su un nuovo dispositivo</string>
     <string name="trans_show_qr_code_label">Connettiti al vecchio dispositivo</string>
     <string name="trans_show_qr_code_label_for_pad">Connettiti al vecchio dispositivo</string>
     <string name="trans_sync_transfer_data_list">Seleziona gli elementi da trasferire sul vecchio dispositivo</string>
+    <string name="trans_sync_transfer_data_list_apple">"Seleziona gli elementi da trasferire
+sul tuo iPhone"</string>
     <string name="trans_sync_transfer_data_list_hint">Attendi…</string>
+    <string name="trans_sync_transfer_data_list_summary_for_pad">Seleziona gli elementi sul tuo vecchio dispositivo e tocca \"Invia\".</string>
     <string name="trans_time_format_second">Meno di 1 minuto</string>
     <string name="trans_time_spent">Durata: %s</string>
     <string name="transfer_bottom_tip">"Non potrai utilizzare il Wi-Fi o il Bluetooth durante il trasferimento. Non abbandonare questa pagina."</string>
     <string name="transfer_connect_fail_summary">Tocca il pulsante qui sotto per connetterti manualmente</string>
     <string name="transfer_finish_bottom_tip">"Se non userai più il tuo vecchio dispositivo, è possibile cancellare tutti i dati su di esso dopo aver confermato che tutti gli elementi importanti sono stati trasferiti correttamente."</string>
     <string name="transfer_finish_summary">Trasferiti %1$s (%2$s)</string>
+    <string name="transfer_long_pause_in_progress">Trasferimento…</string>
     <string name="transfer_lose_connect_summary">Sembra che la connessione sia stata interrotta. Connettiti di nuovo.</string>
     <string name="transfer_lose_connect_title">Dispositivo disconnesso</string>
     <string name="transfer_multi_connect_summary">Il tuo trasferimento è stato interrotto per motivi di sicurezza. Puoi toccare \"Connettiti di nuovo\" per continuare comunque.</string>

@@ -38,6 +38,8 @@
     <string name="align_type">Allineamento</string>
     <string name="always_style">Sempre</string>
     <string name="always_style_symmary">Consuma più batteria</string>
+    <string name="ambient_display_screen_title">Always-on display</string>
+    <string name="ambient_display_screen_title_sp">Ambient display</string>
     <string name="animation_clock_panel">Composizione Onda</string>
     <string name="aod_close_color_inversion">"Questa funzione non può essere combinata con l'inversione dei colori. Disattivala prima."</string>
     <string name="aod_component">Elementi visualizzati</string>
@@ -58,6 +60,7 @@ dd/MM"</string>
     <string name="aod_mode_summary">Mostra ora, data, notifiche e immagini di sfondo quando lo schermo è spento</string>
     <string name="aod_mode_time_summary">Pianifica l\'attivazioe e disattivazione della modalità Always on</string>
     <string name="aod_mode_time_title">Pianifica</string>
+    <string name="aod_mode_title">Always-on display</string>
     <string name="aod_show_date_and_time">Mostra data e ora</string>
     <string name="aod_show_style_title">Visualizza elementi</string>
     <string name="aod_signature_12">hh:mm aa</string>
@@ -227,6 +230,7 @@ dd/MM"</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
+    <string name="garbage_count">Ci sono %1$s vecchie istanze</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -244,6 +248,7 @@ dd/MM"</string>
     <string name="line_space">Spaziatura linea</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
+    <string name="memory_leak">Memory leak</string>
     <string name="midnight">Notte</string>
     <string name="mini_time">Orologio piccolo</string>
     <string name="minimalist_clock">Orologio semplice</string>
@@ -347,6 +352,7 @@ dd/MM"</string>
     <string name="notification_anim_pulse">Pulsazione</string>
     <string name="notification_anim_rhythm">Ritmo</string>
     <string name="notification_anim_star">Stellare</string>
+    <string name="notification_channel_alerts">Avvisi</string>
     <string name="notification_nothing">Nessuno</string>
     <string name="notification_screen_on">Accendi lo schermo</string>
     <string name="off">Disattivato</string>
@@ -386,6 +392,8 @@ dd/MM"</string>
     <string name="show_notificaton">Mostra notifiche</string>
     <string name="shownone_arround_image">Nessuno</string>
     <string name="signature">Firma</string>
+    <string name="signature_default_content">"Always believe that something
+wonderful is about to happen"</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
@@ -428,6 +436,7 @@ dd/M"</string>
     <string name="super_wallpaper_date_lunar">"EEEE
 dd/MM"</string>
     <string name="temporary_style">Per 10 secondi dopo aver toccato</string>
+    <string name="temporary_style_5">Per 5 secondi dopo aver toccato</string>
     <string name="temporary_style_summary">Consigliato</string>
     <string name="text_color">Colore del testo</string>
     <string name="text_length_exceed_limit_alert">*Il testo inserito è troppo lungo</string>

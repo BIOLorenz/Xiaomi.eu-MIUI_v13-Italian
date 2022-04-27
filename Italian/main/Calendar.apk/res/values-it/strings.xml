@@ -471,7 +471,6 @@
     <string name="homepage_today">Oggi</string>
     <string name="horoscope">Oroscopo</string>
     <string name="horoscope_card_title">"Oroscopo di oggi"</string>
-    <string name="horoscope_partner">fornito da Staqu</string>
     <string name="horoscope_select_activity_label">Seleziona il segno zodiacale</string>
     <string name="image_processing">"Immagine non ancora pronta"</string>
     <string name="import_action">Importa</string>

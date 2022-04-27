@@ -253,6 +253,9 @@
     <string name="miui_feedback_edit_toast_screenshot_too_large">"Non è possibile caricare immagini o video più grandi di 100MB"</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">Inserisci nome app</string>
     <string name="miui_feedback_main_answer_title">"C'è una risposta a questa domanda"</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"Call Center: 0120-300-521
+Orario di ufficio: 9:00 - 18:00 (eccetto giorni festivi)
+Email: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_frequent_question_title">Domande frequenti</string>
     <string name="miui_feedback_main_item_catch_full_log">Ottieni log</string>
     <string name="miui_feedback_main_item_customer_service">Servizi post-vendita</string>
@@ -269,6 +272,7 @@
     <string name="miui_feedback_main_submit_dialog_title">Invia Feedback</string>
     <string name="miui_feedback_main_title">Segnalazione</string>
     <string name="miui_feedback_main_withdraw">Revoca</string>
+    <string name="miui_feedback_main_withdraw_consent_hint">"Continuando, revocherai il tuo consenso all'Informativa sulla privacy di %1$s. Le informazioni personali già raccolte e conservate saranno cancellate entro un periodo di tempo specifico in conformità con le leggi e i regolamenti applicabili, salvo diversamente richiesto. Poiché %2$s fornisce i propri servizi in base alla raccolta delle informazioni personali necessarie, la revoca del consenso verrà considerata come un rifiuto da parte tua di accettare i servizi di %3$s. Revocare il consenso?"</string>
     <string name="miui_guide_accessibility_image_desc">Immagine</string>
     <string name="miui_guide_clear_db_service">\"Servizi e feedback\" sta pulendo la cache delle lingue…</string>
     <string name="miui_guide_footer_desc">"La guida del principiante è stata progettata per aiutarti a conoscere il tuo dispositivo e la MIUI. Alcune immagini e video nella guida sono stati creati solo a scopo di riferimento e possono differire dal prodotto effettivo. Le funzionalità descritte in questa guida possono variare a seconda del modello del tuo dispositivo, della versione MIUI e dell'ambiente di utilizzo."</string>
@@ -296,6 +300,7 @@
     <string name="miui_main_notes_tab_desc2">Crea mappe mentali</string>
     <string name="miui_main_notes_tab_desc3">Sii creativo</string>
     <string name="miui_main_notes_title">Le note sono perfette per nuove idee</string>
+    <string name="miui_main_ota_end_bottom_desc">Scorri in su per accedere al sistema</string>
     <string name="miui_main_pre_page">Indietro</string>
     <string name="miui_main_privacy_tab_desc1">Proteggi i tuoi appunti</string>
     <string name="miui_main_privacy_tab_desc2">"Non condividere la posizione precisa"</string>
@@ -423,6 +428,9 @@
     <string name="permission_storage_introduce">Per salvare elementi sul tuo dispositivo</string>
     <string name="permission_user_protocol">Accordo utente (obbligatorio)</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="privacy_policy_update_hint">"%1$s Informativa sulla privacy è stata aggiornata:
+%2$s
+Leggi e accetta la nuova versione di %3$s prima di continuare."</string>
     <string name="privacy_policy_update_title">Informativa sulla privacy aggiornata</string>
     <string name="public_authorize_now">Impostazioni</string>
     <string name="public_loading_text">Attendi…</string>
@@ -430,6 +438,8 @@
     <string name="public_net_error_sub_title">Controlla le tue impostazioni di rete e prova di nuovo</string>
     <string name="public_net_error_title">"Impossibile connettersi alla rete"</string>
     <string name="public_open_feedback_service">Avvia</string>
+    <string name="public_please_authorize">Permessi richiesti per continuare</string>
+    <string name="public_welcome_use_feedback_service">Benvenuto in Servizi e Feedback! È possibile utilizzare questa app per inviare feedback, visualizzare le domande frequenti, applicare per i resi e gli scambi dei prodotti e altro ancora.</string>
     <string name="rationale_ask">L\'app potrebbe non funzionare correttamente senza le autorizzazioni richieste.</string>
     <string name="rationale_ask_again">Questa app potrebbe non funzionare correttamente senza le autorizzazioni richieste. Apri le impostazioni dell\'app per modificare le autorizzazioni.</string>
     <string name="saturday">Sabato</string>
@@ -525,6 +535,7 @@
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="user_must_known">Attenzione</string>
+    <string name="user_must_known_content">"Non potrai continuare a utilizzare i nostri servizi a meno che non accetti la nuova versione della nostra %s. Accetti l'informativa sulla privacy aggiornata?"</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="wednesday">Mercoledì</string>

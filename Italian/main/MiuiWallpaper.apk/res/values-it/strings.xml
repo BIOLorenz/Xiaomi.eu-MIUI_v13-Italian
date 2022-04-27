@@ -175,6 +175,7 @@
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
     <string name="install_failed">"Impossibile installare"</string>
+    <string name="mars_id">mars</string>
     <string name="mars_position_content_0">"Questa regione contiene scogliere, colline e ampie valli pianeggianti, che si ritiene siano state causate da ghiacciai ricoperti di detriti. Sono stati rilevati anche minerali di argilla, fonte di grande interesse nella ricerca di prove sull'esistenza di vita su Marte.
 
 NASA/JPL/University of Arizona"</string>
@@ -190,6 +191,7 @@ Regione Mensae"</string>
     <string name="mars_position_title_2">"Cratere nella 
 valle di Mawrth"</string>
     <string name="mars_summary">I vasti deserti di Marte hanno sempre tenuto l\'umanità in soggezione</string>
+    <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">Il Pianeta Rosso</string>
     <string name="mi_wallpaper_loading">Caricamento Sfondi-Mi...</string>
     <string name="mi_wallpaper_title">Sfondi Mi</string>

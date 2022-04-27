@@ -169,4 +169,19 @@
         <item>TW</item>
         <item>TZ</item>
     </string-array>
+    <string-array name="document_default_extensions">
+        <item>.doc</item>
+        <item>.docx</item>
+        <item>.xls</item>
+        <item>.xlsx</item>
+        <item>.ppt</item>
+        <item>.pptx</item>
+        <item>.pps</item>
+        <item>.pdf</item>
+        <item>.wps</item>
+        <item>.et</item>
+        <item>.ett</item>
+        <item>.dps</item>
+        <item>.rtf</item>
+    </string-array>
 </resources>

@@ -25,7 +25,6 @@
     <string name="action_settings">Impostazioni</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="activity_title_fakecell">Protezione da celle fasulle</string>
-    <string name="add_Ovrride_Config">Aggiungi dati</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="app_name">ProviderPassi</string>
     <string name="booster_config_version">"Versione CC attuale:"</string>
@@ -104,11 +103,7 @@
     <string name="copy">Copia</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
-    <string name="delDialog">Attenzione: Operazione di Eliminazione</string>
-    <string name="delDialog_msg">Elimina questo parametro di gioco</string>
     <string name="detect_fakecell">Riconosce gli SMS provenienti da celle fasulle</string>
-    <string name="dynamic_fps">Modalità prestazioni ：</string>
-    <string name="dynamic_fps_M">Modalità Equilibrata ：</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -127,7 +122,6 @@
     <string name="eras_bc">DC</string>
     <string name="evening">Pomeriggio</string>
     <string name="expand_button_title">Avanzate</string>
-    <string name="exportJson">Esporta file JSON</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -169,9 +163,6 @@
     <string name="hello_world">Ciao mondo!</string>
     <string name="joyose_name">Celle Fake</string>
     <string name="lab_switch_server">Cambia server</string>
-    <string name="local_ctrl">Debug locale</string>
-    <string name="local_ctrl_dialog_cancle">Annulla</string>
-    <string name="local_ctrl_dialog_confirm">Conferma</string>
     <string name="midnight">Notte</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
@@ -242,7 +233,6 @@
     <string name="not_set">Non impostato</string>
     <string name="not_support_forbidden_fakecell">"Il tuo dispositivo non supporta la protezione a livello chip dalle celle fasulle."</string>
     <string name="open_cta">\"Apri l\'app Sicurezza e \"Consenti connessione Internet\" nelle Impostazioni</string>
-    <string name="package_name">nome del pacchetto ：</string>
     <string name="permstep_description">\"Consenti all\'applicazione di leggere le informazioni sui passi dal telefono</string>
     <string name="permstep_label">Leggi i passi</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
@@ -255,7 +245,6 @@
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
     <string name="search_menu_title">Cerca</string>
-    <string name="selectJson">Seleziona file JSON locale</string>
     <string name="send">Invia</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
@@ -282,7 +271,6 @@
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="stop_sync">NON sincronizzare automaticamente</string>
-    <string name="submit_data">Modifica dati locali</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

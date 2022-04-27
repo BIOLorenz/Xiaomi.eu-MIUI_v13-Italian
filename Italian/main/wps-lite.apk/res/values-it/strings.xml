@@ -153,6 +153,7 @@
     <string name="ppt_no_note">Nessun commento</string>
     <string name="ppt_no_slide_for_play">"Il file non può essere mostrato perché non contiene diapositive."</string>
     <string name="ppt_note_null">(Vuoto)</string>
+    <string name="ppt_sharedplay_by_miracast">Miracast</string>
     <string name="ppt_sharedplay_device_searching">Ricerca dispositivi Miracast visibili</string>
     <string name="ppt_sharedplay_miracast_device_list_title">Dispositivi</string>
     <string name="ppt_sharedplay_search_failed_toast">Nessun dispositivo Miracast visibile trovato</string>

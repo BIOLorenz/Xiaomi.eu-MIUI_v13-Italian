@@ -40,6 +40,20 @@
         <item quantity="other">" %1$ore %2$s"</item>
         <item quantity="one">" %1$ora %2$s"</item>
     </plurals>
+    <plurals name="character_pitch_minus">
+        <item quantity="other">Spaziatura caratteri ridotta. Spaziatura caratteri %s.</item>
+        <item quantity="one">Spaziatura caratteri ridotta. Spaziatura caratteri %s.</item>
+    </plurals>
+    <plurals name="character_pitch_plus">
+        <item quantity="other">Spaziatura caratteri aumentata. Spaziatura caratteri %s.</item>
+        <item quantity="one">Spaziatura caratteri aumentata. Spaziatura caratteri %s.</item>
+    </plurals>
+    <plurals name="choose_long_gif_limit_toast_tip">
+        <item quantity="other">"La durata di riproduzione delle animazioni non può superare %d secondi.
+Animazioni più lunghe saranno fermate in questo punto."</item>
+        <item quantity="one">"La durata di riproduzione delle animazioni non può superare %d secondo.
+Animazioni più lunghe saranno fermate in questo punto."</item>
+    </plurals>
     <plurals name="count_selected">
         <item quantity="other">Selezionati %d elementi</item>
         <item quantity="one">Selezionato %d elemento</item>
@@ -67,6 +81,14 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Proprio adesso</item>
         <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="line_spacing_puls">
+        <item quantity="other">Interlinea aumentata. Interlinea %s.</item>
+        <item quantity="one">Interlinea aumentata. Interlinea %s.</item>
+    </plurals>
+    <plurals name="lines_pacing_minus">
+        <item quantity="other">Interlinea ridotta. Interlinea %s.</item>
+        <item quantity="one">Interlinea ridotta. Interlinea %s.</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementi selezionati</item>

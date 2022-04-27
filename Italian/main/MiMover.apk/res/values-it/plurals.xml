@@ -36,6 +36,14 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
+    <plurals name="app_update_64_dialog_message">
+        <item quantity="other">%1$d app su questo dispositivo possono essere aggiornate da 32 bit a 64 bit. Aggiorna queste app per migliorare le loro prestazioni.</item>
+        <item quantity="one">%1$d app su questo dispositivo può essere aggiornata da 32 bit a 64 bit. Aggiorna questa app per migliorare le sue prestazioni.</item>
+    </plurals>
+    <plurals name="app_update_64_notification_title">
+        <item quantity="other">Sono disponibili versioni a 64 bit per %1$d app</item>
+        <item quantity="one">È disponibile una versione a 64 bit per %1$d app</item>
+    </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d elementi</item>
         <item quantity="one">%d elemento</item>

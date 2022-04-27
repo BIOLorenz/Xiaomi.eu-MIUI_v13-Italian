@@ -40,6 +40,10 @@
         <item quantity="other">Ricevuti %2$d file da %1$s con successo</item>
         <item quantity="one">Ricevuto %2$d file da %1$s con successo</item>
     </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d file</item>
+        <item quantity="one">%1$d file</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>

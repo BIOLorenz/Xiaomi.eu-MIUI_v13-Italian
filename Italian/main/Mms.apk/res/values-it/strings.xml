@@ -497,6 +497,7 @@
     <string name="invalid_destination">Indirizzo di destinazione non valido.</string>
     <string name="invalid_private_contact">Collegamento non valido</string>
     <string name="invalid_recipient_message">"Correggi i destinatari o il messaggio non verrà recapitato."</string>
+    <string name="invisible_mode_on">"Sei in incognito"</string>
     <string name="is_composing">Scrivendo…</string>
     <string name="kilobyte">KB</string>
     <string name="layout_selector_title">"Layout presentazione "</string>

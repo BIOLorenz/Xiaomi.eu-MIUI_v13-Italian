@@ -40,6 +40,16 @@
         <item>zeus</item>
         <item>cupid</item>
     </string-array>
+    <string-array name="config_Poland_Orange_IPV6_array">
+        <item>lavender</item>
+        <item>onc</item>
+        <item>pine</item>
+        <item>grus</item>
+    </string-array>
+    <string-array name="devices_support_multi_freeform">
+        <item>zizhan</item>
+        <item>cetus</item>
+    </string-array>
     <string-array name="float_notification_whitelist">
         <item>com.google.android.apps.messaging</item>
         <item>com.mi.oa</item>
@@ -103,10 +113,6 @@
         <item>com.taobao.taobao</item>
         <item>com.miui.systemAdSolution</item>
         <item>com.miui.hybrid.accessory</item>
-    </string-array>
-    <string-array name="fullscreen_landscape_list">
-        <item>com.android.launcher3</item>
-        <item>com.taobao.taobao,nr</item>
     </string-array>
     <string-array name="keyguard_whitelist">
         <item>com.google.android.apps.messaging</item>
@@ -1880,5 +1886,17 @@
         <item>xiyuan.hoping.org.xiyuan</item>
         <item>yong.universalplayer</item>
         <item>youi.tech.com.wangying</item>
+    </string-array>
+    <string-array name="white_list_device">
+        <item>rainbow</item>
+        <item>sunny</item>
+        <item>violet</item>
+        <item>renoir</item>
+        <item>lisa</item>
+        <item>mona</item>
+        <item>taoyao</item>
+        <item>zijin</item>
+        <item>veux</item>
+        <item>peux</item>
     </string-array>
 </resources>

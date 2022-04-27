@@ -86,6 +86,7 @@
     <string name="catch_full_log_add_photo_dialog_content">"Se il problema che stai segnalando è legato alla qualità dell'immagine della fotocamera, aggiungi una foto di esempio originale (non ritagliata) per aiutarci a individuare il problema. Aggiungere una foto ora?"</string>
     <string name="catch_full_log_dialog_confirm_text">Come tornare alla home</string>
     <string name="catch_full_log_dialog_content">"MIUI sta generando un log. Questo potrebbe influire sulle prestazioni complessive del tuo dispositivo. Se non riesci a riprodurre il problema che vuoi segnalare, torna alle segnalazioni e tocca \"Annulla\"."</string>
+    <string name="catch_full_log_dialog_content_pad">"MIUI sta generando un log. Questo potrebbe influire sulle prestazioni complessive del tuo dispositivo. Se non riesci a riprodurre il problema che vuoi segnalare, torna alle segnalazioni e tocca \"Annulla\"."</string>
     <string name="catch_full_log_dump_hprof_failed">"Impossibile generare il log sul lag"</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Torna alla funzione che vuoi segnalare e riproducila.
 2. Torna a questa pagina e tocca \"Termina e carica\"."</string>
@@ -103,9 +104,11 @@
     <string name="catch_full_log_notification_content">Tocca per tornare ai log</string>
     <string name="catch_full_log_notification_title">Generazione log…</string>
     <string name="catch_full_log_privacy_content_audio">"Stai generando i log e salvandoli sul dispositivo. I log potrebbero contenere informazioni sull'audio del tuo dispositivo, compresa la cronologia di riproduzione e la cronologia delle registrazioni. Fai attenzione e non divulgare questi log ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati sopra durante la generazione di log, e quindi caricheremo i log sui nostri server per individuare e risolvere i problemi che hai segnalato."</string>
+    <string name="catch_full_log_privacy_content_audio_pad">"Stai generando i log e salvandoli sul dispositivo. I log potrebbero contenere informazioni sull'audio del tuo dispositivo, compresa la cronologia di riproduzione e la cronologia delle registrazioni. Fai attenzione e non divulgare questi log ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati sopra durante la generazione di log, e quindi caricheremo i log sui nostri server per individuare e risolvere i problemi che hai segnalato."</string>
     <string name="catch_full_log_privacy_content_bt">"Stai generando log e salvandoli sul dispositivo. I log potrebbero contenere informazioni sull'utilizzo del dispositivo Bluetooth (incluso il registro chiamate, i messaggi, i file trasferiti ecc.) Fai attenzione e non divulgare questi log ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati sopra durante la generazione dei log e che li caricheremo sui nostri server per individuare e risolvere i problemi che hai segnalato."</string>
     <string name="catch_full_log_privacy_content_gps">"Stai generando log e salvandoli sul dispositivo. I log potrebbero contenere informazioni personali e sulla posizione. Fai attenzione e non divulgare questi log ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati sopra durante la generazione dei log e che li caricheremo sui nostri server per individuare e risolvere i problemi che hai segnalato."</string>
     <string name="catch_full_log_privacy_content_sensor">"Stai generando i log e salvandoli sul dispositivo. I log potrebbero contenere informazioni raccolte dai sensori del dispositivo (incluso sensore di luce ambientale, barometro, pedomometro, magnetometro, ecc.). Fai attenzione e non divulgare questi log ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati sopra durante la generazione di log, e quindi caricheremo i log sui nostri server per individuare e risolvere i problemi che hai segnalato."</string>
+    <string name="catch_full_log_privacy_content_sensor_pad">"Stai generando i log e salvandoli sul dispositivo. I log potrebbero contenere informazioni raccolte dai sensori del dispositivo (incluso sensore di luce ambientale, barometro, pedomometro, magnetometro, ecc.). Fai attenzione e non divulgare questi log ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati sopra durante la generazione di log, e quindi caricheremo i log sui nostri server per individuare e risolvere i problemi che hai segnalato."</string>
     <string name="catch_full_log_privacy_content_signal">"Stai generando log e salvandoli sul dispositivo. I log potrebbero contenere messaggi, registro chiamate, info sulla rete e dati sulle comunicazioni. Fai attenzione e non divulgare questi log ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati sopra durante la generazione dei log e che li caricheremo sui nostri server per individuare e risolvere i problemi che hai segnalato."</string>
     <string name="catch_full_log_privacy_content_wifi">"Stai generando i log e salvandoli sul tuo dispositivo. I log possono contenere le tue informazioni personali, le informazioni sulla posizione, nonché gli indirizzi IP e MAC del tuo dispositivo. Se sei connesso a una rete Wi-Fi non protetta, potremmo anche essere in grado di accedere a parti dei tuoi dati di comunicazione. Fai attenzione e non divulgare questi log ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati sopra durante la generazione di log, e quindi cheremo i log sui nostri server per individuare e risolvere i problemi che hai segnalato."</string>
     <string name="catch_full_log_privacy_content_wifi_china">"Stai generando i log e salvandoli sul tuo dispositivo. I log possono contenere le tue informazioni personali, le informazioni sulla posizione, nonché gli indirizzi IP e MAC del tuo dispositivo. Se sei connesso a una rete Wi-Fi non protetta, potremmo anche essere in grado di accedere a parti dei tuoi dati di comunicazione. Fai attenzione e non divulgare questi log ad altre persone. Toccando \"Accetta\" qui sotto, accetti che raccoglieremo i dati sopra durante la generazione di log, e quindi cheremo i log sui nostri server per individuare e risolvere i problemi che hai segnalato."</string>
@@ -303,7 +306,6 @@ Invia questo codice al supervisore."</string>
     <string name="feedback_package_log_failed">"Impossibile comprimere i log"</string>
     <string name="feedback_remind_login_btn">Accedi</string>
     <string name="feedback_report_remind_login_desc">Accedi con il tuo Mi Account per farti contattare dai nostri ingegneri.</string>
-    <string name="feedback_report_remind_login_desc2">"Puoi anche vedere i progressi della tua segnalazione in \"Le mie Segnalazioni\"."</string>
     <string name="feedback_reproductivity_everytime">Ogni volta</string>
     <string name="feedback_reproductivity_occasionally">Occasionalmente</string>
     <string name="feedback_reproductivity_often">Spesso</string>
@@ -348,7 +350,6 @@ Invia questo codice al supervisore."</string>
     <string name="feedback_submit_failed_notification_title">"Impossibile inviare segnalazione"</string>
     <string name="feedback_submit_hint">Segnala bug ogni volta che riscontri dei problemi per aiutarci a risolverli più velocemente.</string>
     <string name="feedback_submit_hint1">"Ti informeremo sui progressi della tua segnalazione"</string>
-    <string name="feedback_submit_hint2">Vai su \"Le mie Segnalazioni\" per visualizzare i dettagli</string>
     <string name="feedback_submit_hint_gone">Messaggio Chiuso</string>
     <string name="feedback_submit_succ">Inviato correttamente</string>
     <string name="feedback_submit_succ_button">Fatto</string>
@@ -442,6 +443,7 @@ Invia questo codice al supervisore."</string>
     <string name="kr_authorization_log_protocol_desc">"Per migliorare i servizi forniti, caricheremo sui nostri server le statistiche di utilizzo e i log di sistema. Questi elementi possono includere le tue informazioni personali, nonché le informazioni sul tuo dispositivo e sulle reti. Useremo gli elementi caricati per individuare e analizzare i problemi nel sistema."</string>
     <string name="kr_authorization_phone">Telefono</string>
     <string name="kr_authorization_phone_desc">Per accedere al modello del dispositivo, IMEI e ID dispositivo al fine di individuare e risolvere problemi</string>
+    <string name="kr_authorization_phone_desc_pad">Per accedere al modello del dispositivo, IMEI e ID dispositivo al fine di individuare e risolvere problemi</string>
     <string name="kr_authorization_privacy_policy">Informativa Privacy (obbligatorio)</string>
     <string name="kr_authorization_select_all">Seleziona tutto</string>
     <string name="kr_authorization_storage">Archiviazione</string>
@@ -686,6 +688,9 @@ Invia questo codice al supervisore."</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_category_title">Privacy</string>
     <string name="privacy_policy_title">Informativa sulla privacy</string>
+    <string name="privacy_policy_update_hint">"%1$s Informativa sulla privacy è stata aggiornata:
+%2$s
+Leggi e accetta la nuova versione di %3$s prima di continuare."</string>
     <string name="privacy_policy_update_title">Informativa sulla privacy aggiornata</string>
     <string name="progressbar_title">Verifica falle di sicurezza…</string>
     <string name="protocal_dialog_cancel">Annulla</string>
@@ -889,6 +894,7 @@ Dimensioni: %2$s"</string>
     <string name="user_avatar_uploading">Attendi…</string>
     <string name="user_id_hint">Email/Telefono</string>
     <string name="user_must_known">Attenzione</string>
+    <string name="user_must_known_content">"Non potrai continuare a utilizzare i nostri servizi a meno che non accetti la nuova versione della nostra %s. Accetti l'informativa sulla privacy aggiornata?"</string>
     <string name="user_name_phone_number">Numero di telefono</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
@@ -901,6 +907,7 @@ Dimensioni: %2$s"</string>
     <string name="withdraw_consent_failed">"Impossibile revocare il consenso"</string>
     <string name="withdraw_consent_failed_hint">Si è verificato un errore del server. Aspetta e prova di nuovo.</string>
     <string name="withdraw_consent_failed_hint_connect_net">Impossibile collegarsi alla rete. Controlla le impostazioni e riprova.</string>
+    <string name="withdraw_consent_hint">"Continuando, revocherai il tuo consenso all'Informativa sulla privacy di %1$s. Le informazioni personali già raccolte e conservate saranno cancellate entro un periodo di tempo specifico in conformità con le leggi e i regolamenti applicabili, salvo diversamente richiesto. Poiché %2$s fornisce i propri servizi in base alla raccolta delle informazioni personali necessarie, la revoca del consenso verrà considerata come un rifiuto da parte tua di accettare i servizi di %3$s. Revocare il consenso?"</string>
     <string name="withdrawing">Revoca del consenso…</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connessione al Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentazione versione %1$s

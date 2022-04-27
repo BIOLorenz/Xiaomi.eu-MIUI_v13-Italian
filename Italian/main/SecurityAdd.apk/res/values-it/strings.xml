@@ -28,6 +28,7 @@
     <string name="app_select_title">Aggiungi app usate di frequente</string>
     <string name="auto_task_select_city">Seleziona città</string>
     <string name="btn_pausable">Tempo scaduto</string>
+    <string name="btn_progress">%1$d%%</string>
     <string name="btn_resume">Riprendi</string>
     <string name="btn_update">Aggiorna</string>
     <string name="btn_verifying">Verifica</string>

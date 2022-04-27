@@ -417,6 +417,7 @@
     <string name="miui_penengine_ppw_select_delete">Elimina</string>
     <string name="miui_penengine_ppw_select_paste">Incolla</string>
     <string name="miui_penengine_ppw_shortcut_single_click">Pressione</string>
+    <string name="miui_penengine_setting_select_background">Sfondo</string>
     <string name="miui_penengine_setting_show_grid_background">Punteggiato</string>
     <string name="miui_penengine_setting_show_white_background">Bianco</string>
     <string name="miui_penengine_tool_done">Salva</string>

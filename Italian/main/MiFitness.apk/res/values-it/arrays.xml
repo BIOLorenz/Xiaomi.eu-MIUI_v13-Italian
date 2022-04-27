@@ -711,7 +711,7 @@
         <item>Passi</item>
         <item>Calorie</item>
         <item>In piedi</item>
-        <item>Battery</item>
+        <item>Batteria</item>
         <item>Data</item>
         <item>Meteo</item>
         <item>Pressione atmosferica</item>
@@ -738,6 +738,15 @@
         <item>Chiudi</item>
         <item>Meno vicino</item>
     </string-array>
+    <string-array name="exo_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>@string/exo_controls_playback_speed_normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
     <string-array name="face_fun">
         <item>@string/face_common_null</item>
         <item>Battito cardiaco</item>
@@ -747,7 +756,7 @@
         <item>Passi</item>
         <item>Calorie</item>
         <item>In piedi</item>
-        <item>Battery</item>
+        <item>Batteria</item>
         <item>Data</item>
         <item>Meteo</item>
         <item>Pressione atmosferica</item>
@@ -825,48 +834,72 @@
         <item>Sonno profondo breve. Rilassare la mente concilia il sonno.</item>
         <item>Sonno profondo breve. Evita le bevande stimolanti prima di dormire.</item>
         <item>Cerca di andare a dormire fra le 22:00 e le 23:00.</item>
-        <item>Late bedtime. Set a regular bedtime schedule.</item>
-        <item>Late bedtime. Keep regular sleep hours.</item>
-        <item>Having night-owl tendencies may come with health effects.</item>
-        <item>Higher than average time awake. Keep your bedroom dark and quiet.</item>
-        <item>Few wake-ups. Keep your bedroom quiet.</item>
-        <item>A few wake-ups. Keep your bedroom dark and quiet.</item>
-        <item>Good amount of REM sleep. Your creativity and problem-solving skills are boosted.</item>
-        <item>Good amount of REM sleep. Restful and relaxing.</item>
-        <item>A little REM sleep. Try exercise, but not right before bed.</item>
-        <item>A little REM sleep. Getting enough sleep can help.</item>
-        <item>Higher than average amount of REM sleep. Set aside your worries before bedtime.</item>
-        <item>Higher than average amount of REM sleep. Keep regular sleep hours.</item>
-        <item>Good amount of light sleep. Restful and creativity-boosting.</item>
-        <item>Good amount of light sleep. Restorative and stress-reducing.</item>
-        <item>Higher than average amount of light sleep. Relax and unwind before bed.</item>
-        <item>To find your morning energy, go to bed before 12 p.m.</item>
-        <item>To find your morning energy, go to bed before 12 p.m.</item>
+        <item>Sei andato a letto tardi. Cerca di andare a dormire in modo regolare.</item>
+        <item>Sei andato a letto tardi. Cerca di dormire in modo regolare.</item>
+        <item>Avere abitudini nottambule può avere effetti sulla salute.</item>
+        <item>Tempo di veglia superiore alla media. Rendi la tua camera da letto buia e silenziosa.</item>
+        <item>Qualche risveglio. Rendi la tua camera da letto silenziosa.</item>
+        <item>Qualche risveglio. Rendi la tua camera da letto buia e silenziosa.</item>
+        <item>Buona durata della fase REM. La tua creatività e capacità di risoluzione dei problemi sono migliori.</item>
+        <item>Buona durata della fase REM. Ti stai riposando e rilassando.</item>
+        <item>Fase REM breve. Prova a fare un po\' di esercizio fisico, ma non prima di andare a letto.</item>
+        <item>Fase REM breve. Dormire a sufficienza potrebbe aiutare.</item>
+        <item>Fase REM superiore alla media. Metti da parte le tue preoccupazioni prima di andare a dormire.</item>
+        <item>Sonno REM superiore alla media. Mantieni ore di sonno regolari.</item>
+        <item>Buona durata del sonno leggero. Ottimo per riposarsi e stimolare la creatività.</item>
+        <item>Buona durata del sonno leggero. Ricostituente e antistress.</item>
+        <item>Sonno leggero superiore alla media. Rilassati e distenditi prima di andare a letto.</item>
+        <item>Per ritrovare la tua energia mattutina, vai a dormire prima di mezzanotte.</item>
+        <item>Per ritrovare la tua energia mattutina, vai a dormire prima di mezzanotte.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_monthly_sleep_arr">
+        <item>Buona durata del sonno e routine del sonno regolare. Continua così.</item>
+        <item>Buona durata del sonno ma routine del sonno leggermente irregolare. Cerca di dormire regolarmente.</item>
+        <item>Buona durata del sonno ma routine del sonno irregolare. Stabilisci un programma su quando andare a dormire e rispettalo.</item>
+        <item>Buona quantità di sonno e routine del sonno regolare. Evita le bevande energetiche prima di dormire.</item>
+        <item>Buona quantità di sonno ma routine del sonno leggermente irregolare. Rilassati e distenditi prima di andare a letto.</item>
+        <item>Discreta quantità di sonno ma routine del sonno irregolare. Rendi la tua camera da letto buia e silenziosa.</item>
+        <item>Quantità di sonno superiore alla media e routine del sonno regolare. Una sana dormita può aiutarti a sentirti meglio.</item>
+        <item>Quantità di sonno superiore alla media ma routine del sonno leggermente irregolare. Se ti senti stordito, regola le ore di sonno.</item>
+        <item>Quantità di sonno superiore alla media ma routine del sonno irregolare. Cerca di dormire regolarmente.</item>
+        <item>Sonno irregolare. Stabilisci un programma su quando vai a dormire e rispettalo.</item>
     </string-array>
     <string-array name="health_sleep_evaluation_stage_arr">
         <item>Nessun dato</item>
-        <item>Not bad</item>
+        <item>Non male</item>
         <item>Moderato</item>
         <item>Normale</item>
         <item>Eccellente</item>
-        <item>No night-time data</item>
+        <item>Nessun dato sul sonno</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_weekly_sleep_arr">
+        <item>Buona durata del sonno e routine del sonno regolare. Continua così.</item>
+        <item>Buona durata del sonno ma routine del sonno leggermente irregolare. Cerca di dormire regolarmente.</item>
+        <item>Buona durata del sonno ma routine del sonno irregolare. Stabilisci un programma su quando andare a dormire e rispettalo.</item>
+        <item>Buona quantità di sonno e routine del sonno regolare. Evita le bevande energetiche prima di dormire.</item>
+        <item>Buona quantità di sonno ma routine del sonno leggermente irregolare. Rilassati e distenditi prima di andare a letto.</item>
+        <item>Discreta quantità di sonno ma routine del sonno irregolare. Rendi la tua camera da letto buia e silenziosa.</item>
+        <item>Quantità di sonno superiore alla media e routine del sonno regolare. Una sana dormita può aiutarti a sentirti meglio.</item>
+        <item>Quantità di sonno superiore alla media ma routine del sonno leggermente irregolare. Se ti senti stordito, regola le ore di sonno.</item>
+        <item>Quantità di sonno superiore alla media ma routine del sonno irregolare. Cerca di dormire regolarmente.</item>
+        <item>Sonno irregolare. Stabilisci un programma su quando vai a dormire e rispettalo.</item>
     </string-array>
     <string-array name="health_sleep_snore_guide_descriptions">
-        <item>Sound will be recorded while you sleep. Machine learning allows Mi Fitness to detect snoring, talking, and loud noises, and save the recordings on your phone.</item>
+        <item>I suoni verranno registrati durante il sonno. L\'apprendimento automatico consente a Mi Fitness di rilevare quando russi, parli o i rumori forti e di salvare le registrazioni sul telefono.</item>
         <item>Il microfono verrà acceso e spento in base alla programmazione dell\'ora in cui vai a letto.</item>
-        <item>Make sure your phone is sufficiently charged before you go to bed. Low battery may interrupt sound recording.</item>
+        <item>Assicurati che il telefono sia sufficientemente carico prima di andare a dormire. In caso di batteria scarica la registrazione del suono verrà interrotta.</item>
     </string-array>
     <string-array name="health_sleep_snore_guide_titles">
         <item>Registra audio con il microfono</item>
         <item>Rileva i suoni automaticamente</item>
-        <item>Keep your phone charged</item>
+        <item>Mantieni il telefono carico</item>
     </string-array>
     <string-array name="heartrate_citing_literature">
         <item>中华人民共和国卫生行业标准 WS/T 476-2015 营养名词术语</item>
         <item>Ito H, Ohshima A, Ohto N, Ogasawara M, Tsuzuki M, Takao K, Hijii C, Tanaka H, Nishioka K. Relazione tra composizione corporea ed età in soggetti giapponesi sani. Eur J Clin Nutr. 55(6):462-70, 2001</item>
         <item>Lee RD e Nieman DC. Valutazione nutrizionale (seconda edizione), pp.264</item>
         <item>Lohman TG. Valutazione della composizione del corpo avanzata - problemi di Currenet nella serie di scienze di esercizio. Champaign-IL: Human Kinetics. pp 80. 1992</item>
-        <item>"Mahan LK and Escott-stump S. Krause's Food, nutrition &amp; diet therapy 9th edition. WB Saunders Co. pp 455"</item>
+        <item>"Mahan LK e Escott-stump S. Krause's Food, nutrition &amp; diet therapy 9a edizione. WB Saunders Co. pp 455"</item>
         <item>《神经病学》第9版 第二十二章 睡眠障碍 人民卫生出版社</item>
         <item>《生理学》第9版 第十章 神经系统的功能 人民卫生出版社</item>
         <item>《睡眠医学：理论与实践》第4版 第一章 正常睡眠和睡眠变异 人民卫生出版社</item>
@@ -934,24 +967,28 @@
         <item>Sorella</item>
         <item>Fratello</item>
         <item>Coniuge</item>
-        <item>Couple</item>
+        <item>Coppia</item>
         <item>Amico</item>
         <item>Collega</item>
         <item>Compagno</item>
         <item>Figlio</item>
         <item>Compagno</item>
         <item>Assistente</item>
-        <item>Boss</item>
-        <item>Roommate</item>
-        <item>Doctor</item>
+        <item>Capo</item>
+        <item>Coinquilino/a</item>
+        <item>Dottore</item>
         <item>Familiare</item>
-        <item>Teacher</item>
-        <item>Caretaker</item>
-        <item>Guardian</item>
-        <item>Social worker</item>
-        <item>School</item>
-        <item>Daycare</item>
+        <item>Insegnante</item>
+        <item>Custode</item>
+        <item>Guardiano</item>
+        <item>Assistente sociale</item>
+        <item>Scuola</item>
+        <item>Asilo</item>
         <item>Altro</item>
+    </string-array>
+    <string-array name="userinfo_energy_unit">
+        <item>kcal</item>
+        <item>kJ</item>
     </string-array>
     <string-array name="userinfo_gender_array">
         <item>Non impostato</item>

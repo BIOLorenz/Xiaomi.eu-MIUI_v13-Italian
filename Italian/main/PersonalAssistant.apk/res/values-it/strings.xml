@@ -258,6 +258,8 @@
     <string name="pa_edit_select_image">Formato</string>
     <string name="pa_edit_set_time">Imposta ora</string>
     <string name="pa_edit_switch">Cambia</string>
+    <string name="pa_edit_text_align">Allineamento</string>
+    <string name="pa_edit_text_size">Dimensione testo</string>
     <string name="pa_express_all">Tutto</string>
     <string name="pa_express_auth_extra">Aggiungi numero di telefono</string>
     <string name="pa_express_call">Chiama</string>
@@ -299,6 +301,9 @@
     <string name="pa_font_mi_sans">sans-serif-medium</string>
     <string name="pa_guide_dialog_sure">Ok</string>
     <string name="pa_half_day_time">hh:mm</string>
+    <string name="pa_horizontal_center">Layout orizzontale. Allineato al centro.</string>
+    <string name="pa_horizontal_left">Layout orizzontale. Allineato a sinistra.</string>
+    <string name="pa_horizontal_right">Layout orizzontale. Allineato a destra.</string>
     <string name="pa_install">Installa</string>
     <string name="pa_lite_setting_others">Altre impostazioni</string>
     <string name="pa_lite_setting_private_policy">Informativa sulla Privacy</string>
@@ -432,6 +437,9 @@
     <string name="pa_stock_widget_button_add_stock">Aggiungi</string>
     <string name="pa_stock_widget_empty">Nessun oggetto</string>
     <string name="pa_sure">OK</string>
+    <string name="pa_vertical_center">Layout verticale. Allineato al centro.</string>
+    <string name="pa_vertical_left">Layout verticale. Allineato a sinistra.</string>
+    <string name="pa_vertical_right">Layout verticale. Allineato a destra.</string>
     <string name="pa_widget_menu_edit">Modifica</string>
     <string name="pa_widget_menu_remove">Rimuovi</string>
     <string name="pa_widget_need_download_dialog_cancel">Annulla</string>

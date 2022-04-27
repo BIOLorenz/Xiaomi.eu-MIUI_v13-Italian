@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string-array name="absent_num">
+        <item>NUMERO ASSENTE</item>
+        <item>ABSENTNUMBER</item>
+    </string-array>
+</resources>

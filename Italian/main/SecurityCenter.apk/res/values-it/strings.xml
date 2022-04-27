@@ -1063,6 +1063,7 @@
     <string name="confirm_fingerprint_msg">Posiziona il dito sul lettore di impronta</string>
     <string name="confirm_leave">Non ora</string>
     <string name="confirm_open">Attiva</string>
+    <string name="confirm_open_shut_down_password_title">Imposta blocco schermo</string>
     <string name="confirm_prompt_all_permission">Chiedere i permessi per tutte le app?</string>
     <string name="confirm_reject_all_permission">Impedire a tutte le app l\'utilizzo di questa funzionalità?</string>
     <string name="confirm_take">Ottieni</string>
@@ -1489,6 +1490,7 @@ terremoti"</string>
     <string name="exit_dialog_scan_title">Ottimizza prestazioni</string>
     <string name="exo_controls_cc_disabled_description">Abilita sottotitoli</string>
     <string name="exo_controls_cc_enabled_description">Disabilita sottotitoli</string>
+    <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
     <string name="exo_controls_fastforward_description">Avanti veloce</string>
     <string name="exo_controls_fullscreen_enter_description">Attiva schermo intero</string>
     <string name="exo_controls_fullscreen_exit_description">Disattiva schermo intero</string>
@@ -1511,6 +1513,7 @@ terremoti"</string>
     <string name="exo_controls_shuffle_off_description">Casuale Spento</string>
     <string name="exo_controls_shuffle_on_description">Riproduzione Casuale</string>
     <string name="exo_controls_stop_description">Interrompi</string>
+    <string name="exo_controls_time_placeholder">00:00:00</string>
     <string name="exo_controls_vr_description">Modalità VR</string>
     <string name="exo_download_completed">Download completato</string>
     <string name="exo_download_description">Scarica</string>
@@ -1520,6 +1523,7 @@ terremoti"</string>
     <string name="exo_download_removing">Rimozione download</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_role_alternate">Alternato</string>
+    <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
     <string name="exo_track_role_supplementary">Supplementare</string>
     <string name="exo_track_selection_auto">Auto</string>
@@ -2057,6 +2061,7 @@ e prova a Cambiare Voce!"</string>
     <string name="gtb_dialog_hint_smart_5g">Puoi attivare e disattivare questa funzione in Turbo Videogiochi &gt; Impostazioni.</string>
     <string name="gtb_dialog_summary_smart_5g">Ogni volta che Turbo Videogiochi rileva una rete 5G, può connettere il tuo dispositivo alla migliore rete disponibile per ridurre il ping. Attivare questa funzione ora?</string>
     <string name="gtb_dialog_title_smart_5g">Ottimizzazioni rete 5G</string>
+    <string name="gtb_dnd">ND</string>
     <string name="gtb_exit_game_to_gtb">Apri gamebox</string>
     <string name="gtb_exit_game_to_home">Torna alla Home</string>
     <string name="gtb_garbage_clean">Libera la memoria</string>
@@ -3007,6 +3012,7 @@ dall'operatore"</string>
     <string name="pm_remember_choice">Ricorda la mia scelta</string>
     <string name="pm_root_success_notification_infomation">Conferma di aver capito i rischi legati ai permessi di root</string>
     <string name="pm_root_success_notification_title">Permessi di root consentiti</string>
+    <string name="power_ambient_display">Always-on display</string>
     <string name="power_analysis_consume_title">Consumo batteria</string>
     <string name="power_analysis_suggestion_need_optimize">Problemi di utilizzo batteria rilevati.</string>
     <string name="power_autorun_apps_empty">Nessuna app in avvio automatico</string>
@@ -3049,6 +3055,7 @@ dall'operatore"</string>
     <string name="power_center_dialog_msg_top">Quando il risparmio energetico è attivo, MIUI attuerà le seguenti ottimizzazioni:</string>
     <string name="power_center_hints_scan_danger_result">Puoi correggere i problemi di batteria ora</string>
     <string name="power_center_list_item_auto_brightness">Regola automaticamente la luminosità dello schermo</string>
+    <string name="power_center_list_item_battery_status_temperature">°C</string>
     <string name="power_center_list_item_close_bluetooth">Disattiva Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Impostazioni avanzate</string>
     <string name="power_center_list_item_haptic_feedback">Disattiva la Vibrazione al tocco</string>
@@ -3639,6 +3646,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="privacy_using_record">Registrare audio</string>
     <string name="privacyapp_number_masked_text">Il contenuto delle notifiche è nascosto</string>
     <string name="privacyapp_number_unmasked_text">Il contenuto delle notifiche può essere nascosto</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Server Multimediale</string>
     <string name="process_vpnsdkmanager_label">Turbo videogiochi</string>
     <string name="promotion">AD</string>
@@ -3864,6 +3872,8 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="signed_rule_one">1.Registrati in 10, 20, o 28 giorni di seguito ogni mese per ottenere un Incremento Xunyou rispettivamente per 1, 2, o 3 giorni.</string>
     <string name="signed_rule_three">"3.I giorni di registrazione verranno annullati all'inizio di ogni mese. I rimanenti non verranno resi disponibili."</string>
     <string name="signed_rule_two">2.Potrai ottenere un solo Incremento Xunyou al mese.</string>
+    <string name="sim_car_absent_intercept_action_last">Conferma blocco schermo</string>
+    <string name="sim_car_absent_intercept_title">Conferma blocco schermo</string>
     <string name="sim_car_absent_title">Questo dispositivo è stato smarrito</string>
     <string name="sim_location_error_dialog_message">"La località della SIM che stai utilizzando è %1$s. Questa località è diversa da quella impostata manualmente (%2$s). Modificare località SIM in %3$s?"</string>
     <string name="sim_location_error_notify_message">Tocca per cambiare località SIM.</string>
@@ -3877,8 +3887,10 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="sim_lock_start_bind_device_superscript">Consigliato</string>
     <string name="sim_lock_start_close_dialog_enable">OK</string>
     <string name="sim_lock_start_close_dialog_title">Attenzione</string>
+    <string name="sim_lock_start_confirm_password_title">Conferma blocco schermo</string>
     <string name="sim_lock_start_keyguard_dialog_cancel">Annulla</string>
     <string name="sim_lock_start_keyguard_dialog_enable">Imposta</string>
+    <string name="sim_lock_start_keyguard_dialog_title">Imposta blocco schermo</string>
     <string name="sim_lock_start_lock_superscript">Attivata</string>
     <string name="sim_not_ready_toast">"La SIM non è pronta"</string>
     <string name="sim_state_exception_summary">Lo stato della SIM indica che potrebbero esserci problemi con la tua scheda SIM.</string>
@@ -3951,6 +3963,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="sp_eew_title">Allerta terremoto</string>
     <string name="sp_empty_title_sign_exception">Tieni premuta un\'app sulla pagina dei risultati per aggiungerla alle eccezioni</string>
     <string name="sp_find_device_title">Trova Telefono</string>
+    <string name="sp_lock_screen_password_summary">Imposta blocco schermo</string>
     <string name="sp_lock_screen_password_title">Blocco schermo</string>
     <string name="sp_micare_summary">Sicurezza personale</string>
     <string name="sp_monitored_apps_count_zero">Nessuna app di pagamento protetta</string>
@@ -4391,6 +4404,7 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="tab_sms">SMS</string>
     <string name="tab_sort_all">Tutto</string>
     <string name="tab_title">Blacklist</string>
+    <string name="task_summary_close_airplane">Disattiva la modalità aereo</string>
     <string name="task_summary_close_auto_brightness">Disattiva luminosità automatica</string>
     <string name="task_summary_close_bluetooth">Disattiva Bluetooth</string>
     <string name="task_summary_close_eye_care_mode">Disattiva modalità Letturae</string>
@@ -4536,9 +4550,11 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="title_cmcc_app_check">"Verifica non completa"</string>
     <string name="title_condition_absorbed">Modalità Concentrazione</string>
     <string name="title_condition_alarm">Sveglia</string>
+    <string name="title_condition_battery">Batteria</string>
     <string name="title_condition_bluetooth">Bluetooth</string>
     <string name="title_condition_charge">Ricarica</string>
     <string name="title_condition_connect_wlan">E\' richiesta una rete Wi-Fi</string>
+    <string name="title_condition_headset">Auricolari cablati</string>
     <string name="title_condition_hotspot">Hotspot portatile</string>
     <string name="title_condition_incall">Chiama</string>
     <string name="title_condition_location">Posizione</string>
@@ -4609,6 +4625,7 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="title_result_nfc">NFC</string>
     <string name="title_result_save_battery">Risparmio energetico</string>
     <string name="title_result_screen_brightness">Luminosità schermo</string>
+    <string name="title_result_screen_display">Always-on display</string>
     <string name="title_result_start_activity">Apri app</string>
     <string name="title_result_switch">Spegni</string>
     <string name="title_result_twinkle">Modalità anti-sfarfallìo</string>
@@ -4798,7 +4815,10 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="vb_ve_settings_pic_border_stronger">Contorni migliorati</string>
     <string name="vb_ve_settings_picture_stronger">Animazioni migliorate</string>
     <string name="vb_video_effects_3d">Suono surround</string>
+    <string name="vb_video_effects_3d_summary">Migliora la profondità della riproduzione del suono per auricolari e altoparlanti</string>
+    <string name="vb_video_effects_3d_surround">Suono immersivo virtuale</string>
     <string name="vb_video_effects_display_style">Stile Libero</string>
+    <string name="vb_video_effects_dolby">Dolby Atmos</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">Dialogo migliorato</string>
     <string name="vb_video_effects_dolby_headset">" (Solo auricolari)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos è attivo</string>
@@ -4808,6 +4828,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="vb_video_effects_setting_gorgeous">Vibrante</string>
     <string name="vb_video_effects_setting_green_orange">Arancio</string>
     <string name="vb_video_effects_setting_grim">Freddo</string>
+    <string name="vb_video_effects_setting_knight">Metal</string>
     <string name="vb_video_effects_setting_nostalgia">Nostalgico</string>
     <string name="vb_video_effects_setting_old_movie">Retrò</string>
     <string name="vb_video_effects_setting_outside">All\'aperto</string>
@@ -4816,6 +4837,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="vb_video_effects_setting_warmth">Caldo</string>
     <string name="vb_video_effects_settings_liquid">Chiarezza</string>
     <string name="vb_video_effects_settings_stereo">Volume</string>
+    <string name="vb_video_effects_spatial">Traccia movimento della testa</string>
     <string name="vb_video_effects_srs_premium_sound">Suono</string>
     <string name="vb_video_super_division_desc">"La risoluzione upscala automaticamente quando è ≤720p.
 

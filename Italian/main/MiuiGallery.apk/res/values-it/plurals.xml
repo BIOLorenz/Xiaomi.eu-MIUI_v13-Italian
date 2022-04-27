@@ -204,6 +204,10 @@
         <item quantity="other">"%1$d foto saltate perché impossibile visualizzare."</item>
         <item quantity="one">"Una foto saltata perché impossibile visualizzare."</item>
     </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d file</item>
+        <item quantity="one">%1$d file</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>
@@ -535,5 +539,9 @@
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Gli oggetti possono essere memorizzati qui per %1$d giorni. Aggiorna il tuo piano per prolungare questo periodo.</item>
         <item quantity="one">Gli oggetti possono essere memorizzati qui per %1$d giorno. Aggiorna il tuo piano per prolungare questo periodo.</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d file</item>
+        <item quantity="one">%1$d file</item>
     </plurals>
 </resources>
