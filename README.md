@@ -12,7 +12,7 @@ Mantained by:
 - BIOLorenz
 
 _________________
-##Per segnalare un errore di traduzione:
+## Per segnalare un errore di traduzione:
 
 Descrivere nella sezione "Issues":
 - La problematica [Stringa in inglese, traduzione errata...]
