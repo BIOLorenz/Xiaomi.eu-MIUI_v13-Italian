@@ -43,23 +43,6 @@
         <item>Fine settimana</item>
         <item>Personalizza</item>
     </string-array>
-    <string-array name="always_enabled_app_list">
-        <item>com.android.providers.applications</item>
-        <item>com.android.providers.calendar</item>
-        <item>com.android.providers.contacts</item>
-        <item>com.jeejen.family.miui</item>
-        <item>com.android.providers.drm</item>
-        <item>com.android.providers.media</item>
-        <item>com.android.providers.telephony</item>
-        <item>com.android.providers.userdictionary</item>
-        <item>com.miui.providers.userbook</item>
-        <item>com.miui.providers.weather</item>
-        <item>com.miui.yellowpage</item>
-        <item>com.miui</item>
-        <item>com.android.htmlviewer</item>
-        <item>com.google.android.packageinstaller</item>
-        <item>com.miui.core</item>
-    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animazioni disattivate</item>
         <item>Scala animazione .5x</item>

@@ -377,9 +377,7 @@
     <string name="download_method">Scarica</string>
     <string name="download_no_application_title">"Impossibile aprire il file"</string>
     <string name="download_paused_in_power_save_mode">Il dispositivo è in Modalità Risparmio Energetico, download in pausa</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">Download in corso…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">Qualità download</string>
     <string name="download_quality_summary">Impostazioni aggiuntive per i brani scaricati</string>
     <string name="download_queued">In coda</string>
@@ -1434,8 +1432,6 @@ Size: %2$s"</string>
 Dimensione : %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">Aggiornamento %1$s !</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spazio insufficientee, controlla la scheda SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yesterday">Ieri</string>
     <string name="you_can_switch_mode_in_settings">E\' possibile passare da una modalità all\'altra dalle impostazioni</string>
     <string name="you_may_like">Potrebbe piacerti anche</string>
