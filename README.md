@@ -11,6 +11,9 @@ Based on a work at http://miui.com and http://miui.it
 Mantained by:
 - BIOLorenz
 
+Thanks to Translators:
+- Hackintosh98
+
 _________________
 ## Per segnalare un errore di traduzione:
 
@@ -22,5 +25,8 @@ Descrivere nella sezione "Issues":
 - Allegare se possibile uno screenshot dell'errore
 - Fornire suggerimenti sulla traduzione
 _________________
+## Contribuisci anche tu! Basta poco!
 Le traduzioni vengono effettuate in maniera amatoriale e potrebbero non essere precise e puntuali al 100%, qualsiasi suggerimento è ben accetto!
 Il lavoro di traduzione richiede molto tempo, se vuoi supportare il progetto anche solo con un caffè, premi il tasto Sponsor in alto a destra, sapere che le persone apprezzano il nostro impegno renderà il lavoro di traduzione ancora più piacevole.
+
+Se vuoi far parte del team di traduzione, contatta @BIOLorenz
