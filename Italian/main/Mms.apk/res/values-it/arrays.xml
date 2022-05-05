@@ -108,6 +108,20 @@
         <item>Solo in modalità silenziosa</item>
         <item>Mai</item>
     </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+    <string-array name="privacy_update_5g_mms">
+        <item>@string/privacy_dialog_tips_update</item>
+        <item>@string/privacy_dialog_text_policy_link</item>
+        <item>https://api.comm.miui.com/calendar/stat.html?stat_id=245</item>
+        <item>@string/privacy_dialog_title_update</item>
+        <item>@string/privacy_policy_name_5g_mms</item>
+        <item>@string/dialog_agree</item>
+        <item>@string/dialog_cancel</item>
+    </string-array>
     <string-array name="rcs_ft_fallback">
         <item>Non chiedere e invia sempre come link SMS</item>
         <item>Non chiedere e non inviare mai come link SMS</item>

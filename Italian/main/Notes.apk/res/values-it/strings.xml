@@ -68,6 +68,7 @@
     <string name="call_folder_name">Note di chiamata</string>
     <string name="cancel_alarm_description">Annulla sveglia</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="check_in_todo_app">Vedi attività</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -587,7 +588,7 @@
     <string name="permission_intro_phone">Per prendere note durante le chiamate</string>
     <string name="permission_intro_storage">Per salvare note e allegati</string>
     <string name="permission_microphone_desc">Per registrare note vocali</string>
-    <string name="permission_network_for_cloud_desc">Per sincronizzare le note con il cloud, è necessario connettersi a internet. I dati mobili potrebbero essere utilizzati per sincronizzare gli elementi. Connettersi ora?</string>
+    <string name="permission_network_for_cloud_desc">Per sincronizzare le note con il cloud, è necessario connettersi a internet. I dati potrebbero essere utilizzati per sincronizzare gli elementi. Connettersi ora?</string>
     <string name="permission_phone_state_desc">Per l\'interruzione della registrazione delle note vocali durante le chiamate</string>
     <string name="permission_read_contact_desc">Associazione delle note create durante le chiamate con i relativi contatti</string>
     <string name="permission_storage_desc">Per salvare le note come immagini</string>
@@ -682,6 +683,7 @@
     <string name="select_account_prompt">Abilita sincronizzazione note</string>
     <string name="send">Invia</string>
     <string name="set_alarm_description">Imposta sveglia</string>
+    <string name="setting_big_screen_layout_columns">Barra laterale</string>
     <string name="setting_layout">Disposizione</string>
     <string name="setting_micloud_sync_title">Sincronizza con il Cloud</string>
     <string name="setting_note_list_layout_title">Disposizione</string>

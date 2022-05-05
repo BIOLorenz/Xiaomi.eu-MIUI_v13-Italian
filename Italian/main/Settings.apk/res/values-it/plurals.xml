@@ -172,6 +172,10 @@
         <item quantity="other">%d tentativi</item>
         <item quantity="one">%d tentativo</item>
     </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d app</item>
+        <item quantity="one">%d app</item>
+    </plurals>
     <plurals name="enterprise_privacy_number_packages_lower_bound">
         <item quantity="other">Minimo %d app</item>
         <item quantity="one">Minimo %d app</item>

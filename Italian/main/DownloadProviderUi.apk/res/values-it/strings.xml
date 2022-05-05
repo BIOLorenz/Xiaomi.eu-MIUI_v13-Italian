@@ -176,13 +176,13 @@
     <string name="dialog_insufficient_space_on_external">"Impossibile completare il download, memoria esterno insufficiente."</string>
     <string name="dialog_media_not_found">Collegare una memoria esterna per scaricare.</string>
     <string name="dialog_msg_disabled_net">%1$s ha download limitati per la rete attuale. Tocca le impostazioni di rete per accedere all\'app Sicurezza.</string>
-    <string name="dialog_msg_recommend">"Non sarai in grado di visualizzare le fonti consigliate dopo la disattivazione. Puoi scegliere \"Carica contenuti utilizzando solo il Wi-Fi\" per risparmiare dati mobili."</string>
+    <string name="dialog_msg_recommend">"Non sarai in grado di visualizzare le fonti consigliate dopo la disattivazione. Puoi scegliere \"Carica contenuti utilizzando solo il Wi-Fi\" per risparmiare dati."</string>
     <string name="dialog_privacy_update_button1">Annulla</string>
     <string name="dialog_privacy_update_button2">Accetto</string>
     <string name="dialog_privacy_update_title">Informativa sulla privacy aggiornata</string>
     <string name="dialog_queued_body">File aggiunto alla coda, verrà scaricato presto.</string>
     <string name="dialog_speed_cancel">Annulla</string>
-    <string name="dialog_speed_msg">Utilizzare i dati mobili per testare la rete può consumare grandi quantità di dati. Continuare comunque?</string>
+    <string name="dialog_speed_msg">Utilizzare i dati per testare la rete può consumare grandi quantità di dati. Continuare comunque?</string>
     <string name="dialog_speed_ok">Continua</string>
     <string name="dialog_speed_title">Avviso utilizzo dati</string>
     <string name="dialog_title_disabled_net">Accesso Internet</string>
@@ -509,7 +509,7 @@ su tutti i tuoi dispositivi con Xunlei"</string>
     <string name="permission">Permessi</string>
     <string name="petabyteShort">PB</string>
     <string name="pref_download_revert_default">Salva nella posizione predefinita</string>
-    <string name="pref_download_settings_title">Il download tramite dati mobili è limitato</string>
+    <string name="pref_download_settings_title">Il download tramite dati è limitato</string>
     <string name="pref_download_storage_path">Salva in un percorso personalizzato</string>
     <string name="pref_download_storage_path_2">Posizione degli elementi scaricati</string>
     <string name="pref_permission_description">Dettagli permessi</string>
@@ -843,6 +843,7 @@ Accelera i download su tutti i tuoi dispositivi."</string>
     <string name="xlunbind_sub_title">Rimuovi il tuo account Xunlei e aggiungi Mi Account</string>
     <string name="xunlei_account_has_unbind_message">Account Xunlei rimosso</string>
     <string name="xunlei_brand">Fornito da Xunlei</string>
+    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_close_tips_button">Attiva</string>
     <string name="xunlei_close_tips_content">Acceleratore download Xunlei.</string>
     <string name="xunlei_close_tips_title">Accelera i tuoi download</string>

@@ -18,7 +18,7 @@
     <string name="channel_service">Servizio Aggiornamenti in background</string>
     <string name="channel_update">Nuova versione disponibile</string>
     <string name="check_new_version">Ricerca aggiornamenti</string>
-    <string name="dialog_3g_desc">Scaricare l\'aggiornamento con i dati mobili potrebbe comportare consumi elevati.</string>
+    <string name="dialog_3g_desc">Scaricare l\'aggiornamento con i dati potrebbe comportare consumi elevati.</string>
     <string name="dialog_3g_title">Attenzione!</string>
     <string name="dialog_btn_3g">Scarica comunque</string>
     <string name="dialog_btn_wifi">Passa al Wi-Fi</string>

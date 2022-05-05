@@ -28,6 +28,7 @@
     <string name="accessible_rect">Rettangolo</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="app_name">Screenshot</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
     <string name="back">Indietro</string>
@@ -517,7 +518,7 @@ uno screenshot esteso"</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_download_with_metered_network_btn_continue">Scarica</string>
-    <string name="toast_download_with_metered_network_msg">"Sembra che il tuo dispositivo non sia connesso al Wi-Fi. Scaricare gli elementi utilizzando i dati mobili?"</string>
+    <string name="toast_download_with_metered_network_msg">"Sembra che il tuo dispositivo non sia connesso al Wi-Fi. Scaricare gli elementi utilizzando i dati?"</string>
     <string name="toast_download_with_metered_network_title">Avviso utilizzo dati</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>

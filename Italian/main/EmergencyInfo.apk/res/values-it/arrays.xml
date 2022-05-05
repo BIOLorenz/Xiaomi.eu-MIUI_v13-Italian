@@ -157,6 +157,11 @@
         <item>Verifica solo per contenuti DRM</item>
         <item>Verifica sempre</item>
     </string-array>
+    <string-array name="hdcp_checking_values">
+        <item>never</item>
+        <item>drm-only</item>
+        <item>always</item>
+    </string-array>
     <string-array name="organ_donor_values">
         <item>Sì</item>
         <item>No</item>

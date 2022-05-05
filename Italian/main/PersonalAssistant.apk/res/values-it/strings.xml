@@ -411,6 +411,7 @@
     <string name="pa_shortcut_widget_label_4x2">Scorciatoie</string>
     <string name="pa_ski_foreground_service_noitification_name">Accesso alla posizione</string>
     <string name="pa_smart_shortcut_widget_label">App consigliate</string>
+    <string name="pa_sports_action_live">Live</string>
     <string name="pa_sports_action_preview">Anteprima</string>
     <string name="pa_sports_all_league">Agenda</string>
     <string name="pa_sports_all_match">Mostra tutto</string>
@@ -428,9 +429,11 @@
     <string name="pa_stock_desc_cancel_pin">Non fissare più</string>
     <string name="pa_stock_desc_delete_stock">Elimina %1$s</string>
     <string name="pa_stock_empty_follow_list">Nessun oggetto</string>
+    <string name="pa_stock_green_grow">Verde - su, rosso - giù</string>
     <string name="pa_stock_load_data_failure">"Impossibile caricare info"</string>
     <string name="pa_stock_network_unavailable">"Impossibile connettersi alla rete"</string>
     <string name="pa_stock_not_found_related_items">"Impossibile trovare risultati"</string>
+    <string name="pa_stock_red_grow">Rosso - su, verde - giù</string>
     <string name="pa_stock_search_failure">"Impossibile trovare risultati"</string>
     <string name="pa_stock_search_loading">Attendi…</string>
     <string name="pa_stock_webview_bottom_button">Scarica</string>

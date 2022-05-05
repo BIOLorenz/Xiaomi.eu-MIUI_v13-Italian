@@ -19,4 +19,8 @@
         <item>Sabato</item>
         <item>Domenica</item>
     </string-array>
+    <string-array name="pa_stock_color_schema_value_array">
+        <item>Rosso - su, verde - giù</item>
+        <item>Verde - su, rosso - giù</item>
+    </string-array>
 </resources>

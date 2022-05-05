@@ -7,7 +7,7 @@
         <item>pine</item>
     </string-array>
     <string-array name="other_settings_auto_update_entries">
-        <item>Wi-Fi e dati mobili</item>
+        <item>Wi-Fi e dati</item>
         <item>Solo Wi-Fi</item>
         <item>Disattivato</item>
     </string-array>

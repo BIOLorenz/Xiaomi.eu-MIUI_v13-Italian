@@ -112,6 +112,7 @@
     <string name="country_name_kg">Kg</string>
     <string name="country_name_km">Km</string>
     <string name="country_name_mm">MM</string>
+    <string name="country_name_mt">MT</string>
     <string name="country_name_ne">NO</string>
     <string name="country_name_nl">N</string>
     <string name="country_name_se">S-E</string>
@@ -376,6 +377,7 @@
     <string name="resolver_offical_recommend">Ufficiale</string>
     <string name="resolver_other_method">Altre opzioni</string>
     <string name="resolver_recommend_options_tag">Opzioni consigliate</string>
+    <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
     <string name="resource_select">Seleziona</string>
     <string name="reveries">Inversione (stereo)</string>
     <string name="rog">ROG</string>
@@ -408,7 +410,7 @@
     <string name="security_permission_network_failed_text">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
     <string name="security_permission_open_wifi_settings">Apri Impostazioni Wi-Fi</string>
     <string name="security_permission_validate_warning">Grazie per il tuo aiuto e grazie per rendere migliore MIUI!</string>
-    <string name="security_permission_wifi_and_data_opened_text">Wi-Fi e dati mobili attivati</string>
+    <string name="security_permission_wifi_and_data_opened_text">Wi-Fi e dati attivati</string>
     <string name="security_permission_xiaomi_account_missed_text">Inserisci il tuo ID Mi Account</string>
     <string name="security_share_text">Protezione privacy</string>
     <string name="select">Seleziona</string>
@@ -467,6 +469,7 @@
     <string name="status_bar_toggle_quiet_mode">Non disturbare</string>
     <string name="status_bar_toggle_rotate">Disattiva rotazione</string>
     <string name="status_bar_toggle_screen_button">Tasti</string>
+    <string name="status_bar_toggle_screenshot">Screenshot</string>
     <string name="status_bar_toggle_sync">Sincronizza</string>
     <string name="status_bar_toggle_torch">Torcia</string>
     <string name="status_bar_toggle_vibrate">Vibrazione</string>

@@ -288,6 +288,10 @@
         <item quantity="other">%1$d elementi totali</item>
         <item quantity="one">%1$d elemento totale</item>
     </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Ruota di %d gradi</item>
+        <item quantity="one">Ruota di %d grado</item>
+    </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d giorni</item>
         <item quantity="one">%d giorno</item>
@@ -333,7 +337,7 @@
         <item quantity="one">"Impossibile scaricare una foto (%2$dMB), collegati alla rete e riprova\""</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
-        <item quantity="other">"%1$d file (%2$dMB) non sono ancora stati scaricati. Vuoi scaricarli utilizzando i dati mobili?"</item>
+        <item quantity="other">"%1$d file (%2$dMB) non sono ancora stati scaricati. Vuoi scaricarli utilizzando i dati?"</item>
         <item quantity="one">"%1$d file (%2$dMB) non è ancora stato scaricato. Vuoi scaricarlo utilizzando la rete dati mobile?"</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">

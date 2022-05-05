@@ -219,6 +219,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="category_work">Lavoro</string>
     <string name="cell_data_off_content_description">Dati mobili disattivati</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="charge_length_format">%1$s fa</string>
     <string name="choose_profile">Scegli profilo</string>
     <string name="clear">Cancella</string>
@@ -386,6 +387,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="lb_playback_controls_thumb_down_outline">Seleziona Pollice Giù</string>
     <string name="lb_playback_controls_thumb_up">Deseleziona Pollice Su</string>
     <string name="lb_playback_controls_thumb_up_outline">Seleziona Pollice Su</string>
+    <string name="lb_playback_time_separator">/</string>
     <string name="lb_search_bar_hint">Cerca</string>
     <string name="lb_search_bar_hint_speech">Parla per cercare</string>
     <string name="lb_search_bar_hint_with_title">Cerca %1$s</string>
@@ -419,7 +421,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="media_transfer_wired_device_name">Dispositivo audio cablato</string>
     <string name="media_transfer_wired_usb_device_name">Cuffie cablate</string>
     <string name="mobile_data_always_on">Dati cellulare sempre attivi</string>
-    <string name="mobile_data_always_on_summary">Mantieni i dati mobili attivi, anche quando il Wi-Fi é attivo (per un cambio di rete rapido).</string>
+    <string name="mobile_data_always_on_summary">Mantieni i dati attivi, anche quando il Wi-Fi é attivo (per un cambio di rete rapido).</string>
     <string name="mock_location_app">Seleziona app per false localizzazioni</string>
     <string name="mock_location_app_not_set">Nessuna app impostata su false localizzazioni</string>
     <string name="mock_location_app_set">App con false localizzazioni: %1$s</string>

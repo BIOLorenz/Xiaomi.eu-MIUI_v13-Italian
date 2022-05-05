@@ -498,7 +498,7 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="restore_from_cloud">Ripristina da Mi Cloud</string>
     <string name="restore_from_mimover">Trasferisci dal tuo vecchio dispositivo tramite Mi Mover</string>
     <string name="restore_home_screen_apps">Ripristina elementi</string>
-    <string name="restore_network_pause">In pausa per risparmiare dati mobili. Tocca per riprendere.</string>
+    <string name="restore_network_pause">In pausa per risparmiare dati. Tocca per riprendere.</string>
     <string name="restore_network_unconnect">%s (in attesa di connessione)</string>
     <string name="restore_prepare_item_type_enable">Backup disponibili</string>
     <string name="restore_prepare_item_type_other">Altri backup</string>

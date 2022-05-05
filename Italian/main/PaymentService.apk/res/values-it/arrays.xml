@@ -4,4 +4,9 @@
         <item>Maschio</item>
         <item>Femmina</item>
     </string-array>
+    <string-array name="mibi_nopassword_pay_threshold">
+        <item>100</item>
+        <item>200</item>
+        <item>500</item>
+    </string-array>
 </resources>

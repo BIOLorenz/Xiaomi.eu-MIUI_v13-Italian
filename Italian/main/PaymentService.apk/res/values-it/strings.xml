@@ -384,6 +384,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_header_network_error">"Impossibile collegarsi alla rete."</string>
     <string name="mibi_illegal_intent">Richiesta di intenti non valida</string>
     <string name="mibi_incognito_mode_dialog_cancel">Annulla</string>
+    <string name="mibi_incognito_mode_dialog_summary_camera">"Impossibile utilizzare la fotocamera. Disattiva la modalità Incognito nelle Impostazioni."</string>
     <string name="mibi_incognito_mode_dialog_title">"Sei in incognito"</string>
     <string name="mibi_incognito_mode_dialog_to_close">Impostazioni</string>
     <string name="mibi_is_what">Cosa puoi acquistare con i Mi Credit?</string>
@@ -555,6 +556,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_sms_code_error">Si è verificato un errore nel codice di verifica del telefono, riprova</string>
     <string name="mibi_sms_code_hint">Immetti codice di verifica a 6 cifre</string>
     <string name="mibi_summary_bind_phone">Per garantire la sicurezza del tuo account, completa il pagamento dopo aver abbinato il numero di telefono.</string>
+    <string name="mibi_summary_custom_service_phone">Tel:</string>
     <string name="mibi_summary_sms_code">Immetti il codice di verifica inviato a %1$s，e quindi termina il pagamento</string>
     <string name="mibi_tianyi_create_order">SMS China Unicom</string>
     <string name="mibi_title_bind_phone">Abbina numero di telefono.</string>

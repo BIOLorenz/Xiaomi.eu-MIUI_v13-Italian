@@ -41,6 +41,7 @@
     <string name="base_info">Informazioni di base</string>
     <string name="bottomsheet_action_expand_halfway">Espandi a metà</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -364,8 +365,8 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
     <string name="search_result_text">"Non è stato possibile trovare alcuna app"</string>
     <string name="send">Invia</string>
     <string name="show_system_app">Mostra app di sistema</string>
-    <string name="sleep_config_enhance_description">"Ogni volta che MIUI rileva che stai dormendo, chiuderà le app in background, limiterà NFC, Bluetooth, GPS, dati mobili e utilizzo del Wi-Fi e non attiverà lo schermo per le notifiche."</string>
-    <string name="sleep_config_enhance_description_non_nfc">"Ogni volta che MIUI rileva che stai dormendo, chiuderà le app in background, limiterà il Bluetooth, GPS, dati mobili e utilizzo del Wi-Fi e non attiverà lo schermo per le notifiche."</string>
+    <string name="sleep_config_enhance_description">"Ogni volta che MIUI rileva che stai dormendo, chiuderà le app in background, limiterà NFC, Bluetooth, GPS, dati e utilizzo del Wi-Fi e non attiverà lo schermo per le notifiche."</string>
+    <string name="sleep_config_enhance_description_non_nfc">"Ogni volta che MIUI rileva che stai dormendo, chiuderà le app in background, limiterà il Bluetooth, GPS, dati e utilizzo del Wi-Fi e non attiverà lo schermo per le notifiche."</string>
     <string name="sleep_config_enhance_title">Modalita Risparmio Notturno</string>
     <string name="sleepmode_disclaimer_agree">Accetto</string>
     <string name="sleepmode_disclaimer_cancel">Annulla</string>

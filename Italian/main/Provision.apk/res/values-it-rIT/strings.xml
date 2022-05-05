@@ -31,14 +31,14 @@
     <string name="agree_terms">"Ho letto e accetto i Termini e le Condizioni"</string>
     <string name="agree_terms_input_method_facemoji">"Ho letto ed accetto la Normativa sulla Privacy di Facemoji."</string>
     <string name="agree_terms_input_method_kika">"Ho letto ed accetto la Normativa sulla Privacy di Kika."</string>
-    <string name="ai_button_desc">Usa questo pulsante per attivare Mi AI e completare le attività sul tuo telefono utilizzando solo la tua voce</string>
+    <string name="ai_button_desc">Usa questo pulsante per attivare Mi IA e completare le attività sul tuo telefono utilizzando solo la tua voce</string>
     <string name="ai_button_double_press">Doppia pressione</string>
-    <string name="ai_button_double_press_desc">Configura le funzionalità di Mi AI</string>
+    <string name="ai_button_double_press_desc">Configura le funzionalità di Mi IA</string>
     <string name="ai_button_long_press">Premi e tieni premuto</string>
     <string name="ai_button_long_press_desc">Vocalizza il tuo comando e rilascia il pulsante</string>
     <string name="ai_button_single_press">Pressione</string>
-    <string name="ai_button_single_press_desc">Attivazione Mi AI</string>
-    <string name="ai_button_title">A proposito del pulsante AI</string>
+    <string name="ai_button_single_press_desc">Attivazione Mi IA</string>
+    <string name="ai_button_title">A proposito del pulsante IA</string>
     <string name="album_introduction">Galleria ti permette di gestire, ottimizzare e modificare foto e video sul tuo dispositivo e di sincronizzarli con Xiaomi Cloud.</string>
     <string name="app_name">Introduzione</string>
     <string name="application_package_introduction">Questa app consente di installare applicazioni di terze parti, scansionarle prima dell\'installazione e fornire consigli dopo l\'installazione.</string>
@@ -133,7 +133,7 @@
     <string name="content_introduction">Il Centro Contenuti aggrega contenuti e servizi da più canali. Qui puoi leggere articoli, guardare video, visualizzare elementi giornalieri in evidenza e ricevere consigli sui contenuti.</string>
     <string name="continue_to_enable_accessibility">Tieni due dita in basso per attivare l\'accessibilità</string>
     <string name="copy">Copia</string>
-    <string name="data_traffic_enable_dialog_title">"Se non sei connesso al Wi-Fi, il tuo dispositivo utilizzerà i dati mobili. L'utilizzo dei dati mobili potrebbe generare costi aggiuntivi."</string>
+    <string name="data_traffic_enable_dialog_title">"Se non sei connesso al Wi-Fi, il tuo dispositivo utilizzerà i dati. L'utilizzo dei dati potrebbe generare costi aggiuntivi."</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="desc_fingerprint">Utilizza le tue impronte digitali per sbloccare il dispositivo, verificare le transazioni Mi Pay o per accedere ad app e servizi.</string>
@@ -240,6 +240,7 @@
     <string name="input_method_setting">Scegli Tastiera</string>
     <string name="install_preinstall_app">Caricamento app…</string>
     <string name="item_contents_wwarning">"Se il dispositivo non funziona, non sarai in grado di impedire ad altre persone di usarlo e di accedere ai tuoi dati a meno che non imposti un blocco schermo. Procedere comunque?"</string>
+    <string name="item_facerecognition">Sblocco con il volto</string>
     <string name="item_fingerprint">Impronta digitale</string>
     <string name="item_lock_screen_password">Solo schermata di blocco</string>
     <string name="item_lock_screen_password_only">Blocco schermo</string>
@@ -327,10 +328,10 @@
     <string name="month_september_shortest">Set</string>
     <string name="more">Altro</string>
     <string name="morning">Mattina</string>
-    <string name="move_data_dialog_box_le">"Ciò consente di utilizzare i dati mobili e la connessione GPS in base alla richiesta dell'utente. La sincronizzazione di account e altri elementi potrebbero richiedere l'utilizzo di dati mobili a seconda delle specifiche dello smartphone."</string>
-    <string name="move_data_dialog_box_title">A meno che tu non abbia un piano con dati illimitati, l\'utilizzo dei dati mobili potrebbe generare costi aggiuntivi. Utilizzarli comunque?</string>
+    <string name="move_data_dialog_box_le">"Ciò consente di utilizzare i dati e la connessione GPS in base alla richiesta dell'utente. La sincronizzazione di account e altri elementi potrebbero richiedere l'utilizzo di dati a seconda delle specifiche dello smartphone."</string>
+    <string name="move_data_dialog_box_title">A meno che tu non abbia un piano con dati illimitati, l\'utilizzo dei dati potrebbe generare costi aggiuntivi. Utilizzarli comunque?</string>
     <string name="move_data_dialog_cancel">Annulla</string>
-    <string name="move_data_dialog_title">È possibile limitare la connessione ai dati mobili nelle Impostazioni</string>
+    <string name="move_data_dialog_title">È possibile limitare la connessione ai dati nelle Impostazioni</string>
     <string name="move_data_dialog_use">Usa</string>
     <string name="msim_setting_default_data">SIM Dati</string>
     <string name="msim_setting_default_voice">SIM predefinita per le chiamate</string>
@@ -341,6 +342,8 @@
     <string name="navigation_picker_radio_text_virtual_key">Tasti</string>
     <string name="next">Successivo</string>
     <string name="next_fingerprint">Successivo</string>
+    <string name="ng_xiaomi_privacy_policy">https://h5.app.intl.miui.com/gallery/privacy.html?lang=%1$s_%2$s</string>
+    <string name="ng_xiaomi_user_agreement">https://h5.app.intl.miui.com/gallery/eula.html?lang=%1$s_%2$s</string>
     <string name="night">Sera</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_set">Non impostato</string>
@@ -495,11 +498,12 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="shut_down">Spegni</string>
     <string name="sim_card_detecting">Controllo SIM in corso…</string>
     <string name="sim_card_detecting_check">"Impossibile trovare SIM. Assicurati che la SIM sia correttamente installata e di avere credito sufficiente.\""</string>
-    <string name="sim_card_detecting_confirm_turn_on_network">Consenti il collegamento a reti dati mobili? Se lo fai, la scheda SIM che si inserisce sarà utilizzata per connettersi alle reti dati mobili.</string>
+    <string name="sim_card_detecting_confirm_turn_on_network">Consenti il collegamento a reti dati? Se lo fai, la scheda SIM che si inserisce sarà utilizzata per connettersi alle reti dati.</string>
     <string name="sim_card_detecting_title">Controllo SIM in corso…</string>
     <string name="sim_card_detection">Nessuna SIM rilevata</string>
     <string name="sim_card_detection_info">Hai bisogno di una SIM per impostare il tuo Mi Account.</string>
     <string name="sim_card_detection_mobile_not_available">"La scheda SIM non può connettersi alla rete"</string>
+    <string name="sim_card_detection_sb_nonactivated">Non attivo</string>
     <string name="sim_dectection_next">Continua</string>
     <string name="sim_redetection">Controlla di nuovo</string>
     <string name="sim_scard_detecting_check_mobile_not_available">"La tua scheda SIM non può connettersi ad una rete operatore valida. Assicurati di avere fondi sufficienti sul tuo saldo e prova a connetterti nuovamente."</string>
@@ -623,11 +627,11 @@ Devi accettare l'Informativa sulla privacy della Tastiera Mint prima di utilizza
     <string name="user_agreement">Accordo utente</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
-    <string name="voice_assist_advice">Mi AI ti consente di utilizzare i comandi vocali, ma ciò comporterà un maggior consumo energia (+1% ogni ora).</string>
-    <string name="voice_assist_condition">"Sarai in grado di utilizzare Mi AI in questi casi:
+    <string name="voice_assist_advice">Mi IA ti consente di utilizzare i comandi vocali, ma ciò comporterà un maggior consumo energia (+1% ogni ora).</string>
+    <string name="voice_assist_condition">"Sarai in grado di utilizzare Mi IA in questi casi:
 1. Quando lo schermo è acceso.
 2. Quando ascolti musica a schermo spento."</string>
-    <string name="voice_assist_desp">Pronuncia \"Mi AI\" davanti al telefono. Mi AI riconoscerà la tua voce e sarà in grado di controllare il tuo dispositivo.</string>
+    <string name="voice_assist_desp">Pronuncia \"Mi IA\" davanti al telefono. Mi IA riconoscerà la tua voce e sarà in grado di controllare il tuo dispositivo.</string>
     <string name="voice_assist_title">Attiva con la voce</string>
     <string name="wc_dialog_agree">Accetto</string>
     <string name="wc_dialog_reject">"Non accetto"</string>
@@ -642,6 +646,8 @@ Devi accettare l'Informativa sulla privacy della Tastiera Mint prima di utilizza
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
     <string name="welcome">Benvenuto</string>
+    <string name="xunlei_company_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/network/%s</string>
+    <string name="xunlei_privacy_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/%s/?theme=light</string>
     <string name="yesterday">Ieri</string>
     <string name="zone_picker_title">Scegli il fuso orario</string>
 </resources>

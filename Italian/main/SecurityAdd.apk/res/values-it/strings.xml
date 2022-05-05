@@ -304,7 +304,7 @@
     <string name="gb_webwindow_schemedialog_accept">Apri</string>
     <string name="gb_webwindow_schemedialog_cancel">Annulla</string>
     <string name="gb_weixinpay_can_not_complete">"Impossibile completare il pagamento. Installa per continuare."</string>
-    <string name="gdpr_msg"><Data>\"Per poter utilizzare le caratteristiche base di Sicurezza, è necessario accettare che Xiaomi raccoglierà, elaborerà e utilizzerà i tuoi dati personali, comprese le informazioni sulle modalità di utilizzo delle funzionalità di Sicurezza (es. statistiche di utilizzo dati mobili, informazioni sui malware, informazioni di base del dispositivo) e altri tipi di informazioni specificati nella nostra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;.</Data></string>
+    <string name="gdpr_msg"><Data>\"Per poter utilizzare le caratteristiche base di Sicurezza, è necessario accettare che Xiaomi raccoglierà, elaborerà e utilizzerà i tuoi dati personali, comprese le informazioni sulle modalità di utilizzo delle funzionalità di Sicurezza (es. statistiche di utilizzo dati, informazioni sui malware, informazioni di base del dispositivo) e altri tipi di informazioni specificati nella nostra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;.</Data></string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -439,6 +439,8 @@
     <string name="parent_center_app_sure">Determina</string>
     <string name="parent_center_app_time_range_2">Fine settimana</string>
     <string name="parent_center_default_home_confirm">Determina</string>
+    <string name="password_change_value_preference_desc">La password iniziale della schermata di blocco dello Spazio verrà utilizzata per la verifica quando si esce dallo Spazio dei bambini</string>
+    <string name="password_change_value_preference_title">Modifica la password</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="pc_activity_title">Ottimizza batteria</string>
     <string name="pm_lable_name">Informazioni sui permessi root</string>

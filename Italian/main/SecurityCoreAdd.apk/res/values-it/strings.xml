@@ -740,7 +740,7 @@ per accedere dalla schermata di blocco"</string>
     <string name="undo_privacy_menu">Revoca autorizzazione</string>
     <string name="undo_success">Revocato correttamente</string>
     <string name="use_google_open">Risveglia usando Google Assistant</string>
-    <string name="use_xiaoai_open">Risveglia usando Mi AI</string>
+    <string name="use_xiaoai_open">Risveglia usando Mi IA</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="wating">Attendi…</string>

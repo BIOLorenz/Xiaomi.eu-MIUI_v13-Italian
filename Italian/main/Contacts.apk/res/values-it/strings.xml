@@ -123,7 +123,7 @@
     <string name="bh_express_number">Numero del pacco</string>
     <string name="bh_fetch_balance">Controlla il saldo</string>
     <string name="bh_flow_exceed">Hai superato il limite</string>
-    <string name="bh_funtion_desc">Benvenuto in Servizi Operatore Mi! Puoi utilizzare questa app per controllare il saldo del telefono, acquistare minuti di chiamata e dati mobili, e altro ancora. Questa app deve connettersi alla rete per poter funzionare normalmente.</string>
+    <string name="bh_funtion_desc">Benvenuto in Servizi Operatore Mi! Puoi utilizzare questa app per controllare il saldo del telefono, acquistare minuti di chiamata e dati, e altro ancora. Questa app deve connettersi alla rete per poter funzionare normalmente.</string>
     <string name="bh_gb">GB</string>
     <string name="bh_get_balance_success">Controllato con successo. Le informazioni potrebbero essere aggiornate in ritardo.</string>
     <string name="bh_get_charge_phone_number">Seleziona dai contatti</string>
@@ -183,7 +183,7 @@
     <string name="bh_pkg_data_cant_query">"Impossibile visualizzare i dettagli a causa delle restrizioni dell'operatore"</string>
     <string name="bh_please_check_operation">Si prega di verificare se l\'operatore è impostato correttamente</string>
     <string name="bh_please_complete_sim_before_charge">Per ricaricare, aggiungere prima un numero di telefono.</string>
-    <string name="bh_please_fill_total_limit">Aggiungi dati mobili inclusi nel tuo piano</string>
+    <string name="bh_please_fill_total_limit">Aggiungi dati inclusi nel tuo piano</string>
     <string name="bh_please_fill_total_limit_title">Si prega di compilare il form completo</string>
     <string name="bh_please_set_pkg">Impostare il piano per essere in grado di controllare il saldo.</string>
     <string name="bh_privacy_policy">Informativa sulla Privacy</string>
@@ -199,7 +199,7 @@
     <string name="bh_save_desc">Salva questo numero per usarlo per la prossima ricarica</string>
     <string name="bh_save_sccuss">Salvato con successo</string>
     <string name="bh_saved_number">Numero salvato: %1$s</string>
-    <string name="bh_should_login_to_buy">Accedi a l tuo Mi Account per poter acquistare minuti di chiamata e dati mobili</string>
+    <string name="bh_should_login_to_buy">Accedi a l tuo Mi Account per poter acquistare minuti di chiamata e dati</string>
     <string name="bh_sim">SIM %1$d</string>
     <string name="bh_similar_number_hint">Questo numero è simile a %1$s. Ricaricarlo comunque?</string>
     <string name="bh_stop_carrier_services">Disattiva servizi Mi Carrier</string>
@@ -221,7 +221,7 @@
     <string name="bh_time_before">%1$s %2$s fa</string>
     <string name="bh_toast_copy">Copiato con successo</string>
     <string name="bh_toast_start_intent_failed">"Impossibile trovare un'app per gestire questa azione"</string>
-    <string name="bh_traffic_charge">Ottieni dati mobili</string>
+    <string name="bh_traffic_charge">Ottieni dati</string>
     <string name="bh_traffic_service">Altri servizi</string>
     <string name="bh_traffic_surplus">Dati rimanenti</string>
     <string name="bh_traffic_title">Ottieni dati</string>
@@ -455,6 +455,7 @@
     <string name="composer_not_initialized">"Il compositore di vCard non si è avviato correttamente."</string>
     <string name="conference_call_disable_tip">"Impossibile effettuare chiamate. Assicurati che il tuo dispositivo sia connesso ad una rete 4G con supporto VoLTE."</string>
     <string name="config_export_file_extension">vcf</string>
+    <string name="config_export_vcard_type">v30_generic</string>
     <string name="confirm_call_log_dial_summary">Chiedi conferma prima di comporre dal registro chiamate per evitare chiamate accidentali.</string>
     <string name="confirm_call_log_dial_title">Conferma prima di comporre dal registro chiamate</string>
     <string name="confirm_delete_contact_all_call_logs">"Eliminare cronologia %s?"</string>
@@ -1061,6 +1062,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="permission_retry_setting">Impostazioni</string>
     <string name="permission_write_external_storage_desc">Per salvare i dati dell\'app</string>
     <string name="phoneLabelsGroup">Telefono</string>
+    <string name="phone_info_divider">" | "</string>
     <string name="phone_number_too_long_toast">Numero troppo lungo</string>
     <string name="phone_primary">Primario</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>

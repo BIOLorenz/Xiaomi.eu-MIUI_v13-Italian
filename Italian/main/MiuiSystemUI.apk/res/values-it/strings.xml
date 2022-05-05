@@ -1044,6 +1044,7 @@ Inserisci il PIN per sbloccare."</string>
     <string name="game_status">In riproduzione</string>
     <string name="garbage_count">Ci sono %1$s vecchie istanze</string>
     <string name="global_action_lock_message">Sblocca il telefono per ulteriori opzioni</string>
+    <string name="global_action_screenshot">Screenshot</string>
     <string name="go_to_web">Naviga in Internet</string>
     <string name="got_it">Ok</string>
     <string name="gps_notification_found_text">Posizione GPS stabilita</string>
@@ -1409,6 +1410,7 @@ Riprova tra %2$d secondi."</string>
     <string name="lb_playback_controls_thumb_down_outline">Seleziona Pollice Giù</string>
     <string name="lb_playback_controls_thumb_up">Deseleziona Pollice Su</string>
     <string name="lb_playback_controls_thumb_up_outline">Seleziona Pollice Su</string>
+    <string name="lb_playback_time_separator">/</string>
     <string name="lb_search_bar_hint">Cerca</string>
     <string name="lb_search_bar_hint_speech">Parla per cercare</string>
     <string name="lb_search_bar_hint_with_title">Cerca %1$s</string>
@@ -1580,10 +1582,10 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
     <string name="mobile_data">Dati Mobili</string>
     <string name="mobile_data_always_on">Dati cellulare sempre attivi</string>
-    <string name="mobile_data_always_on_summary">Mantenere sempre attivi i dati mobili, anche quando il Wi-Fi è attivo (per un cambio di rete rapido).</string>
+    <string name="mobile_data_always_on_summary">Mantenere sempre attivi i dati, anche quando il Wi-Fi è attivo (per un cambio di rete rapido).</string>
     <string name="mobile_data_disable_message">Non avrai accesso ai dati o a internet tramite %s. Internet sarà disponibile solo tramite Wi-Fi.</string>
     <string name="mobile_data_disable_message_default_carrier">il tuo operatore</string>
-    <string name="mobile_data_disable_title">Disattivare dati mobili?</string>
+    <string name="mobile_data_disable_title">Disattivare dati?</string>
     <string name="mock_location_app">Seleziona app per false localizzazioni</string>
     <string name="mock_location_app_not_set">Nessuna app impostata su false localizzazioni</string>
     <string name="mock_location_app_set">App con false localizzazioni: %1$s</string>
@@ -1946,9 +1948,13 @@ Se hai domande, contatta %2$s."</string>
     <string name="private_dns_mode_provider">DNS Hostname provider privato</string>
     <string name="private_dns_mode_provider_failure">"Impossibile connettersi"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
+    <string name="process_kernel_label">Sistema operativo Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
     <string name="profile_owned_footer">Il profilo potrebbe essere monitorato</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
+    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="qs_alarm_tile_no_alarm">Nessuna sveglia</string>
     <string name="qs_bill_message_balance">%1$s %2$s rimanenti</string>
     <string name="qs_control_big_tile_state_closed">Spenta</string>
@@ -1999,6 +2005,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="quick_settings_bluetooth_secondary_label_hearing_aids">Apparecchio Acustico</string>
     <string name="quick_settings_bluetooth_secondary_label_input">Ingresso</string>
     <string name="quick_settings_bluetooth_secondary_label_transient">Attivazione…</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
     <string name="quick_settings_brightness_dialog_title">Luminosità</string>
     <string name="quick_settings_brightness_label">Luminosità</string>
     <string name="quick_settings_camera_label">Accesso alla fotocamera</string>
@@ -2014,8 +2021,8 @@ Se hai domande, contatta %2$s."</string>
     <string name="quick_settings_cellular_detail_data_usage">Utilizzo dati</string>
     <string name="quick_settings_cellular_detail_data_used">%s utilizzati</string>
     <string name="quick_settings_cellular_detail_data_warning">%s attenzione</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">I dati mobili (WCDMA/LTE) saranno disattivati. A meno che non si utilizzi il Wi-Fi, non sarà più possibile utilizzare applicazioni che richiedono la connessione dati. L\'invio o la ricezione di messaggi multimediali saranno limitati.</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">I dati mobili saranno attivati. La connessione alle reti mobili potrebbe comportare costi aggiuntivi a seconda del piano di pagamento.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">I dati (WCDMA/LTE) saranno disattivati. A meno che non si utilizzi il Wi-Fi, non sarà più possibile utilizzare applicazioni che richiedono la connessione dati. L\'invio o la ricezione di messaggi multimediali saranno limitati.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">I dati saranno attivati. La connessione alle reti mobili potrebbe comportare costi aggiuntivi a seconda del piano di pagamento.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Annulla</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Disattiva</string>
@@ -2106,6 +2113,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="quick_settings_screen_record_stop">Interrompi</string>
     <string name="quick_settings_screenbutton_label">Tasti</string>
     <string name="quick_settings_screenlock_label">Schemata di blocco</string>
+    <string name="quick_settings_screenshot_label">Screenshot</string>
     <string name="quick_settings_secondary_label_until">Fino a %s</string>
     <string name="quick_settings_settings_label">Impostazioni</string>
     <string name="quick_settings_sim_disabled">" (Disabilitato)"</string>
@@ -2354,10 +2362,12 @@ d MMM"</string>
     <string name="status_bar_ethernet">LAN</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Imposta metodi di input</string>
     <string name="status_bar_latest_events_title">Notifiche</string>
+    <string name="status_bar_network_name_separator">-</string>
     <string name="status_bar_no_notifications_title">Nessuna notifica</string>
     <string name="status_bar_notification_app_settings_title">%s impostazioni</string>
     <string name="status_bar_notification_inspect_item_title">Impostazioni di notifica</string>
     <string name="status_bar_ongoing_events_title">In corso</string>
+    <string name="status_bar_settings_auto_brightness_label">AUTO</string>
     <string name="status_bar_settings_auto_rotation">Auto-rotazione schermo</string>
     <string name="status_bar_settings_mute_label">Silenzioso</string>
     <string name="status_bar_settings_notifications">Notifiche</string>

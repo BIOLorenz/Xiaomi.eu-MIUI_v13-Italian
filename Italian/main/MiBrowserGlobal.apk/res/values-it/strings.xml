@@ -190,6 +190,7 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="bookmark_sync_tip_not_logined">Accedi per sincronizzare i segnalibri e la cronologia</string>
     <string name="bookmark_title">Nome del segnalibro</string>
     <string name="bookmark_title_lable">Titolo</string>
+    <string name="bookmark_url">URL http://</string>
     <string name="bookmark_url_already_exisit">"Hai già salvato questo URL"</string>
     <string name="bookmark_url_can_not_null">Inserisci l\'URL</string>
     <string name="bookmark_url_not_valid">"Questo URL non è valido"</string>
@@ -409,8 +410,11 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="common_open_on_phone">Apri sul telefono</string>
     <string name="common_signin_button_text">Accedi</string>
     <string name="common_signin_button_text_long">Accedi con Google</string>
+    <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+    <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
     <string name="common_use_phrase_bottom_bar_text_next">Successivo</string>
     <string name="common_use_phrase_bottom_bar_text_previous">Prec.</string>
+    <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
     <string name="confirm">OK</string>
     <string name="confirm_activate_email">Verificato</string>
     <string name="confirm_bundled_phone_dialog_title">Conferma numero di telefono associato</string>
@@ -1022,6 +1026,7 @@ Invia questo codice al supervisore."</string>
     <string name="mw_accessibility_date_picker_year">Anno</string>
     <string name="mw_accessibility_datetime_picker_date">Data</string>
     <string name="mw_accessibility_datetime_picker_time">Ora</string>
+    <string name="mw_accessibility_time_picker_ampm">AM/PM</string>
     <string name="mw_accessibility_time_picker_hour">Ora</string>
     <string name="mw_accessibility_time_picker_milli">Millisecondo</string>
     <string name="mw_accessibility_time_picker_minute">Minuto</string>
@@ -1068,7 +1073,7 @@ Invia questo codice al supervisore."</string>
     <string name="mw_copy_to_clipboard_failure_message">"Impossibile copiare negli Appunti"</string>
     <string name="mw_data_traffic_prompt_change">"L'utilizzo della connessione dati mobile per lo streaming di video aumenterà l'utilizzo dei dati. Se si supera il limite di utilizzo del piano dati, il tuo operatore addebiterà costi aggiuntivi."</string>
     <string name="mw_data_traffic_prompt_message">"L'utilizzo della connessione dati mobile per lo streaming di video aumenterà l'utilizzo dei dati. Se si supera il limite di utilizzo del piano dati, il tuo operatore addebiterà costi aggiuntivi."</string>
-    <string name="mw_data_traffic_prompt_message_short">"L'utilizzo di dati mobili per lo streaming di video può causare il superamento del limite di utilizzo del piano dati."</string>
+    <string name="mw_data_traffic_prompt_message_short">"L'utilizzo di dati per lo streaming di video può causare il superamento del limite di utilizzo del piano dati."</string>
     <string name="mw_data_traffic_prompt_title">Avviso utilizzo dati</string>
     <string name="mw_date_picker_dialog_clear">Cancella</string>
     <string name="mw_date_picker_dialog_other_button_label">Altro</string>
@@ -1117,7 +1122,7 @@ Abbandonare questa pagina?"</string>
     <string name="mw_miuichromium_error_page_diagnosing">Verifica rete</string>
     <string name="mw_miuichromium_error_page_mobile">Dati Mobili</string>
     <string name="mw_miuichromium_error_page_network_hijack">"Rete non sicura"</string>
-    <string name="mw_miuichromium_error_page_network_off">Attiva il Wi-Fi o i dati mobili</string>
+    <string name="mw_miuichromium_error_page_network_off">Attiva il Wi-Fi o i dati</string>
     <string name="mw_miuichromium_error_page_no_network">"Impossibile connettersi alla rete"</string>
     <string name="mw_miuichromium_error_page_problem_access_denied">L\'accesso a %s0 è stato negato.</string>
     <string name="mw_miuichromium_error_page_problem_cache_miss">"Non è possibile caricare la versione in cache di questa pagina."</string>
@@ -2046,7 +2051,7 @@ Potrai uscire dal programma in Impostazioni &gt; Privacy e Sicurezza"</string>
     <string name="version_check_button_resume_download">Riprendi il download</string>
     <string name="version_check_button_update">Aggiorna</string>
     <string name="version_check_failed">"Impossibile verificare gli aggiornamenti"</string>
-    <string name="version_dialog_4G_checkbox">Puoi aggiornare le app di sistema utilizzando i dati mobili. Ciò potrebbe comportare costi aggiuntivi per i dati.</string>
+    <string name="version_dialog_4G_checkbox">Puoi aggiornare le app di sistema utilizzando i dati. Ciò potrebbe comportare costi aggiuntivi per i dati.</string>
     <string name="version_dialog_buttion_ok">OK</string>
     <string name="version_dialog_buttion_update">Aggiorna</string>
     <string name="version_update_file_download_toast">In download</string>

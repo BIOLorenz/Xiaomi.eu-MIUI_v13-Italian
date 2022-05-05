@@ -4,61 +4,39 @@
         <item>Salute</item>
         <item>Attività</item>
     </string-array>
+    <string-array name="MediaControlView_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
     <string-array name="ShareTabTitle">
         <item>Immagine</item>
         <item>Percorso</item>
-        <item>Scheda</item>
+        <item>Card</item>
     </string-array>
     <string-array name="SportTabTitle">
         <item>In esecuzione</item>
         <item>Camminata</item>
-        <item>Ciclismo</item>
+        <item>Cycling</item>
         <item>Salto della corda</item>
         <item>Allenamento</item>
     </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="arr_prompt_label">
-        <item>Ragionevole</item>
+        <item>Reasonable</item>
         <item>Lungo</item>
-        <item>Troppo lungo</item>
+        <item>Too long</item>
     </string-array>
     <string-array name="arr_sedentary_reminder">
-        <item>È ora di muoversi!</item>
+        <item>Time to move!</item>
         <item>Maggiori informazioni</item>
-        <item>Bevi un po\' d\'acqua e fai una passeggiata.</item>
+        <item>Drink some water and take a walk.</item>
         <item>Maggiori informazioni</item>
-        <item>Sali una rampa di scale</item>
+        <item>Climb a flight of stairs</item>
         <item>Maggiori informazioni</item>
-        <item>"Non stare seduto troppo a lungo"</item>
+        <item>"Don't sit for too long"</item>
         <item>Maggiori informazioni</item>
     </string-array>
     <string-array name="arr_time_label">
@@ -90,19 +68,10 @@
         <item>Collega</item>
         <item>Compagno</item>
     </string-array>
-    <string-array name="energy_unit">
-        <item>" kcal"</item>
-        <item>" kJ"</item>
-    </string-array>
     <string-array name="gender_array">
         <item>Non impostato</item>
         <item>Maschio</item>
         <item>Femmina</item>
-    </string-array>
-    <string-array name="length_unit">
-        <item>" cm"</item>
-        <item>" m"</item>
-        <item>" km"</item>
     </string-array>
     <string-array name="normal_blood_array">
         <item>Non impostato</item>
@@ -121,7 +90,7 @@
         <item>Ito H, Ohshima A, Ohto N, Ogasawara M, Tsuzuki M, Takao K, Hijii C, Tanaka H, Nishioka K. Relazione tra composizione corporea ed età in soggetti giapponesi sani. Eur J Clin Nutr. 55(6):462-70, 2001</item>
         <item>Lee RD e Nieman DC. Valutazione nutrizionale (seconda edizione), pp.264</item>
         <item>Lohman TG. Valutazione della composizione del corpo avanzata - problemi di Currenet nella serie di scienze di esercizio. Champaign-IL: Human Kinetics. pp 80. 1992</item>
-        <item>"Mahan LK and Escott-stump S. Krause's Food, nutrition &amp; diet therapy 9th edition. WB Saunders Co. pp 455"</item>
+        <item>"Mahan LK e Escott-stump S. Krause's Food, nutrition &amp; diet therapy 9a edizione. WB Saunders Co. pp 455"</item>
         <item>《神经病学》第9版 第二十二章 睡眠障碍 人民卫生出版社</item>
         <item>《生理学》第9版 第十章 神经系统的功能 人民卫生出版社</item>
         <item>《睡眠医学：理论与实践》第4版 第一章 正常睡眠和睡眠变异 人民卫生出版社</item>
@@ -172,22 +141,9 @@
     </string-array>
     <string-array name="run_in_background_state">
         <item>Nessuna limitazione</item>
-        <item>Limita attività in background</item>
-        <item>Interrompi dopo 10 minuti</item>
+        <item>Limit background activity</item>
+        <item>Stop after 10 minutes</item>
         <item>Mai</item>
-    </string-array>
-    <string-array name="speed_unit">
-        <item>" km/h"</item>
-        <item>" m/s"</item>
-    </string-array>
-    <string-array name="stand_guide_page_content1">
-        <item>"Stare seduti non giova alla tua salute. Anche se non si riesce a ridurre il tempo che si passa seduti, alzarsi ogni tanto è una buona idea."</item>
-        <item>Questa funzione ti ricorderà di trascorrere almeno 1 minuto in piedi ogni ora. Stare in piedi 12 ore con pause ogni giorno vi aiuterà a evitare i rischi di uno stile di vita sedentario.</item>
-        <item>Tocca \"Continua\" per saperne di più e attivare questa funzionalità.</item>
-    </string-array>
-    <string-array name="stand_guide_page_content2">
-        <item>Xiaomi Health può rilevare e registrare quando sei in piedi. Puoi anche ricevere promemoria per alzarti in piedi dopo 1 ora di inattività.</item>
-        <item>Questa funzione traccia il tuo movimento e invia promemoria in base ai risultati.</item>
     </string-array>
     <string-array name="temperature_unit">
         <item>°C</item>

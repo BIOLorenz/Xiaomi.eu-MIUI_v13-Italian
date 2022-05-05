@@ -614,6 +614,7 @@
     <string name="picture_please">Più tardi…</string>
     <string name="picture_please_select">Selezionare un elemento</string>
     <string name="picture_preview">Anteprima</string>
+    <string name="picture_preview_image_num">%1$d/%2$d</string>
     <string name="picture_preview_num">Anteprima(%1$d)</string>
     <string name="picture_prompt">Avvisa</string>
     <string name="picture_prompt_content">Vuoi salvare le immagini sul telefono?</string>

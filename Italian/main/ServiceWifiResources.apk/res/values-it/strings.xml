@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Accetto</string>
+    <string name="config_wifiP2pDeviceNamePrefix">Android_</string>
     <string name="decline">Rifiuto</string>
     <string name="dlg_ok">OK</string>
     <string name="notification_channel_network_alerts">Avvisi di rete</string>

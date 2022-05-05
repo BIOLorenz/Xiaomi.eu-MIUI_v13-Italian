@@ -1106,8 +1106,8 @@
     <string name="toast_select_white_need_remove">Seleziona gli elementi da rimuovere</string>
     <string name="toast_selecte_group_restore_succeed">Immagini ripristinate</string>
     <string name="toast_uninstall_success">Disinstallazione completata</string>
-    <string name="toast_updater_close_4g_text">"Le app non verranno aggiornate utilizzando i dati mobili (4G)"</string>
-    <string name="toast_updater_open_4g_text">Le app verranno aggiornate utilizzando i dati mobili (4G)</string>
+    <string name="toast_updater_close_4g_text">"Le app non verranno aggiornate utilizzando i dati (4G)"</string>
+    <string name="toast_updater_open_4g_text">Le app verranno aggiornate utilizzando i dati (4G)</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
     <string name="total_clean">Puliti in totale: %s</string>

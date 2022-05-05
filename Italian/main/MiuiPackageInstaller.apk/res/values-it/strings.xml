@@ -397,7 +397,7 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
     <string name="mobil_net_work_warning_cancel">Annulla</string>
-    <string name="mobil_net_work_warning_msg">"Stai utilizzando i dati mobili ora. L'installazione di questa app richiede %1$s di dati mobili. Vuoi installarla comunque?"</string>
+    <string name="mobil_net_work_warning_msg">"Stai utilizzando i dati ora. L'installazione di questa app richiede %1$s di dati. Vuoi installarla comunque?"</string>
     <string name="mobil_net_work_warning_ok">Installa comunque</string>
     <string name="mobil_net_work_warning_title">Avviso utilizzo dati</string>
     <string name="monday">Lunedì</string>

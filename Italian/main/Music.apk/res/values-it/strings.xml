@@ -83,7 +83,7 @@
     <string name="already_download">Download in corso…</string>
     <string name="already_download_btn">Download in corso…</string>
     <string name="already_favorited">Già nei Preferiti</string>
-    <string name="always_use_metered">Utilizza sempre i dati mobili</string>
+    <string name="always_use_metered">Utilizza sempre i dati</string>
     <string name="app_description_content">"Musica è un'applicazione di sistema che contiene un lettore audio e consente di gestire i file audio. Sarai ancora in grado di riprodurre file audio dopo aver rimosso il collegamento della schermata iniziale."</string>
     <string name="app_description_title">Rimuovere \"Musica\" dalla schermata Home?</string>
     <string name="app_label">Download</string>
@@ -116,12 +116,12 @@
     <string name="auto_recommend">Auto (consigliato)</string>
     <string name="auto_sound_quality">Auto</string>
     <string name="auto_update">Aggiorna automaticamente</string>
-    <string name="auto_update_tip">Puoi aggiornare le app di sistema utilizzando i dati mobili. Ciò potrebbe comportare costi aggiuntivi per i dati.</string>
+    <string name="auto_update_tip">Puoi aggiornare le app di sistema utilizzando i dati. Ciò potrebbe comportare costi aggiuntivi per i dati.</string>
     <string name="autoplay_is_off">Riproduzione automatica spenta</string>
     <string name="autoplay_is_on">Riproduzione automatica attiva</string>
     <string name="available_playlist_name_format">Nuova playlist %d</string>
     <string name="avoid_to_use_traffic_summary">"Non utilizzare la rete mobile per riprodurre musica in streaming"</string>
-    <string name="avoid_to_use_traffic_title">Mostra un avviso nel caso vengano utilizzati i dati mobili per riprodurre i brani</string>
+    <string name="avoid_to_use_traffic_title">Mostra un avviso nel caso vengano utilizzati i dati per riprodurre i brani</string>
     <string name="back">Indietro</string>
     <string name="back_confirm">Tocca ancora per uscire</string>
     <string name="banner_op">Musica Mi</string>
@@ -143,6 +143,7 @@
     <string name="change_download_quality">Modifica qualità download</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="checking_new_version">Ricerca aggiornamenti…</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -377,7 +378,9 @@
     <string name="download_method">Scarica</string>
     <string name="download_no_application_title">"Impossibile aprire il file"</string>
     <string name="download_paused_in_power_save_mode">Il dispositivo è in Modalità Risparmio Energetico, download in pausa</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Download in corso…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Qualità download</string>
     <string name="download_quality_summary">Impostazioni aggiuntive per i brani scaricati</string>
     <string name="download_queued">In coda</string>
@@ -394,7 +397,7 @@
     <string name="download_toast">Utilizza la rete mobile per scaricare i brani</string>
     <string name="download_toast_with_beyond_data">Rete dati mobile in uso per il download dei brani. Limite superato di %s</string>
     <string name="download_toast_with_data">Utilizzo in corso della rete dati mobile per il download dei brani, %s rimanenti</string>
-    <string name="download_traffic_dialog_msg">Hai %s s di dati mobili. Utilizzare i dati mobili per scaricare canzoni?</string>
+    <string name="download_traffic_dialog_msg">Hai %s s di dati. Utilizzare i dati per scaricare canzoni?</string>
     <string name="download_traffic_dialog_msg_beyond">"Hai già superato il tuo limite dati di %s. Utilizzare comunque la rete dati per scaricare i brani?"</string>
     <string name="download_traffic_dialog_msg_serious">Ti restano solo %s di traffico dati. Utilizzare la rete dati mobile per scaricare i brani?</string>
     <string name="download_traffic_dialog_msg_without_data">"Stai utilizzando il traffico dati mobile per scaricare i brani. Scaricare comunque?"</string>
@@ -618,10 +621,12 @@
     <string name="hungama_category_chart">Classifiche</string>
     <string name="hungama_category_playlist">Playlist</string>
     <string name="hungama_category_video">Video</string>
+    <string name="hungama_category_vip">Pro</string>
     <string name="hungama_free_download_out_summary">"Non è possibile scaricare altre canzoni gratuitamente. Acquistare un abbonamento PRO ora?"</string>
     <string name="hungama_free_download_out_summary_toast">"Hai già scaricato %d canzoni. Acquista un abbonamento per scaricarne di più."</string>
     <string name="hungama_playlist_category">Categoria playlist</string>
     <string name="hungama_privacy_desc">Informativa sulla Privacy Hungama (opzionale)</string>
+    <string name="hungama_privacy_policy_url">http://www.hungama.com/musicapp/terms-and-conditions/</string>
     <string name="hungama_privacy_tips_content">Per accedere ai contenuti online, devi accettare l\'&lt;a href=\"/link/click\"&gt;Informativa sulla Privacy di Hungama&lt;/a&gt;.</string>
     <string name="hungama_privacy_tips_title">Informativa sulla Privacy Hungama</string>
     <string name="hungama_subscribe_message">Acquista l\'abbonamento PRO per scaricare musica in alta qualità.</string>
@@ -700,6 +705,7 @@ attendere o selezionare Musica Online."</string>
     <string name="joox_category_vip">Centro Fan</string>
     <string name="joox_download_title">Download JOOX</string>
     <string name="joox_privacy_desc">Informativa sulla privacy di JOOX (opzionale)</string>
+    <string name="joox_privacy_policy_url">https://www.joox.com/en_my/app/privacy_policy.html</string>
     <string name="joox_privacy_tips_content">Leggi e accetta l\'&lt;a href=\"/link/click\"&gt;Informativa sulla privacy di JOOX&lt;/a&gt; prima di utilizzare i servizi online.</string>
     <string name="joox_privacy_tips_title">Informativa sulla privacy di JOOX</string>
     <string name="joox_recommend_artist_title">Artisti consigliati</string>
@@ -779,15 +785,15 @@ attendere o selezionare Musica Online."</string>
     <string name="message_delete_playlist">Eliminare la playlist %s?</string>
     <string name="metered_alert">Avviso utilizzo dati</string>
     <string name="metered_alert_msg">"Lo streaming tramite rete dati cellulare può aumentare il traffico dati."</string>
-    <string name="metered_alert_msg_with_data">Hai solo %s di dati mobili rimanenti. Utilizzare i dati mobili per riprodurre musica?</string>
+    <string name="metered_alert_msg_with_data">Hai solo %s di dati rimanenti. Utilizzare i dati per riprodurre musica?</string>
     <string name="metered_allow">Riproduci</string>
     <string name="metered_beyond_alert">Utilizzo dati</string>
     <string name="metered_disallow">Non adesso</string>
-    <string name="metered_play_and_download_summary">"Non mostrare avvisi di utilizzo dei dati durante lo streaming e il download dei brani tramite dati mobili."</string>
-    <string name="metered_play_and_download_title">Streaming e download di brani tramite dati mobili</string>
+    <string name="metered_play_and_download_summary">"Non mostrare avvisi di utilizzo dei dati durante lo streaming e il download dei brani tramite dati."</string>
+    <string name="metered_play_and_download_title">Streaming e download di brani tramite dati</string>
     <string name="metered_play_toast">Streaming tramite connessione dati cellulare</string>
-    <string name="metered_play_toast_with_beyond_data">Utilizzo dei dati mobili per la riproduzione i brani. Limite superato di %s</string>
-    <string name="metered_play_toast_with_data">Utilizzo dei dati mobili per la riproduzione dei brani, %s rimanenti</string>
+    <string name="metered_play_toast_with_beyond_data">Utilizzo dei dati per la riproduzione i brani. Limite superato di %s</string>
+    <string name="metered_play_toast_with_data">Utilizzo dei dati per la riproduzione dei brani, %s rimanenti</string>
     <string name="metered_serious_alert">Dati rimanenti non sufficienti</string>
     <string name="metered_serious_alert_msg_with_beyond_data">"Hai già superato la soglia dei dati di rete mobile di %s. Utilizzare i dati di rete mobile per riprodurre i brani?"</string>
     <string name="metered_serious_alert_msg_with_data">Ti rimangono %s di dati su rete mobile. Utilizzare i dati di rete mobile per riprodurre i brani?</string>
@@ -925,7 +931,7 @@ attendere o selezionare Musica Online."</string>
     <string name="music_service">Servizio Musica</string>
     <string name="music_settings">Musica</string>
     <string name="mv_metered_play_summary">"Non mostrare avvisi sull'utilizzo dei dati"</string>
-    <string name="mv_metered_play_title">Riproduci video online utilizzando i dati mobili</string>
+    <string name="mv_metered_play_title">Riproduci video online utilizzando i dati</string>
     <string name="my_account">Account</string>
     <string name="my_music_empty">Playlist vuota</string>
     <string name="my_music_empty_goto_online">Nessun brano trovato</string>
@@ -994,7 +1000,7 @@ attendere o selezionare Musica Online."</string>
     <string name="online_apk_install_alert_continue">Riprendi</string>
     <string name="online_apk_install_alert_failed_text">"Impossibile scaricare. Riprova."</string>
     <string name="online_apk_install_alert_message">Devi scaricare Yandex.Music plug-in. Scaricare adesso?</string>
-    <string name="online_apk_install_alert_mobile_net_text">"Stai utilizzando i dati mobili. Utilizzare i dati mobili per scaricare gli elementi potrebbe generare costi aggiuntivi."</string>
+    <string name="online_apk_install_alert_mobile_net_text">"Stai utilizzando i dati. Utilizzare i dati per scaricare gli elementi potrebbe generare costi aggiuntivi."</string>
     <string name="online_apk_install_alert_note">Questo servizio è offerto da Yandex.Music</string>
     <string name="online_apk_install_alert_note_new">Il contenuto online è fornito da %s</string>
     <string name="online_apk_install_alert_pause">Pausa</string>
@@ -1005,7 +1011,7 @@ attendere o selezionare Musica Online."</string>
     <string name="online_apk_install_error_with_reason">"Installazione non riuscita (Errore %d)\""</string>
     <string name="online_apk_install_failed_with_reason" formatted="false">"Impossibile caricare i contenuti online. Tocca %s per riprovare. Codice di errore: %d."</string>
     <string name="online_apk_install_in_background">Caricamento di contenuti online in background…</string>
-    <string name="online_apk_install_network_change_paused">"Stai usando dati mobili. Per il momento il caricamento degli oggetti è in pausa. Tocca %s per visualizzare."</string>
+    <string name="online_apk_install_network_change_paused">"Stai usando dati. Per il momento il caricamento degli oggetti è in pausa. Tocca %s per visualizzare."</string>
     <string name="online_apk_install_network_error">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
     <string name="online_apk_install_tips">"È necessario scaricare il plug-in di questo fornitore di contenuti. Sarai in grado di accedere alle canzoni direttamente la prossima volta."</string>
     <string name="online_list_delete_message">Tutti i brani scaricati in questa playlist verranno eliminati dal dispositivo.</string>
@@ -1054,7 +1060,7 @@ attendere o selezionare Musica Online."</string>
     <string name="play_next">Riproduci dopo.</string>
     <string name="play_setting">Riproduzione</string>
     <string name="play_video_with_traffic">CONTINUA</string>
-    <string name="play_video_with_traffic_toast">"Stai utilizzando i dati mobili ora."</string>
+    <string name="play_video_with_traffic_toast">"Stai utilizzando i dati ora."</string>
     <string name="playlist_empty">Nessuna playlist trovata</string>
     <string name="playlist_recommend_title">Consigliato</string>
     <string name="playlist_title">Titolo playlist</string>
@@ -1078,6 +1084,7 @@ attendere o selezionare Musica Online."</string>
     <string name="privacy_authorize_revoking">Revoca autorizzazione…</string>
     <string name="privacy_desc">Informativa Privacy (obbligatorio)</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=it</string>
     <string name="privacy_request_desc"><Data>\"Musica Mi deve raccogliere le informazioni personali necessarie per fornirti servizi di streaming online. Puoi capire come gestiamo le informazioni raccolte nella nostra &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Puoi revocare il tuo consenso su Musica Mi nelle Impostazioni in qualsiasi momento.
 Leggi e accetta il nostro &lt;a href=\"%2$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare Musica Mi.
 Se non accetti di utilizzare i servizi di cui sopra, non potrai utilizzare alcune funzionalità di questa app; tuttavia, la sua funzionalità di base sarà ancora a disposizione.</Data></string>
@@ -1398,6 +1405,7 @@ E gioiscine"</string>
     <string name="upload_playlist_to_hungama_title">Sincronizza le canzoni online su Hungama per poterle ascoltare su altri dispositivi dove usi il tuo Mi Account.</string>
     <string name="upload_playlist_to_hungama_toast">Le canzoni online saranno sincronizzate con Hungama</string>
     <string name="user_agreement">Accordo utente</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=it</string>
     <string name="user_playlist_plaza">Playlist</string>
     <string name="user_privacy_dialog_negative_text">Annulla</string>
     <string name="user_privacy_dialog_positive_count_down_text">Revoca (%ss)</string>
@@ -1410,7 +1418,7 @@ E gioiscine"</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="version_info">Versione</string>
     <string name="vhigh_sound_quality">HD</string>
-    <string name="video_play_cellular">"Il tuo dispositivo non è connesso al Wi-Fi. Utilizzare i dati mobili?"</string>
+    <string name="video_play_cellular">"Il tuo dispositivo non è connesso al Wi-Fi. Utilizzare i dati?"</string>
     <string name="video_replay_btn">Riproduci nuovamente</string>
     <string name="video_retry_btn">Riprova</string>
     <string name="view_album">Visualizza album</string>
@@ -1432,6 +1440,8 @@ Size: %2$s"</string>
 Dimensione : %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">Aggiornamento %1$s !</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spazio insufficientee, controlla la scheda SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yesterday">Ieri</string>
     <string name="you_can_switch_mode_in_settings">E\' possibile passare da una modalità all\'altra dalle impostazioni</string>
     <string name="you_may_like">Potrebbe piacerti anche</string>

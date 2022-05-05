@@ -131,6 +131,7 @@
     <string name="change_wallpaper">Sfondo</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="check_has_new_version">Aggiornamento disponibile</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -1001,6 +1002,7 @@ mm"</string>
     <string name="resource_restore">Ripristina</string>
     <string name="resource_restore_fail">"Impossibile ripristinare"</string>
     <string name="resource_restore_succ">Ripristino completato</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
     <string name="resource_ringtone_default">Suoneria</string>
     <string name="resource_ringtone_playing_error">Errore</string>
     <string name="resource_ringtone_volume_mute">La suoneria è silenziata</string>
@@ -1408,7 +1410,7 @@ mm"</string>
     <string name="video_ad_uncomplete_tip_cancel">Annulla</string>
     <string name="video_ad_uncomplete_tip_continue">Continua la visione</string>
     <string name="video_audio_apply_success">Configurazione video con suono riuscita</string>
-    <string name="video_data_tips_message">L\'utilizzo di dati mobili può comportare costi aggiuntivi. Continuare comunque?</string>
+    <string name="video_data_tips_message">L\'utilizzo di dati può comportare costi aggiuntivi. Continuare comunque?</string>
     <string name="video_data_tips_title">Avviso utilizzo dati</string>
     <string name="video_not_support_title">Il video è troppo grande</string>
     <string name="video_silence_apply_success">Configurazione video senza suono riuscita</string>
@@ -1465,6 +1467,7 @@ mm"</string>
     <string name="wallpaper_setting_find_more_text">Altri sfondi online</string>
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Schermata Home</string>
     <string name="wallpaper_setting_library">Raccolta</string>
+    <string name="wallpaper_setting_live">Live</string>
     <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Schemata di blocco</string>
     <string name="wallpaper_setting_online_wallpaper_actionbar_title">Sfondi online</string>
     <string name="wallpaper_setting_online_wallpaper_none_title">Scopri altri sfondi</string>
@@ -1488,11 +1491,11 @@ mm"</string>
     <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">Annulla</string>
     <string name="wifi_check_confirm">Conferma</string>
-    <string name="wifi_check_message">Utilizzare i dati mobili per scaricare gli aggiornamenti?</string>
+    <string name="wifi_check_message">Utilizzare i dati per scaricare gli aggiornamenti?</string>
     <string name="wifi_check_tip">"Non mostrare più"</string>
     <string name="xiaoai_speech_not_installed_download">Scarica</string>
-    <string name="xiaoai_speech_not_installed_message">Per continuare scarica ed installa l\'assistente vocale Mi AI.</string>
-    <string name="xiaoai_speech_not_installed_title">"L'assistente vocale Mi AI non è installato."</string>
+    <string name="xiaoai_speech_not_installed_message">Per continuare scarica ed installa l\'assistente vocale Mi IA.</string>
+    <string name="xiaoai_speech_not_installed_title">"L'assistente vocale Mi IA non è installato."</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Non adesso</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>

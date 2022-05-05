@@ -121,8 +121,8 @@
     <string name="cta_v2_app_purpose">mostra direzioni, coordinate, pressione atmosferica e altitudine attuale</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
-    <string name="dialog_body_no_network">Connettersi alla rete Wi-Fi o attivare i dati mobili.</string>
-    <string name="dialog_body_no_network_china">Connettersi alla rete Wi-Fi o attivare i dati mobili.</string>
+    <string name="dialog_body_no_network">Connettersi alla rete Wi-Fi o attivare i dati.</string>
+    <string name="dialog_body_no_network_china">Connettersi alla rete Wi-Fi o attivare i dati.</string>
     <string name="dialog_calibrat_altitude">Calibrazione…</string>
     <string name="dialog_title_no_network">"Impossibile connettersi alla rete"</string>
     <string name="direction_north_east">NO</string>

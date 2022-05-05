@@ -57,6 +57,7 @@
     <string name="car_ui_toolbar_nav_icon_content_description">Indietro</string>
     <string name="change_device_launcher">Cambia launcher del dispositivo</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="close_list">Chiudi elenco</string>
     <string name="collapse">Riduci</string>
     <string name="comp_profile_benefits_description">Utilizzando un profilo di lavoro, puoi mantenere le tue applicazioni lavorative in un unico posto</string>

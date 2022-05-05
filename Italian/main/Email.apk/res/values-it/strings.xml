@@ -30,6 +30,7 @@
     <string name="about_lasted_version">Non ci sono nuove versioni</string>
     <string name="account_add_other_sub_des">Altri account</string>
     <string name="account_add_title">Seleziona servizio email</string>
+    <string name="account_cache_provider">Fornitore Cache Account</string>
     <string name="account_change">Cambia account</string>
     <string name="account_child_dialog_neg_text">Esci</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
@@ -89,6 +90,7 @@
     <string name="account_settings_send_title">Email in uscita</string>
     <string name="account_settings_server_summary">Cambiare nomi utente, password e altro</string>
     <string name="account_settings_servers">Impostazioni server</string>
+    <string name="account_settings_smime_title">S/MIME (Secure/Multipurpose Internet Mail Extensions)</string>
     <string name="account_settings_summary">Frequenza sincronizzazione, notifiche e altro.</string>
     <string name="account_settings_sync_calendar_enable">Sincronizza calendario</string>
     <string name="account_settings_sync_calendar_summary">Sincronizza il calendario per questo account</string>
@@ -150,6 +152,7 @@
     <string name="account_setup_incoming_port_label">Porta</string>
     <string name="account_setup_incoming_security_label">Tipo di sicurezza</string>
     <string name="account_setup_incoming_security_none_label">Nessuno</string>
+    <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
     <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (accetta tutti i certificati)</string>
     <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (accetta tutti i certificati)</string>
     <string name="account_setup_incoming_username_label">Nome utente</string>
@@ -180,6 +183,7 @@
     <string name="account_setup_outgoing_smtp_server_label">Server SMTP</string>
     <string name="account_setup_server_acc_manager_title">Account</string>
     <string name="account_setup_username_password_toast">Digita un indirizzo email e una password validi.</string>
+    <string name="account_smime">S/MIME</string>
     <string name="account_smime_cert_title">Certificato</string>
     <string name="account_smime_encrypt">Cifratura S/MIME</string>
     <string name="account_smime_install_cert">Aggiungi certificato</string>
@@ -211,6 +215,7 @@
     <string name="app_name">E-Mail</string>
     <string name="app_uninstall_content">"Posta è un'applicazione di sistema. Non sarai in grado di gestire i tuoi account email, inviare e ricevere e-mail o sincronizzare gli eventi dopo aver disinstallato l'app."</string>
     <string name="app_uninstall_title">Disinstallare \"Posta\"?</string>
+    <string name="application_mime_type">application/email-ls</string>
     <string name="appraise_des">Lavoriamo duramente allo sviluppo dei prodotti, solo per soddisfarti. Supportaci lasciando un commento.</string>
     <string name="appraise_good">Sì</string>
     <string name="appraise_ignore">"Valutazione temporanea"</string>
@@ -294,6 +299,7 @@
     <string name="cancel_action">Annulla</string>
     <string name="cancel_pop3_attchemt_downloading">"L'annullamento di allegati in download non è disponibile per gli account di tipo POP3."</string>
     <string name="cant_move_or_change_labels">"Impossibile spostare perché la selezione contiene account multipli."</string>
+    <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
     <string name="cc_bcc">Cc/Ccn</string>
     <string name="certificate_add_failed">"Impossibile aggiungere il certificato \"%s\""</string>
     <string name="certificate_added">Aggiunto il certificato \"%s\" correttamente</string>
@@ -310,9 +316,11 @@
     <string name="changepw_dialog_auth_tips">Reinserisci il codice di autorizzazione per %s</string>
     <string name="changepw_dialog_tips">Inserisci di nuovo la password per %s</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="chat_item_msg_people_unit">persone</string>
     <string name="chat_item_msg_user_etc">…</string>
     <string name="check_setup_data">"Validazione impostazioni server…"</string>
+    <string name="child_policy_url">https://www.wps.cn/privacy/full_kids</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -394,6 +402,7 @@
     <string name="click_to_reload">Tocca lo schermo per ricaricare</string>
     <string name="close">Chiudi</string>
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
+    <string name="colon">:</string>
     <string name="compose">Scrivi</string>
     <string name="compose_encrypt_lock_description">Crittografia</string>
     <string name="compose_encrypt_unlock_description">Decripta</string>
@@ -763,6 +772,7 @@
     <string name="http_auth_dialog_password">Password</string>
     <string name="http_auth_dialog_title">Inserisci le tue credenziali</string>
     <string name="http_auth_dialog_username">Nome utente</string>
+    <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">La password per il server di posta in entrata non è corretta</string>
     <string name="import_button_text">Importa</string>
     <string name="import_from_other_account">Importa da altri account</string>
@@ -845,6 +855,13 @@ Ciao, la password dell'applicazione è attivata? Se attiva, vai al sito ufficial
     <string name="mailbox_name_display_starred">Speciali</string>
     <string name="mailbox_name_display_trash">Cestino</string>
     <string name="mailbox_name_display_unread">Non letta</string>
+    <string name="mailbox_name_server_all_unread">Non letta</string>
+    <string name="mailbox_name_server_drafts">Bozze</string>
+    <string name="mailbox_name_server_inbox">In arrivo</string>
+    <string name="mailbox_name_server_junk">Indesiderata</string>
+    <string name="mailbox_name_server_sent">Inviato</string>
+    <string name="mailbox_name_server_starred">Speciali</string>
+    <string name="mailbox_name_server_trash">Cestino</string>
     <string name="mailbox_setting_preference_sync_summary_close">Sync: Spenta</string>
     <string name="mailbox_setting_preference_sync_summary_open">Sync: Accesa</string>
     <string name="mailbox_settings_activity_title">Impostazioni di sincronizzazione</string>
@@ -922,6 +939,7 @@ Ciao, la password dell'applicazione è attivata? Se attiva, vai al sito ufficial
     <string name="message_invite_tentative">Forse</string>
     <string name="message_saved">Messaggio salvato come bozza.</string>
     <string name="message_view_attachment_background_load">Prima dell\'invio verranno scaricati uno o più allegati del messaggio inoltrato.</string>
+    <string name="mi_slide_menu">Barra laterale</string>
     <string name="mibill_privacy_policy_button1">Più tardi</string>
     <string name="mibill_privacy_policy_button2">Accetto</string>
     <string name="mibill_privacy_policy_description">Mi Wallet analizzerà il contenuto delle tue email e recupererà tutti i documenti relativi alle carte di credito. Questo servizio è disattivato di default per gli account aziendali.</string>
@@ -1171,6 +1189,7 @@ Prova a passare ad un diverso account email."</string>
     <string name="permission_write_external_storage_title">Accesso e salvataggio di foto e file sul dispositivo</string>
     <string name="personal_data_collection_summary">Quando lo switch  è abilitato, l\'utente accetta la raccolta di dati personali. Puoi revocare la tua autorizzazione ed eliminare i tuoi dati dai nostri server in qualsiasi momento.</string>
     <string name="personal_data_collection_title">Raccolta di dati personali.</string>
+    <string name="photo_view_count">%1$d/%2$d</string>
     <string name="pl_select_age">Perfavore seleziona un eta.</string>
     <string name="pls_parse_bill_discribe">"Analizza ricevute e viaggi nelle tue email
 perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
@@ -1206,8 +1225,12 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
     <string name="print_scheduler_title">Stampa tutti gli scheduler</string>
     <string name="privacy_des">"I log contengono informazioni di debug del client di posta elettronica e delle informazioni sul dispositivo. Queste informazioni vengono utilizzate per individuare i problemi più velocemente. Toccando \"%1$s\", accetti il nostro \"%2$s\"."</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
+    <string name="privacy_policy_url">https://miui.wpsmail.net/policy.html</string>
     <string name="privacy_setting_agree">Accetto</string>
     <string name="prompt_title">Avvisa</string>
+    <string name="protocol_imap">imap</string>
+    <string name="protocol_legacy_imap">imap</string>
+    <string name="protocol_pop3">pop3</string>
     <string name="protocol_setting_toast">Tocca l\'angolo in alto a destra per entrare nelle impostazioni dopo aver accettato</string>
     <string name="pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="push">Notifiche push</string>
@@ -1246,6 +1269,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
     <string name="quick_reply_dialog_title">Scegli</string>
     <string name="quick_reply_expend">Altro</string>
     <string name="quick_responses_empty_view">Nessuna risposta rapida</string>
+    <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
     <string name="quote_divider_1">-------- Messaggio originale --------</string>
     <string name="quote_divider_11">----- Originale -----</string>
     <string name="quote_divider_12"> Messaggio originale </string>
@@ -1262,6 +1286,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
     <string name="quote_divider_iphone_en">Inviato dal mio iPhone</string>
     <string name="quote_divider_iphone_fwd_en">Inizio messaggio inoltrato:</string>
     <string name="quote_divider_iphone_fwd_zh">Messaggio inoltrato:</string>
+    <string name="quote_divider_ks_web">________________________________________</string>
     <string name="quote_divider_qq_en">------------------ Originale ------------------</string>
     <string name="quote_divider_qq_zh">------------------ Messaggio originale ------------------</string>
     <string name="quoted_text">Includi testo citato</string>
@@ -1290,6 +1315,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="reply_add_bodycontent">Aggiungere un messaggio di risposta rapida al contenuto?</string>
     <string name="reply_all">Rispondi a tutti</string>
     <string name="reply_attribution">%2$s ha scritto su %1$s:</string>
+    <string name="reply_subject_label">Re:</string>
     <string name="report_phishing">Segnala come phishing</string>
     <string name="report_spam">Segnala spam</string>
     <string name="request_copy_db_to_disk">L\'app Email richiede che il tuo database venga esportato in file</string>
@@ -1431,6 +1457,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="special_text_3">Ha scritto:</string>
     <string name="special_text_4">Ha scritto:</string>
     <string name="special_text_5">ha scritto:</string>
+    <string name="special_text_colon_en">:</string>
     <string name="special_text_sender_en">mittente</string>
     <string name="str_select_all">Seleziona tutto</string>
     <string name="str_select_none">Deseleziona tutto</string>
@@ -1619,7 +1646,7 @@ Tocca \"<b>Sincronizza adesso</b> per sincronizzare le mail una volta, o <b>Modi
     <string name="xiaomi_market_sdk_update_dialog_title">%s nuova versione</string>
     <string name="yes">Sì</string>
     <string name="yesterday">Ieri</string>
-    <string name="you_are_in_mobile_network">Utilizzare i dati mobili per caricare i log?</string>
+    <string name="you_are_in_mobile_network">Utilizzare i dati per caricare i log?</string>
     <string name="youfuli">Promozione</string>
     <string name="zip_viewer_no_file">Nessun file</string>
 </resources>

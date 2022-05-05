@@ -41,6 +41,7 @@ dd/MM"</string>
     <string name="background_icon">Sfondo</string>
     <string name="bottomsheet_action_expand_halfway">Espandi a metà</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>

@@ -155,6 +155,7 @@
     <string name="change_activate_email">Cambia indirizzo email</string>
     <string name="change_password">Cambia password</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="check_nothing">"Non hai selezionato alcun elemento"</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -557,6 +558,8 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_gallery_video_adjust_hint">Sono supportati solo video a 960fps</string>
     <string name="galleryplus_gallery_video_adjust_text">Correggi</string>
     <string name="galleryplus_gallery_video_default_music_text">Auto</string>
+    <string name="galleryplus_gallery_video_icon_is_8k">8K</string>
+    <string name="galleryplus_gallery_video_icon_is_record_log">LOG</string>
     <string name="galleryplus_gallery_video_item3_default_text">Emozioni</string>
     <string name="galleryplus_gallery_video_item4_default_text">Alba</string>
     <string name="galleryplus_gallery_video_item5_default_text">Assistente</string>
@@ -570,9 +573,9 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_gallery_view_tags">Mostra segnalini</string>
     <string name="galleryplus_is_higher_definition">Anteprima HD</string>
     <string name="galleryplus_network_connect_check">"Impossibile connettersi alla rete"</string>
-    <string name="galleryplus_network_connect_confirm">Connettiti al Wi-Fi o attiva i dati mobili nelle impostazioni di rete.</string>
+    <string name="galleryplus_network_connect_confirm">Connettiti al Wi-Fi o attiva i dati nelle impostazioni di rete.</string>
     <string name="galleryplus_network_error">"Impossibile connettersi alla rete"</string>
-    <string name="galleryplus_network_not_wifi">L\'utilizzo di dati mobili per lo streaming video può generare costi aggiuntivi</string>
+    <string name="galleryplus_network_not_wifi">L\'utilizzo di dati per lo streaming video può generare costi aggiuntivi</string>
     <string name="galleryplus_next_step">Successivo</string>
     <string name="galleryplus_online_cta">Mi Video ha bisogno di connettersi a internet per funzionare normalmente. Accetti?</string>
     <string name="galleryplus_online_cta_agree">Accetto</string>
@@ -988,7 +991,7 @@ per i video"</string>
     <string name="no_recommend_data">Nessun video consigliato</string>
     <string name="no_subscriptions">Nessun elemento trovato</string>
     <string name="noon">Mezzogiorno</string>
-    <string name="not_connect_wifi_tip">Il download di articoli tramite dati mobili potrebbe generare costi aggiuntivi. Scaricare comunque?</string>
+    <string name="not_connect_wifi_tip">Il download di articoli tramite dati potrebbe generare costi aggiuntivi. Scaricare comunque?</string>
     <string name="not_set">Non impostato</string>
     <string name="not_show">"Non mostrare più"</string>
     <string name="not_support_share">"Impossibile condividere questo elemento"</string>
@@ -1012,6 +1015,7 @@ per i video"</string>
     <string name="offline_opt_in_decline">Non ora</string>
     <string name="ok">OK</string>
     <string name="on_tip_firework_recommend">"Riceverai consigli di contenuti personalizzati da Fireworks"</string>
+    <string name="online_play_hint">Per esempio: http://www.example.com/video.mp4</string>
     <string name="online_play_title">Perfavore inserisic il link url del calendario</string>
     <string name="open_settings">Impostazioni</string>
     <string name="order_recently_subscribe">Iscrizioni recenti</string>
@@ -1492,6 +1496,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="source">"Sorgente: "</string>
     <string name="special_type_8k">IA 8K</string>
+    <string name="special_type_log">LOG</string>
     <string name="srl_component_falsify" formatted="false">"%s falsifica area,
  Rappresenta l'altezza[%.1fdp] di trascinamento al tempo di esecuzione,
  Non visualizza nulla."</string>

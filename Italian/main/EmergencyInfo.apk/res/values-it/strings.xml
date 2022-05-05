@@ -245,6 +245,7 @@ Selezione"</string>
     <string name="category_work">Di lavoro</string>
     <string name="cell_data_off_content_description">Dati mobili disattivati</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="charge_length_format">%1$s fa</string>
     <string name="choose_profile">Scegli profilo</string>
     <string name="clear">Cancella</string>
@@ -420,7 +421,7 @@ Chiunque può leggere queste informazioni dalla schermata di blocco e chiamare i
     <string name="medications">Farmaci</string>
     <string name="medications_hint">Ad esempio, aspirina</string>
     <string name="mobile_data_always_on">Dati mobili sempre attivi</string>
-    <string name="mobile_data_always_on_summary">Mantieni sempre i dati mobili attivi, anche se il Wi‑Fi è attivo (per un passaggio fra reti rapido)</string>
+    <string name="mobile_data_always_on_summary">Mantieni sempre i dati attivi, anche se il Wi‑Fi è attivo (per un passaggio fra reti rapido)</string>
     <string name="mock_location_app">Seleziona app di posizione fittizia</string>
     <string name="mock_location_app_not_set">Nessuna app di posizione fittizia impostata</string>
     <string name="mock_location_app_set">App di posizione fittizia: %1$s</string>

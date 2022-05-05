@@ -277,9 +277,13 @@
     <string name="refocus_dynamic_xingxing">Stelle</string>
     <string name="refocus_dynamic_xinxing">Cuori</string>
     <string name="refocus_dynamic_yuanxing">Cerchi</string>
+    <string name="refocus_movie_banlan">Motley</string>
     <string name="refocus_movie_caihong">Arcobaleno</string>
     <string name="refocus_movie_lanshan">Decadenza</string>
     <string name="refocus_movie_meiying">Fantasma</string>
+    <string name="refocus_movie_mengjing">Dreamland</string>
+    <string name="refocus_movie_niying">Neon</string>
+    <string name="refocus_movie_xuanying">Beams</string>
     <string name="refocus_movie_yanhong">Scarlatto</string>
     <string name="refocus_none">Nessuno</string>
     <string name="refocus_photo_not_support">"Impossibile applicare sfocatura a questa foto"</string>
@@ -287,6 +291,7 @@
     <string name="refocus_relighting_bodian">Onde</string>
     <string name="refocus_relighting_caihong">Arcobaleno</string>
     <string name="refocus_relighting_dianying">Film</string>
+    <string name="refocus_relighting_sahongjie">Holi</string>
     <string name="refocus_relighting_shuye">Foglie</string>
     <string name="refocus_relighting_toast">Muovi il cerchio per modificare l\'angolo di illuminazione</string>
     <string name="refocus_relighting_wutai">Fase</string>

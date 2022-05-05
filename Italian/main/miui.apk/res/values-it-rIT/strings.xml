@@ -117,6 +117,7 @@
     <string name="country_name_kg">Kg</string>
     <string name="country_name_km">Km</string>
     <string name="country_name_mm">MM</string>
+    <string name="country_name_mt">MT</string>
     <string name="country_name_ne">NO</string>
     <string name="country_name_nl">N</string>
     <string name="country_name_se">S-E</string>
@@ -204,7 +205,7 @@
     <string name="im">Chat</string>
     <string name="immersion_button_close_description">Chiudi</string>
     <string name="instruction">Informazioni importanti sulla sicurezza</string>
-    <string name="mobile_data_consume">Il download degli elementi richiederà l\'utilizzo di %1$s MB di dati mobili. Scaricare comunque?</string>
+    <string name="mobile_data_consume">Il download degli elementi richiederà l\'utilizzo di %1$s MB di dati. Scaricare comunque?</string>
     <string name="mobile_data_remind">Avviso sull\'utilizzo dei dati</string>
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>

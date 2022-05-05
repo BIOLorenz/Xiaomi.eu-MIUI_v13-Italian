@@ -157,7 +157,7 @@
     <string name="clear_old_task_failed">"Impossibile rimuovere le vecchie attività"</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="close">Chiudi</string>
-    <string name="close_cellular_summary">Il tuo dispositivo sta utilizzando i dati mobili a causa di restrizioni del sistema. Disattiva i dati mobili e connettiti nuovamente al nuovo dispositivo.</string>
+    <string name="close_cellular_summary">Il tuo dispositivo sta utilizzando i dati a causa di restrizioni del sistema. Disattiva i dati e connettiti nuovamente al nuovo dispositivo.</string>
     <string name="close_cellular_title">"Connessione fallita"</string>
     <string name="close_twice_auth_btn">Vicino all\'autenticazione in due fasi</string>
     <string name="close_twice_auth_note">"Nota:
@@ -377,7 +377,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="icloud_how_to_backup_tip_steps_two">"2. Il tuo ID Apple e la password saranno utilizzati solo per l'accesso. Non saranno memorizzati o registrati da Mi Mover."</string>
     <string name="icloud_login_title">Login iCloud</string>
     <string name="icloud_need_sync">Seleziona gli elementi da importare</string>
-    <string name="icloud_need_traffic_message">"Non sei connesso al Wi-Fi. Usare i dati mobili per importare elementi da iCloud?"</string>
+    <string name="icloud_need_traffic_message">"Non sei connesso al Wi-Fi. Usare i dati per importare elementi da iCloud?"</string>
     <string name="icloud_need_traffic_title">Utilizzo dati rete mobile</string>
     <string name="icloud_need_wifi_message">"Non sei connesso ad una rete Wi-Fi al momento. Per importare dati da iCloud, connettiti ad una rete Wi-Fi."</string>
     <string name="icloud_need_wifi_new_message">Connettiti al Wi-Fi per poter importare elementi da un iPhone.</string>
@@ -386,7 +386,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="icloud_new_connect_wifi">Connetti</string>
     <string name="icloud_signin_fail">"Impossibile accedere"</string>
     <string name="icloud_signin_fail_message">Il tuo Apple ID è stato bloccato per motivi di sicurezza. Vai su iforgot.apple.com e segui le istruzioni.</string>
-    <string name="icloud_start_now">Utilizza dati mobili</string>
+    <string name="icloud_start_now">Utilizza dati</string>
     <string name="icloud_verify_tips">Tocca Consenti sul tuo dispositivo iOS e inserisci il codice che appare qui.</string>
     <string name="idm_discovery_positive_text">Trasferisci</string>
     <string name="idm_discovery_summary">"Sembra che tu stia attivando un nuovo dispositivo. Trasferire gli elementi da questo dispositivo a quello nuovo?"</string>

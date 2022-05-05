@@ -198,6 +198,7 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="accessibility_system_action_power_dialog_label">Finestra di dialogo Alimentazione</string>
     <string name="accessibility_system_action_quick_settings_label">Impostazioni rapide</string>
     <string name="accessibility_system_action_recents_label">App recenti</string>
+    <string name="accessibility_system_action_screenshot_label">Screenshot</string>
     <string name="accessibility_uncheck_legacy_item_warning">Il servizio %s è stato disattivato</string>
     <string name="action_bar_home_description">Vai alla home page</string>
     <string name="action_bar_up_description">Vai in alto</string>
@@ -402,9 +403,13 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="common_name">Nome comune:</string>
     <string name="condition_provider_service_binding_label">Provider condizioni</string>
     <string name="conference_call">Audioconferenza</string>
+    <string name="config_UsbDeviceConnectionHandling_component">\@null</string>
+    <string name="config_activityRecognitionHardwarePackageName">\@null</string>
     <string name="config_bodyFontFamily">sans-serif</string>
     <string name="config_bodyFontFamilyMedium">sans-serif-medium</string>
     <string name="config_default_dns_server">1.1.1.1</string>
+    <string name="config_geofenceProviderPackageName">\@null</string>
+    <string name="config_iccHotswapPromptForRestartDialogComponent">\@null</string>
     <string name="config_icon_mask">M96.4286 62.2772C96.4286 72.1118 96.4286 77.029 94.7547 82.3225C92.6512 88.1016 88.0988 92.654 82.3196 94.7576C77.6553 96.2326 73.278 96.4076 65.575 96.4284H50H34.425C26.722 96.4076 22.3446 96.2326 17.6803 94.7576C11.9012 92.654 7.34879 88.1016 5.24522 82.3225C3.57141 77.029 3.57141 72.1118 3.57141 62.2772V49.9999V37.7225C3.57141 27.888 3.57141 22.9707 5.24522 17.6772C7.34879 11.8981 11.9012 7.34569 17.6803 5.24212C22.3446 3.76712 26.722 3.59212 34.425 3.57129H50H65.575C73.278 3.59212 77.6553 3.76712 82.3196 5.24212C88.0988 7.34569 92.6512 11.8981 94.7547 17.6772C96.4286 22.9707 96.4286 27.888 96.4286 37.7225V49.9999V62.2772Z</string>
     <string name="config_secondaryHomePackage">com.android.launcher3</string>
     <string name="config_systemGallery">com.android.gallery3d</string>
@@ -433,11 +438,11 @@ utilizzando %s"</string>
     <string name="data_saver_enable_title">Attivare Risparmio dati?</string>
     <string name="data_usage_limit_body">Dati sospesi per il resto del ciclo</string>
     <string name="data_usage_limit_snoozed_body">"Hai superato di %s il limite impostato"</string>
-    <string name="data_usage_mobile_limit_snoozed_title">Limite di dati mobili superato</string>
-    <string name="data_usage_mobile_limit_title">Limite dati mobili raggiunto</string>
+    <string name="data_usage_mobile_limit_snoozed_title">Limite di dati superato</string>
+    <string name="data_usage_mobile_limit_title">Limite dati raggiunto</string>
     <string name="data_usage_rapid_app_body">%s ha usato più dati del solito</string>
     <string name="data_usage_rapid_body">Le tue app hanno usato più dati del solito</string>
-    <string name="data_usage_rapid_title">Utilizzo elevato di dati mobili</string>
+    <string name="data_usage_rapid_title">Utilizzo elevato di dati</string>
     <string name="data_usage_restricted_body">Tocca per rimuovere le limitazioni.</string>
     <string name="data_usage_restricted_title">Dati in background limitati</string>
     <string name="data_usage_warning_body">"Hai usato %s di dati"</string>
@@ -643,6 +648,7 @@ Per eventuali domande, contatta l'amministratore della tua organizzazione."</str
     <string name="fingerprint_acquired_too_fast">Movimento del dito troppo rapido. Riprova.</string>
     <string name="fingerprint_acquired_too_slow">Movimento del dito troppo lento. Riprova.</string>
     <string name="fingerprint_acquired_try_adjusting">Prova a regolare</string>
+    <string name="fingerprint_app_setting_name">Utilizza impronta</string>
     <string name="fingerprint_authenticated">Impronta autenticata</string>
     <string name="fingerprint_dialog_default_subtitle">Usa l\'impronta digitale per continuare</string>
     <string name="fingerprint_error_canceled">Operazione associata all\'impronta annullata.</string>
@@ -705,6 +711,7 @@ Questo di solito spegne lo schermo."</string>
     <string name="global_action_power_off">Spegni</string>
     <string name="global_action_power_options">Spegnimento/Riavvio</string>
     <string name="global_action_restart">Riavvia</string>
+    <string name="global_action_screenshot">Screenshot</string>
     <string name="global_action_settings">Impostazioni</string>
     <string name="global_action_silent_mode_off_status">Audio attivo</string>
     <string name="global_action_silent_mode_on_status">Audio non attivo</string>
@@ -868,6 +875,7 @@ Visita \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Rimuovi</string>
     <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">Sblocco scheda SIM…</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Hai digitato la tua password %1$d volte in modo errato. 
 
 Riprova tra %2$d secondi."</string>
@@ -1195,7 +1203,7 @@ Le notifiche avanzate possono accedere al contenuto delle notifiche, comprese le
     <string name="notification_channel_emergency_callback">Modalità di richiamata di emergenza</string>
     <string name="notification_channel_foreground_service">App che consumano la batteria</string>
     <string name="notification_channel_heavy_weight_app">App in esecuzione</string>
-    <string name="notification_channel_mobile_data_status">Stato dati mobili</string>
+    <string name="notification_channel_mobile_data_status">Stato dati</string>
     <string name="notification_channel_network_alert">Avvisi</string>
     <string name="notification_channel_network_alerts">Avvisi di rete</string>
     <string name="notification_channel_network_available">Rete disponibile</string>
@@ -1831,6 +1839,8 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="ssl_certificate">Certificato di sicurezza</string>
     <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
     <string name="status_bar_airplane">aereo</string>
+    <string name="status_bar_managed_profile">ime</string>
+    <string name="status_bar_mute">silenzioso</string>
     <string name="status_communication_speaker_summary">Una chiamata in vivavoce è in corso. L\'audio continuerà ad essere riprodotto attraverso l\'altoparlante quando le cuffie sono collegate.</string>
     <string name="status_communication_summary">Una chiamata è in corso. È possibile regolare solo il volume delle chiamate.</string>
     <string name="stk_cc_ss_to_dial">Richiesta SS modificata in chiamata normale</string>
@@ -2054,6 +2064,7 @@ Vuoi chiuderla?"</string>
     <string name="zen_mode_feature_name">Non disturbare</string>
     <string name="zen_mode_forever">Fino alla disattivazione</string>
     <string name="zen_mode_forever_dnd">Fino alla disattivazione di Non disturbare</string>
+    <string name="zen_mode_rule_name_combination">%1$s/%2$s</string>
     <string name="zen_mode_until">Fino a %1$s</string>
     <string name="zen_mode_until_next_day">Fino alle %1$s</string>
     <string name="zen_upgrade_notification_content">"Tocca per controllare le notifiche bloccate."</string>
