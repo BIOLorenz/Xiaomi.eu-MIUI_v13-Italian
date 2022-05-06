@@ -1608,14 +1608,10 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_iso_entry_iso800">800</string>
     <string name="pref_camera_iso_title">ISO</string>
     <string name="pref_camera_iso_title_abbr">ISO</string>
-    <string name="pref_camera_iso_value_iso1600">1600</string>
-    <string name="pref_camera_iso_value_iso3200">3200</string>
-    <string name="pref_camera_iso_value_iso800">800</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_low">Bassa</string>
     <string name="pref_camera_jpegquality_entry_normal">Normale</string>
     <string name="pref_camera_jpegquality_title">Qualità</string>
-    <string name="pref_camera_jpegquality_value_normal">normale</string>
     <string name="pref_camera_live_sticker_internal_title">Strumenti magici</string>
     <string name="pref_camera_long_press_shutter_feature_title">Tieni premuto il tasto di scatto</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Scatto continuo</string>

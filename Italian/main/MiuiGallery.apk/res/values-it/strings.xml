@@ -921,7 +921,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="face_name_edit">Modifica</string>
     <string name="face_name_input">Inserisci il nome</string>
     <string name="face_recommend">Consigliati</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">"Operazione fallita"</string>
     <string name="fail_to_pick_email">Email selezionata non valida</string>
     <string name="fail_to_sync_album">"Impossibile sincronizzare l'album con il server. Verifica la connessione di rete."</string>

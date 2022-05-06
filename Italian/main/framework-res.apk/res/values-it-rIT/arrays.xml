@@ -29,15 +29,6 @@
     <item>com.android.settings</item>
     <item>com.android.bluetooth</item>
   </string-array>
-  <string-array name="config_globalActionsList">
-    <item>emergency</item>
-    <item>lockdown</item>
-    <item>potenza</item>
-    <item>restart</item>
-    <item>logout</item>
-    <item>screenshot</item>
-    <item>bugreport</item>
-  </string-array>
   <string-array name="config_miuiNonBlockableNotificationPackages">
     <item>android</item>
     <item>com.android.incallui</item>
@@ -52,41 +43,6 @@
     <item>com.android.phone:demo_Version</item>
     <item>com.miui.securitycore</item>
     <item>com.android.nfc:tag_dispatch</item>
-  </string-array>
-  <string-array name="config_statusBarIcons">
-    <item>micphone</item>
-    <item>headset</item>
-    <item>mikey</item>
-    <item>call_record</item>
-    <item>privacy_mode</item>
-    <item>ble_unlock_mode</item>
-    <item>quiet</item>
-    <item>gps</item>
-    <item>missed_call</item>
-    <item>ime</item>
-    <item>ime</item>
-    <item>sync_failing</item>
-    <item>sync_active</item>
-    <item>cast</item>
-    <item>location</item>
-    <item>bluetooth</item>
-    <item>bluetooth_handsfree_battery</item>
-    <item>nfc</item>
-    <item>tty</item>
-    <item>speakerphone</item>
-    <item>zen</item>
-    <item>silenzioso</item>
-    <item>volume</item>
-    <item>wifi</item>
-    <item>wimax</item>
-    <item>cdma_eri</item>
-    <item>data_connection</item>
-    <item>phone_evdo_signal</item>
-    <item>phone_signal</item>
-    <item>battery</item>
-    <item>alarm_clock</item>
-    <item>secure</item>
-    <item>clock</item>
   </string-array>
   <string-array name="config_udfps_enroll_stage_thresholds">
     <item>0.25</item>
