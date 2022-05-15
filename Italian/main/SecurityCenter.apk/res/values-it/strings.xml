@@ -581,7 +581,7 @@
     <string name="app_right">Produzione ufficiale Xiaomi</string>
     <string name="app_running_tip_dialog_negative">Annulla</string>
     <string name="app_running_tip_dialog_positive">OK</string>
-    <string name="app_running_tip_dialog_text">Esci da %1$s per impedirgli di funzionare in background. Questo velocizzerà il tuo dispositivo e ridurrà il consumo energetico.</string>
+    <string name="app_running_tip_dialog_text">Esci da questa app per impedirgli di funzionare in background. Questo velocizzerà il tuo dispositivo e ridurrà il consumo energetico.</string>
     <string name="app_running_tip_dialog_title">Esci dall\'app</string>
     <string name="app_running_tip_uninstall">Disinstalla quest\'app</string>
     <string name="app_settings_link">Impostazioni aggiuntive nell\'app</string>
@@ -847,7 +847,7 @@
     <string name="banner_red_money_assist_button">Attiva</string>
     <string name="banner_red_money_assist_summary">Apri le buste rosse più velocemente</string>
     <string name="battery_and_property">Batteria</string>
-    <string name="battery_can_use_time">%d%% rimanente</string>
+    <string name="battery_can_use_time">%s rimanente</string>
     <string name="battery_capacity_title">Capacità</string>
     <string name="battery_charge_estimating">Calcolo…</string>
     <string name="battery_charge_full">Caricato</string>
@@ -2597,7 +2597,7 @@ dall'operatore"</string>
     <string name="menu_summary_optimize_manage_1">Rendi il tuo dispositivo più veloce del %d%%</string>
     <string name="menu_summary_power_manager">Il risparmio energetico ti fornirà più tempo tra una ricarica e l\'altra</string>
     <string name="menu_summary_power_manager_1">La batteria è carica</string>
-    <string name="menu_summary_power_manager_2">%d%% rimanente</string>
+    <string name="menu_summary_power_manager_2">%s rimanente</string>
     <string name="menu_summary_power_manager_3">Collega l\'alimentatore</string>
     <string name="menu_summary_power_manager_4">%s fino a carica completa</string>
     <string name="menu_text_antispam">Blacklist</string>
@@ -3247,7 +3247,7 @@ dall'operatore"</string>
     <string name="power_center_battery_hardware">Hardware %s</string>
     <string name="power_center_battery_health_poor_tip">Sembra che la salute della batteria sia bassa. Fai controllare la batteria in un centro autorizzato.</string>
     <string name="power_center_battery_health_summary">Carica e scarica completamente il tuo dispositivo %1$d-%2$d volte per migliorare l\'accuratezza delle statistiche di salute della batteria</string>
-    <string name="power_center_battery_last">%d%% rimanente</string>
+    <string name="power_center_battery_last">%s rimanente</string>
     <string name="power_center_battery_level">%s caricato</string>
     <string name="power_center_battery_level_general">Normale</string>
     <string name="power_center_battery_problem_and_suggest">%1$s. %2$s.</string>
