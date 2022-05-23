@@ -321,7 +321,7 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
     <string name="nonui_mode_config_title">Modalità Non Interattiva</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_set">Non impostato</string>
-    <string name="notification_exit_extreme_mode_text">La batteria è carica più del %s%</string>
+    <string name="notification_exit_extreme_mode_text">La batteria è carica più del %s</string>
     <string name="notification_exit_extreme_mode_title">Risparmio Batteria Estremo disabilitato</string>
     <string name="notification_open_extreme_mode_text">Risparmio Batteria Estremo abilitato</string>
     <string name="password_toggle_content_description">Mostra password</string>
