@@ -380,9 +380,7 @@
     <string name="download_method">Scarica</string>
     <string name="download_no_application_title">"Impossibile aprire il file"</string>
     <string name="download_paused_in_power_save_mode">Il dispositivo è in Mod. Risparmio Energetico, download in pausa</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">Download in corso…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">Qualità download</string>
     <string name="download_quality_summary">Impostazioni aggiuntive per i brani scaricati</string>
     <string name="download_queued">In coda</string>
@@ -420,8 +418,6 @@
     <string name="downloading_empty">Vuoto</string>
     <string name="downloading_pause_apk">Pausa...Continua a scaricare nella barra delle notifiche o sul desktop</string>
     <string name="due_date">In Data: %s</string>
-    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="early_morning">AM</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -492,9 +488,7 @@
     <string name="exo_media_action_repeat_all_description">Ripeti tutto</string>
     <string name="exo_media_action_repeat_off_description">Non ripetere</string>
     <string name="exo_media_action_repeat_one_description">Ripeti una volta</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -1098,7 +1092,6 @@ attendere o selezionare Musica Online."</string>
     <string name="privacy_authorize_revoking">Revoca autorizzazione…</string>
     <string name="privacy_desc">Informativa Privacy (obbligatorio)</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=it</string>
     <string name="privacy_request_desc"><Data>\"Musica Mi deve raccogliere le informazioni personali necessarie per fornirti servizi di streaming online. Puoi capire come gestiamo le informazioni raccolte nella nostra &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Puoi revocare il tuo consenso su Musica Mi nelle Impostazioni in qualsiasi momento.
 Leggi e accetta il nostro &lt;a href=\"%2$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare Musica Mi.
 Se non accetti di utilizzare i servizi di cui sopra, non potrai utilizzare alcune funzionalità di questa app; tuttavia, la sua funzionalità di base sarà ancora a disposizione.</Data></string>
@@ -1422,7 +1415,6 @@ E gioiscine"</string>
     <string name="upload_playlist_to_hungama_title">Sincronizza le canzoni online su Hungama per poterle ascoltare su altri dispositivi dove usi il tuo Mi Account.</string>
     <string name="upload_playlist_to_hungama_toast">Le canzoni online saranno sincronizzate con Hungama</string>
     <string name="user_agreement">Accordo utente</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=it</string>
     <string name="user_playlist_plaza">Playlist</string>
     <string name="user_privacy_dialog_negative_text">Annulla</string>
     <string name="user_privacy_dialog_positive_count_down_text">Revoca (%ss)</string>
@@ -1457,8 +1449,6 @@ Size: %2$s"</string>
 Dimensione : %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">Aggiornamento %1$s !</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spazio insufficientee, controlla la scheda SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yesterday">Ieri</string>
     <string name="you_can_switch_mode_in_settings">E\' possibile passare da una mod. all\'altra dalle impostazioni</string>
     <string name="you_may_like">Potrebbe piacerti anche</string>

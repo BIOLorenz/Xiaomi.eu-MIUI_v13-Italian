@@ -214,8 +214,6 @@
     <string name="feedback_custom_hint">"Descrivi qui i problemi che hai riscontrato. Se fornisci dei suggerimenti, cercheremo di applicarli!"</string>
     <string name="find_device">Trova Telefono</string>
     <string name="find_device_dspt_provision">Nel caso dovessi smarrire il tuo dispositivo, dirigiti su %s per localizzarlo, bloccarlo, o resettarlo. Puoi abilitare o disabilitare questa funzionalità quando vuoi dalle Impostazioni.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_operation_failure_rpc">"Impossibile completare questa operazione a causa di un errore RPC"</string>
     <string name="find_device_permissions_footer">"Tocca \"Concedi\" per concedere i permessi selezionati."</string>
     <string name="find_device_permissions_header">"Benvenuto su Trova dispositivo! Puoi usare questa app per individuare, tenere traccia e bloccare il tuo dispositivo se smarrito. Trova dispositivo richiede le seguenti autorizzazioni:"</string>
