@@ -42,7 +42,7 @@
     <string name="alarm_ascending_mode_title">Volume crescente</string>
     <string name="alarm_clock_more_setting">Altre impostazioni</string>
     <string name="alarm_disabled">Spenta</string>
-    <string name="alarm_in_silent_mode_title">Suona in modalità Silenzioso</string>
+    <string name="alarm_in_silent_mode_title">Suona in mod. Silenzioso</string>
     <string name="alarm_klaxon_service_desc">Servizio di riproduzione dei suoni per le sveglie impostate nell\'orologio.</string>
     <string name="alarm_label_hint">Descrizione sveglia</string>
     <string name="alarm_list_title">Sveglia</string>
@@ -575,8 +575,8 @@
     <string name="sleep_duration_desc">Dormito per %1$s %2$s</string>
     <string name="sleep_duration_no_data">Dati insufficienti</string>
     <string name="sleep_duration_recommendation">La maggior parte delle persone ha bisogno di 7-9 ore di sonno per notte</string>
-    <string name="sleep_no_disturbance">Modalità Non Disturbare</string>
-    <string name="sleep_no_disturbance_desc">Passa alla modalità Non Disturbare fino al risveglio</string>
+    <string name="sleep_no_disturbance">Mod. Non Disturbare</string>
+    <string name="sleep_no_disturbance_desc">Passa alla mod. Non Disturbare fino al risveglio</string>
     <string name="sleep_no_record_text">Inizia a monitorare il tuo sonno per visualizzare le statistiche</string>
     <string name="sleep_notification_desc">Rimani fedele al tuo Programma Notturno</string>
     <string name="sleep_notification_title">È ora di andare a letto</string>
@@ -637,6 +637,7 @@
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Consenti a questa applicazione di connettersi ad internet per accedere a tutte le sue funzioni.</string>
     <string name="system_permission_main_purpose">Visualizzare l\'ora, impostare sveglie e timer, utilizzare il cronometro</string>
     <string name="system_permission_purpose">Creare sveglie settimanali e impostare suonerie personalizzate</string>

@@ -84,6 +84,10 @@
         <item quantity="other">%s persone possono visualizzare questo album</item>
         <item quantity="one">%s persona può visualizzare questo album</item>
     </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d album inclusi %1$s</item>
+        <item quantity="one">%2$d album incluso %1$s</item>
+    </plurals>
     <plurals name="album_photo_count_text">
         <item quantity="other">%1$d elementi</item>
         <item quantity="one">%1$d elemento</item>
@@ -140,6 +144,14 @@
         <item quantity="other">%d foto</item>
         <item quantity="one">%d foto</item>
     </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">"Impossibile sincronizzare %d elementi, spazio sul cloud insufficiente"</item>
+        <item quantity="one">"Impossibile sincronizzare %d elemento, spazio sul cloud insufficiente"</item>
+    </plurals>
     <plurals name="collage_select_image_dynamic_range">
         <item quantity="other">I collage possono contenere %1$d-%2$d foto</item>
         <item quantity="one">I collage possono contenere %1$d-%2$d foto</item>
@@ -192,6 +204,10 @@
         <item quantity="other">"Non è stato possibile scaricare %1$d file, controlla la connessione di rete e prova di nuovo"</item>
         <item quantity="one">"Non è stato possibile scaricare %1$d file, controlla la connessione di rete e prova di nuovo"</item>
     </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Download elementi dal cloud (%2$d/%1$d)</item>
+        <item quantity="one">Download elementi dal cloud (%2$d/%1$d)</item>
+    </plurals>
     <plurals name="face_count">
         <item quantity="other">%d foto in totale</item>
         <item quantity="one">%d foto in totale</item>
@@ -203,10 +219,6 @@
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">"%1$d foto saltate perché impossibile visualizzare."</item>
         <item quantity="one">"Una foto saltata perché impossibile visualizzare."</item>
-    </plurals>
-    <plurals name="file_type_detail_count">
-        <item quantity="other">%1$d file</item>
-        <item quantity="one">%1$d file</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
@@ -492,6 +504,10 @@
         <item quantity="other">%d foto ottimizzate</item>
         <item quantity="one">%d foto ottimizzata</item>
     </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">%d video ottimizzati</item>
+        <item quantity="one">%d video ottimizzato</item>
+    </plurals>
     <plurals name="slim_exit_dialog_message">
         <item quantity="other">"%d foto non sono state ottimizzate. Interrompere adesso?"</item>
         <item quantity="one">"%d foto non è stata ottimizzata. Interrompere adesso?"</item>
@@ -503,6 +519,14 @@
     <plurals name="slim_remain_photo_count">
         <item quantity="other">%d foto rimanenti</item>
         <item quantity="one">%d foto rimanente</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">%d elementi da ottimizzare</item>
+        <item quantity="one">%d elemento da ottimizzare</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
     </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">"Non è stato eseguito il backup di %d foto e video"</item>
@@ -524,9 +548,29 @@
         <item quantity="other">Sincronizzati %d video</item>
         <item quantity="one">Sincronizzato %d video</item>
     </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">Sincronizzazione di %d elementi utilizzando i dati</item>
+        <item quantity="one">Sincronizzazione di %d elemento utilizzando i dati</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">Sincronizzazione di %d elementi</item>
+        <item quantity="one">Sincronizzazione di %d elemento</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s elementi</item>
+        <item quantity="one">%1$s, %2$s elemento</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d elementi selezionati verranno eliminati definitivamente dal cloud e da tutti i dispositivi sincronizzati. Eliminare comunque?</item>
+        <item quantity="one">%d elemento selezionato verrà eliminato definitivamente dal cloud e da tutti i dispositivi sincronizzati. Eliminare comunque?</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">"Non potrai ripristinare %d elementi selezionati se li elimini. Eliminare comunque?"</item>
         <item quantity="one">"Non sarai in grado di ripristinare %d elemento selezionato se lo elimini. Eliminare comunque?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d elementi selezionati verranno eliminati definitivamente. Eliminare comunque?</item>
+        <item quantity="one">%d elemento selezionato verrà eliminato definitivamente. Eliminare comunque?</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
         <item quantity="other">"Non potrai ripristinare %d elementi selezionati se li elimini. Eliminare comunque?"</item>
@@ -543,9 +587,5 @@
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Gli oggetti possono essere memorizzati qui per %1$d giorni. Aggiorna il tuo piano per prolungare questo periodo.</item>
         <item quantity="one">Gli oggetti possono essere memorizzati qui per %1$d giorno. Aggiorna il tuo piano per prolungare questo periodo.</item>
-    </plurals>
-    <plurals name="video_count_format">
-        <item quantity="other">%1$d file</item>
-        <item quantity="one">%1$d file</item>
     </plurals>
 </resources>

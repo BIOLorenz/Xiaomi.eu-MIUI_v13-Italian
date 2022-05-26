@@ -274,6 +274,7 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_button_cancel">Annulla</string>
     <string name="mibi_button_confirm">Conferma</string>
     <string name="mibi_button_custom_service_phone">Ok</string>
+    <string name="mibi_button_disagree">Non accetto</string>
     <string name="mibi_button_next">Successivo</string>
     <string name="mibi_button_pay">Conferma</string>
     <string name="mibi_button_reget">Invia di nuovo</string>
@@ -384,7 +385,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_header_network_error">"Impossibile collegarsi alla rete."</string>
     <string name="mibi_illegal_intent">Richiesta di intenti non valida</string>
     <string name="mibi_incognito_mode_dialog_cancel">Annulla</string>
-    <string name="mibi_incognito_mode_dialog_summary_camera">"Impossibile utilizzare la fotocamera. Disattiva la modalità Incognito nelle Impostazioni."</string>
+    <string name="mibi_incognito_mode_dialog_summary_camera">"Impossibile utilizzare la fotocamera. Disattiva la mod. Incognito nelle Impostazioni."</string>
     <string name="mibi_incognito_mode_dialog_title">"Sei in incognito"</string>
     <string name="mibi_incognito_mode_dialog_to_close">Impostazioni</string>
     <string name="mibi_is_what">Cosa puoi acquistare con i Mi Credit?</string>
@@ -450,6 +451,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_payment_recharge_group_title">Scegli metodo di ricarica</string>
     <string name="mibi_payment_success_title">Pagamento ricevuto</string>
     <string name="mibi_payment_with_login_title">Mi Credit</string>
+    <string name="mibi_paytool_alipay">Alipay</string>
     <string name="mibi_paytool_app_not_installed">"Non hai installato %1$s. Scaricare ed installare ora?\""</string>
     <string name="mibi_paytool_error_install">Errore nell\'installazione del plugin di sicurezza mobile %1$s</string>
     <string name="mibi_paytool_error_msp">%1$s non riuscito</string>

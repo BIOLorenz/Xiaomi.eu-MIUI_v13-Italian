@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Vai alla Home</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
     <string name="abc_action_mode_done">Fatto</string>

@@ -84,6 +84,10 @@
         <item quantity="other">%d elementi selezionati</item>
         <item quantity="one">%d elemento selezionato</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
     <plurals name="notification_warning">
         <item quantity="other">Memoria in esaurimento (meno di %d minuti)</item>
         <item quantity="one">Memoria in esaurimento (meno di %d minuto)</item>

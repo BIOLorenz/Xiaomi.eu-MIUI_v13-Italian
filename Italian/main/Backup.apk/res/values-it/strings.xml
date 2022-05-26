@@ -352,9 +352,9 @@ Non cambiare o rinominare i file di backup."</string>
     <string name="gallery_summary">Impostaizoni galleria (foto non incluse)</string>
     <string name="grant_all_permission_content">Concedi tutti i permessi obbligatori per poter eseguire il backup e ripristinare gli elementi.</string>
     <string name="grant_all_permission_title">Permessi richiesti</string>
-    <string name="guarded_mode_dialog_backup_message">"I backup non sono consentiti in modalità Ospite"</string>
-    <string name="guarded_mode_dialog_title">"Sei in modalità Ospite"</string>
-    <string name="guarded_mode_dialog_transfer_message">"Impossibile utilizzare Mi Mover in modalità Ospite"</string>
+    <string name="guarded_mode_dialog_backup_message">"I backup non sono consentiti in mod. Ospite"</string>
+    <string name="guarded_mode_dialog_title">"Sei in mod. Ospite"</string>
+    <string name="guarded_mode_dialog_transfer_message">"Impossibile utilizzare Mi Mover in mod. Ospite"</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -524,9 +524,9 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="more">Altro</string>
     <string name="morning">Mattina</string>
     <string name="multi_select_title">Selezionati %1$s elemento(i)</string>
-    <string name="multi_user_mode_backup_message">"Impossibile utilizzare il Backup in modalità Multi-utente. Disattiva la modalità Multi-utente per continuare."</string>
-    <string name="multi_user_mode_dialog_message">"Non puoi utilizzare Mi Mover in modalità Multi-utente. Disattiva la modalità Multi-utente per continuare."</string>
-    <string name="multi_user_mode_dialog_title">"Sei in modalità Multi-utente"</string>
+    <string name="multi_user_mode_backup_message">"Impossibile utilizzare il Backup in mod. Multi-utente. Disattiva la mod. Multi-utente per continuare."</string>
+    <string name="multi_user_mode_dialog_message">"Non puoi utilizzare Mi Mover in mod. Multi-utente. Disattiva la mod. Multi-utente per continuare."</string>
+    <string name="multi_user_mode_dialog_title">"Sei in mod. Multi-utente"</string>
     <string name="name_password_not_consistent">Nome utente o password sbagliati</string>
     <string name="never">Mai</string>
     <string name="new_backup">Backup</string>
@@ -1110,6 +1110,8 @@ Non uscire da quea pagina finché non è stata stabilita una connessione."</stri
     <string name="wifi_title">Impostazioni Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">"Connessione Download Manager fallita, controlla lo stato del Download Manager nella Gestione Applicazioni."</string>
     <string name="xiaomi_external_storage_unavailable">"Memoria non disponibile, verifica la scheda SD."</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s

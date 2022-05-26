@@ -154,10 +154,10 @@
     <string name="blur_location_is_on_tip">%1$s rileva una posizione approssimativa. Continuare a usarla invece di una posizione precisa?</string>
     <string name="blur_location_now_tip">Il servizio di localizzazione è abilitato</string>
     <string name="blur_location_title">Posizione approssimativa</string>
-    <string name="cetus_invisible_mode_notice_audio">"Sei in modalità incognito. Non puoi usare il microfono."</string>
-    <string name="cetus_invisible_mode_notice_camera">"Sei in modalità incognito. Non puoi usare la fotocamera ora."</string>
-    <string name="cetus_invisible_mode_notice_location">"Sei in modalità incognito. Non puoi usare i servizi di localizzazione."</string>
-    <string name="cetus_invisible_mode_notice_tip">Puoi disattivare la modalità incognito nelle impostazioni</string>
+    <string name="cetus_invisible_mode_notice_audio">"Sei in mod. incognito. Non puoi usare il microfono."</string>
+    <string name="cetus_invisible_mode_notice_camera">"Sei in mod. incognito. Non puoi usare la fotocamera ora."</string>
+    <string name="cetus_invisible_mode_notice_location">"Sei in mod. incognito. Non puoi usare i servizi di localizzazione."</string>
+    <string name="cetus_invisible_mode_notice_tip">Puoi disattivare la mod. incognito nelle impostazioni</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>

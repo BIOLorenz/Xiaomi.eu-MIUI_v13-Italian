@@ -30,8 +30,8 @@
         <item>Bilanciato</item>
     </string-array>
     <string-array name="thermal_entries">
-        <item>Modalità predefinita di controllo della temperatura</item>
-        <item>Modalità prestazioni</item>
+        <item>Mod. predefinita di controllo della temperatura</item>
+        <item>Mod. prestazioni</item>
     </string-array>
     <string-array name="thermal_summaries">
         <item>Priorità al controllo della temperatura</item>

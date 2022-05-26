@@ -162,6 +162,7 @@ mm"</string>
     <string name="radar">Radar</string>
     <string name="raindrops">Pioggia</string>
     <string name="reveries">Fantasia (stereo)</string>
+    <string name="robot">Robot</string>
     <string name="secretgarden">Giardino segreto</string>
     <string name="solar_calendar">Solare</string>
     <string name="spaceage">Era spaziale</string>
@@ -197,7 +198,7 @@ mm"</string>
     <string name="winter_begins">Inizio inverno</string>
     <string name="winter_solstice">Solstizio d\'inverno</string>
     <string name="yellow_page_module_sms_sent">SMS inviato</string>
-    <string name="yellow_page_sms_disabled_in_privacy_mode">"Impossibile inviare messaggi in modalità Ospite"</string>
+    <string name="yellow_page_sms_disabled_in_privacy_mode">"Impossibile inviare messaggi in mod. Ospite"</string>
     <string name="yellow_page_sms_send_failed">"Impossibile inviare SMS"</string>
     <string name="yellow_page_sms_sending">Invio in corso…</string>
     <string name="yellow_page_unable_send_sms">"Impossibile inviare SMS"</string>

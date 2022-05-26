@@ -116,6 +116,10 @@
         <item quantity="other">Bozze</item>
         <item quantity="one">Bozza</item>
     </plurals>
+    <plurals name="email_filter_rule_max_tips">
+        <item quantity="other">Puoi aggiungere fino a %1$d condizioni</item>
+        <item quantity="one">Puoi aggiungere fino a %1$d condizione</item>
+    </plurals>
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d messaggi verranno eliminati definitivamente.</item>
         <item quantity="one">%1$d messaggio verrà eliminato definitivamente.</item>
@@ -159,6 +163,10 @@
     <plurals name="more_atts_remaining">
         <item quantity="other">%1$d altri rimanenti</item>
         <item quantity="one">%1$d altro rimanente</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Mostra %1$d nuovi messaggi.</item>

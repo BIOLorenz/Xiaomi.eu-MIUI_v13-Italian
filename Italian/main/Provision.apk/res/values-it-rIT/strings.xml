@@ -24,6 +24,7 @@
     <string name="abc_toolbar_collapse_description">Riduci</string>
     <string name="accessibility_enabled">Accessibilità attivata.</string>
     <string name="actionbar_button_up_description">Indietro</string>
+    <string name="activating_esim_tips">Attivazione…</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="agree">Accetto</string>
     <string name="agree_and_next">Accetto</string>
@@ -31,6 +32,7 @@
     <string name="agree_terms">"Ho letto e accetto i Termini e le Condizioni"</string>
     <string name="agree_terms_input_method_facemoji">"Ho letto ed accetto la Normativa sulla Privacy di Facemoji."</string>
     <string name="agree_terms_input_method_kika">"Ho letto ed accetto la Normativa sulla Privacy di Kika."</string>
+    <string name="agreement_declare_use_network_and_location_china">"Inoltre, i seguenti servizi si connetteranno alla rete e accederanno alla tua posizione: "</string>
     <string name="ai_button_desc">Usa questo pulsante per attivare Mi IA e completare le attività sul tuo telefono utilizzando solo la tua voce</string>
     <string name="ai_button_double_press">Doppia pressione</string>
     <string name="ai_button_double_press_desc">Configura le funzionalità di Mi IA</string>
@@ -132,6 +134,7 @@
     <string name="content_description_start">Avvia</string>
     <string name="content_introduction">Il Centro Contenuti aggrega contenuti e servizi da più canali. Qui puoi leggere articoli, guardare video, visualizzare elementi giornalieri in evidenza e ricevere consigli sui contenuti.</string>
     <string name="continue_to_enable_accessibility">Tieni due dita in basso per attivare l\'accessibilità</string>
+    <string name="cookies_content_one">"Quando tocchi le immagini e le storie in Carosello Sfondi, apriremo le loro versioni complete nel tuo browser. Taboola, il nostro fornitore di contenuti di terze parti di fiducia, può quindi consigliare contenuti aggiuntivi e annunci personalizzati in base ai tuoi interessi. Se accetti di attivare questa funzionalità, Taboola posizionerà i cookie sul tuo dispositivo tramite il browser, come descritto nella &lt;a href =%1$s&gt;Gestione dei cookie&lt;/a&gt; di Taboola. Se rifiuti l'uso dei cookie, gli elementi del Carosello Sfondi continueranno a essere visualizzati sulla schermata di blocco e le storie complete verranno aperte nel browser, ma non verranno selezionati ulteriori consigli specificamente per te. Puoi modificare le tue preferenze in qualsiasi momento nelle Impostazioni."</string>
     <string name="copy">Copia</string>
     <string name="data_traffic_enable_dialog_title">"Se non sei connesso al Wi-Fi, il tuo dispositivo utilizzerà i dati. L'utilizzo dei dati potrebbe generare costi aggiuntivi."</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
@@ -147,6 +150,7 @@
     <string name="disagreement_donnot_use_product">"Se non accetti di concedere tali autorizzazioni o condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questo prodotto. È possibile scegliere di non utilizzare questo prodotto in questo caso."</string>
     <string name="disagreement_donnot_use_service">"Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questo servizio. Puoi scegliere di non utilizzare questo servizio in questo caso."</string>
     <string name="disagreement_exit_app">"Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questa app. In questo caso. è possibile scegliere di disconnettersi o limitare i permessi nelle Impostazioni."</string>
+    <string name="disagreement_fast_pairing_abnormal">"Se non accetti di concedere questi permessi, non sarai in grado di utilizzare quest'app. Puoi attivare o disattivare questo servizio in qualsiasi momento in Impostazioni &gt; Bluetooth &gt; Impostazioni aggiuntive &gt; Mi Link."</string>
     <string name="disagreement_function">"Se non accetti di concedere tali autorizzazioni o condividere e caricare le tue informazioni personali, non potrai utilizzare questa funzione. È possibile scegliere di non utilizzare questa funzione in questo caso."</string>
     <string name="disagreement_location_service">"Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questo servizio."</string>
     <string name="disagreement_terminate_miuidaemon">"Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questo servizio. È possibile scegliere di non utilizzare questo servizio o limitare i permessi nelle Impostazioni in questi casi. Nota che useremo i permessi solo quando si iniziano a trasferire i dati dal dispositivo quando lo schermo è danneggiato."</string>
@@ -541,7 +545,7 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
-    <string name="system_navigation_mode">Modalità di navigazione di sistema</string>
+    <string name="system_navigation_mode">Mod. di navigazione di sistema</string>
     <string name="terms_of_use">Termini e condizioni</string>
     <string name="terms_of_use_label_Mistore">, plugin di sistema Mi Store</string>
     <string name="terms_of_use_label_app_vault">Assistente App</string>

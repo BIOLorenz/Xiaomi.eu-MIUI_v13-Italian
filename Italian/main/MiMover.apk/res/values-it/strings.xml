@@ -196,8 +196,8 @@ Visita https://appleid.apple.com/#!&amp;page=signin per disattivarlo"</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="dialog_airplane_mode_button">Impostazioni</string>
-    <string name="dialog_airplane_mode_content">"Mi Mover non può funzionare quando la modalità aereo è attiva. Disattivala nelle impostazioni."</string>
-    <string name="dialog_airplane_mode_title">Disattiva la modalità aereo</string>
+    <string name="dialog_airplane_mode_content">"Mi Mover non può funzionare quando la mod. aereo è attiva. Disattivala nelle impostazioni."</string>
+    <string name="dialog_airplane_mode_title">Disattiva la mod. aereo</string>
     <string name="dialog_backup_password_cancel">Annulla</string>
     <string name="dialog_backup_password_change_machine_tips">"Non sarai in grado di trasferire i backup portetti da password. Disattiva la password backup prima di utilizzare Mi Mover."</string>
     <string name="dialog_backup_password_verify">OK</string>
@@ -441,7 +441,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="midnight">Notte</string>
     <string name="miui_need_location_permission_summary">"Consenti a Mi Mover di accedere alla tua posizione per trovare i dispositivi nelle vicinanze. Non sarai in grado di utilizzare Mi Mover a meno che non concedi questo permesso."</string>
     <string name="miui_need_location_permission_title">Consenti l\'accesso alla posizione</string>
-    <string name="miui_need_open_high_accuracy_summary">"Consenti a Mi Mover di accedere alla tua posizione in modalità \"Precisione Elevata\" per trovare i dispositivi nelle vicinanze. Non sarai in grado di utilizzare Mi Mover a meno che non concedi questo permesso."</string>
+    <string name="miui_need_open_high_accuracy_summary">"Consenti a Mi Mover di accedere alla tua posizione in mod. \"Precisione Elevata\" per trovare i dispositivi nelle vicinanze. Non sarai in grado di utilizzare Mi Mover a meno che non concedi questo permesso."</string>
     <string name="miui_need_open_high_accuracy_title">Consenti l\'accesso a informazioni accurate sulla posizione</string>
     <string name="miui_wait_link_message_1">"Il pulsante \"Sono un mittente\" è proprio sulla pagina iniziale di Mi Mover."</string>
     <string name="miui_wait_link_title_1">"%d. Tocca \"Sono un mittente\" e attendi un istante."</string>
@@ -652,7 +652,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="prompt_before_transmission_message3_title">"Stai usando il Secondo Spazio"</string>
     <string name="prompt_before_transmission_message4_summary">"Non spegnere il Wi-Fi o cambiare rete fino al completamento del trasferimento."</string>
     <string name="prompt_before_transmission_message4_title">Resta connesso durante il trasferimento</string>
-    <string name="prompt_before_transmission_message5_summary">"Il trasferimento di grandi quantità di dati in modalità wireless potrebbe causare un leggero surriscaldamento. Il dispositivo tornerà normale subito dopo il completamento."</string>
+    <string name="prompt_before_transmission_message5_summary">"Il trasferimento di grandi quantità di dati in mod. wireless potrebbe causare un leggero surriscaldamento. Il dispositivo tornerà normale subito dopo il completamento."</string>
     <string name="prompt_before_transmission_message5_title">Il tuo dispositivo potrebbe scaldarsi durante i trasferimenti.</string>
     <string name="provisiion_set_old_phone">Importa dal vecchio dispositivo</string>
     <string name="provisiion_set_old_phone_summary">Usa Mi Mover per importare dati dal tuo vecchio dispositivo senza connetterti a internet</string>
@@ -718,6 +718,7 @@ Libera almeno %s."</string>
     <string name="searching_for_new_device">Ricerca di un nuovo dispositivo…</string>
     <string name="select_android_summary">Huawei, OPPO, vivo e altri</string>
     <string name="select_android_title">Android</string>
+    <string name="select_apple_summary">iPhone</string>
     <string name="select_apple_title">Apple</string>
     <string name="select_empty">Seleziona gli elementi da importare</string>
     <string name="select_item_calendar">Calendario</string>
@@ -848,7 +849,7 @@ Libera almeno %s."</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="time_spent">Durata: %1$s</string>
     <string name="title_open_wlan">Attiva il Wi-Fi</string>
-    <string name="title_request_alert_window_perm">申请悬浮窗权限</string>
+    <string name="title_request_alert_window_perm">Consenti finestre fluttuanti</string>
     <string name="title_request_manage_external_storage_perm">Permessi richiesti</string>
     <string name="title_request_package_stats_perm">Permessi richiesti</string>
     <string name="title_request_write_settings_perm">Consenti modifica delle impostazioni di sistema</string>

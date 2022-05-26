@@ -72,6 +72,7 @@
     <string name="album_cover">Copertina album</string>
     <string name="album_is_empty">Il nome dell\'album non può essere vuoto.</string>
     <string name="album_label">Album</string>
+    <string name="album_name">Album</string>
     <string name="all_album_count">Tutti gli album (%d)</string>
     <string name="all_albums">Tutti gli album</string>
     <string name="all_artists">Tutti gli artisti</string>
@@ -233,6 +234,7 @@
     <string name="columbus_player_learn_more">Scopri di più</string>
     <string name="columbus_player_speed_title">Saltare il Video?</string>
     <string name="columbus_player_speed_video">Salta Il VIDEO</string>
+    <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Salta</string>
     <string name="common_google_play_services_enable_button">Attiva</string>
     <string name="common_google_play_services_enable_text">"%1$s non funzionerà se non attiverai i servizi di Google Play."</string>
@@ -266,7 +268,7 @@
     <string name="current_lyric">Testi attuali</string>
     <string name="current_version">Versione</string>
     <string name="daily_recommendation">Mix giornaliero</string>
-    <string name="dark_mode">Modalità scura</string>
+    <string name="dark_mode">Mod. scura</string>
     <string name="data_usage_warning">Utilizzo dati</string>
     <string name="data_usage_warning_summary">Lo streaming in alta qualità tramite rete cellulare può aumentare il traffico dati.</string>
     <string name="data_use_desc">Documenti legali</string>
@@ -290,7 +292,7 @@
     <string name="desktop_lyric_setting_summary">Mostra il testo sulla Home</string>
     <string name="desktop_lyric_setting_title">Testi sulla Home</string>
     <string name="desktop_lyric_textsize">Testo</string>
-    <string name="develop_mode">Modalità sviluppatore</string>
+    <string name="develop_mode">Mod. sviluppatore</string>
     <string name="device_connected">Connesso</string>
     <string name="device_not_connected">Non connesso</string>
     <string name="dialog_cannot_resume">"Download interrotto. Non può essere ripreso."</string>
@@ -377,8 +379,10 @@
     <string name="download_manage_item_complete">COMPLETATI</string>
     <string name="download_method">Scarica</string>
     <string name="download_no_application_title">"Impossibile aprire il file"</string>
-    <string name="download_paused_in_power_save_mode">Il dispositivo è in Modalità Risparmio Energetico, download in pausa</string>
+    <string name="download_paused_in_power_save_mode">Il dispositivo è in Mod. Risparmio Energetico, download in pausa</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Download in corso…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Qualità download</string>
     <string name="download_quality_summary">Impostazioni aggiuntive per i brani scaricati</string>
     <string name="download_queued">In coda</string>
@@ -416,6 +420,8 @@
     <string name="downloading_empty">Vuoto</string>
     <string name="downloading_pause_apk">Pausa...Continua a scaricare nella barra delle notifiche o sul desktop</string>
     <string name="due_date">In Data: %s</string>
+    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="early_morning">AM</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -462,7 +468,7 @@
     <string name="error_not_support">Non supportato</string>
     <string name="evening">PM</string>
     <string name="exo_controls_fastforward_description">Avanti veloce</string>
-    <string name="exo_controls_fullscreen_description">Modalità a schermo intero</string>
+    <string name="exo_controls_fullscreen_description">Mod. a schermo intero</string>
     <string name="exo_controls_hide">Nascondi i controlli di riproduzione</string>
     <string name="exo_controls_next_description">Prossima traccia</string>
     <string name="exo_controls_pause_description">Pausa</string>
@@ -476,7 +482,7 @@
     <string name="exo_controls_shuffle_off_description">Casuale Spento</string>
     <string name="exo_controls_shuffle_on_description">Riproduzione Casuale</string>
     <string name="exo_controls_stop_description">Interrompi</string>
-    <string name="exo_controls_vr_description">Modalità VR</string>
+    <string name="exo_controls_vr_description">Mod. VR</string>
     <string name="exo_download_completed">Download completato</string>
     <string name="exo_download_description">Scarica</string>
     <string name="exo_download_downloading">In download</string>
@@ -486,7 +492,9 @@
     <string name="exo_media_action_repeat_all_description">Ripeti tutto</string>
     <string name="exo_media_action_repeat_off_description">Non ripetere</string>
     <string name="exo_media_action_repeat_one_description">Ripeti una volta</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -610,9 +618,11 @@
     <string name="higher_quality_music">Audio di alta qualità</string>
     <string name="higher_quality_music_summary">Esegui download e streaming alla massima qualità</string>
     <string name="hint_search_songs_playlists_artists">Cerca canzoni, playlist e artisti</string>
+    <string name="home_tab_home">Casa</string>
     <string name="home_tab_local">Musica</string>
     <string name="home_tab_more_music">Altra musica</string>
     <string name="home_tab_online">Cerca</string>
+    <string name="home_tab_recommend">Online</string>
     <string name="home_tab_search">Cerca</string>
     <string name="hungama_batch_download_alert_summary">Solo i membri PRO possono scaricare più brani. Acquistare un abbonamento PRO ora?</string>
     <string name="hungama_batch_download_alert_summary_toast">Compra un abbonamento per scaricare l\'intera playlist.</string>
@@ -773,11 +783,11 @@ attendere o selezionare Musica Online."</string>
     <string name="material_minute_suffix">%1$s minuti</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
-    <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
+    <string name="material_timepicker_clock_mode_description">Passa alla mod. orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
-    <string name="material_timepicker_text_input_mode_description">Passa alla modalità di inserimento testo per inserire l\'ora.</string>
+    <string name="material_timepicker_text_input_mode_description">Passa alla mod. di inserimento testo per inserire l\'ora.</string>
     <string name="menu_title_pause_all">Tutto in pausa</string>
     <string name="menu_title_resume_all">Riprendi tutti</string>
     <string name="message_delete_playlist">Eliminare la playlist %s?</string>
@@ -895,6 +905,7 @@ attendere o selezionare Musica Online."</string>
     <string name="mtrl_badge_numberless_content_description">Nuove notifiche</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Piu di %1$d nuove notifiche</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
     <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
     <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
@@ -917,9 +928,9 @@ attendere o selezionare Musica Online."</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">dd</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a modalità inserimento calendario</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a mod. inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Passa a modalità inserimento testo</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa a mod. inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="mtrl_timepicker_confirm">OK</string>
     <string name="mulit_choice_management">Gestisci elementi multipli</string>
@@ -987,8 +998,13 @@ attendere o selezionare Musica Online."</string>
     <string name="nowplaying_circle_style_wave">Onda</string>
     <string name="nowplaying_dialog_title_delete_tracks">Rimuovere dalla playlist?</string>
     <string name="nowplaying_menu_item_delete">Rimuovi dalla coda</string>
+    <string name="offline_notification_text">Tocca per aprire l\'annuncio</string>
+    <string name="offline_notification_title">Visualizza l\'annuncio salvato quando eri offline</string>
     <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">"Riceverai una notifica con il link quando sarai di nuovo online"</string>
     <string name="offline_opt_in_decline">Non ora</string>
+    <string name="offline_opt_in_message">"Ti invieremo una notifica con un link che rimanda al sito dell'inserzionista."</string>
+    <string name="offline_opt_in_title">"Apri l'annuncio quando sarai di nuovo online."</string>
     <string name="ok">OK</string>
     <string name="online_apk_acquired">Caricato %d%%</string>
     <string name="online_apk_acquiring">Caricamento… %d%%</string>
@@ -1029,7 +1045,7 @@ attendere o selezionare Musica Online."</string>
     <string name="party">Festa</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="paused_by_app">Pausa</string>
-    <string name="paused_in_power_save_mode">In pausa in modalità risparmio energetico</string>
+    <string name="paused_in_power_save_mode">In pausa in mod. risparmio energetico</string>
     <string name="paused_insufficient_space">In attesa</string>
     <string name="paused_queued_for_wifi">In attesa della rete</string>
     <string name="paused_unknown">Pausa</string>
@@ -1071,7 +1087,7 @@ attendere o selezionare Musica Online."</string>
     <string name="playlist_type_recommend">Playlist in evidenza</string>
     <string name="please_download_first">Prima scarica il file.</string>
     <string name="please_select_song">Prima seleziona un brano</string>
-    <string name="power_save_mode_dialog_msg">Il dispositivo è in Modalità Energetico. Avviare il download adesso?</string>
+    <string name="power_save_mode_dialog_msg">Il dispositivo è in Mod. Energetico. Avviare il download adesso?</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="preset_music_playlist">Playlist Mi Music</string>
     <string name="priority_storage">Usa scheda SD</string>
@@ -1082,6 +1098,7 @@ attendere o selezionare Musica Online."</string>
     <string name="privacy_authorize_revoking">Revoca autorizzazione…</string>
     <string name="privacy_desc">Informativa Privacy (obbligatorio)</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=it</string>
     <string name="privacy_request_desc"><Data>\"Musica Mi deve raccogliere le informazioni personali necessarie per fornirti servizi di streaming online. Puoi capire come gestiamo le informazioni raccolte nella nostra &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Puoi revocare il tuo consenso su Musica Mi nelle Impostazioni in qualsiasi momento.
 Leggi e accetta il nostro &lt;a href=\"%2$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare Musica Mi.
 Se non accetti di utilizzare i servizi di cui sopra, non potrai utilizzare alcune funzionalità di questa app; tuttavia, la sua funzionalità di base sarà ancora a disposizione.</Data></string>
@@ -1144,6 +1161,7 @@ E gioiscine"</string>
     <string name="search_empty">"Nessun risultato. Riprova con altre parole"</string>
     <string name="search_empty_subtitle_online_music">Tocca il pulsante qui sotto per aprire %s.</string>
     <string name="search_empty_title_online_music">Nessun contenuto.</string>
+    <string name="search_for_album">Album</string>
     <string name="search_for_artist">Artista</string>
     <string name="search_hint">Artista, brano o album</string>
     <string name="search_hint_local">Cerca brani sul dispositivo</string>
@@ -1151,9 +1169,11 @@ E gioiscine"</string>
     <string name="search_history_clear_all">Cancella</string>
     <string name="search_history_delete_all_dialog_titile">Cancellare la cronologia di ricerca?</string>
     <string name="search_in_youtube">Cerca su YouTube</string>
+    <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_more">Altro</string>
     <string name="search_result_local_songs">Dispositivo</string>
+    <string name="search_result_online_songs">Online</string>
     <string name="search_songs">Cerca canzoni</string>
     <string name="search_songs_count">Canzone: %d</string>
     <string name="select">Scegli</string>
@@ -1256,7 +1276,7 @@ E gioiscine"</string>
     <string name="storage_sd_card">Scheda SD</string>
     <string name="storage_usb">Archivio USB</string>
     <string name="streamloadingtext">Connessione a %s</string>
-    <string name="summary_command_mode">Attiva per entrare in Modalità Comando</string>
+    <string name="summary_command_mode">Attiva per entrare in Mod. Comando</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -1284,9 +1304,9 @@ E gioiscine"</string>
     <string name="talkback_favorite">Mi piace</string>
     <string name="talkback_karaoke">Avvia Karaoke</string>
     <string name="talkback_mode">Ripetizione playlist</string>
-    <string name="talkback_mode_repeat_all">Modalità ripetizione lista</string>
-    <string name="talkback_mode_repeat_current">Modalità ripetizione singola</string>
-    <string name="talkback_mode_repeat_shuffle">Modalità riproduzione randomica</string>
+    <string name="talkback_mode_repeat_all">Mod. ripetizione lista</string>
+    <string name="talkback_mode_repeat_current">Mod. ripetizione singola</string>
+    <string name="talkback_mode_repeat_shuffle">Mod. riproduzione randomica</string>
     <string name="talkback_more">Altri menù</string>
     <string name="talkback_next">Prossimo brano</string>
     <string name="talkback_nowplaying_bar">Barra riproduzione</string>
@@ -1296,7 +1316,7 @@ E gioiscine"</string>
     <string name="talkback_search">Cerca</string>
     <string name="talkback_show_navigation_draw">Mostra drawer</string>
     <string name="terms_of_service">Condizioni d\'uso</string>
-    <string name="test_mode">Modalità di test</string>
+    <string name="test_mode">Mod. di test</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
     <string name="the_arbor_day">Giorno dei mestieri</string>
@@ -1344,7 +1364,7 @@ E gioiscine"</string>
     <string name="ticket_title">Mostra biglietti</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="time_to_upgrade">Aggiornamento disponibile</string>
-    <string name="title_command_mode">Modalità Comando</string>
+    <string name="title_command_mode">Mod. Comando</string>
     <string name="title_online_fm_recommend">Stazioni FM in evidenza</string>
     <string name="title_online_recommend">Playlist in evidenza</string>
     <string name="title_recently_played">Riprodotti di recente</string>
@@ -1402,6 +1422,7 @@ E gioiscine"</string>
     <string name="upload_playlist_to_hungama_title">Sincronizza le canzoni online su Hungama per poterle ascoltare su altri dispositivi dove usi il tuo Mi Account.</string>
     <string name="upload_playlist_to_hungama_toast">Le canzoni online saranno sincronizzate con Hungama</string>
     <string name="user_agreement">Accordo utente</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=it</string>
     <string name="user_playlist_plaza">Playlist</string>
     <string name="user_privacy_dialog_negative_text">Annulla</string>
     <string name="user_privacy_dialog_positive_count_down_text">Revoca (%ss)</string>
@@ -1436,8 +1457,10 @@ Size: %2$s"</string>
 Dimensione : %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">Aggiornamento %1$s !</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spazio insufficientee, controlla la scheda SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yesterday">Ieri</string>
-    <string name="you_can_switch_mode_in_settings">E\' possibile passare da una modalità all\'altra dalle impostazioni</string>
+    <string name="you_can_switch_mode_in_settings">E\' possibile passare da una mod. all\'altra dalle impostazioni</string>
     <string name="you_may_like">Potrebbe piacerti anche</string>
     <string name="youtube_play_history">Cronologia riproduzioni</string>
 </resources>

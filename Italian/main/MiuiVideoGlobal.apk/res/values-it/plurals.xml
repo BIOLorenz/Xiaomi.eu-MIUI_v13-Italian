@@ -68,9 +68,17 @@
         <item quantity="one">Proprio adesso</item>
         <item quantity="other">ora</item>
     </plurals>
+    <plurals name="local_video_floder">
+        <item quantity="other">%d cartelle</item>
+        <item quantity="one">%d cartella</item>
+    </plurals>
     <plurals name="long_video_minute">
         <item quantity="other">%d minuti</item>
         <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d stagioni</item>
+        <item quantity="one">%d stagione</item>
     </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">I sottotitoli verranno mostrati %.1f secondi prima</item>
@@ -84,6 +92,18 @@
         <item quantity="other">Dimensione: %.2fKB</item>
         <item quantity="one">Dimensione: %.2fKB</item>
     </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">%1$1d episodi su %2$2d disponibili</item>
+        <item quantity="one">%1$1d episodio su %2$2d disponibile</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">%1$1d episodi su %2$2d disponibili</item>
+        <item quantity="one">%1$1d episodio su %2$2d disponibile</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">%d episodi totali</item>
+        <item quantity="one">%d episodio totale</item>
+    </plurals>
     <plurals name="mediation_animate_close_after">
         <item quantity="other">%s sec rimasti</item>
         <item quantity="one">%s sec rimasto</item>
@@ -91,6 +111,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementi selezionati</item>
         <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
     </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Il tuo contenuto contiene elementi (%1$s) che violano gli standard della nostra comunità. Il tuo account è sospeso per %2$d giorni fino al %3$s.</item>
@@ -132,6 +156,10 @@
         <item quantity="other">Tocca due volte per avanzare di %d secondi</item>
         <item quantity="one">Tocca due volte per avanzare di %d secondo</item>
     </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s sec</item>
+        <item quantity="one">%1$s sec</item>
+    </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s iscritti</item>
         <item quantity="one">%s iscritto</item>
@@ -143,5 +171,17 @@
     <plurals name="subtitle_offset_delay_times">
         <item quantity="other">I sottotitoli sono ritardati di %.1f secondi</item>
         <item quantity="one">I sottotitoli sono ritardati di %.1f secondo</item>
+    </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">Aggiungi fino a %d preferiti</item>
+        <item quantity="one">Aggiungi fino a %d preferito</item>
+    </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">%s mi piace</item>
+        <item quantity="one">%s mi piace</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d visualizzazioni</item>
+        <item quantity="one">%d visualizzazione</item>
     </plurals>
 </resources>

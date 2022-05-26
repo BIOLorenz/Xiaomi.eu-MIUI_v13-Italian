@@ -85,8 +85,8 @@ Riprova"</string>
     <string name="button_confirm">Ok</string>
     <string name="button_delete">Elimina</string>
     <string name="button_next">Successivo</string>
-    <string name="can_not_backup_in_lite_mode">"Impossibile eseguire il backup in modalità semplificata"</string>
-    <string name="can_not_restore_in_lite_mode">"Impossibile ripristinare in modalità Semplificata"</string>
+    <string name="can_not_backup_in_lite_mode">"Impossibile eseguire il backup in mod. semplificata"</string>
+    <string name="can_not_restore_in_lite_mode">"Impossibile ripristinare in mod. Semplificata"</string>
     <string name="cancel_backup">Annullamento backup…</string>
     <string name="cancel_restore">Annullamento…</string>
     <string name="cancel_restore_home">Annullamento…</string>
@@ -440,7 +440,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="morning">Mattina</string>
     <string name="msg_alert_cancel_restore">Gli oggetti sono in fase di ripristino da Xiaomi Cloud. Annullare?</string>
     <string name="msg_alert_restore_error">"Ripristino backup da Cloud non riuscito, prego riprova."</string>
-    <string name="msg_restore_start_with_metered_network">"La tua Home verrà lanciata di nuovo. Le app salvate verranno scaricate automaticamente. Verranno scaricati &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s di file.&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">Se procedi nel ripristino di questi file, verrà utilizzata la rete dati per il download.</string>
     <string name="msg_restore_with_metered_network_pattern">"Verranno scaricati &lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; di file."</string>
     <string name="network_error">Collegato alla rete</string>
@@ -457,7 +456,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="open_backup_switch">Attiva lo switch backup</string>
     <string name="other_device_main_space">Primo spazio</string>
     <string name="other_device_second_space">Secondo spazio</string>
-    <string name="pc_mode_not_support_restore_warning">"Impossibile ripristinare gli elementi in modalità PC. Disattiva la modalità PC e riprova."</string>
+    <string name="pc_mode_not_support_restore_warning">"Impossibile ripristinare gli elementi in mod. PC. Disattiva la mod. PC e riprova."</string>
     <string name="permission_to_use">Dettagli permessi</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="process_whole_recovery">Ripristino di \"%s\"</string>
@@ -497,6 +496,7 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="restore_finished_notification_content">Ripristinati app home, impostazioni di sistema, etc.</string>
     <string name="restore_from_cloud">Ripristina da Mi Cloud</string>
     <string name="restore_from_mimover">Trasferisci dal tuo vecchio dispositivo tramite Mi Mover</string>
+    <string name="restore_header_backup_size">Dimensione backup: %s</string>
     <string name="restore_home_screen_apps">Ripristina elementi</string>
     <string name="restore_network_pause">In pausa per risparmiare dati. Tocca per riprendere.</string>
     <string name="restore_network_unconnect">%s (in attesa di connessione)</string>

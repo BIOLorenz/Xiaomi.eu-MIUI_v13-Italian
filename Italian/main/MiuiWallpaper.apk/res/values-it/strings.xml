@@ -102,9 +102,11 @@
     <string name="copy">Copia</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
+    <string name="download_button">Pulsante download</string>
     <string name="download_failed">"Impossibile scaricare"</string>
     <string name="early_morning">Mattina</string>
     <string name="earth_summary">La Terra è la culla della civiltà umana</string>
+    <string name="earth_title">Casa</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
     <string name="earthly_branches_hai">Hai</string>
@@ -175,6 +177,12 @@
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
     <string name="install_failed">"Impossibile installare"</string>
+    <string name="mars_coordinate_latitude_0">73.287°E</string>
+    <string name="mars_coordinate_latitude_1">323.483°E</string>
+    <string name="mars_coordinate_latitude_2">340.780°E</string>
+    <string name="mars_coordinate_longitude_0">29.290°N</string>
+    <string name="mars_coordinate_longitude_1">35.667°S</string>
+    <string name="mars_coordinate_longitude_2">22.884°N</string>
     <string name="mars_id">mars</string>
     <string name="mars_position_content_0">"Questa regione contiene scogliere, colline e ampie valli pianeggianti, che si ritiene siano state causate da ghiacciai ricoperti di detriti. Sono stati rilevati anche minerali di argilla, fonte di grande interesse nella ricerca di prove sull'esistenza di vita su Marte.
 
@@ -193,6 +201,9 @@ valle di Mawrth"</string>
     <string name="mars_summary">I vasti deserti di Marte hanno sempre tenuto l\'umanità in soggezione</string>
     <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">Il Pianeta Rosso</string>
+    <string name="mars_view_height_0">287.3 km</string>
+    <string name="mars_view_height_1">256.7 km</string>
+    <string name="mars_view_height_2">286.2 km</string>
     <string name="mi_wallpaper_loading">Caricamento Sfondi-Mi...</string>
     <string name="mi_wallpaper_title">Sfondi Mi</string>
     <string name="midnight">Notte</string>
@@ -382,6 +393,7 @@ mm"</string>
     <string name="update">Aggiorna</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
     <string name="wallpaper_setting_find_more_text">Altri sfondi online</string>
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Schermata Home</string>
     <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Schemata di blocco</string>

@@ -51,9 +51,9 @@
     <string name="accessibility_camera_record_start">Registrazione video avviata</string>
     <string name="accessibility_camera_record_stop">Registrazione video interrotta</string>
     <string name="accessibility_camera_shutter_finish">Foto scattata correttamente</string>
-    <string name="accessibility_camera_switch_capture_recording">Passa tra modalità foto e video</string>
-    <string name="accessibility_camera_ultra_wide_bokeh_off">Modalità corpo intero disattivata</string>
-    <string name="accessibility_camera_ultra_wide_bokeh_on">Modalità corpo intero attivata</string>
+    <string name="accessibility_camera_switch_capture_recording">Passa tra mod. foto e video</string>
+    <string name="accessibility_camera_ultra_wide_bokeh_off">Mod. corpo intero disattivata</string>
+    <string name="accessibility_camera_ultra_wide_bokeh_on">Mod. corpo intero attivata</string>
     <string name="accessibility_camera_video_960fps_120">%dFPS</string>
     <string name="accessibility_camera_video_960fps_240">%dFPS</string>
     <string name="accessibility_camera_video_960fps_960">%dFPS</string>
@@ -89,11 +89,11 @@
     <string name="accessibility_filter_open_panel">Il menù del filtro è aperto</string>
     <string name="accessibility_filter_pad_close">Il menù del filtro è nascosto</string>
     <string name="accessibility_flash_auto">Flash Auto attivato</string>
-    <string name="accessibility_flash_back_soft_light">Il Flash è attivo in modalità luce soft</string>
+    <string name="accessibility_flash_back_soft_light">Il Flash è attivo in mod. luce soft</string>
     <string name="accessibility_flash_off">Flash disattivato</string>
     <string name="accessibility_flash_on">Flash attivato</string>
     <string name="accessibility_flash_screen_halo">Anello luminoso attivo</string>
-    <string name="accessibility_flash_torch">Flash attivato, modalità torcia</string>
+    <string name="accessibility_flash_torch">Flash attivato, mod. torcia</string>
     <string name="accessibility_focus_face_pos_bottom">Vicino al bordo inferiore</string>
     <string name="accessibility_focus_face_pos_left">Vicino al bordo sinistro</string>
     <string name="accessibility_focus_face_pos_left_bottom">Vicino al bordo inferiore sinistro</string>
@@ -112,7 +112,7 @@
     <string name="accessibility_hdr_normal">HDR Pro attivato</string>
     <string name="accessibility_hdr_off">HDR disattivato</string>
     <string name="accessibility_hdr_on">HDR attivato</string>
-    <string name="accessibility_horizontal_shutter_off">Raffica disattivata in modalità orizzontale</string>
+    <string name="accessibility_horizontal_shutter_off">Raffica disattivata in mod. orizzontale</string>
     <string name="accessibility_horizontal_shutter_on">Scatti in orizzontale</string>
     <string name="accessibility_intent_done_apply">Fatto</string>
     <string name="accessibility_intent_done_retry">Riprova</string>
@@ -129,8 +129,8 @@
     <string name="accessibility_lock_focus_success">Messa a fuoco bloccata</string>
     <string name="accessibility_manually_custom_panel_on">Pannello personalizzazione</string>
     <string name="accessibility_mimoji_background_panel_on">Pannello di sfondo</string>
-    <string name="accessibility_mimoji_gif_off">Modalità GIF spenta</string>
-    <string name="accessibility_mimoji_gif_on">Modalità GIF attiva</string>
+    <string name="accessibility_mimoji_gif_off">Mod. GIF spenta</string>
+    <string name="accessibility_mimoji_gif_on">Mod. GIF attiva</string>
     <string name="accessibility_mimoji_image_panel_on">Pannello Avatar</string>
     <string name="accessibility_mimoji_timbre_panel_on">Pannello Voce</string>
     <string name="accessibility_mimovie_off">Cornice non in uso</string>
@@ -146,7 +146,7 @@
     <string name="accessibility_picturesize_3_4_button">Rapporto 3 a 4</string>
     <string name="accessibility_picturesize_9_16_button">Rapporto 9 a 16</string>
     <string name="accessibility_picturesize_fullscreen_button">Schermo intero</string>
-    <string name="accessibility_portrait_button">Modalità ritratto</string>
+    <string name="accessibility_portrait_button">Mod. ritratto</string>
     <string name="accessibility_portrait_depth_effect_panel_on">Pannello verticale</string>
     <string name="accessibility_preview_button">Anteprima</string>
     <string name="accessibility_preview_effect_button">Anteprima effetto</string>
@@ -159,7 +159,7 @@
     <string name="accessibility_preview_zoom_tip">Anteprima zoom %1$.1fX</string>
     <string name="accessibility_privacy_watermark">Filigrana protettiva</string>
     <string name="accessibility_pro_parameters_panel_on">Apri il menu con i parametri PRO</string>
-    <string name="accessibility_pro_video_simple_mode">Modalità semplificata</string>
+    <string name="accessibility_pro_video_simple_mode">Mod. semplificata</string>
     <string name="accessibility_protrait">Ritratto</string>
     <string name="accessibility_pull_down_to_open_camera">Scorri in basso per aprire la fotocamera</string>
     <string name="accessibility_record_button">Pulsante registrazione</string>
@@ -198,14 +198,14 @@
     <string name="accessibility_touch_focus_success">Messo a fuoco</string>
     <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD è disattivato</string>
     <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD è attivo</string>
-    <string name="accessibility_ultra_wide_off">Modalità grandangolo disattivata</string>
-    <string name="accessibility_ultra_wide_on">Modalità grandangolo attivata</string>
+    <string name="accessibility_ultra_wide_off">Mod. grandangolo disattivata</string>
+    <string name="accessibility_ultra_wide_on">Mod. grandangolo attivata</string>
     <string name="accessibility_video_btn_play">Riproduci video</string>
     <string name="accessibility_video_capture_button">Pulsante cattura</string>
     <string name="accessibility_video_pause_button">Pulsante pausa</string>
     <string name="accessibility_video_resume_button">Registrazione ripresa</string>
     <string name="accessibility_whitebalance_custom_panel_on">Pannello di regolazione manuale</string>
-    <string name="accessibility_zoom_button">Modalità Zoom</string>
+    <string name="accessibility_zoom_button">Mod. Zoom</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="ai">IA</string>
@@ -286,8 +286,8 @@
     <string name="ai_scene_mode_unknown">Sconosciuto</string>
     <string name="ai_scene_mode_use_hint_text">"Scena-IA identifica il tipo di scena 
  ed ottimizza l'immagine"</string>
-    <string name="ai_scene_top_moon_off">Modalità luce ridotta</string>
-    <string name="ai_scene_top_tip">Modalità luna</string>
+    <string name="ai_scene_top_moon_off">Mod. luce ridotta</string>
+    <string name="ai_scene_top_tip">Mod. luna</string>
     <string name="ai_shanghai">Shanghai</string>
     <string name="ai_spring_festival">Festival di primavera</string>
     <string name="ai_suzhou">Suzhou</string>
@@ -315,13 +315,13 @@
     <string name="ambilight_intro_crowd_moving_part1">Quando scatti su una strada affollata, chiedi al tuo soggetto di stare fermo. Altre persone appariranno come scie sfocate.</string>
     <string name="ambilight_intro_crowd_moving_part2">È anche possibile scattare foto di traffico e folle in movimento. Una esposizione prolungata manterrà gli edifici definiti, ma tutti gli oggetti in movimento saranno sfocati.</string>
     <string name="ambilight_intro_light_track">Usa una sorgente di luce per \"dipingere\" su una scena scura per far si che la scia luminosa appaia in una sola immagine.</string>
-    <string name="ambilight_intro_magic_star">Usa questa modalità in luoghi con scarso inquinamento luminoso. L\'esposizione sarà impostata a %d secondi, è consigliato usare un treppiede.</string>
-    <string name="ambilight_intro_magic_star_ae">Utilizzare questa modalità in luoghi con basso inquinamento luminoso. L\'esposizione può essere impostata fino a %d secondi, quindi usare un treppiede è un\'ottima idea.</string>
-    <string name="ambilight_intro_silky_water_part1">Usa questa modalità quando scatti foto a nuvole in movimento. Dà al cielo un effetto \"pittura ad olio\".</string>
-    <string name="ambilight_intro_silky_water_part2">Questa modalità rende l\'acqua in movimento (fiumi, cascate e laghi) satinata.</string>
+    <string name="ambilight_intro_magic_star">Usa questa mod. in luoghi con scarso inquinamento luminoso. L\'esposizione sarà impostata a %d secondi, è consigliato usare un treppiede.</string>
+    <string name="ambilight_intro_magic_star_ae">Utilizzare questa mod. in luoghi con basso inquinamento luminoso. L\'esposizione può essere impostata fino a %d secondi, quindi usare un treppiede è un\'ottima idea.</string>
+    <string name="ambilight_intro_silky_water_part1">Usa questa mod. quando scatti foto a nuvole in movimento. Dà al cielo un effetto \"pittura ad olio\".</string>
+    <string name="ambilight_intro_silky_water_part2">Questa mod. rende l\'acqua in movimento (fiumi, cascate e laghi) satinata.</string>
     <string name="ambilight_intro_star_track">"Scattare al cielo stellato per lungo tempo può catturare le traiettorie delle stelle. Non dimenticare di usare un treppiede e scattare continuamente per almeno %d minuti."</string>
     <string name="ambilight_intro_star_track_2">"Usare un tempo di esposizione lungo con un cielo stellato potrebbe catturare la traiettoria delle stelle. Non dimenticare di usare un treppiede! Usa un tempo di esposizione di %d minuti per poter scattare sia foto che video."</string>
-    <string name="ambilight_intro_traffic_light">Di notte, è possibile catturare la traiettoria di luci in movimento (su auto e navi, per esempio). Questa modalità permette di visualizzare in anteprima il risultato finale sullo schermo in tempo reale.</string>
+    <string name="ambilight_intro_traffic_light">Di notte, è possibile catturare la traiettoria di luci in movimento (su auto e navi, per esempio). Questa mod. permette di visualizzare in anteprima il risultato finale sullo schermo in tempo reale.</string>
     <string name="ambilight_scene_crowd_moving">Folla in movimento</string>
     <string name="ambilight_scene_light_track">Dipinto lucente</string>
     <string name="ambilight_scene_magic_star">Cielo stellato</string>
@@ -334,6 +334,7 @@
     <string name="audio_focus_exit_button_text">Disattiva Messa a Fuoco Audio</string>
     <string name="audio_map_summary_tip">Monitora il volume dei canali sinistro e destro in tempo reale e regolalo utilizzando il cursore</string>
     <string name="auto_hibernation_enter_tip">Spegnimento dello schermo…</string>
+    <string name="autozoom_click_hint">"Tocca un oggetto per mantenerlo a fuoco mentre è in movimento. Tieniti ad almeno 3 metri di distanza per ottenere un effetto migliore."</string>
     <string name="autozoom_disabled_hint">Interruzione tracciamento dell\'oggetto in movimento</string>
     <string name="autozoom_hint">Traccia oggetto in movimento</string>
     <string name="autozoom_landscape_hint">Scatta in orizzontale per un risultato migliore</string>
@@ -433,6 +434,7 @@
     <string name="beauty_makeups_subeffect_filter">Filtri</string>
     <string name="beauty_makeups_subeffect_makeup">Trucco</string>
     <string name="beauty_makeups_toughman">Bronzo</string>
+    <string name="beauty_makeups_xiazhi">Ombretto</string>
     <string name="beauty_makeups_yanku">Regina di ghiaccio</string>
     <string name="beauty_makeups_yuanqi">Fresco</string>
     <string name="beauty_mo_fe">Naturali</string>
@@ -440,6 +442,7 @@
     <string name="beauty_mo_or">Apri il file originale</string>
     <string name="beauty_mo_pr">xxx</string>
     <string name="beauty_mode_reset_toast">Effetto Rimodellazione rimosso</string>
+    <string name="beauty_mutex_toast_tip">&lt;a href=&gt;Disattiva&lt;/a&gt; prima gli effetti di trucco</string>
     <string name="beauty_ne">Apri il file originale</string>
     <string name="beauty_no_t">Bellezza disattivata</string>
     <string name="beauty_origin_skincolor">Originale</string>
@@ -463,6 +466,7 @@
     <string name="button_fisheye_camera_title">Fish-eye</string>
     <string name="button_front_camera_title">Selfie</string>
     <string name="button_normal_video_title">Video</string>
+    <string name="camcorder_tip_8k_max_video_duration">Puoi registrare fino a %1$d minuti in 8K</string>
     <string name="camcorder_tip_current_max_video_duration">Puoi registrare fino a %d minuti di video alla risoluzione corrente</string>
     <string name="camcorder_tip_super_night_video_4k_max_video_duration">Puoi registrare fino a %d minuti in 4K</string>
     <string name="camera_disabled">La fotocamera è stata disabilitata.</string>
@@ -472,7 +476,7 @@
     <string name="camera_label">Fotocamera</string>
     <string name="camera_liveshot_off_tip">Scatti dinamici disattivati</string>
     <string name="camera_liveshot_on_tip">Scatti dinamici</string>
-    <string name="camera_mode_options">Modalità</string>
+    <string name="camera_mode_options">Mod.</string>
     <string name="camera_newcta_audio_message">Per registrare video con suono</string>
     <string name="camera_newcta_camera_message">Per scattare foto e registrare video</string>
     <string name="camera_newcta_message">"Benvenuto in Fotocamera! Puoi utilizzare questa app per scattare foto e registrare video. "</string>
@@ -481,7 +485,7 @@
     <string name="camera_setting">Fotocamera</string>
     <string name="camera_settings_category_development">Funzioni sperimentali</string>
     <string name="camera_settings_label">Fotocamera</string>
-    <string name="camera_snap_mode_title">Modalità Scatto Veloce</string>
+    <string name="camera_snap_mode_title">Mod. Scatto Veloce</string>
     <string name="camera_snap_mode_title_detail">Tocca per vedere i dettagli</string>
     <string name="cancel">Annulla</string>
     <string name="cannot_connect_camera_once">"Impossibile avviare la fotocamera"</string>
@@ -580,7 +584,7 @@
     <string name="clone_guide_title2">Clonazione nelle foto </string>
     <string name="clone_guide_title4">Come appare</string>
     <string name="clone_guide_video_title2">Clonazione nei video </string>
-    <string name="clone_landscape_hint">La clonazione funziona solo in modalità orizzontale </string>
+    <string name="clone_landscape_hint">La clonazione funziona solo in mod. orizzontale </string>
     <string name="clone_mode_start_hint">Premi il pulsante di scatto per iniziare.</string>
     <string name="clone_no_person_found">"Impossibile trovare il soggetto"</string>
     <string name="clone_offset_is_too_large">Troppo movimento. Prova a ricominciare da capo.</string>
@@ -766,15 +770,15 @@ documenti scansionati automaticamente"</string>
     <string name="dual_camera_lens_covered_toast">L\'obiettivo è coperto\".</string>
     <string name="dual_camera_lowlight_toast">"Sembra che l'ambiente sia troppo buio."</string>
     <string name="dual_camera_too_close_toast">La fotocamera è troppo vicina al soggetto.</string>
-    <string name="dual_camera_use_hint">"La modalità Dual Camera permette di esaltare il soggetto in primo piano.
+    <string name="dual_camera_use_hint">"La mod. Dual Camera permette di esaltare il soggetto in primo piano.
 Il soggetto non deve essere più lontano di 2 metri."</string>
     <string name="dual_video_record_merged">Doppia registrazione</string>
     <string name="dual_video_record_remote">Registrazione a doppio telefono</string>
     <string name="dual_video_record_standalone">Stessa registrazione</string>
-    <string name="dual_video_user_guide_main_content">Supporta l\'anteprima simultanea di entrambe le fotocamere e puoi scegliere due modalità differenti su come registrare i video.</string>
+    <string name="dual_video_user_guide_main_content">Supporta l\'anteprima simultanea di entrambe le fotocamere e puoi scegliere due mod. differenti su come registrare i video.</string>
     <string name="dual_video_user_guide_main_content_new">"I video multicamera vengono girati con più telecamere contemporaneamente.
 La registrazione a doppio telefono consente anche di connettersi all'altro dispositivo e creare un video multicamera selezionando \"Combinato\"."</string>
-    <string name="dual_video_user_guide_main_title">Introduzione alla modalità Frontale e Posteriore</string>
+    <string name="dual_video_user_guide_main_title">Introduzione alla mod. Frontale e Posteriore</string>
     <string name="dual_video_user_guide_merge_content">Registra video da 2 fotocamere contemporaneamente e salvalo come video combinato. Supporta lo split screen e la registrazione in finestra.</string>
     <string name="dual_video_user_guide_merge_content_new">Due registrazioni possono essere combinate in una vista divisa o in un video picture-in-picture.</string>
     <string name="dual_video_user_guide_remote_content">"Combina i feed da due dispositivi diversi in un video. Potrai visualizzare in anteprima entrambe le fonti e il video finale su questo dispositivo. Nota che l'audio sarà registrato solo da questo dispositivo."</string>
@@ -795,6 +799,7 @@ La registrazione a doppio telefono consente anche di connettersi all'altro dispo
     <string name="earthly_branches_you">You</string>
     <string name="earthly_branches_zi">Zi</string>
     <string name="edit_blusher">Rossetto</string>
+    <string name="edit_cheekbone">Zigomi</string>
     <string name="edit_chin">Mento</string>
     <string name="edit_color_skin">Tono della pelle</string>
     <string name="edit_eye_large">Occhi grandi</string>
@@ -802,11 +807,14 @@ La registrazione a doppio telefono consente anche di connettersi all'altro dispo
     <string name="edit_face_ruddy">Rossastro</string>
     <string name="edit_face_slender">Corpo</string>
     <string name="edit_hairline">Capelli</string>
+    <string name="edit_head_narrow">Dimensione della testa</string>
+    <string name="edit_jaw">Mascella inferiore</string>
     <string name="edit_jelly_lips">Lucidalabbra</string>
     <string name="edit_lips">Labbra</string>
     <string name="edit_makeup">Trucco</string>
     <string name="edit_neck">Collo</string>
     <string name="edit_nose">Naso</string>
+    <string name="edit_nose_tip">Punta del naso</string>
     <string name="edit_pupil_line">Eyeliner</string>
     <string name="edit_risorius">Risorio</string>
     <string name="edit_skin_smooth">Morbido</string>
@@ -814,6 +822,7 @@ La registrazione a doppio telefono consente anche di connettersi all'altro dispo
     <string name="edit_slim_nose">Naso</string>
     <string name="edit_smile">Sorriso</string>
     <string name="edit_solid">Contorno</string>
+    <string name="edit_temple">Templi</string>
     <string name="edit_touch_up">Trucco</string>
     <string name="emoticon">Pacchetto di sticker</string>
     <string name="eras_ad">AC</string>
@@ -870,6 +879,7 @@ La registrazione a doppio telefono consente anche di connettersi all'altro dispo
     <string name="film_video_d">Time lapse notturno</string>
     <string name="film_video_e">Mondo parallelo</string>
     <string name="film_video_tip">Usa un treppiede</string>
+    <string name="flat_selfie_tip_text">xxxx</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -952,7 +962,7 @@ Stampa la copia, wireless, su un foglio A4."</string>
     <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
     <string name="install_confirmed">Installa</string>
     <string name="invisible_mode_dialog_cancel">Annulla</string>
-    <string name="invisible_mode_dialog_summary">"Impossibile utilizzare la fotocamera. Disattiva la modalità Incognito nelle Impostazioni."</string>
+    <string name="invisible_mode_dialog_summary">"Impossibile utilizzare la fotocamera. Disattiva la mod. Incognito nelle Impostazioni."</string>
     <string name="invisible_mode_dialog_title">"Sei in incognito"</string>
     <string name="invisible_mode_dialog_to_close">Impostazioni</string>
     <string name="kaleidoscope_fragment_tab_name">Kaleidoscopio</string>
@@ -970,10 +980,11 @@ Pulisci l'obiettivo per un migliore effetto."</string>
     <string name="lighting_hint_too_close">Sposta la camera più lontano</string>
     <string name="lighting_hint_too_far">Avvicina la camera</string>
     <string name="lighting_hint_usage">"Puoi utilizzare gli effetti di illuminazione da Studio
-in modalità Portrait"</string>
+in mod. Portrait"</string>
     <string name="lighting_lanshan">Decadenza</string>
     <string name="lighting_movie_light_effect_title">Effetti cinematici</string>
     <string name="lighting_neon">Neon</string>
+    <string name="lighting_nostalgia">Nostalgia</string>
     <string name="lighting_pattern_dot">Punti</string>
     <string name="lighting_pattern_holi">Holi</string>
     <string name="lighting_pattern_leaf">Foglie</string>
@@ -1013,6 +1024,8 @@ in modalità Portrait"</string>
     <string name="live_reverse_message">Eliminare gli elementi precedenti?</string>
     <string name="live_share_moments">Momenti</string>
     <string name="live_share_qq">QQ</string>
+    <string name="live_share_qzone">QZone</string>
+    <string name="live_share_tik">TikTok</string>
     <string name="live_share_wechat">WeChat</string>
     <string name="live_share_weibo">WeiBo</string>
     <string name="live_speed_extreme_fast">Velocissimo</string>
@@ -1056,7 +1069,7 @@ in modalità Portrait"</string>
     <string name="lying_direct_hint">Orientamento attuale</string>
     <string name="macro_mode">Macro</string>
     <string name="macro_mode_tip">"La distanza tra l'obiettivo e l'oggetto non dovrebbe essere superiore a 10cm"</string>
-    <string name="macro_mode_use_hint_text_body">"Usa la modalità Macro per rendere gli oggetti piccoli
+    <string name="macro_mode_use_hint_text_body">"Usa la mod. Macro per rendere gli oggetti piccoli
 più grandi nelle foto"</string>
     <string name="macro_mode_use_hint_text_title">Macro</string>
     <string name="magic_video_sky_effect_type_1">xxx</string>
@@ -1069,10 +1082,14 @@ più grandi nelle foto"</string>
     <string name="makeup_effect_entry_dusk_night">Oscurità</string>
     <string name="makeup_effect_entry_neutral">Neutrale</string>
     <string name="makeup_effect_entry_palm">Palma</string>
+    <string name="makeup_effect_entry_taro">Taro</string>
+    <string name="makeup_effect_entry_vitality">Verve</string>
     <string name="makeup_reset_toast">Effetto Trucco rimosso</string>
     <string name="manual_picture_style">Parametri professionali</string>
+    <string name="manually_raw_hint">RAW</string>
+    <string name="manually_raw_tip">"Impossibile usare lo zoom con il formato RAW"</string>
     <string name="masterfilter_description_title">Filtri da film</string>
-    <string name="message_snap_double_confirm">La funzionalità attuale associata alla pressione prolungata del tasto volume è la modalità NFC, confermare la sostituzione?</string>
+    <string name="message_snap_double_confirm">La funzionalità attuale associata alla pressione prolungata del tasto volume è la mod. NFC, confermare la sostituzione?</string>
     <string name="midnight">Notte</string>
     <string name="mimoji_app_name">Mimoji</string>
     <string name="mimoji_back">Indietro</string>
@@ -1146,6 +1163,7 @@ più grandi nelle foto"</string>
     <string name="mimoji_featured_face">Viso</string>
     <string name="mimoji_fragment_tab_name">Adesivi avatar</string>
     <string name="mimoji_freckle">Lentiggini</string>
+    <string name="mimoji_gif">GIF</string>
     <string name="mimoji_gif_accelerate">Velocità</string>
     <string name="mimoji_gif_clear_bg">Rimuovi sfondo</string>
     <string name="mimoji_gif_edit_hint">Tocca per aggiungere un testo</string>
@@ -1214,6 +1232,11 @@ più grandi nelle foto"</string>
     <string name="mode_edit_cancel">Annulla</string>
     <string name="mode_edit_exit">Esci</string>
     <string name="mode_edit_exit_message">Tutte le modifiche andranno perse se esci ora. Uscire comunque?</string>
+    <string name="mode_edit_hold_on">Hai selezionato un elemento</string>
+    <string name="mode_edit_moved">Posizionato nella riga %1$d, posizione %2$d</string>
+    <string name="mode_edit_moving">Spostato alla riga %1$d, posizione %2$d</string>
+    <string name="mode_edit_photo_disable">Cattura foto interrotta</string>
+    <string name="mode_edit_video_disable">Registrazione video interrotta</string>
     <string name="module_name_beauty">Filtro bellezza</string>
     <string name="module_name_capture">Foto</string>
     <string name="module_name_clone">Clona</string>
@@ -1231,12 +1254,22 @@ più grandi nelle foto"</string>
     <string name="module_name_new_slow_motion">Slow Motion</string>
     <string name="module_name_panorama">Panoramica</string>
     <string name="module_name_pixel_108m">108MP</string>
+    <string name="module_name_pixel_48m">48MP</string>
+    <string name="module_name_pixel_50m">50MP</string>
+    <string name="module_name_pixel_64m">64MP</string>
     <string name="module_name_portrait">Ritratto</string>
     <string name="module_name_professional">Pro</string>
     <string name="module_name_scanner">Scanner</string>
     <string name="module_name_square">Quadrato</string>
     <string name="module_name_super_moon">Superluna</string>
     <string name="module_name_video">Video</string>
+    <string name="module_name_vlog">VLOG</string>
+    <string name="moiton_detection_960_fps_video_tip">xxx30</string>
+    <string name="moiton_detection_tip">xxxmd è in esecuzione</string>
+    <string name="moiton_detection_video_3840fps_3840">xxxFPS</string>
+    <string name="moiton_detection_video_electric_quantity_tip">xxxbat</string>
+    <string name="moiton_detection_video_temperature_stop_tip">xxxtemStop</string>
+    <string name="moiton_detection_video_temperature_tip">xxxtem</string>
     <string name="moive_frame">Cornice</string>
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>
@@ -1279,11 +1312,11 @@ più grandi nelle foto"</string>
     <string name="month_september_shortest">Set</string>
     <string name="moon">Luna</string>
     <string name="more">Altro</string>
-    <string name="more_mode_style">"Seleziona come vorresti organizzare tutte le modalità della fotocamera"</string>
+    <string name="more_mode_style">"Seleziona come vorresti organizzare tutte le mod. della fotocamera"</string>
     <string name="more_mode_style_popup">Pannello \"Altro\"</string>
     <string name="more_mode_style_tab">Scheda \"Altro\"</string>
     <string name="morning">Mattina</string>
-    <string name="multi_window_mode_not_supported">"La fotocamera non funziona in modalità split screen"</string>
+    <string name="multi_window_mode_not_supported">"La fotocamera non funziona in mod. split screen"</string>
     <string name="music_hint_tt">Fonte del servizio</string>
     <string name="network_access_user_notice_agree">Accetto</string>
     <string name="network_access_user_notice_message_live_video"><Data>\"La fotocamera ha bisogno di connettersi a Internet per fornire effetti, musica e altre funzionalità per i video corti.&lt;br/&gt;&lt;br/&gt;Toccando \"Accetta\" qui sotto, accetti il nostro &lt;a href =%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href =%2$s&gt;Informativa sulla privacy&lt;/a&gt;, e consenti a Fotocamera di connettersi a internet.</Data></string>
@@ -1297,16 +1330,20 @@ più grandi nelle foto"</string>
     <string name="network_connection_prerequisites_china">Attiva Bluetooth e Wi-Fi nel centro di controllo per poter utilizzare la registrazione a doppio telefono.</string>
     <string name="network_connection_rejected">Rifiutata</string>
     <string name="network_connection_timed_out">Connessione scaduta</string>
+    <string name="newbie_privacy_watermark_msg">Usa le filigrane per proteggere i tuoi documenti da copie non autorizzate</string>
+    <string name="newbie_privacy_watermark_title">Proteggi i tuoi documenti</string>
     <string name="night">Sera</string>
     <string name="no_storage">Monta l\'archivio USB prima di utilizzare la fotocamera.</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_enough_space">Scheda SD piena.</string>
     <string name="not_set">Non impostato</string>
     <string name="object_track_enable_toast">Scorri sulla schermata di anteprima per attivare il tracciamento dell\'oggetto.</string>
-    <string name="only_mimoji_multi_window_mode_not_supported">"Questa funzione non può essere utilizzata in modalità split screen"</string>
+    <string name="only_mimoji_multi_window_mode_not_supported">"Questa funzione non può essere utilizzata in mod. split screen"</string>
     <string name="pad_cannot_connect_camera_twice">"Impossibile avviare la fotocamera, riavvia il dispositivo"</string>
     <string name="pad_close_back_flash_toast">"Il dispositivo è surriscaldato. Impossibile utilizzare il flash adesso."</string>
     <string name="pad_close_night_algo_toast_thermal">Raffredda il dispositivo per poter impostare l\'esposizione</string>
+    <string name="pad_pref_camera_lying_summary">Avvisami sull\'orientamento attuale quando il dispositivo è parallelo al suolo</string>
+    <string name="pad_super_night_toast">Tieni il dispositivo fermo mentre scatti la foto</string>
     <string name="pano_click_to_toggle_direction">Tap the arrow to switch direction</string>
     <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
     <string name="pano_go_on_moving">Sposta il tuo dispositivo lungo la linea</string>
@@ -1346,14 +1383,16 @@ più grandi nelle foto"</string>
     <string name="parameter_log_format_title">Formato LOG</string>
     <string name="parameter_manual_picturestyle_description">La saturazione consente di controllare la profondità e l\'intensità dei colori, la regolazione del contrasto tira fuori o minimizza la differenza tra chiaro e scuro, e la nitidezza rende definiti i dettagli lungo i contorni.</string>
     <string name="parameter_metering_description">Il misuratore tiene conto di tutte le aree della tua immagine, lavorando meglio in scene ben illuminate. La misurazione ponderata al centro si concentra principalmente sull\'area centrale e presta la dovuta attenzione alla luminosità dell\'area circostante adatto per scattare ad oggetti al centro dell\'obiettivo. La misurazione spot copre solo l\'area in un punto, dandoti un controllo preciso sull\'esposizione.</string>
-    <string name="parameter_metering_title">Modalità di misurazione</string>
+    <string name="parameter_metering_title">Mod. di misurazione</string>
     <string name="parameter_peak_focus_description">"Quando stai mettendo a fuoco manualmente, usa Focalizzazione Focus per porre una tonalità rossa sull'area a fuoco."</string>
     <string name="parameter_peak_focus_title">Focalizzazione Focus</string>
     <string name="parameter_peak_raw_description">Questo formato immagine cattura tutti i dati immagine registrati dal sensore quando scatti una foto. Dati non compressi offrono più opzioni in post-elaborazione.</string>
     <string name="parameter_peak_raw_title">Formato RAW</string>
     <string name="parameter_videos_title">Effetti da film</string>
+    <string name="parameter_wb_description">Oltre alle impostazioni predefinite di bilanciamento del bianco (incandescente, luce diurna, fluorescente, nuvoloso), è anche possibile impostare il bilanciamento del bianco su un valore personalizzato nell\'intervallo %1$d-%2$d Kelvin.</string>
     <string name="parameter_wb_title">Bilanciamento del bianco</string>
     <string name="parameter_zoom_slider_description">Trascinare il cursore dello zoom orizzontalmente per passare in maniera fluida dalla lunga distanza a un primo piano.</string>
+    <string name="parameter_zoom_slider_title">Zoom</string>
     <string name="path_settings">Applicazioni di sistema/Fotocamera/Impostazioni</string>
     <string name="photo_assistance_tips_title">Suggerimenti in diretta</string>
     <string name="pic_flaw_blink_more">Sembra che qualcuno nell\'obiettivo abbia chiuso gli occhi</string>
@@ -1381,11 +1420,12 @@ più grandi nelle foto"</string>
     <string name="portait_effect_entry_riddle">Caramella</string>
     <string name="portait_effect_entry_romance">Romantico</string>
     <string name="portait_effect_entry_sepia">Seppia</string>
+    <string name="portait_effect_entry_shallots">Luce solare</string>
     <string name="portait_effect_entry_story">Storia</string>
     <string name="portait_effect_entry_tea">Té</string>
-    <string name="portrait_bokeh_first_tips">"Usa la Modalità Ritratto per sfocare
+    <string name="portrait_bokeh_first_tips">"Usa la Mod. Ritratto per sfocare
 lo sfondo sulle tue foto"</string>
-    <string name="portrait_bokeh_text">Modalità ritratto</string>
+    <string name="portrait_bokeh_text">Mod. ritratto</string>
     <string name="portrait_bokeh_tips">Posiziona l\'oggetto nel raggio di 1,5 metri</string>
     <string name="portrait_india_effect_entry_memory">Memoria</string>
     <string name="portrait_india_effect_entry_mono">Mono</string>
@@ -1402,9 +1442,9 @@ lo sfondo sulle tue foto"</string>
     <string name="portrait_mode_lowlight_hint">"Adesso è troppo scuro"</string>
     <string name="portrait_mode_too_close_hint">Allontanati dall\'oggetto</string>
     <string name="portrait_mode_too_far_hint">Posiziona l\'oggetto entro 2.5</string>
-    <string name="portrait_mode_use_hint">"La modalità verticale ti aiuta a sfocare lo sfondo
+    <string name="portrait_mode_use_hint">"La mod. verticale ti aiuta a sfocare lo sfondo
 per rendere il tuo corpo ancor più chiaro e meraviglioso."</string>
-    <string name="portrait_mode_use_hint_for_bokeh">"Prova la modalità Ritratto.
+    <string name="portrait_mode_use_hint_for_bokeh">"Prova la mod. Ritratto.
 Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pre_volume_gain_adjust">Regola volume</string>
     <string name="pref_960_watermark_title">Filigrana 960FPS</string>
@@ -1418,6 +1458,10 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_audio_focus_title">Messa a Fuoco Audio</string>
     <string name="pref_auto_boot">Avvio automatico</string>
     <string name="pref_auto_boot_summary">Rendi Fotocamera più reattiva consentendone l\'avvio automatico. Puoi gestire i permessi di avvio automatico nei dettagli dell\'app.</string>
+    <string name="pref_beauty_me_mp_switch_desc">Regola effetti di trucco per gli uomini sulle foto di gruppo</string>
+    <string name="pref_beauty_me_mp_switch_title">Regola gli effetti di trucco per gli uomini</string>
+    <string name="pref_beauty_nvs_wp_desc">Rimuovere i nei quando si utilizzano effetti di levigatura della pelle</string>
+    <string name="pref_beauty_nvs_wp_title">Rimuovi i nei</string>
     <string name="pref_burst_shoot_title">Scatto continuo</string>
     <string name="pref_camcorder_settings">Video</string>
     <string name="pref_camcorder_settings_category">Impostazioni fotocamera</string>
@@ -1569,7 +1613,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_focusmode_entry_macro">Macro</string>
     <string name="pref_camera_focusmode_entry_manual">Manuale</string>
     <string name="pref_camera_focusmode_entry_normal">Normale</string>
-    <string name="pref_camera_focusmode_title">Modalità Concentrazione</string>
+    <string name="pref_camera_focusmode_title">Mod. Concentrazione</string>
     <string name="pref_camera_front_ai_scene_entry_off">IA disattivata</string>
     <string name="pref_camera_front_ai_scene_entry_on">Scena IA</string>
     <string name="pref_camera_front_bokeh_entry_off">Spenta</string>
@@ -1586,7 +1630,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_heic_image_format_description2">"Il formato immagine HEIF occupa meno memoria, ma non è supportato da alcune app di terze parti. Non puoi scattare Foto Live e rimuovere la filigrana negli scatti HEIF."</string>
     <string name="pref_camera_heic_image_format_title">Formato HEIF</string>
     <string name="pref_camera_hfr_entry_off">Spenta</string>
-    <string name="pref_camera_high_quality_preferred_description">Migliorare la qualità dell\'immagine utilizzando l\'algoritmo intelligente. La velocità di acquisizione dell\'immagine potrebbe diminuire quando questa funzione è attiva. La modalità notturna verrà attivata automaticamente quando vengono rilevate condizioni di scarsa luminosità.</string>
+    <string name="pref_camera_high_quality_preferred_description">Migliorare la qualità dell\'immagine utilizzando l\'algoritmo intelligente. La velocità di acquisizione dell\'immagine potrebbe diminuire quando questa funzione è attiva. La mod. notturna verrà attivata automaticamente quando vengono rilevate condizioni di scarsa luminosità.</string>
     <string name="pref_camera_high_quality_preferred_title">Migliora la qualità dell\'immagine</string>
     <string name="pref_camera_histogram_entry_disable">Disattiva</string>
     <string name="pref_camera_histogram_entry_enable">Attiva</string>
@@ -1608,10 +1652,14 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_iso_entry_iso800">800</string>
     <string name="pref_camera_iso_title">ISO</string>
     <string name="pref_camera_iso_title_abbr">ISO</string>
+    <string name="pref_camera_iso_value_iso1600">1600</string>
+    <string name="pref_camera_iso_value_iso3200">3200</string>
+    <string name="pref_camera_iso_value_iso800">800</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_low">Bassa</string>
     <string name="pref_camera_jpegquality_entry_normal">Normale</string>
     <string name="pref_camera_jpegquality_title">Qualità</string>
+    <string name="pref_camera_jpegquality_value_normal">normale</string>
     <string name="pref_camera_live_sticker_internal_title">Strumenti magici</string>
     <string name="pref_camera_long_press_shutter_feature_title">Tieni premuto il tasto di scatto</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Scatto continuo</string>
@@ -1643,13 +1691,15 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_peak_entry_off">Spenta</string>
     <string name="pref_camera_peak_entry_on">Attivata</string>
     <string name="pref_camera_peak_title">Focalizzazione Focus</string>
+    <string name="pref_camera_picture_format_entry_raw">RAW</string>
+    <string name="pref_camera_picturesize_entry_1_1">1:1</string>
     <string name="pref_camera_picturesize_entry_fullscreen">Piena</string>
     <string name="pref_camera_picturesize_entry_standard">Normale 4:3</string>
     <string name="pref_camera_picturesize_title_simple_mode">Formato immagine</string>
-    <string name="pref_camera_portrait_mode_entry_off">Modalità ritratto disattivata</string>
-    <string name="pref_camera_portrait_mode_entry_on">Modalità ritratto attivata</string>
-    <string name="pref_camera_portrait_mode_title">Modalità ritratto</string>
-    <string name="pref_camera_portrait_with_facebeauty_title">Funzionalità Bellezza in modalità ritratto</string>
+    <string name="pref_camera_portrait_mode_entry_off">Mod. ritratto disattivata</string>
+    <string name="pref_camera_portrait_mode_entry_on">Mod. ritratto attivata</string>
+    <string name="pref_camera_portrait_mode_title">Mod. ritratto</string>
+    <string name="pref_camera_portrait_with_facebeauty_title">Funzionalità Bellezza in mod. ritratto</string>
     <string name="pref_camera_predictive_shutter_description">Traccia il movimento per minimizzare la sfocatura sulle foto di bambini, animali domestici e altri soggetti</string>
     <string name="pref_camera_predictive_shutter_title">Traccia movimento</string>
     <string name="pref_camera_proximity_lock_summary">Impedisci il funzionamento del touch quando il dispositivo si trova in tasca</string>
@@ -1695,7 +1745,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_show_gender_age_label_alias">Età</string>
     <string name="pref_camera_show_gender_age_label_on">Età e genere</string>
     <string name="pref_camera_show_gender_age_title">Età e genere</string>
-    <string name="pref_camera_snap_enable_title">Modalità Scatto Veloce</string>
+    <string name="pref_camera_snap_enable_title">Mod. Scatto Veloce</string>
     <string name="pref_camera_snap_entry_off">Spenta</string>
     <string name="pref_camera_snap_entry_summary">Premi e tieni premuto il pulsante Volume giù quando lo schermo è spento per scattare una foto</string>
     <string name="pref_camera_snap_entry_take_movie">Video</string>
@@ -1729,7 +1779,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_ubifocus_title">Rimetti a fuoco</string>
     <string name="pref_camera_ultra_wide_ldc_description">Correggi automaticamente gli oggetti distorti</string>
     <string name="pref_camera_ultra_wide_ldc_title">Correggi le distorsioni nelle foto grandangolo</string>
-    <string name="pref_camera_ultra_wide_mode_title">Modalità grandangolo</string>
+    <string name="pref_camera_ultra_wide_mode_title">Mod. grandangolo</string>
     <string name="pref_camera_video_8k_tips">8K</string>
     <string name="pref_camera_video_ai_scene_title">Scena IA</string>
     <string name="pref_camera_video_bokeh_off">Video con sfocatura disattivato</string>
@@ -1740,13 +1790,14 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_video_duration_entry_mms">30 secondi (MMS)</string>
     <string name="pref_camera_video_log_tips">LOG</string>
     <string name="pref_camera_video_sat_enable_title">Attiva la funzione Zoom Lineare nei video</string>
-    <string name="pref_camera_video_show_faceview_title">Mostra cornice sui volti in modalità video</string>
+    <string name="pref_camera_video_show_faceview_title">Mostra cornice sui volti in mod. video</string>
     <string name="pref_camera_video_tag">Consenti tag video</string>
     <string name="pref_camera_video_tag_description">Tocca \"Tag\" durante la registrazione di un video per tornare ai momenti taggati durante la riproduzione</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Scatta</string>
     <string name="pref_camera_volumekey_function_entry_timer">Conto alla rovescia</string>
     <string name="pref_camera_volumekey_function_entry_timer_new">Timer (%ds)</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
+    <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
     <string name="pref_camera_volumekey_function_title">Comportamento tasti volume</string>
     <string name="pref_camera_watermark_title">Aggiungi data</string>
     <string name="pref_camera_whitebalance_entry_auto">AUTO</string>
@@ -1773,6 +1824,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_zoom_mode_entry_wide_abbr">Grandangolo</string>
     <string name="pref_camera_zoom_mode_title">Lenti</string>
     <string name="pref_camera_zoom_mode_title_abbr">Lenti</string>
+    <string name="pref_camera_zoom_value_title">Zoom</string>
     <string name="pref_camera_zsl_entry_off">Spenta</string>
     <string name="pref_camera_zsl_entry_on">Attivata</string>
     <string name="pref_capture_settings">Fotocamera</string>
@@ -1790,6 +1842,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_e_p_s_n">Registra il suono tramite microfono esterno quando auricolari Bluetooth equipaggiati con microfono sono collegati</string>
     <string name="pref_face_beauty_title">Filtro bellezza</string>
     <string name="pref_fingerprint_capture_title">Scatto con impronta</string>
+    <string name="pref_focus_view_bg_tip">AE/AF bloccati</string>
     <string name="pref_front_denoise_summary">Ridurre il rumore generato dalla fotocamera anteriore</string>
     <string name="pref_front_denoise_title">Filtro rumore Selfie</string>
     <string name="pref_front_mirror_entry_auto">Quando il volto viene rilevato</string>
@@ -1798,7 +1851,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_front_mirror_label_auto">Auto</string>
     <string name="pref_front_mirror_title">Fotoc. frontale (effetto specchio)</string>
     <string name="pref_google_lens">Google Lens</string>
-    <string name="pref_groupshot_with_primitive_title">Salva la prima immagine nella modalità Foto di Gruppo</string>
+    <string name="pref_groupshot_with_primitive_title">Salva la prima immagine nella mod. Foto di Gruppo</string>
     <string name="pref_hdr10_hdr10plus_video_mode_description">Ottimizza i colori per i video 4K (HDR10+) e 8K (HDR10). Questa funzionalità funziona solo su dispositivi compatibili HDR10+/HDR10.</string>
     <string name="pref_hdr10_video_mode_description">Ottimizza automaticamente i colori e il contrasto per i video 4K e 8K. I video ottimizzati possono essere riprodotti solo su dispositivi compatibili HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
@@ -1812,8 +1865,8 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_live_duration_title">Durata dal vivo</string>
     <string name="pref_menu_ai_ultra_pixel_photography">IA %s</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
-    <string name="pref_module_settings">Modalità</string>
-    <string name="pref_more_mode_style_title">Modalità Fotocamera</string>
+    <string name="pref_module_settings">Mod.</string>
+    <string name="pref_more_mode_style_title">Mod. Fotocamera</string>
     <string name="pref_motioon_detection">xxxmd</string>
     <string name="pref_multi_camera_dual_video_front">Test Fotocamera anteriore</string>
     <string name="pref_multi_camera_dual_video_remote">Registrazione a doppio telefono</string>
@@ -1840,10 +1893,16 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_retain_ai_scene">Scena IA</string>
     <string name="pref_retain_ai_scene_description">Mantieni lo stato della fotocamera IA impostato durante la sessione precedente</string>
     <string name="pref_retain_beauty">Filtro bellezza</string>
-    <string name="pref_retain_camera_common_mode_summary">Apri fotocamera nella modalità utilizzata in precedenza invece di passare a \"Foto\"</string>
-    <string name="pref_retain_camera_mode_summary">Passa alla modalità utilizzata precedentemente quando apri l\'app.</string>
-    <string name="pref_retain_camera_mode_title">Salva modalità precedente</string>
+    <string name="pref_retain_beauty_description">Mantieni le preferenze della mod. Bellezza selezionate durante la sessione precedente</string>
+    <string name="pref_retain_camera_common_mode_summary">Apri fotocamera nella mod. utilizzata in precedenza invece di passare a \"Foto\"</string>
+    <string name="pref_retain_camera_mode">Mod. fotocamera</string>
+    <string name="pref_retain_camera_mode_description">Mantieni la mod. utilizzata in precedenza insieme alla selezione della fotocamera anteriore o posteriore</string>
+    <string name="pref_retain_camera_mode_summary">Passa alla mod. utilizzata precedentemente quando apri l\'app.</string>
+    <string name="pref_retain_camera_mode_title">Salva mod. precedente</string>
+    <string name="pref_retain_camera_status_description">Mantieni la mod. utilizzata in precedenza invece che ripristinare automaticamente le preferenze predefinite</string>
+    <string name="pref_retain_camera_status_title">Mantieni le impostazioni</string>
     <string name="pref_retain_live_shot">Scatti dinamici</string>
+    <string name="pref_retain_live_shot_description">Mantieni lo stato degli scatti dinamici impostato durante la sessione precedente</string>
     <string name="pref_s_n_r_s_c">Riduci il rumore nei video a seconda della scena</string>
     <string name="pref_scan_qrcode_summary">Solo la fotocamera posteriore può scansionare codici QR</string>
     <string name="pref_scan_qrcode_title">Riconoscimento codice QR</string>
@@ -1856,9 +1915,11 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_skin_beautify_smooth_title">Liscio</string>
     <string name="pref_smart_guide_title">Suggerimenti smart</string>
     <string name="pref_super_night_se_summary">Rileva automaticamente condizioni di scarsa luminosità e migliora la qualità dell\'immagine</string>
-    <string name="pref_super_night_se_title">Modalità notturna automatica</string>
+    <string name="pref_super_night_se_title">Mod. notturna automatica</string>
     <string name="pref_userdefine_watermark_title">Watermark personalizzato</string>
+    <string name="pref_video_ai_audio_effect_comparation_3d">3D</string>
     <string name="pref_video_ai_audio_effect_comparation_3d_i">Suono 3D</string>
+    <string name="pref_video_ai_audio_effect_comparation_3d_ii">Demo</string>
     <string name="pref_video_ai_audio_effect_comparation_3d_original">Apri il file originale</string>
     <string name="pref_video_ai_audio_single">Audio frontale</string>
     <string name="pref_video_captrue_ability_title">Cattura immagini durante la registrazione</string>
@@ -1873,16 +1934,35 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_video_encoder_entry_h265">H.265 Alte prestazioni</string>
     <string name="pref_video_encoder_title">Codificatore video</string>
     <string name="pref_video_focusmode_entry_auto">Tocca</string>
-    <string name="pref_video_focusmode_title">Modalità Concentrazione</string>
+    <string name="pref_video_focusmode_entry_continuous">CAF</string>
+    <string name="pref_video_focusmode_title">Mod. Concentrazione</string>
     <string name="pref_video_hfr_title">Video HFR</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080p, %dfps</string>
+    <string name="pref_video_quality_entry_1080p_24fps">Full HD, 1080p, 24 fotogrammi al secondo</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, %dfps</string>
     <string name="pref_video_quality_entry_480p">SD (480p)</string>
+    <string name="pref_video_quality_entry_4kuhd">UHD 4K, %dfps</string>
+    <string name="pref_video_quality_entry_4kuhd_24fps">Ultra HD, 4K, 24 fotogrammi al secondo</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, %dfps</string>
+    <string name="pref_video_quality_entry_720p">HD 720p, %dfps</string>
+    <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
+    <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
+    <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30fps</string>
     <string name="pref_video_quality_hfr_title">Frame rate e qualità foto</string>
     <string name="pref_video_quality_sub_1080p">FHD 1080p</string>
+    <string name="pref_video_quality_sub_120fps">120fps</string>
+    <string name="pref_video_quality_sub_24fps">24fps</string>
+    <string name="pref_video_quality_sub_30fps">30fps</string>
+    <string name="pref_video_quality_sub_4k">UHD 4K</string>
+    <string name="pref_video_quality_sub_60fps">60fps</string>
     <string name="pref_video_quality_sub_720p">HD 720p</string>
+    <string name="pref_video_quality_sub_8k">UHD 8K</string>
     <string name="pref_video_quality_title">Qualità video</string>
     <string name="pref_video_speed_entry_fast">Veloce</string>
     <string name="pref_video_speed_entry_normal">Normale</string>
     <string name="pref_video_speed_entry_slow">Lento</string>
+    <string name="pref_video_speed_fast_title">Time-lapse</string>
+    <string name="pref_video_speed_slow_title">Slow-motion</string>
     <string name="pref_video_subtitle">Sottotitoli</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">10X (intervallo %.1f-secondi)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_120">120X (intervallo %d-secondi)</string>
@@ -1906,9 +1986,11 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="prek_b_j_o">Ricrea l\'effetto stereo surround</string>
     <string name="prek_b_j_p">Riduci l\'impatto del vento sulla registrazione del suono</string>
     <string name="prep_video_ai_audio_new_desc_tip">I suoni dal soggetto inquadrato sono stati migliorati</string>
-    <string name="prep_video_ai_audio_new_desc_tip_alone">I suoni dal soggetto messo a fuoco sono migliorati in modalità orizzontale</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">I suoni dal soggetto messo a fuoco sono migliorati in mod. orizzontale</string>
+    <string name="prep_video_ai_audio_new_mutex_tip">"Impossibile utilizzare lo zoom audio"</string>
     <string name="prep_video_ai_audio_single_desc_tip">I suoni da dietro lo schermo sono filtrati</string>
-    <string name="prep_video_ai_audio_single_desc_tip_alone">I suoni da dietro lo schermo sono filtrati in modalità orizzontale</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">I suoni da dietro lo schermo sono filtrati in mod. orizzontale</string>
+    <string name="prep_video_ai_audio_single_mutex_tip">"Impossibile registrare l'audio frontale"</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Lo zoom audio non funziona con il monitoraggio in-ear in tempo reale e il microfono esterno"</string>
     <string name="preparing_sd">Preparo scheda SD...</string>
     <string name="preview_back_pressed_hint">Tocca di nuovo per tornare all\'anteprima</string>
@@ -1916,10 +1998,10 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="process_tips_1">"Non piegare il dispositivo fino a quando il video non viene salvato"</string>
     <string name="process_tips_2">"Non aprire il dispositivo fino a quando il video non viene salvato"</string>
     <string name="professional_shortcut_short">Pro</string>
-    <string name="recommend_macro_mode">Prova la modalità Macro</string>
-    <string name="recommend_portrait">Prova la modalità Ritratto</string>
+    <string name="recommend_macro_mode">Prova la mod. Macro</string>
+    <string name="recommend_portrait">Prova la mod. Ritratto</string>
     <string name="recommend_soft_light_tip">Attiva flash</string>
-    <string name="recommend_super_night">Prova la modalità notturna</string>
+    <string name="recommend_super_night">Prova la mod. notturna</string>
     <string name="record_back_pressed_hint">Premi di nuovo per interrompere la registrazione</string>
     <string name="remote_device_type_phone">Xiaomi</string>
     <string name="remote_online_connecting">Seleziona il dispositivo da collegare</string>
@@ -1969,7 +2051,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="simple_mode_button_text_magic_mirror">Disattiva specchio magico</string>
     <string name="simple_mode_button_text_manual">Disattiva Mod. Manuale</string>
     <string name="simple_mode_button_text_panorama">Disattiva Mod. Panorama</string>
-    <string name="simple_mode_button_text_scene">Disattiva Modalità scena</string>
+    <string name="simple_mode_button_text_scene">Disattiva Mod. scena</string>
     <string name="simple_mode_button_text_slow_video">Disattiva Time-lapse</string>
     <string name="simple_mode_button_text_square">Disattiva Quadrato</string>
     <string name="simple_mode_button_text_stereo_mode">Disattiva Stereo</string>
@@ -2023,8 +2105,10 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="super_eis_disabled_hint">EIS disattivo</string>
     <string name="super_eis_pro">EIS Pro</string>
     <string name="super_eis_pro_disabled_hint">Stabilità video Pro disattivata</string>
+    <string name="super_macro_mode">Super macro</string>
     <string name="super_moon">Superluna</string>
     <string name="super_moon_black_cat">Gatto</string>
+    <string name="super_moon_branch_bird">Nightingale</string>
     <string name="super_moon_cable_car">Funivia</string>
     <string name="super_moon_climb">Scalata</string>
     <string name="super_moon_flight">Volo</string>
@@ -2037,11 +2121,12 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="super_moon_window">Finestra</string>
     <string name="super_night_hint">Ottimizzazione dell\'immagine… Mantieni il dispositivo stabile.</string>
     <string name="super_night_owl_toast">Tieni fermo il telefono</string>
-    <string name="super_night_se_tip">Modalità notturna</string>
+    <string name="super_night_se_tip">Mod. notturna</string>
     <string name="super_night_toast">Mantieni fermo il telefono</string>
     <string name="tap_to_exposure">Tocca per passare all\'esposizione manuale.</string>
     <string name="tap_to_focus">Tocca per mettere a fuoco</string>
     <string name="text_ai_scene_selector_text_off">CONTRO-GIORNO</string>
+    <string name="text_ai_scene_selector_text_on">SILHOUETTE</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
     <string name="the_arbor_day">Giorno dei mestieri</string>
@@ -2091,7 +2176,11 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="timbre_girl">Ragazza</string>
     <string name="timbre_lady">Signora</string>
     <string name="timbre_normal">Originale</string>
+    <string name="timbre_robot">Robot</string>
+    <string name="time_freeze_action_end_tip">Tocca il pulsante per scongelare lo sfondo</string>
+    <string name="time_freeze_action_start_tip">Tocca il pulsante per congelare lo sfondo</string>
     <string name="time_freeze_adjust_button_title">Correggi</string>
+    <string name="time_freeze_clipbox_tint">Congela</string>
     <string name="time_lapse_error">"Dimensione video non valida per il Time-lapse."</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="time_stamp_date_format">dd/MM/yyyy</string>
@@ -2120,25 +2209,30 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="ubifocus_capture_warning_message">Per apprezzare al meglio UFocus l\'inquadratura deve contenere soggetti vicini e lontani</string>
     <string name="ultra_ai_pixel_photography_close_tip">IA %s Ultra HD è spento</string>
     <string name="ultra_ai_pixel_photography_open_tip">IA %s Ultra HD</string>
+    <string name="ultra_pixel_100mp">100MP</string>
     <string name="ultra_pixel_108mp">108MP</string>
+    <string name="ultra_pixel_32mp">32MP</string>
+    <string name="ultra_pixel_48mp">48MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+    <string name="ultra_pixel_64mp">64MP</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD è disattivato</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD è attivo</string>
     <string name="ultra_pixel_portrait_hint">Ritratto basse luci</string>
-    <string name="ultra_pixel_zoom_no_support_tip">"Lo zoom non funziona in %s modalità Ultra HD"</string>
+    <string name="ultra_pixel_zoom_no_support_tip">"Lo zoom non funziona in %s mod. Ultra HD"</string>
     <string name="ultra_tele_use_hint_text_body">"Usa lo zoom 50X per catturare oggetti distanti
 con maggiori dettagli"</string>
     <string name="ultra_tele_use_hint_text_title">Zoom 50X</string>
-    <string name="ultra_wide_bokeh_close_tip">Modalità corpo intero disattivata</string>
-    <string name="ultra_wide_bokeh_open_tip">Modalità corpo intero</string>
-    <string name="ultra_wide_close_tip">Modalità randangol disattivata</string>
+    <string name="ultra_wide_bokeh_close_tip">Mod. corpo intero disattivata</string>
+    <string name="ultra_wide_bokeh_open_tip">Mod. corpo intero</string>
+    <string name="ultra_wide_close_tip">Mod. randangol disattivata</string>
     <string name="ultra_wide_mode">Grandangolo</string>
-    <string name="ultra_wide_mode_use_hint_text">"Usa questa modalità per aumentare il campo della scena nella tua foto.
-La modalità grandangolo è d'aiuto quando non puoi muoverti più lontano dalla scena."</string>
-    <string name="ultra_wide_mode_use_hint_text_sat">"Prova la modalità grandangolo 0.6X per includere più sfondo nella tua foto.
-La modalità ultra grandangolo è d'aiuto quando non puoi muoverti più lontano dalla scena."</string>
-    <string name="ultra_wide_open_tip">Modalità grandangolo</string>
+    <string name="ultra_wide_mode_use_hint_text">"Usa questa mod. per aumentare il campo della scena nella tua foto.
+La mod. grandangolo è d'aiuto quando non puoi muoverti più lontano dalla scena."</string>
+    <string name="ultra_wide_mode_use_hint_text_sat">"Prova la mod. grandangolo 0.6X per includere più sfondo nella tua foto.
+La mod. ultra grandangolo è d'aiuto quando non puoi muoverti più lontano dalla scena."</string>
+    <string name="ultra_wide_open_tip">Mod. grandangolo</string>
     <string name="ultra_wide_open_tip_sat">Ultra Grandangolo 0.6X</string>
-    <string name="ultra_wide_recommend_tip_hint">Prova la modalità grandangolo</string>
+    <string name="ultra_wide_recommend_tip_hint">Prova la mod. grandangolo</string>
     <string name="ultra_wide_recommend_tip_hint_sat">Passa a Ultra Grandangolo 0.6X</string>
     <string name="unknow_error">Errore sconosciuto</string>
     <string name="unsupported_microphones_3d_record_tips">"L'audio 3D non è supportato su microfoni esterni"</string>
@@ -2160,6 +2254,7 @@ La modalità ultra grandangolo è d'aiuto quando non puoi muoverti più lontano 
     <string name="video_bokeh_blur">Sfocatura</string>
     <string name="video_bokeh_color_point">Selezione colore</string>
     <string name="video_bokeh_spin">Gira</string>
+    <string name="video_bokeh_zoom">Zoom</string>
     <string name="video_bokeh_zoom_in">Aumenta zoom</string>
     <string name="video_bokeh_zoom_out">Riduci zoom</string>
     <string name="video_camera_label">Video</string>
@@ -2187,6 +2282,7 @@ La modalità ultra grandangolo è d'aiuto quando non puoi muoverti più lontano 
     <string name="video_effect_entry_meet_describe">Colori morbidi ricreano l\'aspetto nostalgico dei film girati su pellicola.</string>
     <string name="video_effect_entry_northern_europe">Nordico</string>
     <string name="video_effect_entry_northern_europe_describe">Una bassa saturazione e contrasto portano Noir Nordico in ambienti nuvolosi e interni con luce soffusa.</string>
+    <string name="video_effect_entry_polaroid">Polaroid</string>
     <string name="video_effect_entry_rome">Roma</string>
     <string name="video_effect_entry_rome_describe">Una monocromia retrò funziona per la maggior parte delle scene.</string>
     <string name="video_effect_entry_summer_day">Estate</string>
@@ -2194,16 +2290,24 @@ La modalità ultra grandangolo è d'aiuto quando non puoi muoverti più lontano 
     <string name="video_effect_entry_wind_sing">Brezza</string>
     <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
     <string name="video_hdr10_tip">HDR10</string>
+    <string name="video_hdr10plus_tip">HDR10+</string>
+    <string name="video_hybrid_tip">HLG</string>
+    <string name="video_overheat_tip_content">Sembra che il tuo dispositivo sia troppo caldo. Prova a girare il video con una risoluzione inferiore.</string>
     <string name="video_reach_size_limit">Limite dimensioni raggiunto.</string>
     <string name="video_shortcut_short">Video</string>
+    <string name="video_tag_flag_title">Tag</string>
+    <string name="video_true_colour_fourcc">tc</string>
+    <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">IA 8K</string>
     <string name="view_privacy_policy">Visualizza Informativa sulla Privacy</string>
     <string name="vv_duartion_hint">%1$s | Segmento %2$d | %3$ss</string>
-    <string name="vv_hint">È possibile registrare vlog solo in modalità orizzontale</string>
+    <string name="vv_hint">È possibile registrare vlog solo in mod. orizzontale</string>
+    <string name="vv_mode_menu_item_name">VLOG</string>
     <string name="vv_stability_hint">Mantieni stabile il dispositivo</string>
     <string name="vv_start">Registra vlog</string>
-    <string name="vv_use_hint_text_body">"La modalità Vlog ti permette di
+    <string name="vv_use_hint_text_body">"La mod. Vlog ti permette di
 registrare e modificare video al volo"</string>
+    <string name="vv_use_hint_text_title">VLOG</string>
     <string name="wait">Attendi…</string>
     <string name="warm_prompt">Suggerimenti</string>
     <string name="watermark_count_format" formatted="false">%d/%d</string>

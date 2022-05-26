@@ -70,7 +70,7 @@ Nessun aggiornamento sarà disponibile per te!"</string>
     <string name="permlab_reboot">Accesso al riavvio</string>
     <string name="pick_not_found">Nessun gestore file adatto è stato trovato.</string>
     <string name="pick_title">Scegli utilizzando:</string>
-    <string name="recovery_desc">Il dispositivo verrà riavviato in modalità recovery ora se non hai familiarità con questa modalità annulla le azioni future. Continuare?</string>
+    <string name="recovery_desc">Il dispositivo verrà riavviato in mod. recovery ora se non hai familiarità con questa mod. annulla le azioni future. Continuare?</string>
     <string name="server_error">Il server non risponde, l\'applicazione potrebbe non funzionare correttamente!</string>
     <string name="share_desc">La MIUI è stata aggiornata alla versione %1$s, controlla le novità: %2$s</string>
     <string name="share_title">Condividi con</string>

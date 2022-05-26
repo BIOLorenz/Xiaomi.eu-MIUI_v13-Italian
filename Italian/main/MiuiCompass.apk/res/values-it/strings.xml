@@ -33,6 +33,7 @@
     <string name="altitude_uncalibrate_msg">"Impossibile calibrare l'altitudine senza una connessione dati o GPS."</string>
     <string name="altitude_uncalibrate_refresh">Riprova</string>
     <string name="altitude_uncalibrate_tip">Impossibile calibrare l\'altitudine</string>
+    <string name="angle">%.0f</string>
     <string name="app_description_content">"La bussola è utilizzata per orientarsi ed indicare le direzioni. Assicurati di non aver bisogno di queste funzionalità prima di disinstallare questa app."</string>
     <string name="app_description_title">Informazioni</string>
     <string name="app_label">Bussola</string>
@@ -43,6 +44,7 @@
     <string name="calibrate_success">Calibrazione completata</string>
     <string name="calibrate_tip">Inclina il dispositivo per ruotare la sfera intorno al cerchio</string>
     <string name="calibrate_title">Calibrazione bussola</string>
+    <string name="calibrating">Calibrazione Bussola</string>
     <string name="cancel">Annulla</string>
     <string name="cannot_get_location">--</string>
     <string name="chinese_day_1">1</string>
@@ -206,6 +208,7 @@
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
     <string name="keywords_search_compass">Bussola;Calibra bussola;Pressione;Altitudine;Latitudine;Longitudine;Controlla longititude; Controlla latitudine;MIUI Compass;App bussola;MIUI Compass app;Dov\'è la bussola;Download bussola;Pressione atmosferica;Controlla altitudine;Qual è l\'altitudine</string>
+    <string name="latitude">LAT</string>
     <string name="location_east">E</string>
     <string name="location_enable">Consenti</string>
     <string name="location_enable_later">Più tardi</string>
@@ -216,6 +219,7 @@
     <string name="location_not_enabled_title">Servizi di localizzazione</string>
     <string name="location_south">S</string>
     <string name="location_west">O</string>
+    <string name="longitude">LON</string>
     <string name="midnight">Notte</string>
     <string name="miuix_access_state_desc">Selezionato</string>
     <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
@@ -285,6 +289,10 @@
     <string name="month_september_shortest">Set</string>
     <string name="more">Altro</string>
     <string name="morning">Mattina</string>
+    <string name="new_cta_app_purpose">visualizza direzione e coordinate</string>
+    <string name="new_cta_v2_app_purpose">Indicazione di direzioni, coordinate, pressione atmosferica e altitudine attuale</string>
+    <string name="new_permission_camera_desc">Per calibrazione</string>
+    <string name="new_permission_location_desc">Per visualizzare le coordinate</string>
     <string name="night">Sera</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_allowed">Non concesso</string>
@@ -304,6 +312,7 @@
     <string name="preference_privacy_title">Informativa sulla Privacy</string>
     <string name="pressure">%.1f</string>
     <string name="pressure_title">PRESSIONE</string>
+    <string name="pressure_unit">hPa</string>
     <string name="remove_icon_description_content">"Bussola è un'app di sistema. Non sarai in grado di usarla per controllare direzione, coordinate, pressione atmosferica e altitudine dopo aver rimosso il collegamento dalla schermata iniziale."</string>
     <string name="remove_icon_description_title">Rimuovere \"Bussola\" dalla schermata Home?</string>
     <string name="saturday">Sabato</string>

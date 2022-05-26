@@ -102,7 +102,7 @@
     <string name="copy">Copia</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"Per accedere al numero di telefono al fine di individuare questo dispositivo quando non è connesso a Internet"</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">"Per localizzare questo dispositivo quando non è connesso a Internet"</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Per localizzare il dispositivo e passare alla modalità perso</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Per localizzare il dispositivo e passare alla mod. perso</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="default_debt_msg_words">"Questo dispositivo è bloccato per via di un ritardo nei pagamenti.

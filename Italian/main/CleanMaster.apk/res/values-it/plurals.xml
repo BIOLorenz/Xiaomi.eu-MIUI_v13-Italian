@@ -74,10 +74,6 @@
         <item quantity="other">&lt;Data&gt;Puoi eliminare i dati di &lt;font color=#0097FF&gt;%d&lt;/font&gt; app&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;Puoi eliminare i dati di &lt;font color=#0097FF&gt;%d&lt;/font&gt; app&lt;/Data&gt;</item>
     </plurals>
-    <plurals name="dc_item_summary_app_reset">
-        <item quantity="other">&lt;Data&gt;&lt;font color=#0097FF&gt;%d&lt;/font&gt; app utilizzano molto memoria&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;&lt;font color=#0097FF&gt;%d&lt;/font&gt; app utilizza molto memoria&lt;/Data&gt;</item>
-    </plurals>
     <plurals name="dc_item_summary_image">
         <item quantity="other">&lt;Data&gt;Puoi eliminare &lt;font color=#0097FF&gt;%d&lt;/font&gt; foto non necessarie&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;Puoi eliminare &lt;font color=#0097FF&gt;%d&lt;/font&gt; foto non necessarie&lt;/Data&gt;</item>

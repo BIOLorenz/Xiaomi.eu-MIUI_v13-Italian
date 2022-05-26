@@ -102,9 +102,10 @@
     <string name="com_miui_screenrecorder">Registra Schermo</string>
     <string name="com_miui_virtualsim">Mi Roaming</string>
     <string name="com_miui_weather2">Meteo</string>
-    <string name="com_xiaomi_drivemode">Modalità Auto</string>
+    <string name="com_xiaomi_drivemode">Mod. Auto</string>
     <string name="com_xiaomi_gamecenter">Giochi</string>
     <string name="com_xiaomi_jr">Mi Finanza</string>
+    <string name="com_xiaomi_midrop">ShareMe</string>
     <string name="com_xiaomi_scanner">Scanner</string>
     <string name="com_xiaomi_shop">Mi Store</string>
     <string name="com_xiaomi_youpin">Youpin</string>
@@ -112,7 +113,10 @@
     <string name="copyright">Copyright</string>
     <string name="country_name_ac">CA</string>
     <string name="country_name_ad">Annuncio</string>
+    <string name="country_name_ag">AG</string>
     <string name="country_name_ai">IA</string>
+    <string name="country_name_cu">CU</string>
+    <string name="country_name_gq">GQ</string>
     <string name="country_name_im">Chat</string>
     <string name="country_name_kg">Kg</string>
     <string name="country_name_km">Km</string>
@@ -120,7 +124,10 @@
     <string name="country_name_mt">MT</string>
     <string name="country_name_ne">NO</string>
     <string name="country_name_nl">N</string>
+    <string name="country_name_no">NO</string>
+    <string name="country_name_nr">NR</string>
     <string name="country_name_se">S-E</string>
+    <string name="country_name_sm">SM</string>
     <string name="country_name_sv">SV</string>
     <string name="date_picker_dialog_title">Imposta data</string>
     <string name="date_picker_lunar">Calendario cinese tradizionale</string>
@@ -276,7 +283,7 @@
     <string name="send_sms_for_sync_title">Avviso sull\'utilizzo dei dati</string>
     <string name="sim_changed_reactivate_int_notice">È richiesto l\'invio di un SMS internazionale per riattivare questo servizio. Il tuo operatore potrebbe addebitarti il costo del messaggio.</string>
     <string name="sim_changed_reactivate_notice">È richiesto l\'invio di un SMS per riattivare questo servizio. Il tuo operatore potrebbe addebitarti il costo del messaggio.</string>
-    <string name="sim_in_airplane_mode">Disattiva la modalità aereo.</string>
+    <string name="sim_in_airplane_mode">Disattiva la mod. aereo.</string>
     <string name="sim_locked">SIM bloccata.</string>
     <string name="sim_not_ready">SIM in uso. Riprova più tardi.</string>
     <string name="sim_unavailable">Scheda SD non disponibile.</string>

@@ -39,9 +39,9 @@
     <string name="animal_item">Ordina</string>
     <string name="animal_select_alert_info">È possibile selezionare fino a 5 animali</string>
     <string name="anti_flicker_mode">Anti-sfarfallio</string>
-    <string name="anti_flicker_mode_categroy">Modalità</string>
+    <string name="anti_flicker_mode_categroy">Mod.</string>
     <string name="anti_flicker_mode_summary">Riduce il flicker in condizioni di scarsa luminosità per ridurre lo stress agli occhi. Alcuni elementi potrebbero non essere visualizzati correttamente.</string>
-    <string name="anti_flicker_title">Modalità anti-sfarfallìo</string>
+    <string name="anti_flicker_title">Mod. anti-sfarfallìo</string>
     <string name="app_name">Impostazioni</string>
     <string name="application_sound">Notifiche app</string>
     <string name="apply_ringtone">Applica</string>
@@ -211,12 +211,12 @@
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="dc_light_hint_enable_title">Attenzione</string>
     <string name="dc_light_hint_normal">DC Dimming potrebbe influenzare il modo in cui vengono visualizzati alcuni elementi.</string>
-    <string name="dc_light_hint_normal_anit">La modalità anti-sfarfallio potrebbe influire sulla modalità di visualizzazione di alcuni elementi.</string>
-    <string name="dc_light_hint_normal_other">La modalità anti-sfarfallio potrebbe influire sulla frequenza di aggiornamento e sulla modalità di visualizzazione di alcuni elementi.</string>
+    <string name="dc_light_hint_normal_anit">La mod. anti-sfarfallio potrebbe influire sulla mod. di visualizzazione di alcuni elementi.</string>
+    <string name="dc_light_hint_normal_other">La mod. anti-sfarfallio potrebbe influire sulla frequenza di aggiornamento e sulla mod. di visualizzazione di alcuni elementi.</string>
     <string name="dc_light_hint_other">DC Dimming potrebbe influenzare la frequenza di aggiornamento e il modo in cui alcuni elementi vengono visualizzati.</string>
-    <string name="dc_light_hint_unnormal_low">La modalità anti-sfarfallio con luce scarsa potrebbe influire sulla modalità di visualizzazione di alcuni elementi.</string>
-    <string name="dc_light_hint_unnormal_other">La modalità anti-sfarfallio con luce scarsa potrebbe influire sulla frequenza di aggiornamento e sulla modalità di visualizzazione di alcuni elementi.</string>
-    <string name="dc_lignt_enable_hint">La modalità Anti-flicker imposterà la velocità di aggiornamento dello schermo a 60 Hz. Passare alla modalità Anti-flicker?</string>
+    <string name="dc_light_hint_unnormal_low">La mod. anti-sfarfallio con luce scarsa potrebbe influire sulla mod. di visualizzazione di alcuni elementi.</string>
+    <string name="dc_light_hint_unnormal_other">La mod. anti-sfarfallio con luce scarsa potrebbe influire sulla frequenza di aggiornamento e sulla mod. di visualizzazione di alcuni elementi.</string>
+    <string name="dc_lignt_enable_hint">La mod. Anti-flicker imposterà la velocità di aggiornamento dello schermo a 60 Hz. Passare alla mod. Anti-flicker?</string>
     <string name="delete_first_to_add_animal">Per aggiungere un nuovo animale, eliminane prima uno.</string>
     <string name="desktop_widget_authorization">Tocca per concedere i permessi per visualizzare le statistiche</string>
     <string name="desktop_widget_authorization_new">Tocca per visualizzare le statistiche di schermo attivo</string>
@@ -251,7 +251,7 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="eras_bc">DC</string>
     <string name="ermine">Ermellino</string>
     <string name="evening">Pomeriggio</string>
-    <string name="exit_easymode">Disattiva Modalità Semplificata</string>
+    <string name="exit_easymode">Disattiva Mod. Semplificata</string>
     <string name="exo_controls_cc_disabled_description">Abilita sottotitoli</string>
     <string name="exo_controls_cc_enabled_description">Disabilita sottotitoli</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
@@ -280,14 +280,16 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="exo_controls_shuffle_on_description">Riproduzione Casuale</string>
     <string name="exo_controls_stop_description">Interrompi</string>
     <string name="exo_controls_time_placeholder">00:00:00</string>
-    <string name="exo_controls_vr_description">Modalità VR</string>
+    <string name="exo_controls_vr_description">Mod. VR</string>
     <string name="exo_download_completed">Download completato</string>
     <string name="exo_download_description">Scarica</string>
     <string name="exo_download_downloading">In download</string>
     <string name="exo_download_failed">Download non riuscito</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -346,7 +348,7 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="focus_mode_timer_exist">Questa sessione esiste già</string>
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d a %d minuti</string>
     <string name="focus_mode_timer_pick_dialog_title">Inserisci durata</string>
-    <string name="focus_time_exception_tip">Sembra che l\'ora di sistema sia cambiata. Modalità Focus disattivata.</string>
+    <string name="focus_time_exception_tip">Sembra che l\'ora di sistema sia cambiata. Mod. Focus disattivata.</string>
     <string name="follow_sim1">Applica impostazioni SIM 1</string>
     <string name="fps_high">Alta</string>
     <string name="fps_nature_summary">Una frequenza di aggiornamento elevata fa sembrare tutto nitido e fluido</string>
@@ -671,7 +673,7 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="spur_winged_plover">Pavoncella spinosa</string>
     <string name="srgb_color_region">sRGB</string>
     <string name="srgb_color_region_summary">Visualizza tutto il contenuto dello schermo nella gamma di colori sRGB</string>
-    <string name="start_easymode">Attiva Modalità Semplificata</string>
+    <string name="start_easymode">Attiva Mod. Semplificata</string>
     <string name="steady_on_screen_notification_title">Metti giù il telefono e fai una pausa</string>
     <string name="steady_on_screen_notification_title_pad">Metti giù il dispositivo e fai una pausa</string>
     <string name="steady_on_screen_notify">Notifica utilizzo ininterrotto</string>
@@ -736,7 +738,7 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="thursday_shortest">Gio</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="time_placeholder">--</string>
-    <string name="title_activity_easy_mode">Modalità semplificata</string>
+    <string name="title_activity_easy_mode">Mod. semplificata</string>
     <string name="title_mix_match_sound">Mix naturale</string>
     <string name="title_mix_match_tips">Tocca gli animali per ascoltare i loro versi. Puoi aggiungere fino a 5 animali al mix.</string>
     <string name="title_submit_mix_match">Tocca \"Applica\" per impostare una suoneria generale.</string>
@@ -786,7 +788,7 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="usage_beat_fans">Meglio di %s Mi Fan</string>
     <string name="usage_continuous_days">Serie</string>
     <string name="usage_creating_weekly_report">Creazione report settimanale…</string>
-    <string name="usage_cta_desc">"Benvenuto in Impostazioni! Per fornirti le statistiche di Schermo attivo e modalità Concentrazione, questa app deve raccogliere i seguenti dati: il numero di volte in cui sblocchi il dispositivo, l'elenco delle tue app e alla durata di utilizzo corrispondente, il numero di volte in cui lo schermo si accende, e le impostazioni della modalità Concentrazione. I dati raccolti verranno archiviati solo localmente su questo dispositivo.
+    <string name="usage_cta_desc">"Benvenuto in Impostazioni! Per fornirti le statistiche di Schermo attivo e mod. Concentrazione, questa app deve raccogliere i seguenti dati: il numero di volte in cui sblocchi il dispositivo, l'elenco delle tue app e alla durata di utilizzo corrispondente, il numero di volte in cui lo schermo si accende, e le impostazioni della mod. Concentrazione. I dati raccolti verranno archiviati solo localmente su questo dispositivo.
 "</string>
     <string name="usage_current_week_usage">%s in media negli ultimi 7 giorni</string>
     <string name="usage_device_limit_app_prolong">Aggiungi tempo</string>
@@ -799,7 +801,7 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="usage_device_limit_notifation_title">Tempo rimanente oggi</string>
     <string name="usage_device_limit_time_over">"Hai raggiunto il limite di oggi (%1$s)"</string>
     <string name="usage_exit">Esci</string>
-    <string name="usage_focus_focus_premission_main_summary">Questa app ha bisogno di accedere alle informazioni del tuo account per registrare le statistiche di utilizzo della modalità Concentrazione.</string>
+    <string name="usage_focus_focus_premission_main_summary">Questa app ha bisogno di accedere alle informazioni del tuo account per registrare le statistiche di utilizzo della mod. Concentrazione.</string>
     <string name="usage_focus_focus_premission_second_summary">"Se non accetti di concedere tali autorizzazioni, non sarai in grado di utilizzare alcune funzionalità di questa app; Tuttavia, la sua funzionalità di base sarà ancora disponibile. Puoi sempre limitare le autorizzazioni o revocarla nelle Impostazioni."</string>
     <string name="usage_focus_new_summary">Diventa più attento e concentrato</string>
     <string name="usage_focus_save_success">Salvataggio in Galleria riuscito</string>
@@ -817,9 +819,9 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="usage_home_permission_account_title">Accesso alle informazioni dell\'account</string>
     <string name="usage_home_permission_phone_summary">Per identificare il tuo dispositivo tramite VAID</string>
     <string name="usage_home_permission_phone_title">Accesso alle info dispositivo</string>
-    <string name="usage_home_premission_main_summary">"Benvenuto in Benessere Digitale! È possibile utilizzare questa app per impostare i limiti di tempo di utilizzo di un'app, le statistiche di visualizzazione e passare alla modalità Concentrazione. Questa app deve raccogliere informazioni sulle volte in cui sblocchi o accendi lo schermo, così come per quanto tempo utilizzi le app per funzionare normalmente."</string>
+    <string name="usage_home_premission_main_summary">"Benvenuto in Benessere Digitale! È possibile utilizzare questa app per impostare i limiti di tempo di utilizzo di un'app, le statistiche di visualizzazione e passare alla mod. Concentrazione. Questa app deve raccogliere informazioni sulle volte in cui sblocchi o accendi lo schermo, così come per quanto tempo utilizzi le app per funzionare normalmente."</string>
     <string name="usage_home_premission_main_summary_new">"Benvenuto su Benessere Digitale!
-Per poter funzionare correttamente, quest'app deve raccogliere informazioni sulle volte in cui sblocchi o accendi lo schermo, i nomi delle app e la durata dell'utilizzo sono necessari per generare le statistiche sull'utilizzo; Le impostazioni della modalità Concentrazione sono necessarie per generare statistiche della modalità Concentrazione.
+Per poter funzionare correttamente, quest'app deve raccogliere informazioni sulle volte in cui sblocchi o accendi lo schermo, i nomi delle app e la durata dell'utilizzo sono necessari per generare le statistiche sull'utilizzo; Le impostazioni della mod. Concentrazione sono necessarie per generare statistiche della mod. Concentrazione.
 Questa app deve anche connettersi a internet e richiede le seguenti autorizzazioni per raccogliere le tue informazioni personali:"</string>
     <string name="usage_home_premission_main_summary_new_o">"Benvenuto su Benessere Digitale!
 Per poter funzionare correttamente, quest'app deve raccogliere informazioni sulle volte in cui sblocchi o accendi lo schermo, i nomi delle app e la durata dell'utilizzo sono necessari per generare le statistiche sull'utilizzo.
@@ -837,8 +839,8 @@ Questa app deve anche connettersi a internet e richiede le seguenti autorizzazio
     <string name="usage_new_home_compare_text1">%.2f più del giorno precedente</string>
     <string name="usage_new_home_compare_text2">%.2f meno del giorno precedente</string>
     <string name="usage_new_home_compare_text3">Come il giorno precedente</string>
-    <string name="usage_new_home_current_week">Questa settimana</string>
-    <string name="usage_new_home_dashboard">Cruscotto</string>
+    <string name="usage_new_home_current_week">Questa sett.</string>
+    <string name="usage_new_home_dashboard">Dashboard</string>
     <string name="usage_new_home_date_day_title">%s | Durata utilizzo</string>
     <string name="usage_new_home_day_category_title">Categorie app</string>
     <string name="usage_new_home_day_category_title_new">Tempo di utilizzo per le categorie di %s</string>
@@ -866,12 +868,12 @@ Questa app deve anche connettersi a internet e richiede le seguenti autorizzazio
     <string name="usage_new_home_week_unlock_compare_increase">(%.2f in più della settimana scorsa)</string>
     <string name="usage_new_home_week_unlock_equals_text">Come la settimana precedente</string>
     <string name="usage_new_home_week_usage_title">App singole</string>
-    <string name="usage_new_home_which_week">Settimana %d</string>
+    <string name="usage_new_home_which_week">Sett. %d</string>
     <string name="usage_no_net_summary">Controlla le tue impostazioni di rete e prova di nuovo</string>
     <string name="usage_optional_summary">"Questi permessi sono richiesti quando stai utilizzando funzionalità aggiuntive."</string>
     <string name="usage_optional_title">Permessi opzionali</string>
     <string name="usage_permisison_agree_desc_o">Per fornirti le statistiche sul Benessere Digitale, questa app deve raccogliere i seguenti dati: il numero di volte che sblocchi il dispositivo, l\'elenco delle tue app e il loro tempo di utilizzo.</string>
-    <string name="usage_permisison_agree_desc_p">Per fornire le statistiche della modalità Concentrazione e del Benessere Digitale, questa app deve raccogliere i seguenti dati: il numero di volte in cui sblocchi il dispositivo, l\'elenco delle tue app e il relativo tempo di utilizzo, il numero di volte che lo schermo si accende e le impostazioni della modalità Concentrazione.</string>
+    <string name="usage_permisison_agree_desc_p">Per fornire le statistiche della mod. Concentrazione e del Benessere Digitale, questa app deve raccogliere i seguenti dati: il numero di volte in cui sblocchi il dispositivo, l\'elenco delle tue app e il relativo tempo di utilizzo, il numero di volte che lo schermo si accende e le impostazioni della mod. Concentrazione.</string>
     <string name="usage_permission_double_link" formatted="false"><Data>\Questa app deve connettersi a Internet e raccogliere i dati personali necessari per poter funzionare. Per sapere di più sui tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro &lt;a href=\'%1s\'&gt;Contratto utente&lt;/a&gt; e &lt;a href=\'%2s\'&gt;Informativa sulla privacy&lt;/a&gt;.</Data></string>
     <string name="usage_permission_main_desc">"Benvenuto in Benessere Digitale!
 Questa app deve collegarsi a internet e richiede le seguenti autorizzazioni per essere in grado di funzionare normalmente:"</string>
@@ -918,17 +920,17 @@ Questa app deve collegarsi a internet e richiede le seguenti autorizzazioni per 
     <string name="usage_state_focus_call">Chiamata di emergenza</string>
     <string name="usage_state_focus_level1">Stella ascendente</string>
     <string name="usage_state_focus_level_summary">Livello attuale: %s</string>
-    <string name="usage_state_focus_mode_experience_warning_message">"La modalità Concentrazione consente solo di utilizzare la fotocamera e fare chiamate di emergenza. Non sarai in grado di disattivare la modalità Concentrazione mentre è attiva."</string>
-    <string name="usage_state_focus_mode_experience_warning_message_pad">"La modalità Concentrazione consente di utilizzare solo la Fotocamera. Non sarà possibile disattivare in anticipo la modalità Concentrazione."</string>
-    <string name="usage_state_focus_mode_experience_warning_message_sim_pad">"La modalità Concentrazione consente solo di utilizzare la fotocamera e fare chiamate di emergenza. Non sarai in grado di disattivare la modalità Concentrazione mentre è attiva."</string>
+    <string name="usage_state_focus_mode_experience_warning_message">"La mod. Concentrazione consente solo di utilizzare la fotocamera e fare chiamate di emergenza. Non sarai in grado di disattivare la mod. Concentrazione mentre è attiva."</string>
+    <string name="usage_state_focus_mode_experience_warning_message_pad">"La mod. Concentrazione consente di utilizzare solo la Fotocamera. Non sarà possibile disattivare in anticipo la mod. Concentrazione."</string>
+    <string name="usage_state_focus_mode_experience_warning_message_sim_pad">"La mod. Concentrazione consente solo di utilizzare la fotocamera e fare chiamate di emergenza. Non sarai in grado di disattivare la mod. Concentrazione mentre è attiva."</string>
     <string name="usage_state_focus_mode_summary">Limita tutte le funzionalità, tranne le chiamate di emergenza e la fotocamera</string>
     <string name="usage_state_focus_mode_summary1">Bell\'inizio, sei a metà</string>
     <string name="usage_state_focus_mode_summary2">Rimani concentrato</string>
     <string name="usage_state_focus_mode_summary3">Ci vuole sforzo per rimanere concentrati</string>
-    <string name="usage_state_focus_mode_title">Modalità Concentrazione</string>
-    <string name="usage_state_focus_mode_warning_message">"La modalità Concentrazione consente solo di utilizzare la fotocamera e fare chiamate di emergenza. Non sarai in grado di disattivare la modalità Concentrazione mentre è attiva."</string>
-    <string name="usage_state_focus_mode_warning_message_pad">"La modalità Concentrazione consente di utilizzare solo la Fotocamera. Non sarà possibile disattivare in anticipo la modalità Concentrazione."</string>
-    <string name="usage_state_focus_mode_warning_message_sim_pad">"La modalità Concentrazione consente solo di utilizzare la fotocamera e fare chiamate di emergenza. Non sarai in grado di disattivare la modalità Concentrazione mentre è attiva."</string>
+    <string name="usage_state_focus_mode_title">Mod. Concentrazione</string>
+    <string name="usage_state_focus_mode_warning_message">"La mod. Concentrazione consente solo di utilizzare la fotocamera e fare chiamate di emergenza. Non sarai in grado di disattivare la mod. Concentrazione mentre è attiva."</string>
+    <string name="usage_state_focus_mode_warning_message_pad">"La mod. Concentrazione consente di utilizzare solo la Fotocamera. Non sarà possibile disattivare in anticipo la mod. Concentrazione."</string>
+    <string name="usage_state_focus_mode_warning_message_sim_pad">"La mod. Concentrazione consente solo di utilizzare la fotocamera e fare chiamate di emergenza. Non sarai in grado di disattivare la mod. Concentrazione mentre è attiva."</string>
     <string name="usage_state_focus_mode_warning_title">Attenzione</string>
     <string name="usage_state_focus_success">Sfida completata</string>
     <string name="usage_state_focus_take_photo">Fotocamera</string>
@@ -947,7 +949,7 @@ Questa app deve collegarsi a internet e richiede le seguenti autorizzazioni per 
     <string name="usage_state_notification">Gestione notifiche</string>
     <string name="usage_state_notification_manager">Gestisci notifiche app</string>
     <string name="usage_state_num_level">"Livello %d: "</string>
-    <string name="usage_state_open_focus_mode">Attiva modalità Concentrazione</string>
+    <string name="usage_state_open_focus_mode">Attiva mod. Concentrazione</string>
     <string name="usage_state_over_p">Meglio di</string>
     <string name="usage_state_percent">%s%%</string>
     <string name="usage_state_remind_new_summary">Ricevi una notifica quando viene raggiunto il limite impostato</string>

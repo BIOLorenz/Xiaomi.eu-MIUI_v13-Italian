@@ -88,10 +88,6 @@
         <item quantity="other">%d minuti</item>
         <item quantity="one">%d minuto</item>
     </plurals>
-    <plurals name="minute_text">
-        <item quantity="other">" min"</item>
-        <item quantity="one">" min"</item>
-    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementi selezionati</item>
         <item quantity="one">%d elemento selezionato</item>

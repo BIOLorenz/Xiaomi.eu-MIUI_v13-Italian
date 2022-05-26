@@ -28,9 +28,9 @@ questa funzionalità verrà aggiunta automaticamente al Secondo Spazio."</string
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
-    <string name="about_ent_mode">Info sulla modalità Aziendale</string>
+    <string name="about_ent_mode">Info sulla mod. Aziendale</string>
     <string name="actionbar_button_up_description">Indietro</string>
-    <string name="activate_ent_mode">Attiva modalità Aziendale</string>
+    <string name="activate_ent_mode">Attiva mod. Aziendale</string>
     <string name="add_finger_print">Aggiungi impronta</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="air_space_created">Spazio di lavoro creato correttamente</string>
@@ -165,7 +165,7 @@ per essere in grado di visualizzarli sempre"</string>
     <string name="create_work_space">Crea spazio di lavoro</string>
     <string name="creating_app_icon">Creazione icona…</string>
     <string name="cta_declaration_agree_and_continue">Accetto</string>
-    <string name="cta_declaration_message_format" formatted="false">Devi leggere e accettare la nostra &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt; prima di usare la Modalità Aziendale. Il tuo dispositivo deve collegarsi ad internet per attivare la Modalità Aziendale. Accettare?</string>
+    <string name="cta_declaration_message_format" formatted="false">Devi leggere e accettare la nostra &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt; prima di usare la Mod. Aziendale. Il tuo dispositivo deve collegarsi ad internet per attivare la Mod. Aziendale. Accettare?</string>
     <string name="cta_declaration_title">Termini e Condizioni</string>
     <string name="current_space">Spazio attuale</string>
     <string name="dataSafe">Utilizzando il Secondo Spazio sarà come avere due dispositivi diversi.</string>
@@ -210,17 +210,17 @@ per essere in grado di visualizzarli sempre"</string>
     <string name="enable">Attiva</string>
     <string name="ent_activating">Attivazione…</string>
     <string name="ent_activation">Attiva</string>
-    <string name="ent_activation_hint">Inserisci il tuo codice aziendale insieme al codice di licenza di attivazione della modalità Aziendale. Dopo aver effettuato questo passaggio, i servizi aziendali personalizzati verranno abilitati.</string>
-    <string name="ent_activation_hint_whit_licence">"Attiva la modalità Aziendale per abilitare i servizi aziendali personalizzati.
+    <string name="ent_activation_hint">Inserisci il tuo codice aziendale insieme al codice di licenza di attivazione della mod. Aziendale. Dopo aver effettuato questo passaggio, i servizi aziendali personalizzati verranno abilitati.</string>
+    <string name="ent_activation_hint_whit_licence">"Attiva la mod. Aziendale per abilitare i servizi aziendali personalizzati.
 Assicurati che il nome della tua azienda sia corretto. Leggi e accetta le relative politiche sulla privacy prima di eseguire l'attivazione."</string>
     <string name="ent_agency_code">Codice aziendale</string>
     <string name="ent_agency_code_hint">Inserisci codice aziendale</string>
     <string name="ent_agency_code_invalid">Il codice aziendale inserito non è valido.</string>
     <string name="ent_agree_privacy_policy">"Ho letto e accettato l'informativa sulla Privacy"</string>
-    <string name="ent_app_verified">Sembra che sul dispositivo siano installate applicazioni aziendali. Attivare la modalità Aziendale?</string>
-    <string name="ent_confirm_dialog_content">"Non potrai tornare allo stato attuale del tuo sistema dopo aver attivato la modalità Aziendale. Tuttavia, tutti i tuoi dati verranno comunque memorizzati su questo dispositivo. Dovrai riavviare il dispositivo per attivare la modalità Aziendale. Attivarla ora?"</string>
+    <string name="ent_app_verified">Sembra che sul dispositivo siano installate applicazioni aziendali. Attivare la mod. Aziendale?</string>
+    <string name="ent_confirm_dialog_content">"Non potrai tornare allo stato attuale del tuo sistema dopo aver attivato la mod. Aziendale. Tuttavia, tutti i tuoi dati verranno comunque memorizzati su questo dispositivo. Dovrai riavviare il dispositivo per attivare la mod. Aziendale. Attivarla ora?"</string>
     <string name="ent_disallow_running">L\'avvio dell\'app è stato limitato</string>
-    <string name="ent_download_install_dialog_content">Dovrai installare delle app aziendali per poter attivare la modalità Aziendale. Installarle ora?</string>
+    <string name="ent_download_install_dialog_content">Dovrai installare delle app aziendali per poter attivare la mod. Aziendale. Installarle ora?</string>
     <string name="ent_download_install_dialog_title">Scarica le app aziendali</string>
     <string name="ent_downloading_message">Download %d%%</string>
     <string name="ent_error_dialog_content">Almeno uno dei codici inseriti non è corretto. Verifica i codici aziendali e di licenza e inseriscili nuovamente.</string>
@@ -232,12 +232,12 @@ Assicurati che il nome della tua azienda sia corretto. Leggi e accetta le relati
     <string name="ent_licence_code">Codice di licenza</string>
     <string name="ent_licence_code_hint">Inserisci codice di licenza</string>
     <string name="ent_licence_code_invalid">Il codice di licenza inserito non è valido.</string>
-    <string name="ent_mode_activated">Modalità aziendale attivata</string>
+    <string name="ent_mode_activated">Mod. aziendale attivata</string>
     <string name="ent_network_error">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
     <string name="ent_next_step">Successivo</string>
-    <string name="ent_privacy_policy_notice">* I dati personali durante questa modalità verranno raccolti in base alle politiche stabilite dalla tua azienda. Xiaomi non raccoglierà dati personali durante l\'utilizzo di questa modalità.</string>
+    <string name="ent_privacy_policy_notice">* I dati personali durante questa mod. verranno raccolti in base alle politiche stabilite dalla tua azienda. Xiaomi non raccoglierà dati personali durante l\'utilizzo di questa mod..</string>
     <string name="enter_air_space">Passa allo Spazio di Lavoro</string>
-    <string name="enterprise_mode">Modalità Aziendale</string>
+    <string name="enterprise_mode">Mod. Aziendale</string>
     <string name="entrance_reopen_toast_msg">É stato creato un collegamento per il Secondo Spazio a causa di differenti tipi di password</string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
@@ -734,7 +734,7 @@ per accedere dalla schermata di blocco"</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
-    <string name="undo_activated_dialog_message">"La revoca dell'autorizzazione disattiverà la modalità Aziendale ed effettuerà un ripristino alle condizioni di fabbrica. Tutte le funzioni collegate non saranno più disponibili. Xiaomi smetterà di raccogliere informazioni richieste per la modalità Aziendale (IMEI, ID dispositivo, versione di sistema, regione, etc.). Ricordiamo che Xiaomi non gestisce i dati raccolti in modalità Aziendale. Faremo del nostro meglio per notificare la disattivazione a tutte le terze parti, ma consigliamo di contattare il supervisore della tua azienda per comunicare la revoca dell'autorizzazione. Revocare l'autorizzazione ed effettuare il ripristino alle condizioni di fabbrica?"</string>
+    <string name="undo_activated_dialog_message">"La revoca dell'autorizzazione disattiverà la mod. Aziendale ed effettuerà un ripristino alle condizioni di fabbrica. Tutte le funzioni collegate non saranno più disponibili. Xiaomi smetterà di raccogliere informazioni richieste per la mod. Aziendale (IMEI, ID dispositivo, versione di sistema, regione, etc.). Ricordiamo che Xiaomi non gestisce i dati raccolti in mod. Aziendale. Faremo del nostro meglio per notificare la disattivazione a tutte le terze parti, ma consigliamo di contattare il supervisore della tua azienda per comunicare la revoca dell'autorizzazione. Revocare l'autorizzazione ed effettuare il ripristino alle condizioni di fabbrica?"</string>
     <string name="undo_activated_dialog_ok">Revoca</string>
     <string name="undo_grant_dialog_message">Xiaomi non raccoglierà più le informazioni richieste per questa funzione (IMEI, ID Dispositivo, versione del sistema, regione, etc.) dopo la revoca dei permessi. Revocarli adesso?</string>
     <string name="undo_privacy_menu">Revoca autorizzazione</string>
@@ -765,12 +765,14 @@ per accedere dalla schermata di blocco"</string>
 Alcune applicazioni clonate richiedono il supporto di Google Services Framework (Framework dei servizi) in questi casi, verrà clonato anche quello."</string>
     <string name="xspace_disable">Non creato</string>
     <string name="xspace_enable">Creato</string>
+    <string name="xspace_facebook_title">Facebook</string>
     <string name="xspace_guide_content_bound">Applicazioni disponibili</string>
     <string name="xspace_guide_des">Le app clonate consentono di utilizzare due account contemporaneamente senza passare da uno all\'altro</string>
     <string name="xspace_guide_description">"Ogni account
 merita la propria app"</string>
     <string name="xspace_guide_title">Prova le App Clonate</string>
     <string name="xspace_header">App clonate</string>
+    <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font&gt;App clonata con successo. &lt;/font&gt;&lt;font color=#0D84FF&gt;Aprila ora&lt;/font&gt;.</string>
     <string name="xspace_install_completed">Icona aggiunta alla Home</string>
     <string name="xspace_install_completed_global">Icona aggiunta al drawer</string>
@@ -793,5 +795,6 @@ merita la propria app"</string>
     <string name="xspace_uninstalling">Disinstallazione…</string>
     <string name="xspace_weibo_title">Weibo</string>
     <string name="xspace_weixin_title">WeChat</string>
+    <string name="xspace_whatsapp_title">WhatsApp</string>
     <string name="yesterday">Ieri</string>
 </resources>

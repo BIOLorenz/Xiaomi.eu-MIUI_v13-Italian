@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="animation_rate_entries">
+        <item>Relaxed</item>
+        <item>Bilanciato</item>
+        <item>Veloce</item>
+    </string-array>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
     <string-array name="drawer_alpha">
         <item>0%</item>
         <item>25%</item>
@@ -42,6 +55,13 @@
     <string-array name="gadget_weather_theme_type_entries">
         <item>Predefinita</item>
         <item>Classico</item>
+    </string-array>
+    <string-array name="icon_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
     </string-array>
     <string-array name="transformation_entries">
         <item>Classico 2</item>

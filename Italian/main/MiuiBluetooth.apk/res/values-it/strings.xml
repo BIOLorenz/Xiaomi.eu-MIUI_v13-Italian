@@ -208,6 +208,7 @@
     <string name="fast_connect_anti_lost_content">"Imposta un avviso che verrà visualizzato quando uno degli auricolari è mancante.
 Controlla le impostazioni per i dettagli."</string>
     <string name="fast_connect_bt_speaker2_name">Altoparlante portatile MI</string>
+    <string name="fast_connect_connection_fail">"Connessione fallita"</string>
     <string name="fast_connect_device_battery">Batteria</string>
     <string name="fast_connect_device_box">Custodia</string>
     <string name="fast_connect_device_box_name">Box %1$s</string>
@@ -287,7 +288,6 @@ Protocollo di connessione più veloce."</string>
     <string name="headset_device_error_disconnect">Entrambi gli auricolari si sono disconnessi. Chiudere la custodia di ricarica e riaprirla per riavviare l\'aggiornamento.</string>
     <string name="headset_device_error_failed">"Aggiornamento fallito"</string>
     <string name="headset_device_error_multconnect">"Impossibile aggiornare quando sono connessi più dispositivi"</string>
-    <string name="headset_device_error_no_device">Manca almeno un auricolare nella custodia</string>
     <string name="headset_device_error_single_device">"Impossibile aggiornare un auricolare. Associalo nuovamente."</string>
     <string name="headset_device_sync">Sincronizzazione…</string>
     <string name="headset_device_sync_donot_move_device">Sincronizzazione… Attendere che la sincronizzazione sia terminata prima di utilizzare gli auricolari.</string>

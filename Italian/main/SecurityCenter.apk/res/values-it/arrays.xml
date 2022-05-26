@@ -13,6 +13,22 @@
         <item>Infrasettimanale</item>
         <item>Personalizza</item>
     </string-array>
+    <string-array name="always_enabled_app_list">
+        <item>com.android.providers.applications</item>
+        <item>com.android.providers.calendar</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.jeejen.family.miui</item>
+        <item>com.android.providers.drm</item>
+        <item>com.android.providers.media</item>
+        <item>com.android.providers.telephony</item>
+        <item>com.android.providers.userdictionary</item>
+        <item>com.miui.providers.userbook</item>
+        <item>com.miui.providers.weather</item>
+        <item>com.miui.yellowpage</item>
+        <item>com.miui</item>
+        <item>com.google.android.packageinstaller</item>
+        <item>com.miui.core</item>
+    </string-array>
     <string-array name="app_behavior_type_menu">
         <item>Tutti i dati</item>
         <item>Avvio automatico</item>
@@ -25,13 +41,22 @@
         <item>PIN</item>
         <item>Password</item>
     </string-array>
+    <string-array name="auto_task_screen_zoom_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+    </string-array>
     <string-array name="auto_task_text_layout_size_level">
-        <item>Extra small</item>
+        <item>Molto piccolo</item>
         <item>Piccolo</item>
         <item>Media</item>
         <item>Largo</item>
-        <item>Extra large</item>
+        <item>Molto grande</item>
         <item>XXL</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Dimensione</item>
+        <item>Nome</item>
     </string-array>
     <string-array name="cellular_data_unit">
         <item>GB</item>
@@ -103,6 +128,15 @@
         <item>Sì</item>
         <item>No</item>
     </string-array>
+    <string-array name="exo_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>@string/exo_controls_playback_speed_normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
     <string-array name="gb_adv_touch_custom_level">
         <item>Più basso</item>
         <item>Bassa</item>
@@ -139,14 +173,14 @@
         <item>Priorità alle prestazioni</item>
     </string-array>
     <string-array name="pc_settings_thermal_summaries">
-        <item>Uso della modalità predefinita di controllo della temperatura</item>
+        <item>Uso della mod. predefinita di controllo della temperatura</item>
         <item>Priorità alle prestazioni</item>
     </string-array>
     <string-array name="perm_intercept_notification">
         <item>Leggi tutte le tue notifiche, incluso il contenuto dei tuoi messaggi di testo e altri elementi che potrebbero contenere informazioni personali</item>
         <item>Limita i permessi di notifica per alcune app</item>
         <item>Simula il tocco sulla notifica e apre le app</item>
-        <item>Attiva e disattiva la modalità ND</item>
+        <item>Attiva e disattiva la mod. ND</item>
     </string-array>
     <string-array name="perm_intercept_statitics">
         <item>Raccoglie i dati sui tuoi interessi e comportamenti imparando quali app usi e quanto spesso le usi</item>
@@ -169,18 +203,10 @@
         <item>Utilizzo Dati</item>
         <item>Saldo telefonico</item>
     </string-array>
-    <string-array name="sort_title">
-        <item>Ordina per stato</item>
-        <item>Ordina per nome app</item>
-        <item>Ordina per frequenza d\'uso</item>
-        <item>Ordina per memoria utilizzata</item>
-        <item>Ordina per data di installazione</item>
-    </string-array>
-    <string-array name="sort_type">
-        <item>Stato</item>
+    <string-array name="sort_type_new">
         <item>Nome app</item>
         <item>Frequenza di utilizzo</item>
-        <item>Memoria utilizzata</item>
+        <item>Used storage</item>
         <item>Data di installazione</item>
     </string-array>
     <string-array name="tether_limit_warn_type">

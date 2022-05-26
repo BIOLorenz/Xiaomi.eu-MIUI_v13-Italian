@@ -349,7 +349,7 @@
     <string name="exchange_code_dialog_title">Attenzione</string>
     <string name="exit_extreme_mode_dialog_agree">Accetto</string>
     <string name="exit_extreme_mode_dialog_cancel">Annulla</string>
-    <string name="exit_extreme_mode_dialog_title">Disattiva Modalità estrema</string>
+    <string name="exit_extreme_mode_dialog_title">Disattiva Mod. estrema</string>
     <string name="exo_controls_cc_disabled_description">Abilita sottotitoli</string>
     <string name="exo_controls_cc_enabled_description">Disabilita sottotitoli</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
@@ -376,7 +376,7 @@
     <string name="exo_controls_shuffle_on_description">Riproduzione Casuale</string>
     <string name="exo_controls_stop_description">Interrompi</string>
     <string name="exo_controls_time_placeholder">00:00:00</string>
-    <string name="exo_controls_vr_description">Modalità VR</string>
+    <string name="exo_controls_vr_description">Mod. VR</string>
     <string name="exo_download_completed">Download completato</string>
     <string name="exo_download_description">Scarica</string>
     <string name="exo_download_downloading">In download</string>
@@ -386,7 +386,9 @@
     <string name="exo_download_paused_for_network">Download in attesa della rete</string>
     <string name="exo_download_paused_for_wifi">Download in attesa del WiFi</string>
     <string name="exo_download_removing">Rimozione download</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -403,7 +405,7 @@
     <string name="exo_track_unknown">Sconosciuto</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a tendina</string>
-    <string name="extreme_mode_dialog_message">"Questa funzione non è disponibile in modalità Extreme. Disattivare la modalità Extreme per poterla utilizzare."</string>
+    <string name="extreme_mode_dialog_message">"Questa funzione non è disponibile in mod. Extreme. Disattivare la mod. Extreme per poterla utilizzare."</string>
     <string name="extreme_mode_dialog_ok">Ok</string>
     <string name="extreme_mode_dialog_title">Avviso</string>
     <string name="fail_to_add_account">"Impossibile aggiungere account"</string>
@@ -570,11 +572,11 @@ Per disattivare questa funzione, vai in Impostazioni &gt; Suoni e Vibrazione &gt
     <string name="material_minute_suffix">%1$s minuti</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
-    <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
+    <string name="material_timepicker_clock_mode_description">Passa alla mod. orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
-    <string name="material_timepicker_text_input_mode_description">Passa alla modalità di inserimento testo per inserire l\'ora.</string>
+    <string name="material_timepicker_text_input_mode_description">Passa alla mod. di inserimento testo per inserire l\'ora.</string>
     <string name="mi_wallpaper">Sfondo MIUI</string>
     <string name="midnight">AM</string>
     <string name="mine_tab_not_login">"Accedi per visualizzare.
@@ -711,6 +713,7 @@ mm"</string>
     <string name="mtrl_badge_numberless_content_description">Nuove notifiche</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Piu di %1$d nuove notifiche</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
     <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
     <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
@@ -732,9 +735,9 @@ mm"</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">dd</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a modalità inserimento calendario</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a mod. inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Passa a modalità inserimento testo</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa a mod. inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Questa suoneria verrà utilizzata per entrambe le SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">La suoneria viene applicata alla SIM 1 e alla SIM 2 allo stesso tempo.</string>
@@ -777,6 +780,7 @@ mm"</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="personalize">Personalizzazione</string>
     <string name="personalize_alarm_ringtone_title">Sveglie</string>
+    <string name="personalize_aod_title">AOD</string>
     <string name="personalize_call_ringtone_title">Suoneria</string>
     <string name="personalize_charge_style_title">Ricarica</string>
     <string name="personalize_default_font">Carattere predefinito</string>
@@ -826,7 +830,7 @@ mm"</string>
     <string name="privacy_revoke_agree_content">Revoca autorizzazione...</string>
     <string name="privacy_revoke_succeed">Consenso revocato</string>
     <string name="privacy_revoking_warning">Revoca del consenso…</string>
-    <string name="privacy_select_mode">Seleziona modalità</string>
+    <string name="privacy_select_mode">Seleziona mod.</string>
     <string name="privacy_settings">Privacy</string>
     <string name="privacy_update_prompt_title">Informativa sulla privacy aggiornata</string>
     <string name="provision_default_theme_title">Predefinita</string>
@@ -922,6 +926,7 @@ mm"</string>
     <string name="resource_detail_comment_title">Commenti</string>
     <string name="resource_detail_description_pic_text">%1$d icone totali</string>
     <string name="resource_detail_header_theme_designer_title">Autore: %1$s</string>
+    <string name="resource_detail_jump_to_online_title">Online</string>
     <string name="resource_detail_jump_to_same_author_title">Stesso autore</string>
     <string name="resource_detail_recommend_desiner_other_themes">Altri temi realizzati da %1$s</string>
     <string name="resource_detail_recommend_other_themes">Ad altri utenti piace anche</string>
@@ -981,6 +986,7 @@ mm"</string>
     <string name="resource_no_result">"Nessun risultato"</string>
     <string name="resource_notification_default">Notifiche</string>
     <string name="resource_on_trial">Prova: %1$s</string>
+    <string name="resource_online">Online</string>
     <string name="resource_online_picker">Scegli una suoneria online</string>
     <string name="resource_pack_confirm">"Hai già acquistato %1$d oggetti, l'attuale prezzo di acquisto è migliore rispetto all'acquisto dei singoli oggetti. Vuoi continuare?"</string>
     <string name="resource_pack_discount_info">%1$s Salvato!</string>
@@ -1002,6 +1008,7 @@ mm"</string>
     <string name="resource_restore">Ripristina</string>
     <string name="resource_restore_fail">"Impossibile ripristinare"</string>
     <string name="resource_restore_succ">Ripristino completato</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
     <string name="resource_ringtone_default">Suoneria</string>
     <string name="resource_ringtone_playing_error">Errore</string>
     <string name="resource_ringtone_volume_mute">La suoneria è silenziata</string>
@@ -1255,6 +1262,8 @@ mm"</string>
     <string name="theme_comment_dialog_message">"Ti piace il tema che stai usando ora? Grazie per il feedback!"</string>
     <string name="theme_comment_dialog_ok">Recensione</string>
     <string name="theme_comment_sub_comment_bar_hint">Condividi le tue idee con la  community</string>
+    <string name="theme_community">Community</string>
+    <string name="theme_component_aod">AOD</string>
     <string name="theme_component_icon">Icone</string>
     <string name="theme_component_title_alarm">Sveglia</string>
     <string name="theme_component_title_alarmstyle">Stili sveglia</string>
@@ -1267,6 +1276,7 @@ mm"</string>
     <string name="theme_component_title_contact">Tastiera telefono</string>
     <string name="theme_component_title_font">Caratteri</string>
     <string name="theme_component_title_framework">Temi</string>
+    <string name="theme_component_title_homepage">Casa</string>
     <string name="theme_component_title_icon">Icone</string>
     <string name="theme_component_title_launcher">Schermata Home</string>
     <string name="theme_component_title_lockstyle">Schermata di blocco</string>
@@ -1463,6 +1473,7 @@ mm"</string>
     <string name="wallpaper_set_as_lockscreen">Imposta su Schermata di blocco</string>
     <string name="wallpaper_set_as_loop_extra_msg">Tutti stanno usando</string>
     <string name="wallpaper_setting_all">Tutti gli sfondi</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
     <string name="wallpaper_setting_find_more_text">Altri sfondi online</string>
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Schermata Home</string>
     <string name="wallpaper_setting_library">Raccolta</string>

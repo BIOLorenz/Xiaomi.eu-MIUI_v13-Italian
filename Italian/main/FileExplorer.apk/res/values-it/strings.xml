@@ -28,6 +28,7 @@
     <string name="action_mode_select_all">Seleziona tutto</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="ad_download">Scarica</string>
+    <string name="add_one">(1)</string>
     <string name="add_private">Aggiungi file alle cartelle nascoste</string>
     <string name="add_private_files">Aggiungi file</string>
     <string name="added_category">Aggiunto</string>
@@ -187,6 +188,7 @@
     <string name="confirm_know">OK</string>
     <string name="connection_error">"Connessione fallita"</string>
     <string name="connection_lost">Disconnesso</string>
+    <string name="content_preview_ratio">1:1</string>
     <string name="copy">Copia</string>
     <string name="copy_failed">"Impossibile copiare"</string>
     <string name="copy_to">Copia in…</string>
@@ -229,11 +231,13 @@
     <string name="dialog_type_image">Immagini</string>
     <string name="dialog_type_text">Documenti</string>
     <string name="dialog_type_video">Video</string>
+    <string name="directory_info_divider">"  |  "</string>
     <string name="disk_available">Disponibile:</string>
     <string name="disk_total">Totale:</string>
     <string name="display_setting">Elementi visualizzati</string>
     <string name="doc_all">Tutto</string>
     <string name="doc_epub">EPUB</string>
+    <string name="doc_pdf">PDF</string>
     <string name="doc_ppt">PPT</string>
     <string name="doc_txt">TXT</string>
     <string name="doc_word">DOC</string>
@@ -439,6 +443,7 @@
     <string name="menu_item_sort_date">Ultima modifica</string>
     <string name="menu_item_sort_name">Nome</string>
     <string name="menu_item_sort_type">Tipo</string>
+    <string name="menu_item_usb">USB</string>
     <string name="menu_new_display_open">Apri in una nuova finestra</string>
     <string name="menu_pc_open">Apri nel computer</string>
     <string name="menu_set_wallpaper">Imposta come sfondo</string>
@@ -553,6 +558,7 @@
     <string name="mtrl_badge_numberless_content_description">Nuove notifiche</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Piu di %1$d nuove notifiche</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
     <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
     <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
@@ -574,9 +580,9 @@
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">dd</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a modalità inserimento calendario</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a mod. inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Passa a modalità inserimento testo</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa a mod. inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="name_empty">Inserisci un nome</string>
     <string name="need_open_content">Permetti a File Manager di accedere alle tue foto e ai tuoi file per utilizzare questa funzionalità.</string>
@@ -680,7 +686,7 @@
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
     <string name="privacy_policy_renew">Informativa sulla privacy aggiornata</string>
-    <string name="privacy_policy_renew_content"><Data>\"L\'Informativa sulla privacy &lt;a href=\"%1$s\"&gt;di Gestore File&lt;/a&gt; è stata aggiornata. Per comprendere appieno i tuoi diritti come utente e le modalità con cui utilizziamo i tuoi dati, leggi e accetta la nuova versione prima di continuare.\"</Data></string>
+    <string name="privacy_policy_renew_content"><Data>\"L\'Informativa sulla privacy &lt;a href=\"%1$s\"&gt;di Gestore File&lt;/a&gt; è stata aggiornata. Per comprendere appieno i tuoi diritti come utente e le mod. con cui utilizziamo i tuoi dati, leggi e accetta la nuova versione prima di continuare.\"</Data></string>
     <string name="private_files">Nascosti</string>
     <string name="private_folder">Cartella nascosta</string>
     <string name="private_folder_no_file_hints">Tieni premuto sul file o la cartella per nasconderli.</string>
@@ -689,7 +695,7 @@
     <string name="private_folder_update_msg_summary">La decrittografia renderà più lenta la rimozione dei file dalla cartella privata. È possibile attivare e disattivare la crittografia nelle impostazioni.</string>
     <string name="private_folder_update_tips">Nuova funzionalità</string>
     <string name="private_toast_hint2">Per nascondere un file toccalo e tieni premuto, poi aggiungilo alla cartella nascosta.</string>
-    <string name="promot_enctypt_password">Inserisci la password utilizzata per sbloccare il dispositivo o disattiva la modalità Genitore</string>
+    <string name="promot_enctypt_password">Inserisci la password utilizzata per sbloccare il dispositivo o disattiva la mod. Genitore</string>
     <string name="pull_to_enter_private">Scorri verso il basso per aprire la cartella privata</string>
     <string name="pull_to_refresh">Trascina per aggiornare</string>
     <string name="qq_msg">"A causa delle restrizioni di Android 11, Gestore File non può accedere e visualizzare i documenti di QQ."</string>
@@ -896,6 +902,7 @@
     <string name="unlock_pattern_msg">La password per la protezione della privacy funziona anche per foto e messaggi.</string>
     <string name="unlock_pattern_title">Nuova password</string>
     <string name="upload_user_photo">Carica</string>
+    <string name="usb_label">USB</string>
     <string name="use">Usa</string>
     <string name="use_to_all">Applica a tutti</string>
     <string name="used">Utilizzato:\u0020</string>

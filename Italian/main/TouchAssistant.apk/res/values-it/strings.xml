@@ -167,7 +167,7 @@
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="function_settings">Impostazioni funzione</string>
-    <string name="handy_mode_default_to_close_whether_open">La modalità Mano Singola è disattivata in modo predefinito. Attivarla adesso?</string>
+    <string name="handy_mode_default_to_close_whether_open">La mod. Mano Singola è disattivata in modo predefinito. Attivarla adesso?</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -181,7 +181,7 @@
     <string name="hide_touch_assistant">Nascondi automaticamente l\'Assistente Touch</string>
     <string name="hide_touch_assistant_intro">Nascondi l\'Assistente Touch in alcune app</string>
     <string name="hide_when_fullscreen">Nascondi a tutto schermo</string>
-    <string name="hide_when_fullscreen_intro">Nascondi quando si entra in modalità a tutto schermo</string>
+    <string name="hide_when_fullscreen_intro">Nascondi quando si entra in mod. a tutto schermo</string>
     <string name="mi_ai">Scorciatoie Mi IA</string>
     <string name="mi_wallet_summary">Scheda di trasporto/Mi Pay/Scheda chiave</string>
     <string name="midnight">Notte</string>
@@ -255,7 +255,7 @@
     <string name="motion_behavior">Gesto preferito</string>
     <string name="name_alipay_payment_code">Pagamento veloce Alipay</string>
     <string name="name_alipay_scan">Scansiona codice Alipay</string>
-    <string name="name_handy_mode">Modalità una mano</string>
+    <string name="name_handy_mode">Mod. una mano</string>
     <string name="name_long_press_power_key">Tieni premuto il tasto power</string>
     <string name="name_memory_clean">Svuota cache</string>
     <string name="name_mi_wallet">Mi Wallet</string>
@@ -264,6 +264,7 @@
     <string name="name_music_toggle">Riproduzione/Pausa</string>
     <string name="name_payment_code">Pagamento rapido</string>
     <string name="name_press_back_key">Indietro</string>
+    <string name="name_press_home_key">Casa</string>
     <string name="name_press_menu_key">Premi Menu</string>
     <string name="name_quick_lock">Schermo disattivato</string>
     <string name="name_quick_search">Cerca</string>

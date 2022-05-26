@@ -53,7 +53,7 @@
         <item>Trova Telefono</item>
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
-        <item>Per localizzare il dispositivo e passare alla modalità perso</item>
+        <item>Per localizzare il dispositivo e passare alla mod. perso</item>
         <item>"Per localizzare questo dispositivo quando non è connesso a Internet"</item>
         <item>"Per accedere al numero di telefono al fine di individuare questo dispositivo quando non è connesso a Internet"</item>
     </string-array>

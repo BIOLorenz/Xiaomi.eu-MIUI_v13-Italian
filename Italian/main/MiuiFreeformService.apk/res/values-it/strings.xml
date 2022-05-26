@@ -147,6 +147,10 @@
     <string name="freeform_demo_previous_tutorial">Indietro</string>
     <string name="freeform_demo_title_finish">Ottimo!</string>
     <string name="freeform_demo_title_skip">Salta</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Trascina l\'angolo per minimizzare un\'app</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Trascina l\'angolo per minimizzare un\'app</string>
+    <string name="freeform_guide_to_sidehide_summary">Trascina rapidamente la finestra dalla barra di azione al bordo dello schermo</string>
+    <string name="freeform_guide_to_sidehide_title">Nascondere le finestre fluttuanti</string>
     <string name="freeform_slide_to_small_freeform">Minimizza una finestra fluttuante</string>
     <string name="freeform_slide_to_small_freeform_summary">Tieni premuta la barra di azione e trascina in un angolo</string>
     <string name="friday">Venerdì</string>
@@ -164,8 +168,8 @@
     <string name="heavenly_stems_wu">Wu</string>
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
-    <string name="how_to_close_or_fullscreen_freeform">Chiudere finestre fluttuanti o passare alla modalità schermo intero</string>
-    <string name="how_to_drop_down_to_fullscreen">Passa alla modalità schermo intero</string>
+    <string name="how_to_close_or_fullscreen_freeform">Chiudere finestre fluttuanti o passare alla mod. schermo intero</string>
+    <string name="how_to_drop_down_to_fullscreen">Passa alla mod. schermo intero</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Premere e tenere premuto e poi tirare giù la barra azione di una finestra fluttuante</string>
     <string name="how_to_hang_freeform">Minimizzare le finestre fluttuanti</string>
     <string name="how_to_hang_to_small_freeform">Minimizza la finestra fluttuante</string>
@@ -243,6 +247,9 @@
     <string name="month_september_shortest">Set</string>
     <string name="more">Altro</string>
     <string name="morning">Mattina</string>
+    <string name="multi_window_cvw_summary">Trascinare l\'angolo per passare a una finestra fluttuante e regolare la sua dimensione</string>
+    <string name="multi_window_cvw_summary_global">Trascinare l\'angolo per passare a una finestra fluttuante e regolare la sua dimensione</string>
+    <string name="multi_window_cvw_title">Finestra fluttuante</string>
     <string name="night">Sera</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_set">Non impostato</string>

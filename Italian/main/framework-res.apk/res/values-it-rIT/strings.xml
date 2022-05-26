@@ -191,6 +191,7 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="accessibility_system_action_back_label">Indietro</string>
     <string name="accessibility_system_action_dismiss_notification_shade">Ignora tendina notifiche</string>
     <string name="accessibility_system_action_hardware_a11y_shortcut_label">Scorciatoia Accessibilità</string>
+    <string name="accessibility_system_action_home_label">Casa</string>
     <string name="accessibility_system_action_lock_screen_label">Schermata di blocco</string>
     <string name="accessibility_system_action_notifications_label">Notifiche</string>
     <string name="accessibility_system_action_on_screen_a11y_shortcut_chooser_label">Selettore scorciatoia Accessibilità sullo schermo</string>
@@ -201,6 +202,7 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="accessibility_system_action_screenshot_label">Screenshot</string>
     <string name="accessibility_uncheck_legacy_item_warning">Il servizio %s è stato disattivato</string>
     <string name="action_bar_home_description">Vai alla home page</string>
+    <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="action_bar_up_description">Vai in alto</string>
     <string name="action_menu_overflow_description">Altre opzioni</string>
     <string name="action_mode_done">Fine</string>
@@ -344,7 +346,7 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="biometric_or_screen_lock_app_setting_name">Usa dati biometrici o blocco schermo</string>
     <string name="biometric_or_screen_lock_dialog_default_subtitle">Usa il tuo blocco schermo o i dati biometrici per continuare</string>
     <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
-    <string name="bluetooth_airplane_mode_toast">Il Bluetooth rimane attivo durante l\'uso della modalità aereo</string>
+    <string name="bluetooth_airplane_mode_toast">Il Bluetooth rimane attivo durante l\'uso della mod. aereo</string>
     <string name="bugreport_message">Verranno raccolte informazioni sullo stato corrente del dispositivo che saranno inviate sotto forma di messaggio email. Passerà un po\' di tempo prima che la segnalazione di bug aperta sia pronta per essere inviata; ti preghiamo di avere pazienza.</string>
     <string name="bugreport_option_full_summary">Utilizza questa opzione per ridurre al minimo l\'interferenza di sistema quando il dispositivo non risponde, è troppo lento oppure quando ti servono tutte le sezioni della segnalazione. Non puoi inserire altri dettagli o acquisire altri screenshot.</string>
     <string name="bugreport_option_full_title">Rapporto completo</string>
@@ -403,9 +405,13 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="common_name">Nome comune:</string>
     <string name="condition_provider_service_binding_label">Provider condizioni</string>
     <string name="conference_call">Audioconferenza</string>
+    <string name="config_UsbDeviceConnectionHandling_component">\@null</string>
+    <string name="config_activityRecognitionHardwarePackageName">\@null</string>
     <string name="config_bodyFontFamily">sans-serif</string>
     <string name="config_bodyFontFamilyMedium">sans-serif-medium</string>
     <string name="config_default_dns_server">1.1.1.1</string>
+    <string name="config_geofenceProviderPackageName">\@null</string>
+    <string name="config_iccHotswapPromptForRestartDialogComponent">\@null</string>
     <string name="config_icon_mask">M96.4286 62.2772C96.4286 72.1118 96.4286 77.029 94.7547 82.3225C92.6512 88.1016 88.0988 92.654 82.3196 94.7576C77.6553 96.2326 73.278 96.4076 65.575 96.4284H50H34.425C26.722 96.4076 22.3446 96.2326 17.6803 94.7576C11.9012 92.654 7.34879 88.1016 5.24522 82.3225C3.57141 77.029 3.57141 72.1118 3.57141 62.2772V49.9999V37.7225C3.57141 27.888 3.57141 22.9707 5.24522 17.6772C7.34879 11.8981 11.9012 7.34569 17.6803 5.24212C22.3446 3.76712 26.722 3.59212 34.425 3.57129H50H65.575C73.278 3.59212 77.6553 3.76712 82.3196 5.24212C88.0988 7.34569 92.6512 11.8981 94.7547 17.6772C96.4286 22.9707 96.4286 27.888 96.4286 37.7225V49.9999V62.2772Z</string>
     <string name="config_secondaryHomePackage">com.android.launcher3</string>
     <string name="config_systemGallery">com.android.gallery3d</string>
@@ -469,7 +475,9 @@ utilizzando %s"</string>
     <string name="default_audio_route_category_name">Sistema</string>
     <string name="default_audio_route_name">Telefono</string>
     <string name="default_audio_route_name_dock_speakers">Altoparlanti dock</string>
+    <string name="default_audio_route_name_hdmi">HDMI</string>
     <string name="default_audio_route_name_headphones">Cuffie audio</string>
+    <string name="default_audio_route_name_usb">USB</string>
     <string name="default_notification_channel_label">Senza categoria</string>
     <string name="delete">Elimina</string>
     <string name="deleteText">Elimina</string>
@@ -503,11 +511,14 @@ utilizzando %s"</string>
     <string name="dump_heap_system_text">Il processo %1$s ha superato il suo limite di memoria pari a %2$s. È disponibile un dump dell\'heap che puoi condividere. Presta attenzione: questo dump dell\'heap potrebbe contenere informazioni personali sensibili a cui il processo ha accesso, che potrebbero includere il testo digitato.</string>
     <string name="dump_heap_text">Il processo %1$sha superato il suo limite di memoria del processo pari a %2$s. È disponibile un dump dell\'heap che puoi condividere con lo sviluppatore. Presta attenzione: questo dump dell\'heap può contenere tue informazioni personali a cui l\'applicazione ha accesso.</string>
     <string name="dump_heap_title">Condividere il dump dell\'heap?</string>
-    <string name="dynamic_mode_notification_channel_name">Notifica di informazioni sulla modalità Routine</string>
+    <string name="dynamic_mode_notification_channel_name">Notifica di informazioni sulla mod. Routine</string>
     <string name="dynamic_mode_notification_summary">Risparmio energetico attivo per far durare di più la batteria</string>
     <string name="dynamic_mode_notification_title">La batteria potrebbe esaurirsi prima della ricarica abituale</string>
     <string name="editTextMenuTitle">Azioni testo</string>
     <string name="edit_accessibility_shortcut_menu_button">Modifica scorciatoie</string>
+    <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
+    <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
+    <string name="ellipsis">…</string>
     <string name="emailTypeCustom">Personalizzato</string>
     <string name="emailTypeHome">Casa</string>
     <string name="emailTypeMobile">Cellulare</string>
@@ -711,12 +722,12 @@ Questo di solito spegne lo schermo."</string>
     <string name="global_action_settings">Impostazioni</string>
     <string name="global_action_silent_mode_off_status">Audio attivo</string>
     <string name="global_action_silent_mode_on_status">Audio non attivo</string>
-    <string name="global_action_toggle_silent_mode">Modalità silenziosa</string>
+    <string name="global_action_toggle_silent_mode">Mod. silenziosa</string>
     <string name="global_action_voice_assist">Assistente Vocale</string>
     <string name="global_actions">Opzioni telefono</string>
-    <string name="global_actions_airplane_mode_off_status">Modalità aereo non attiva</string>
-    <string name="global_actions_airplane_mode_on_status">Modalità aereo attiva</string>
-    <string name="global_actions_toggle_airplane_mode">Modalità aereo</string>
+    <string name="global_actions_airplane_mode_off_status">Mod. aereo non attiva</string>
+    <string name="global_actions_airplane_mode_on_status">Mod. aereo attiva</string>
+    <string name="global_actions_toggle_airplane_mode">Mod. aereo</string>
     <string name="gnss_service">Servizio GNSS</string>
     <string name="gnss_time_update_service">Servizio di aggiornamento ora GNSS</string>
     <string name="gpsNotifMessage">Richiesto da %1$s (%2$s)</string>
@@ -803,12 +814,13 @@ Vuoi abbandonare la pagina?"</string>
     <string name="js_dialog_before_unload_positive_button">Abbandona questa pagina</string>
     <string name="js_dialog_before_unload_title">Conferma navigazione</string>
     <string name="js_dialog_title">La pagina all\'indirizzo \"%s\" indica:</string>
+    <string name="js_dialog_title_default">JavaScript</string>
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">Annulla</string>
     <string name="keyboardview_keycode_delete">Canc</string>
     <string name="keyboardview_keycode_done">Fine</string>
     <string name="keyboardview_keycode_enter">Invio</string>
-    <string name="keyboardview_keycode_mode_change">Cambio modalità</string>
+    <string name="keyboardview_keycode_mode_change">Cambio mod.</string>
     <string name="keyboardview_keycode_shift">Maiuscolo</string>
     <string name="keygaurd_accessibility_media_controls">Controlli media</string>
     <string name="keyguard_accessibility_add_widget">Aggiungi widget.</string>
@@ -871,6 +883,7 @@ Visita \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Rimuovi</string>
     <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">Sblocco scheda SIM…</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Hai digitato la tua password %1$d volte in modo errato. 
 
 Riprova tra %2$d secondi."</string>
@@ -1190,12 +1203,12 @@ Le notifiche avanzate possono accedere al contenuto delle notifiche, comprese le
     <string name="notification_channel_account">Stato dell\'account</string>
     <string name="notification_channel_alerts">Avvisi</string>
     <string name="notification_channel_call_forward">Deviazione chiamate</string>
-    <string name="notification_channel_car_mode">Modalità automobile</string>
+    <string name="notification_channel_car_mode">Mod. automobile</string>
     <string name="notification_channel_developer">Messaggi dello sviluppatore</string>
     <string name="notification_channel_developer_important">Messaggi importanti relativi agli sviluppatori</string>
     <string name="notification_channel_device_admin">Avvisi dall\'amministratore IT</string>
     <string name="notification_channel_do_not_disturb">Non disturbare</string>
-    <string name="notification_channel_emergency_callback">Modalità di richiamata di emergenza</string>
+    <string name="notification_channel_emergency_callback">Mod. di richiamata di emergenza</string>
     <string name="notification_channel_foreground_service">App che consumano la batteria</string>
     <string name="notification_channel_heavy_weight_app">App in esecuzione</string>
     <string name="notification_channel_mobile_data_status">Stato dati</string>
@@ -1224,6 +1237,7 @@ Le notifiche avanzate possono accedere al contenuto delle notifiche, comprese le
     <string name="notification_feedback_indicator_silenced">Questa notifica è stata silenziata. Tocca per fornire un feedback.</string>
     <string name="notification_hidden_text">Nuova notifica</string>
     <string name="notification_history_title_placeholder">Notifica app personalizzata</string>
+    <string name="notification_inbox_ellipsis">…</string>
     <string name="notification_listener_binding_label">Listener di notifica</string>
     <string name="notification_phishing_alert_content_description">Allarme phishing</string>
     <string name="notification_ranker_binding_label">Servizio di classificazione delle notifiche</string>
@@ -1240,7 +1254,7 @@ Le notifiche avanzate possono accedere al contenuto delle notifiche, comprese le
     <string name="old_app_action">Torna a %1$s</string>
     <string name="older">Precedente</string>
     <string name="oneMonthDurationPast">1 mese fa</string>
-    <string name="one_handed_mode_feature_name">Modalità a una mano</string>
+    <string name="one_handed_mode_feature_name">Mod. a una mano</string>
     <string name="open_permission_deny">"Non sei autorizzato ad aprire questa pagina."</string>
     <string name="orgTypeCustom">Personalizzato</string>
     <string name="orgTypeOther">Altro</string>
@@ -1263,10 +1277,10 @@ Le notifiche avanzate possono accedere al contenuto delle notifiche, comprese le
     <string name="pasted_from_clipboard">%1$s incollato dagli appunti</string>
     <string name="pasted_image">%1$s ha incollato un\'immagine copiata</string>
     <string name="pasted_text">%1$s ha incollato il testo copiato</string>
-    <string name="peerTtyModeFull">Peer ha richiesto la modalità TTY FULL</string>
-    <string name="peerTtyModeHco">Peer ha richiesto la modalità TTY HCO</string>
-    <string name="peerTtyModeOff">Peer ha richiesto la modalità TTY OFF</string>
-    <string name="peerTtyModeVco">Peer ha richiesto la modalità TTY VCO</string>
+    <string name="peerTtyModeFull">Peer ha richiesto la mod. TTY FULL</string>
+    <string name="peerTtyModeHco">Peer ha richiesto la mod. TTY HCO</string>
+    <string name="peerTtyModeOff">Peer ha richiesto la mod. TTY OFF</string>
+    <string name="peerTtyModeVco">Peer ha richiesto la mod. TTY VCO</string>
     <string name="perm_costs_money">potrebbe comportare dei costi</string>
     <string name="permdesc_acceptHandovers">Consente all\'app di continuare una chiamata che è stata iniziata in un\'altra app.</string>
     <string name="permdesc_accessBackgroundLocation">Questa app può accedere alla posizione in qualsiasi momento, anche quando l\'app non è in uso.</string>
@@ -1307,14 +1321,14 @@ Le notifiche avanzate possono accedere al contenuto delle notifiche, comprese le
     <string name="permdesc_cameraOpenCloseListener">Questa app può ricevere callback quando una videocamera viene aperta (da una specifica applicazione) o chiusa.</string>
     <string name="permdesc_changeNetworkState">Consente all\'applicazione di modificare lo stato di connettività della rete.</string>
     <string name="permdesc_changeTetherState">Consente all\'applicazione di modificare lo stato di connettività di rete tethering.</string>
-    <string name="permdesc_changeWifiMulticastState">Consente all\'applicazione di ricevere pacchetti inviati a tutti i dispositivi su una rete Wi-Fi utilizzando indirizzi multicast, non solo il tuo telefono. Viene consumata più batteria rispetto alla modalità non multicast.</string>
+    <string name="permdesc_changeWifiMulticastState">Consente all\'applicazione di ricevere pacchetti inviati a tutti i dispositivi su una rete Wi-Fi utilizzando indirizzi multicast, non solo il tuo telefono. Viene consumata più batteria rispetto alla mod. non multicast.</string>
     <string name="permdesc_changeWifiState">Consente all\'applicazione di connettersi/disconnettersi da punti di accesso Wi-Fi e di apportare modifiche alla configurazione del dispositivo per le reti Wi-Fi.</string>
     <string name="permdesc_changeWimaxState">Consente all\'applicazione di connettere/disconnettere il telefono dalle reti WiMAX.</string>
     <string name="permdesc_connection_manager">Consente all\'app di gestire connessioni di telecomunicazione.</string>
     <string name="permdesc_control_incall_experience">Consente all\'app di offrire un\'esperienza utente durante le chiamate.</string>
     <string name="permdesc_createNetworkSockets">Consente all\'app di creare socket di rete e di utilizzare protocolli di rete personalizzati. Il browser e altre applicazioni forniscono mezzi per inviare i dati a Internet, quindi non è richiesta questa autorizzazione per inviare dati a Internet.</string>
     <string name="permdesc_disableKeyguard">Consente all\'applicazione di disattivare il blocco tastiera ed eventuali protezioni tramite password associate. Ad esempio, il telefono disattiva il blocco tastiera quando riceve una telefonata in arrivo e lo riattiva al termine della chiamata.</string>
-    <string name="permdesc_enableCarMode">Consente all\'applicazione di abilitare la modalità automobile.</string>
+    <string name="permdesc_enableCarMode">Consente all\'applicazione di abilitare la mod. automobile.</string>
     <string name="permdesc_exemptFromAudioRecordRestrictions">Consente di escludere l\'app dalle limitazioni relative alla registrazione di audio.</string>
     <string name="permdesc_expandStatusBar">Consente all\'applicazione di espandere o comprimere la barra di stato.</string>
     <string name="permdesc_foregroundService">Consente all\'app di utilizzare i servizi in primo piano.</string>
@@ -1382,7 +1396,7 @@ Le notifiche avanzate possono accedere al contenuto delle notifiche, comprese le
     <string name="permdesc_statusBar">Consente all\'applicazione di disattivare la barra di stato o di aggiungere e rimuovere icone di sistema.</string>
     <string name="permdesc_statusBarService">Consente di visualizzare l\'applicazione nella barra di stato.</string>
     <string name="permdesc_subscribedFeedsRead">Consente all\'applicazione di ottenere dettagli sui feed attualmente sincronizzati.</string>
-    <string name="permdesc_systemAlertWindow">Questa app può essere visualizzata sopra ad altre app o altre parti dello schermo. Ciò potrebbe interferire con il normale utilizzo dell\'app e modificare la modalità di visualizzazione delle altre app.</string>
+    <string name="permdesc_systemAlertWindow">Questa app può essere visualizzata sopra ad altre app o altre parti dello schermo. Ciò potrebbe interferire con il normale utilizzo dell\'app e modificare la mod. di visualizzazione delle altre app.</string>
     <string name="permdesc_systemCamera">Questa app di sistema o con privilegi può scattare foto e registrare video tramite una videocamera di sistema in qualsiasi momento. Richiede che anche l\'app disponga dell\'autorizzazione android.permission.CAMERA</string>
     <string name="permdesc_transmitIr">"Consente all'app di utilizzare il trasmettitore a infrarossi del telefono."</string>
     <string name="permdesc_uninstall_shortcut">Consente all\'applicazione di rimuovere le scorciatoie della schermata Home automaticamente.</string>
@@ -1479,7 +1493,7 @@ per l'account %s."</string>
     <string name="permlab_control_incall_experience">offerta di un\'esperienza utente durante le chiamate</string>
     <string name="permlab_createNetworkSockets">accesso completo alla rete</string>
     <string name="permlab_disableKeyguard">disattivazione blocco schermo</string>
-    <string name="permlab_enableCarMode">abilitazione modalità auto</string>
+    <string name="permlab_enableCarMode">abilitazione mod. auto</string>
     <string name="permlab_exemptFromAudioRecordRestrictions">Esclusione dalle limitazioni relative alla registrazione di audio</string>
     <string name="permlab_expandStatusBar">espansione/compressione barra di stato</string>
     <string name="permlab_foregroundService">esecuzione servizio in primo piano</string>
@@ -1641,8 +1655,8 @@ per l'account %s."</string>
     <string name="radial_numbers_typeface">sans-serif</string>
     <string name="reason_service_unavailable">Servizio di stampa non attivo</string>
     <string name="reason_unknown">sconosciuto</string>
-    <string name="reboot_safemode_confirm">Riavviare in modalità provvisoria? Ciò comporterà la disattivazione di tutte le applicazioni di terze parti installate. Verranno ripristinate al prossimo riavvio.</string>
-    <string name="reboot_safemode_title">Riavvia in modalità provvisoria</string>
+    <string name="reboot_safemode_confirm">Riavviare in mod. provvisoria? Ciò comporterà la disattivazione di tutte le applicazioni di terze parti installate. Verranno ripristinate al prossimo riavvio.</string>
+    <string name="reboot_safemode_title">Riavvia in mod. provvisoria</string>
     <string name="reboot_to_reset_message">Riavvio in corso…</string>
     <string name="reboot_to_reset_title">Ripristino dati di fabbrica</string>
     <string name="reboot_to_update_package">Elaborazione del pacchetto di aggiornamento in corso…</string>
@@ -1651,6 +1665,7 @@ per l'account %s."</string>
     <string name="reboot_to_update_title">Aggiornamento del sistema Android</string>
     <string name="recent_tasks_title">Recenti</string>
     <string name="redo">Ripeti</string>
+    <string name="reduce_bright_colors_feature_name">Attenuazione extra</string>
     <string name="region_picker_section_all">Tutte le aree geografiche</string>
     <string name="relationTypeAssistant">Assistente</string>
     <string name="relationTypeBrother">Fratello</string>
@@ -1715,7 +1730,7 @@ per l'account %s."</string>
     <string name="roamingText8">Roaming - Partner Premium</string>
     <string name="roamingText9">Roaming - Funzionalità servizio completo</string>
     <string name="roamingTextSearching">Ricerca servizio</string>
-    <string name="safeMode">Modalità provvisoria</string>
+    <string name="safeMode">Mod. provvisoria</string>
     <string name="safe_media_volume_warning">"Vuoi aumentare il volume oltre il livello consigliato?
 
 L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udito."</string>
@@ -1740,6 +1755,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="searchview_description_search">Cerca</string>
     <string name="searchview_description_submit">Invia query</string>
     <string name="searchview_description_voice">Ricerca vocale</string>
+    <string name="second">sec</string>
     <string name="seconds">sec</string>
     <string name="selectAll">Seleziona tutto</string>
     <string name="selectTextMode">Seleziona testo</string>
@@ -1795,7 +1811,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="shutdown_confirm">Il telefono verrà spento.</string>
     <string name="shutdown_confirm_question">Spegnere?</string>
     <string name="shutdown_progress">Spegnimento…</string>
-    <string name="silent_mode">Modalità silenziosa</string>
+    <string name="silent_mode">Mod. silenziosa</string>
     <string name="silent_mode_ring">Suoneria attiva</string>
     <string name="silent_mode_silent">Suoneria disattivata</string>
     <string name="silent_mode_vibrate">Suoneria vibrazione</string>
@@ -1834,6 +1850,9 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="ssl_certificate">Certificato di sicurezza</string>
     <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
     <string name="status_bar_airplane">aereo</string>
+    <string name="status_bar_bluetooth">bluetooth</string>
+    <string name="status_bar_managed_profile">ime</string>
+    <string name="status_bar_mute">silenzioso</string>
     <string name="status_communication_speaker_summary">Una chiamata in vivavoce è in corso. L\'audio continuerà ad essere riprodotto attraverso l\'altoparlante quando le cuffie sono collegate.</string>
     <string name="status_communication_summary">Una chiamata è in corso. È possibile regolare solo il volume delle chiamate.</string>
     <string name="stk_cc_ss_to_dial">Richiesta SS modificata in chiamata normale</string>
@@ -1862,8 +1881,8 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="system_error_wipe_data">"Si è verificato un problema interno con il dispositivo, che potrebbe essere instabile fino al ripristino dei dati di fabbrica."</string>
     <string name="taking_remote_bugreport_notification_title">Recupero della segnalazione di bug…</string>
     <string name="terabyteShort">TB</string>
-    <string name="test_harness_mode_notification_message">Ripristina le impostazioni di fabbrica per disattivare la modalità test harness.</string>
-    <string name="test_harness_mode_notification_title">Modalità test harness attivata</string>
+    <string name="test_harness_mode_notification_message">Ripristina le impostazioni di fabbrica per disattivare la mod. test harness.</string>
+    <string name="test_harness_mode_notification_title">Mod. test harness attivata</string>
     <string name="tethered_notification_message">Tocca per configurare</string>
     <string name="tethered_notification_multi_device_message">%1$s dispositivi connessi</string>
     <string name="tethered_notification_no_device_message">Nessun dispositivo connesso</string>
@@ -1884,8 +1903,8 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="time_picker_input_error">Inserisci un orario valido</string>
     <string name="time_picker_minute_label">minuto</string>
     <string name="time_picker_prompt_label">Digita l\'ora</string>
-    <string name="time_picker_radial_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
-    <string name="time_picker_text_input_mode_description">Passa alla modalità di immissione testo per inserire l\'ora.</string>
+    <string name="time_picker_radial_mode_description">Passa alla mod. orologio per inserire l\'ora.</string>
+    <string name="time_picker_text_input_mode_description">Passa alla mod. di immissione testo per inserire l\'ora.</string>
     <string name="time_placeholder">--</string>
     <string name="toolbar_collapse_description">Comprimi</string>
     <string name="tooltip_popup_title">Descrizione comando</string>
@@ -2057,10 +2076,11 @@ Vuoi chiuderla?"</string>
     <string name="zen_mode_feature_name">Non disturbare</string>
     <string name="zen_mode_forever">Fino alla disattivazione</string>
     <string name="zen_mode_forever_dnd">Fino alla disattivazione di Non disturbare</string>
+    <string name="zen_mode_rule_name_combination">%1$s/%2$s</string>
     <string name="zen_mode_until">Fino a %1$s</string>
     <string name="zen_mode_until_next_day">Fino alle %1$s</string>
     <string name="zen_upgrade_notification_content">"Tocca per controllare le notifiche bloccate."</string>
     <string name="zen_upgrade_notification_title">L\'impostazione Non disturbare è cambiata</string>
     <string name="zen_upgrade_notification_visd_content">Tocca per avere ulteriori informazioni e modificare.</string>
-    <string name="zen_upgrade_notification_visd_title">Novità: la modalità Non disturbare nasconde le notifiche</string>
+    <string name="zen_upgrade_notification_visd_title">Novità: la mod. Non disturbare nasconde le notifiche</string>
 </resources>

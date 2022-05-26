@@ -236,8 +236,10 @@
     <string name="night">Sera</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_set">Non impostato</string>
+    <string name="pa_accessibility_home_widget_drop_workspace">Spostato alla riga %1$d, posizione %2$d</string>
     <string name="pa_accessibility_olympic_info_title">Maggior informazioni</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Modifica</string>
+    <string name="pa_announce_for_delete_gadget_and_widget">Widget</string>
     <string name="pa_app_label">Assistente App</string>
     <string name="pa_base_hour_minute">%1$do %2$dm</string>
     <string name="pa_base_time_just_now">Un momento fa</string>
@@ -335,6 +337,7 @@
     <string name="pa_picker_detail_download_app_dialog_message_install_suffix">Aggiunto</string>
     <string name="pa_picker_detail_download_app_dialog_message_upgrade_prefix">Aggiorna</string>
     <string name="pa_picker_detail_download_maml_dialog_cancel">In attesa di Wi-Fi</string>
+    <string name="pa_picker_detail_download_maml_dialog_checkbox_text">"Non mostrare più per %d minuti"</string>
     <string name="pa_picker_detail_download_maml_dialog_confirm">Scarica</string>
     <string name="pa_picker_detail_download_maml_dialog_title">Avviso utilizzo dati</string>
     <string name="pa_picker_detail_edit_maml_net_unavailable">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
@@ -364,10 +367,10 @@
     <string name="pa_recommend_card">Consigliati</string>
     <string name="pa_recommend_card_image_text_null_des">Nessun dato</string>
     <string name="pa_recommend_card_title">Consigliato</string>
-    <string name="pa_rtk_card_title">Cruscotto</string>
+    <string name="pa_rtk_card_title">Dashboard</string>
     <string name="pa_rtk_more_content_description">Opzioni</string>
     <string name="pa_rtk_unlike_text">Non fissare più</string>
-    <string name="pa_rts_text">Cruscotto</string>
+    <string name="pa_rts_text">Dashboard</string>
     <string name="pa_scan">Scansione</string>
     <string name="pa_scan_app">Scanner</string>
     <string name="pa_search_hint">Cerca</string>
@@ -407,12 +410,14 @@
     <string name="pa_shortcut_group_title_start_page">Funzioni</string>
     <string name="pa_shortcut_memory_clean_nothing">Niente da cancellare nella cache</string>
     <string name="pa_shortcut_memory_clean_result">%1$sB cancellati</string>
+    <string name="pa_shortcut_paycode">Alipay</string>
     <string name="pa_shortcut_setting_activity_subtitle">Trascinare gli elementi per ridisporre </string>
     <string name="pa_shortcut_widget_label_4x2">Scorciatoie</string>
     <string name="pa_ski_foreground_service_noitification_name">Accesso alla posizione</string>
     <string name="pa_smart_shortcut_widget_label">App consigliate</string>
     <string name="pa_sports_action_live">Live</string>
     <string name="pa_sports_action_preview">Anteprima</string>
+    <string name="pa_sports_action_review">Replay</string>
     <string name="pa_sports_all_league">Agenda</string>
     <string name="pa_sports_all_match">Mostra tutto</string>
     <string name="pa_sports_cancel_followed">Non seguire più</string>

@@ -182,7 +182,6 @@
     <string name="miservice_notification_open_feedback_title">Introduzione a \"Servizi e feedback\"</string>
     <string name="miservice_notification_scan_content">Usa Scanner per tradurre parole e frasi</string>
     <string name="miservice_notification_scan_title">Traduci in uno snap</string>
-    <string name="miui_feedback_answer_detail_community">Puoi trovare le risposte alle tue domande in Mi Community</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Sì</string>
     <string name="miui_feedback_answer_detail_feedback_result">Grazie per la segnalazione!</string>
     <string name="miui_feedback_answer_detail_feedback_title">Questa informazione è stata utile?</string>
@@ -257,7 +256,7 @@
 Orario di ufficio: 9:00 - 18:00 (eccetto giorni festivi)
 Email: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_frequent_question_title">Domande frequenti</string>
-    <string name="miui_feedback_main_item_catch_full_log">Ottieni log</string>
+    <string name="miui_feedback_main_item_catch_full_log">Log</string>
     <string name="miui_feedback_main_item_customer_service">Servizi post-vendita</string>
     <string name="miui_feedback_main_item_feedback_list">Il mio feedback</string>
     <string name="miui_feedback_main_menu_view_privacy">Informativa sulla Privacy</string>
@@ -273,15 +272,6 @@ Email: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_title">Segnalazione</string>
     <string name="miui_feedback_main_withdraw">Revoca</string>
     <string name="miui_feedback_main_withdraw_consent_hint">"Continuando, revocherai il tuo consenso all'Informativa sulla privacy di %1$s. Le informazioni personali già raccolte e conservate saranno cancellate entro un periodo di tempo specifico in conformità con le leggi e i regolamenti applicabili, salvo diversamente richiesto. Poiché %2$s fornisce i propri servizi in base alla raccolta delle informazioni personali necessarie, la revoca del consenso verrà considerata come un rifiuto da parte tua di accettare i servizi di %3$s. Revocare il consenso?"</string>
-    <string name="miui_guide_accessibility_image_desc">Immagine</string>
-    <string name="miui_guide_clear_db_service">\"Servizi e feedback\" sta pulendo la cache delle lingue…</string>
-    <string name="miui_guide_footer_desc">"La guida del principiante è stata progettata per aiutarti a conoscere il tuo dispositivo e la MIUI. Alcune immagini e video nella guida sono stati creati solo a scopo di riferimento e possono differire dal prodotto effettivo. Le funzionalità descritte in questa guida possono variare a seconda del modello del tuo dispositivo, della versione MIUI e dell'ambiente di utilizzo."</string>
-    <string name="miui_guide_item_complete">Completato</string>
-    <string name="miui_guide_item_new">Nuovo</string>
-    <string name="miui_guide_item_progress">Completato %1$d/%2$d</string>
-    <string name="miui_guide_menu_privacy">Informativa sulla Privacy</string>
-    <string name="miui_guide_top_bar_sub_title">Impara cosa MIUI può fare</string>
-    <string name="miui_guide_top_bar_title">"Guida del principiante"</string>
     <string name="miui_main_back">Indietro</string>
     <string name="miui_main_bottom_bar_feedback">Segnalazione</string>
     <string name="miui_main_bottom_bar_guide">"Guida del principiante"</string>
@@ -311,7 +301,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="miui_main_ring_arctic">Artico</string>
     <string name="miui_main_ring_australia">Australia</string>
     <string name="miui_main_ring_defalut">Usa suono di notifica attuale</string>
-    <string name="miui_main_ring_mute_tips">"Impossibile riprodurre i suoni in modalità silenziosa"</string>
+    <string name="miui_main_ring_mute_tips">"Impossibile riprodurre i suoni in mod. silenziosa"</string>
     <string name="miui_main_ring_sub_title">Tocca per riprodurre i suoni e selezionare il suono di notifica</string>
     <string name="miui_main_ring_title">Suoni di notifica ispirati dalla natura</string>
     <string name="miui_main_shortcut_label_submit_feedback">Invia Feedback</string>
@@ -333,7 +323,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="miui_mine_net_error_sub_title">Controlla la tua connessione</string>
     <string name="miui_mine_net_error_title">Impossibile connettersi</string>
     <string name="miui_mine_repair_mode_sub_title">Garantisci la sicurezza dei tuoi dati durante la manutenzione post-vendita</string>
-    <string name="miui_mine_repair_mode_title">Modalità manutenzione</string>
+    <string name="miui_mine_repair_mode_title">Mod. manutenzione</string>
     <string name="miui_mine_select_city">Seleziona Città</string>
     <string name="miui_mine_top_bar_title">Il mio account</string>
     <string name="miui_mine_unlogin">Accedi</string>
@@ -447,16 +437,6 @@ Leggi e accetta la nuova versione di %3$s prima di continuare."</string>
     <string name="saturday_shortest">Sab</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send">Invia</string>
-    <string name="share_cancel">Condivisione annullata</string>
-    <string name="share_failed">"Impossibile condividere"</string>
-    <string name="share_no_network">"Impossibile connettersi alla rete"</string>
-    <string name="share_not_install_wechat">Installa prima WeChat</string>
-    <string name="share_not_install_weibo">Installa prima Weibo</string>
-    <string name="share_success">Condivisione riuscita</string>
-    <string name="share_title">Condividi</string>
-    <string name="share_wechat_timeline_title">Momenti WeChat</string>
-    <string name="share_wechat_title">WeChat</string>
-    <string name="share_weibo_title">Weibo</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>

@@ -84,6 +84,10 @@
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>
     </plurals>
+    <plurals name="hashtag_followers">
+        <item quantity="other">%d follower</item>
+        <item quantity="one">%d follower</item>
+    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d ore fa</item>
         <item quantity="one">%1$d ora fa</item>
@@ -163,6 +167,10 @@
     <plurals name="suggest_access_item_album_songs">
         <item quantity="other">%d brani</item>
         <item quantity="one">%d brano</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">%d album</item>
+        <item quantity="one">%d album</item>
     </plurals>
     <plurals name="suggest_access_item_singer_pop">
         <item quantity="other">%d brani popolari</item>

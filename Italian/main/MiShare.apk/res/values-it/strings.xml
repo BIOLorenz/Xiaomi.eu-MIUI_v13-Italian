@@ -292,7 +292,7 @@
     <string name="midnight">Notte</string>
     <string name="mishare_folder_in_file_explorer">Gestore File &gt; MiShare</string>
     <string name="mishare_service_channel_desc">Notifica sui trasferimenti Mi Share</string>
-    <string name="mishare_settings_summary_international">"Mi Share ti permette di inviare elementi in modalità wireless ad altri dispositivi vicini.
+    <string name="mishare_settings_summary_international">"Mi Share ti permette di inviare elementi in mod. wireless ad altri dispositivi vicini.
 Questa funzionalità è supportata da OPPO, vivo, realme e altri produttori di smartphone. È possibile controllare l'elenco dei dispositivi supportati sul sito ufficiale di qualsiasi marca selezionata."</string>
     <string name="mishare_state_protection">Attiva Mi Share automaticamente</string>
     <string name="mishare_state_protection_summary">Attiva automaticamente Mi Share quando Bluetooth o Wi-Fi vengono riattivati</string>
@@ -384,6 +384,8 @@ Questa funzionalità è supportata da OPPO, vivo, realme e altri produttori di s
     <string name="oppo_phone">OPPO</string>
     <string name="pad_device_model_name">Xiaomi Pad</string>
     <string name="pc_device_model_name">Computer</string>
+    <string name="pc_redmi_device_model_name">Portatile Redmi</string>
+    <string name="pc_xiaomi_device_model_name">Portatile Xiaomi</string>
     <string name="permission_denied_hint">Concedi i permessi necessari per poter utilizzare Mi Share</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="progress_ratio">%1$d%%</string>
@@ -439,7 +441,7 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
-    <string name="scanning_device_tips">Ricerca dispositivi nelle vicinanze… Assicurati che l\'altro dispositivo sia in modalità visibile.</string>
+    <string name="scanning_device_tips">Ricerca dispositivi nelle vicinanze… Assicurati che l\'altro dispositivo sia in mod. visibile.</string>
     <string name="scanning_only_xiaomi_device">You can send this item only to a Xiaomi device</string>
     <string name="search_menu_title">Cerca</string>
     <string name="seize_content">Interrompi la condivisione dello schermo per poter trasferire gli elementi. Interromperla ora?</string>
@@ -563,9 +565,9 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="uwb_guide_title_1">Chiedi all\'altra persona di attivare Mi Share</string>
     <string name="uwb_guide_title_2">Trova il dispositivo di destinazione più velocemente con Beam</string>
     <string name="uwb_setting_guide">Maggiori informazioni</string>
-    <string name="uwb_setting_guide_summary">Beam utilizza la tecnologia UWB per riconoscere i dispositivi di destinazione in modalità wireless. Una volta riconosciuto il dispositivo di destinazione, la sua icona apparirà in primo piano.</string>
+    <string name="uwb_setting_guide_summary">Beam utilizza la tecnologia UWB per riconoscere i dispositivi di destinazione in mod. wireless. Una volta riconosciuto il dispositivo di destinazione, la sua icona apparirà in primo piano.</string>
     <string name="uwb_setting_guide_title">Mantieni questo dispositivo di fronte al dispositivo di destinazione compatibile</string>
-    <string name="uwb_summary">Beam utilizza la tecnologia UWB per riconoscere i dispositivi di destinazione in modalità wireless. Il trasferimento di file tra dispositivi alimentati dalla tecnologia UWB è più veloce e conveniente.</string>
+    <string name="uwb_summary">Beam utilizza la tecnologia UWB per riconoscere i dispositivi di destinazione in mod. wireless. Il trasferimento di file tra dispositivi alimentati dalla tecnologia UWB è più veloce e conveniente.</string>
     <string name="uwb_support_device">"Dispositivi compatibili: "</string>
     <string name="uwb_title">Beam</string>
     <string name="v7_preference_off">DISATTIVATO</string>

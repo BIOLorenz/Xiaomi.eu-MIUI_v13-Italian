@@ -40,6 +40,7 @@
     <string name="gb_game_macro_action_speed_desc">Regola la velocità dell\'azione</string>
     <string name="gb_game_macro_action_track">Visualizza gesti</string>
     <string name="gb_game_macro_action_track_desc">Visualizza tocchi e scorrimenti</string>
+    <string name="gb_game_macro_action_unit_times">%sX</string>
     <string name="gb_game_macro_apply">Applica</string>
     <string name="gb_game_macro_button_alpha">Trasparenza pulsante</string>
     <string name="gb_game_macro_button_big">Grande</string>

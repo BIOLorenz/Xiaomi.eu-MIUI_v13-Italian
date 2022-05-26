@@ -62,30 +62,35 @@
         <item>Scegli una data</item>
     </string-array>
     <string-array name="error_message_respond">
-        <item>LOGIN Login error or password error</item>
-        <item>LOGIN Login error password error</item>
+        <item>LOGIN  Errore di login o password</item>
+        <item>LOGIN  Errore password di login</item>
+        <item>Utente o password di accesso non validi</item>
+        <item>LOGIN fallito, nome utente/password non valido</item>
+        <item>LOGIN errno:1424, account not exist(md return:2100001)</item>
         <item>ERR.LOGIN.DOMAINNOTEXIST</item>
         <item>Si prega di utilizzare il codice autorizzato per effettuare il login. Ulteriori informazioni su https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
-        <item>LOGIN Login error user suspended</item>
+        <item>Il codice autorizzato non è corretto. Ulteriori informazioni su https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>LOGIN Errore di login utente sospeso</item>
+        <item>LOGIN failure, 楠岃瘉澶辫触锛\ufffd</item>
         <item>LOGIN errno:1423, user password error(sp return:2200019)</item>
-        <item>AUTHENTICATIONFAILED LOGIN Invalid credentials</item>
-        <item>Login fail. Password is incorrect or service is not open</item>
+        <item>AUTHENTICATIONFAILED LOGIN Credenziali non valide</item>
+        <item>Accesso fallito. Password non corretta o servizio non aperto</item>
         <item>LOGIN imap4 nosupport</item>
         <item>LOGIN errno:1328, custom imap off</item>
-        <item>LOGIN Login error user suspended</item>
-        <item>LOGIN user in black list</item>
-        <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
-        <item>LOGIN user in black list</item>
-        <item>LOGIN errno:1412 status=51 La password non viene modificata da molto tempo. Si prega di modificare la password. http://mail.10086.cn</item>
+        <item>LOGIN Errore di login utente sospeso</item>
+        <item>LOGIN utente in lista nera</item>
+        <item>LOGIN fallito. L\'account è bloccato. Accedi al tuo account tramite un browser web per verificare la tua identità.</item>
+        <item>LOGIN utente in lista nera</item>
+        <item>LOGIN errno:1412 status=51 La password non è stata cambiata per molto tempo. Per favore modifica la password. http://mail.10086.cn</item>
         <item>LOGIN imap4 nosupport</item>
-        <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
-        <item>ERR Invalid login user or password</item>
+        <item>LOGIN fallito. L\'account è bloccato. Accedi al tuo account tramite un browser web per verificare la tua identità.</item>
+        <item>ERR utente o password non validi</item>
         <item>Accesso fallito. Utilizzare la password dell\'app per effettuare il login. Ulteriori informazioni su http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
         <item>ERR custom pop3 off</item>
-        <item>LOGIN Login error user name or password error</item>
-        <item>Invalid login or password</item>
-        <item>ip XXXXXXX in blacklist si prega di cambiare rete o login https://mail.sohu.com per configurare l\'ip client in whitelist</item>
-        <item>java.net.UnknownHostException: Unable to resolve host XXXX : No address associated with hostname</item>
+        <item>LOGIN Login Errore nome utente o password</item>
+        <item>Nome utente o password non validi</item>
+        <item>in blacklist, per favore cambia la tua rete o accedi a https://mail.sohu.com per configurare la lista esclusioni il client ip</item>
+        <item>java.net.UnknownHostException: Impossibile risolvere l\'host</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Testo molto piccolo</item>

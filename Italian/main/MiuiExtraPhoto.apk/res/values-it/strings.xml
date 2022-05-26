@@ -97,6 +97,7 @@
     <string name="close">Chiudi</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
+    <string name="doc_photo_adjust_section_talkback">Ritaglia e modifica</string>
     <string name="doc_photo_adjust_section_title">Trascina per regolare</string>
     <string name="doc_photo_cancel">Annulla</string>
     <string name="doc_photo_confirm">Esci</string>
@@ -279,6 +280,7 @@
     <string name="refocus_dynamic_yuanxing">Cerchi</string>
     <string name="refocus_movie_banlan">Motley</string>
     <string name="refocus_movie_caihong">Arcobaleno</string>
+    <string name="refocus_movie_huaijiu">Nostalgia</string>
     <string name="refocus_movie_lanshan">Decadenza</string>
     <string name="refocus_movie_meiying">Fantasma</string>
     <string name="refocus_movie_mengjing">Dreamland</string>

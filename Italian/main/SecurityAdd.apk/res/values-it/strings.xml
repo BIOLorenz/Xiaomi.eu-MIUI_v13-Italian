@@ -172,8 +172,8 @@
     <string name="expand_button_title">Avanzate</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a tendina</string>
     <string name="eye_protect_desc">屏幕颜色和亮度自动调节，保护宝贝视力及时提醒宝贝保持与电子设备的距离</string>
-    <string name="fastboot_locked_answer_1">Fastboot è il metodo tradizionale per flashare il tuo dispositivo Mi. Quando il dispositivo è in modalità Fastboot, tutti i dati salvati non saranno più raggiungibili e verranno direttamente. Bloccheremo successivamente il tuo dispositivo per assicurarci che i tuoi dati rimangano al sicuro nel caso di smarrimento del dispositivo, così come per assicurare l\'affidabilità delle funzionalità trova dispositivo.</string>
-    <string name="fastboot_locked_answer_2">"Nel caso di smarrimento del dispositivo, la modalità Fastboot garantirà la sicurezza degli elementi in esso salvati. Se effettuerai lo sblocco con Fastboot, non sarai più in grado di bloccare il tuo dispositivo da remoto o cancellare i dati con trova dispositivo. Ecco perché non consigliamo di sbloccare il tuo dispositivo con Fastboot"</string>
+    <string name="fastboot_locked_answer_1">Fastboot è il metodo tradizionale per flashare il tuo dispositivo Mi. Quando il dispositivo è in mod. Fastboot, tutti i dati salvati non saranno più raggiungibili e verranno direttamente. Bloccheremo successivamente il tuo dispositivo per assicurarci che i tuoi dati rimangano al sicuro nel caso di smarrimento del dispositivo, così come per assicurare l\'affidabilità delle funzionalità trova dispositivo.</string>
+    <string name="fastboot_locked_answer_2">"Nel caso di smarrimento del dispositivo, la mod. Fastboot garantirà la sicurezza degli elementi in esso salvati. Se effettuerai lo sblocco con Fastboot, non sarai più in grado di bloccare il tuo dispositivo da remoto o cancellare i dati con trova dispositivo. Ecco perché non consigliamo di sbloccare il tuo dispositivo con Fastboot"</string>
     <string name="fastboot_locked_answer_3">"Dovresti utilizzare lo strumento di sblocco dal sito MIUI. Per sbloccare il dispositivo, dobbiamo assicurarci che il dispositivo appartiene a te. Ecco perché dovresti accedere con il tuo Mi account ed abilitare trova dispositivo."</string>
     <string name="fastboot_locked_question_1">Perché il bootloader dovrebbe essere bloccato?</string>
     <string name="fastboot_locked_question_2">Ci sono rischi connessi allo sblocco Fastboot?</string>
@@ -230,7 +230,7 @@
     <string name="gamebooster_network_dialog_message_pad">Consentire all\'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzionalità di Turbo Videogiochi?</string>
     <string name="gamebooster_network_dialog_title">"Alcune funzionalità non sono disponibili"</string>
     <string name="gamebox_no_network_btn">Ricarica</string>
-    <string name="gb_adv_touch_adv_title">Modalità classica (predefinita)</string>
+    <string name="gb_adv_touch_adv_title">Mod. classica (predefinita)</string>
     <string name="gb_adv_touch_custom1">Risposta dello scorrimento</string>
     <string name="gb_adv_touch_custom2">Sensibilità ai tap ripetuti</string>
     <string name="gb_adv_touch_custom3">Precisione di mira</string>
@@ -240,8 +240,8 @@
     <string name="gb_adv_touch_custom_tip3">Una maggiore precisione di mira rende più precisi gli swipe più piccoli, mentre una minore precisione rende questo gesto più stabile.</string>
     <string name="gb_adv_touch_custom_tip4">Una maggiore stabilità rende i tocchi più stabili, mentre una stabilità inferiore aumenta la precisione dei piccoli scorrimenti.</string>
     <string name="gb_adv_touch_custom_title">Impostazioni schede</string>
-    <string name="gb_adv_touch_mode_pro_tips">*Questa modalità è progettata per i giocatori professionisti. I giocatori normali potrebbero trovare questa modalità scomoda.</string>
-    <string name="gb_adv_touch_pro_title">Modalità Pro</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Questa mod. è progettata per i giocatori professionisti. I giocatori normali potrebbero trovare questa mod. scomoda.</string>
+    <string name="gb_adv_touch_pro_title">Mod. Pro</string>
     <string name="gb_advance_settings_edge_gear1">Nessuno</string>
     <string name="gb_advance_settings_edge_gear2">Piccolo</string>
     <string name="gb_advance_settings_edge_gear3">Medio</string>
@@ -266,14 +266,14 @@
     <string name="gb_advance_settings_vibration_4d_summary">Illustra le azioni in-game utilizzando la vibrazione</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Vibra durante le uccisioni nel gioco</string>
     <string name="gb_alipays_can_not_complete">"Impossibile completare il pagamento. Installa per continuare."</string>
-    <string name="gb_dialog_game_speed_close">Disattivazione modalità Velocità della Luce…</string>
-    <string name="gb_dialog_game_speed_exist">Puoi usare un solo gioco in modalità Velocità della Luce. Sostituire \"%s\"?</string>
+    <string name="gb_dialog_game_speed_close">Disattivazione mod. Velocità della Luce…</string>
+    <string name="gb_dialog_game_speed_exist">Puoi usare un solo gioco in mod. Velocità della Luce. Sostituire \"%s\"?</string>
     <string name="gb_game_control">Impostazioni GPU</string>
     <string name="gb_game_settings">Altre impostazioni</string>
-    <string name="gb_game_speed_closed">La modalità Velocità della Luce è spenta</string>
-    <string name="gb_game_speed_closed_fail">"Impossibile disattivare la modalità Velocità della Luce"</string>
-    <string name="gb_game_speed_open">La modalità Velocità della Luce è attiva</string>
-    <string name="gb_game_speed_open_fail">"Impossibile attivare la modalità Velocità della Luce"</string>
+    <string name="gb_game_speed_closed">La mod. Velocità della Luce è spenta</string>
+    <string name="gb_game_speed_closed_fail">"Impossibile disattivare la mod. Velocità della Luce"</string>
+    <string name="gb_game_speed_open">La mod. Velocità della Luce è attiva</string>
+    <string name="gb_game_speed_open_fail">"Impossibile attivare la mod. Velocità della Luce"</string>
     <string name="gb_global_settings">Impostazioni generali</string>
     <string name="gb_gpu_control_anisotropic_filtering">Filtro Anisotropico</string>
     <string name="gb_gpu_control_fps">Video HFR</string>
@@ -304,7 +304,7 @@
     <string name="gb_webwindow_schemedialog_accept">Apri</string>
     <string name="gb_webwindow_schemedialog_cancel">Annulla</string>
     <string name="gb_weixinpay_can_not_complete">"Impossibile completare il pagamento. Installa per continuare."</string>
-    <string name="gdpr_msg"><Data>\"Per poter utilizzare le caratteristiche base di Sicurezza, è necessario accettare che Xiaomi raccoglierà, elaborerà e utilizzerà i tuoi dati personali, comprese le informazioni sulle modalità di utilizzo delle funzionalità di Sicurezza (es. statistiche di utilizzo dati, informazioni sui malware, informazioni di base del dispositivo) e altri tipi di informazioni specificati nella nostra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;.</Data></string>
+    <string name="gdpr_msg"><Data>\"Per poter utilizzare le caratteristiche base di Sicurezza, è necessario accettare che Xiaomi raccoglierà, elaborerà e utilizzerà i tuoi dati personali, comprese le informazioni sulle mod. di utilizzo delle funzionalità di Sicurezza (es. statistiche di utilizzo dati, informazioni sui malware, informazioni di base del dispositivo) e altri tipi di informazioni specificati nella nostra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;.</Data></string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -399,6 +399,7 @@
     <string name="morning">Mattina</string>
     <string name="mtrl_badge_numberless_content_description">Nuove notifiche</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
     <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
     <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
@@ -420,9 +421,9 @@
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">dd</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a modalità inserimento calendario</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a mod. inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Passa a modalità inserimento testo</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa a mod. inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="net_booster_expire_notification">La sessione di accelerazione velocità di rete sta per terminare</string>
     <string name="net_booster_overdue_notification">La sessione di accelerazione velocità di rete sta per terminare</string>

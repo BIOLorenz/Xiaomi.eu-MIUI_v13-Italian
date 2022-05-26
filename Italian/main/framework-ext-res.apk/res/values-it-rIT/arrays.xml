@@ -46,6 +46,38 @@
         <item>pine</item>
         <item>grus</item>
     </string-array>
+    <string-array name="device_on_platform_x250">
+        <item>apollo</item>
+        <item>cas</item>
+        <item>alioth</item>
+        <item>cmi</item>
+        <item>psyche</item>
+        <item>thyme</item>
+        <item>umi</item>
+        <item>lmi</item>
+    </string-array>
+    <string-array name="device_on_platform_x350">
+        <item>haydn</item>
+        <item>asterisco</item>
+        <item>cetus</item>
+        <item>venus</item>
+        <item>renoir</item>
+        <item>odin</item>
+    </string-array>
+    <string-array name="device_on_platform_x450">
+        <item>zeus</item>
+        <item>cupid</item>
+        <item>ingres</item>
+        <item>thor</item>
+        <item>zizhan</item>
+    </string-array>
+    <string-array name="device_on_platform_x475">
+        <item>thor</item>
+        <item>unicorn</item>
+        <item>mayfly</item>
+        <item>zizhan</item>
+        <item>diting</item>
+    </string-array>
     <string-array name="devices_support_multi_freeform">
         <item>zizhan</item>
         <item>cetus</item>
@@ -1261,6 +1293,14 @@
         <item>com.android.gallery3d</item>
         <item>com.android.systemui:sliderview</item>
         <item>com.android.camera</item>
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mm:push</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.tencent.mobileqq:MSF</item>
+        <item>com.xiaomi.joyose</item>
+        <item>com.phonetest.application:CameraMemoryWatcher</item>
+        <item>com.miui.securitycenter.bootaware</item>
+        <item>com.xiaomi.metoknlp</item>
     </string-array>
     <string-array name="process_disable_trim_list">
         <item>com.android.launcher3</item>
@@ -1269,6 +1309,7 @@
     </string-array>
     <string-array name="process_display_size_protect_list">
         <item>com.android.settings:remote</item>
+        <item>com.android.settings:CryptKeeper</item>
         <item>com.android.providers.calendar</item>
         <item>com.android.vending:download_service</item>
         <item>com.qualcomm.telephony</item>

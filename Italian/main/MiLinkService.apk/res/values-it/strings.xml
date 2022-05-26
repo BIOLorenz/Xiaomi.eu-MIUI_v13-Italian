@@ -306,8 +306,8 @@ Se devi attivare Miracast, premi il pulsante [MENU] e seleziona Le mie app &gt; 
     <string name="help_page_text_55_global">"Se non riesci a connetterti alla rete, assicurati che il tuo monitor esterno supporti la funzionalità di Miracast e che sia attivata. Su alcuni modelli, questa funzione si chiama Display Wireless, Screen Mirroring, Multi Schermo.
 4. Se riscontri problemi, puoi segnalarli utilizzando la nostra app \"Servizi e feedback\"."</string>
     <string name="help_page_text_end">"Se la marca del tuo dispositivo non è elencata qui, contatta il produttore per sapere di più sulla funzionalità di proiezione."</string>
-    <string name="invisible_mode_dialog_content">"Impossibile proiettare quando sei in incognito. Disattiva prima la modalità Incognito."</string>
-    <string name="invisible_mode_dialog_content_audio_relay">"Impossibile trasferire la riproduzione quando sei in incognito. Disattiva prima la modalità Incognito."</string>
+    <string name="invisible_mode_dialog_content">"Impossibile proiettare quando sei in incognito. Disattiva prima la mod. Incognito."</string>
+    <string name="invisible_mode_dialog_content_audio_relay">"Impossibile trasferire la riproduzione quando sei in incognito. Disattiva prima la mod. Incognito."</string>
     <string name="invisible_mode_dialog_pos">Disattiva</string>
     <string name="invisible_mode_dialog_title">"Sei in incognito"</string>
     <string name="keyguard_security_setting_privacy_policy">Informativa sulla Privacy</string>
@@ -578,7 +578,7 @@ Leggi e accetta il nostro &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a hr
     <string name="toast_guide_title">Esplora le nostre nuove funzionalità qui</string>
     <string name="toast_invisible_mode">"Sei in incognito. Non puoi proiettare ora."</string>
     <string name="toast_invisible_mode1">"La proiezione non funzionerà quando sei in incognito"</string>
-    <string name="toast_msg_for_multi_window">"Impossibile utilizzare questa funzionalità in modalità Split Screen"</string>
+    <string name="toast_msg_for_multi_window">"Impossibile utilizzare questa funzionalità in mod. Split Screen"</string>
     <string name="toast_msg_for_small_window">"Puoi ridurre la finestra proiettata per poter utilizzare altre funzioni del tuo telefono senza interrompere il processo di trasmissione."</string>
     <string name="toast_nfc_dont_move">"Non allontanare il telefono"</string>
     <string name="toast_title_for_small_window">Seleziona \"Riduci finestra\" nell\'app</string>

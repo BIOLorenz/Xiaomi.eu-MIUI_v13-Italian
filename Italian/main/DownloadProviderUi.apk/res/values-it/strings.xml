@@ -595,9 +595,9 @@ su tutti i tuoi dispositivi con Xunlei"</string>
     <string name="select_subfile_all">Seleziona tutto</string>
     <string name="selected_count">Selezionati %1$d di %2$d</string>
     <string name="send">Invia</string>
-    <string name="setting_close_debug">Modalità Debug disattivata</string>
-    <string name="setting_debug_fail">"Impossibile entrare in modalità Debug"</string>
-    <string name="setting_open_debug">Modalità Debug attivata. Tocca qui 6 volte per disattivare la modalità Debug.</string>
+    <string name="setting_close_debug">Mod. Debug disattivata</string>
+    <string name="setting_debug_fail">"Impossibile entrare in mod. Debug"</string>
+    <string name="setting_open_debug">Mod. Debug attivata. Tocca qui 6 volte per disattivare la mod. Debug.</string>
     <string name="shortcut_dialog_content">Aggiungi un collegamento in Home per avere un accesso più rapido.</string>
     <string name="shortcut_dialog_create">Crea</string>
     <string name="shortcut_dialog_title">Creare collegamento nella schermata Home?</string>
@@ -843,6 +843,7 @@ Accelera i download su tutti i tuoi dispositivi."</string>
     <string name="xlunbind_sub_title">Rimuovi il tuo account Xunlei e aggiungi Mi Account</string>
     <string name="xunlei_account_has_unbind_message">Account Xunlei rimosso</string>
     <string name="xunlei_brand">Fornito da Xunlei</string>
+    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_close_tips_button">Attiva</string>
     <string name="xunlei_close_tips_content">Acceleratore download Xunlei.</string>
     <string name="xunlei_close_tips_title">Accelera i tuoi download</string>

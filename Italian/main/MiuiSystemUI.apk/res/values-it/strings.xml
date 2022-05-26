@@ -49,9 +49,9 @@
     <string name="accessibility_action_pip_resize">Ridimensiona</string>
     <string name="accessibility_action_pip_stash">Recesso</string>
     <string name="accessibility_action_pip_unstash">Sposta</string>
-    <string name="accessibility_action_start_one_handed">Avvia modalità a una mano</string>
-    <string name="accessibility_action_stop_one_handed">Esci dalla modalità a una mano</string>
-    <string name="accessibility_airplane_mode">Modalità aereo.</string>
+    <string name="accessibility_action_start_one_handed">Avvia mod. a una mano</string>
+    <string name="accessibility_action_stop_one_handed">Esci dalla mod. a una mano</string>
+    <string name="accessibility_airplane_mode">Mod. aereo.</string>
     <string name="accessibility_ambient_display_charging">Ricarica</string>
     <string name="accessibility_back">Indietro</string>
     <string name="accessibility_banner_message_dismiss">Rifiuta</string>
@@ -203,10 +203,10 @@
     <string name="accessibility_qs_edit_tile_removed">%1$s è stato rimosso</string>
     <string name="accessibility_qs_edit_tile_start_add">Aggiungi riquadro</string>
     <string name="accessibility_qs_edit_tile_start_move">Sposta riquadro</string>
-    <string name="accessibility_quick_settings_airplane_changed_off">Modalità aereo disattivata.</string>
-    <string name="accessibility_quick_settings_airplane_changed_on">Modalità aereo attivata.</string>
-    <string name="accessibility_quick_settings_airplane_off">Modalità aereo disattivata.</string>
-    <string name="accessibility_quick_settings_airplane_on">Modalità aereo attivata.</string>
+    <string name="accessibility_quick_settings_airplane_changed_off">Mod. aereo disattivata.</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">Mod. aereo attivata.</string>
+    <string name="accessibility_quick_settings_airplane_off">Mod. aereo disattivata.</string>
+    <string name="accessibility_quick_settings_airplane_on">Mod. aereo attivata.</string>
     <string name="accessibility_quick_settings_alarm">Sveglia impostata per %s.</string>
     <string name="accessibility_quick_settings_alarm_set">Sveglia impostata.</string>
     <string name="accessibility_quick_settings_battery">Batteria %s.</string>
@@ -226,10 +226,10 @@
     <string name="accessibility_quick_settings_data_saver_changed_on">Risparmio dati attivato.</string>
     <string name="accessibility_quick_settings_detail">Impostazioni rapide, %s.</string>
     <string name="accessibility_quick_settings_dnd">Non disturbare.</string>
-    <string name="accessibility_quick_settings_dnd_alarms_on">Modalità non disturbare attivata, solo sveglia.</string>
-    <string name="accessibility_quick_settings_dnd_changed_off">Modalità non disturbare disattivata.</string>
-    <string name="accessibility_quick_settings_dnd_changed_on">Modalità non disturbare attivata.</string>
-    <string name="accessibility_quick_settings_dnd_none_on">Modalità non disturbare attivata, silenzio totale.</string>
+    <string name="accessibility_quick_settings_dnd_alarms_on">Mod. non disturbare attivata, solo sveglia.</string>
+    <string name="accessibility_quick_settings_dnd_changed_off">Mod. non disturbare disattivata.</string>
+    <string name="accessibility_quick_settings_dnd_changed_on">Mod. non disturbare attivata.</string>
+    <string name="accessibility_quick_settings_dnd_none_on">Mod. non disturbare attivata, silenzio totale.</string>
     <string name="accessibility_quick_settings_edit">Modifica ordinamento impostazioni.</string>
     <string name="accessibility_quick_settings_expand">Apri impostazioni rapide.</string>
     <string name="accessibility_quick_settings_flashlight_changed_off">Torcia disattivata.</string>
@@ -252,15 +252,15 @@
     <string name="accessibility_quick_settings_page">Pagina %1$d di %2$d</string>
     <string name="accessibility_quick_settings_power_menu">Menù di spegnimento</string>
     <string name="accessibility_quick_settings_rotation">Auto-rotazione schermo</string>
-    <string name="accessibility_quick_settings_rotation_value">Modalità %s</string>
+    <string name="accessibility_quick_settings_rotation_value">Mod. %s</string>
     <string name="accessibility_quick_settings_sensor_privacy_changed_off">Sensore Privacy disattivato.</string>
     <string name="accessibility_quick_settings_sensor_privacy_changed_on">Sensore Privacy attivato.</string>
     <string name="accessibility_quick_settings_settings">Apri impostazioni.</string>
     <string name="accessibility_quick_settings_user">Loggato come %s</string>
     <string name="accessibility_quick_settings_wifi_changed_off">Wi-Fi disattivato.</string>
     <string name="accessibility_quick_settings_wifi_changed_on">Wi-Fi attivato.</string>
-    <string name="accessibility_quick_settings_work_mode_changed_off">Modalità lavoro disattivata.</string>
-    <string name="accessibility_quick_settings_work_mode_changed_on">Modalità lavoro attivata.</string>
+    <string name="accessibility_quick_settings_work_mode_changed_off">Mod. lavoro disattivata.</string>
+    <string name="accessibility_quick_settings_work_mode_changed_on">Mod. lavoro attivata.</string>
     <string name="accessibility_recent">Applicazioni recenti</string>
     <string name="accessibility_remove_notification">Cancella notifica.</string>
     <string name="accessibility_ringer_silent">Suoneria silenziosa.</string>
@@ -268,10 +268,10 @@
     <string name="accessibility_rotate_button">Ruota lo schermo</string>
     <string name="accessibility_rotation_lock_off">Lo schermo ruoterà automaticamente.</string>
     <string name="accessibility_rotation_lock_off_changed">Lo schermo ruoterà automaticamente.</string>
-    <string name="accessibility_rotation_lock_on_landscape">Lo schermo è bloccato in modalità landscape.</string>
-    <string name="accessibility_rotation_lock_on_landscape_changed">Lo schermo è ora bloccato in modalità landscape.</string>
-    <string name="accessibility_rotation_lock_on_portrait">Lo schermo è bloccato in modalità portrait.</string>
-    <string name="accessibility_rotation_lock_on_portrait_changed">Lo schermo è ora bloccato in modalità portrait.</string>
+    <string name="accessibility_rotation_lock_on_landscape">Lo schermo è bloccato in mod. landscape.</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">Lo schermo è ora bloccato in mod. landscape.</string>
+    <string name="accessibility_rotation_lock_on_portrait">Lo schermo è bloccato in mod. portrait.</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">Lo schermo è ora bloccato in mod. portrait.</string>
     <string name="accessibility_scanning_face">Scansione del volto</string>
     <string name="accessibility_search_light">Cerca</string>
     <string name="accessibility_send_smart_reply">Invia</string>
@@ -309,7 +309,7 @@
     <string name="accessibility_wimax_signal_full">Massimo segnale WiMAX.</string>
     <string name="accessibility_wimax_three_bars">WiMAX: tre barre.</string>
     <string name="accessibility_wimax_two_bars">WiMAX: due barre.</string>
-    <string name="accessibility_work_mode">Modalità lavoro</string>
+    <string name="accessibility_work_mode">Mod. lavoro</string>
     <string name="accessibility_work_profile_app_description">Lavoro %s</string>
     <string name="accessibility_zero_bars">Zero barre.</string>
     <string name="accessor_expires_text">Il lease scade alle %s</string>
@@ -355,7 +355,7 @@
     <string name="add_user_failed">Creazione nuovo utente non riuscita</string>
     <string name="adjust_button_width">Regola larghezza pulsante</string>
     <string name="afternoon">Pomeriggio</string>
-    <string name="airplane_mode">Modalità Aereo</string>
+    <string name="airplane_mode">Mod. Aereo</string>
     <string name="alarm_template">a %1$s</string>
     <string name="alarm_template_far">su %1$s</string>
     <string name="alarms_and_reminders_footer_title">"Consenti a questa app di impostare sveglie e programmare azioni per le quali il fattore temporale è decisivo. L'app potrà essere eseguita in background, comportando un consumo maggiore della batteria.
@@ -530,9 +530,9 @@ Riprova tra %d secondi."</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bit per Campione Audio Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Seleziona il Codec Audio Bluetooth:
 Bit per Campione"</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode">Modalità Canale Audio Bluetooth Audio Channel Mode</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode">Mod. Canale Audio Bluetooth Audio Channel Mode</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Seleziona Codec Audio Bluetooth:
-Modalità Canale"</string>
+Mod. Canale"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec LDAC Audio Bluetooth: Qualità di Riproduzione</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleziona Codec Bluetooth Audio LDAC Codec:
 Qualità di Riproduzione"</string>
@@ -794,6 +794,7 @@ Frequenza Campione"</string>
     <string name="data_connection_lte">LTE</string>
     <string name="data_connection_lte_plus">LTE+</string>
     <string name="data_connection_no_internet">Non connesso ad Internet</string>
+    <string name="data_connection_roaming">Roaming</string>
     <string name="data_saver">Risparmio dati</string>
     <string name="data_usage_disabled_dialog">"Hai raggiunto il limite di utilizzo dei dati specificato.
 
@@ -828,7 +829,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="delete">Elimina</string>
     <string name="delete_blob_confirmation_text">Sei sicuro di voler eliminare questi dati condivisi?</string>
     <string name="delete_blob_text">Elimina dati condivisi</string>
-    <string name="demo_mode">Modalità demo</string>
+    <string name="demo_mode">Mod. demo</string>
     <string name="demote">Segna questa notifica come \"non conversazione\"</string>
     <string name="description_direction_left">Scorri a sinistra per %s.</string>
     <string name="description_direction_up">Scorri in alto per %s.</string>
@@ -856,18 +857,18 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="disabled_by_admin">Disabilitato dall\'amministratore</string>
     <string name="disabled_by_admin_summary_text">Controllato dall\'amministratore</string>
     <string name="disconnect_vpn">Disconnetti VPN</string>
-    <string name="dnd_is_off">Modalità DND disattivata</string>
-    <string name="dnd_notification_warnings_title">Le chiamate e le notifiche verranno silenziato fino a che non disattiverai la modalità DND</string>
-    <string name="dnd_suppressing_shade_text">Notifiche messe in pausa dalla modalità Non disturbare</string>
+    <string name="dnd_is_off">Mod. DND disattivata</string>
+    <string name="dnd_notification_warnings_title">Le chiamate e le notifiche verranno silenziato fino a che non disattiverai la mod. DND</string>
+    <string name="dnd_suppressing_shade_text">Notifiche messe in pausa dalla mod. Non disturbare</string>
     <string name="do_disclosure_generic">Questo dispositivo è gestito dalla tua organizzazione</string>
     <string name="do_disclosure_with_name">Questo dispositivo è gestito da %s</string>
     <string name="do_financed_disclosure_with_name">Dispositivo fornito da %1$s</string>
     <string name="do_not_silence">"Non silenziare"</string>
     <string name="do_not_silence_block">"Non silenziare o bloccare"</string>
-    <string name="dock_alignment_not_charging">Riallinea il telefono per ricaricare in modalità wireless</string>
+    <string name="dock_alignment_not_charging">Riallinea il telefono per ricaricare in mod. wireless</string>
     <string name="dock_alignment_slow_charging">Riallinea il telefono per una ricarica più rapida</string>
-    <string name="dock_forced_resizable">Questa applicazione potrebbe non funzionare in modalità schermo diviso.</string>
-    <string name="dock_non_resizeble_failed_to_dock_text">Questa applicazione non supporta la modalità schermo diviso.</string>
+    <string name="dock_forced_resizable">Questa applicazione potrebbe non funzionare in mod. schermo diviso.</string>
+    <string name="dock_non_resizeble_failed_to_dock_text">Questa applicazione non supporta la mod. schermo diviso.</string>
     <string name="download_lock_wallpaper">Esegui un doppio tocco per scaricare Sfondi Carousel</string>
     <string name="drag_to_add_tiles">Trascina per aggiungere delle funzioni</string>
     <string name="drag_to_rearrange_tiles">Tieni premuto e trascina per riorganizzare le caselle</string>
@@ -891,13 +892,13 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="empty_status">Chattiamo stasera!</string>
     <string name="empty_user_name">Amici</string>
     <string name="enable_adb">Debug USB</string>
-    <string name="enable_adb_summary">Abilita modalità debug quando il collegamento USB é attivo</string>
+    <string name="enable_adb_summary">Abilita mod. debug quando il collegamento USB é attivo</string>
     <string name="enable_adb_wireless">Debug wireless</string>
-    <string name="enable_adb_wireless_summary">Modalità debug quando connesso in Wi-Fi</string>
+    <string name="enable_adb_wireless_summary">Mod. debug quando connesso in Wi-Fi</string>
     <string name="enable_bluetooth_confirmation_ok">Attiva</string>
     <string name="enable_bluetooth_message">Per collegare la tastiera al tablet, attiva prima il Bluetooth.</string>
     <string name="enable_bluetooth_title">Attivare Bluetooth?</string>
-    <string name="enable_demo_mode">Attiva modalità demo</string>
+    <string name="enable_demo_mode">Attiva mod. demo</string>
     <string name="enable_freeform_support">Abilita finestre a forma libera</string>
     <string name="enable_freeform_support_summary">Abilita supporto sperimentale per finestre a forma libera.</string>
     <string name="enable_gpu_debug_layers">Attiva livelli debug GPU</string>
@@ -922,6 +923,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="expanded_header_battery_charging_with_time">%s fino a carica completa</string>
     <string name="expanded_header_battery_not_charging">Non in carica</string>
     <string name="experimental">Sperimentale</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra menu a discesa</string>
     <string name="external_source_trusted">Permesso</string>
     <string name="external_source_untrusted">Non autorizzato</string>
     <string name="face_dialog_looking_for_face">Ricerca del volto…</string>
@@ -950,7 +952,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="feedback_prompt">Fai sapere allo sviluppatore il tuo feedback. Era corretto?</string>
     <string name="feedback_response">Grazie per la segnalazione!</string>
     <string name="feedback_silenced">Questa notifica è stata automaticamente &lt;b&gt;classificata come silenziosa&lt;/b&gt; dal sistema.</string>
-    <string name="finger_error_single_mode">"Impossibile utilizzare lo scanner di impronte digitali in modalità a una mano. Esci dalla modalità a una mano e riprova."</string>
+    <string name="finger_error_single_mode">"Impossibile utilizzare lo scanner di impronte digitali in mod. a una mano. Esci dalla mod. a una mano e riprova."</string>
     <string name="fingerprint_add_text">L\'interfaccia dell\'impronta è stata aggiornata. Aggiungi nuovamente l\'impronta.</string>
     <string name="fingerprint_add_title">Aggiungi impronta</string>
     <string name="fingerprint_again_identified_msg">La tua impronta è ora attiva. Utilizzala per sbloccare il dispositivo o inserire la password.</string>
@@ -965,7 +967,7 @@ Usala per sbloccare il dispositivo o inserire il PIN."</string>
     <string name="fingerprint_dialog_use_fingerprint">Usa l\'impronta digitale per continuare</string>
     <string name="fingerprint_dialog_use_fingerprint_instead">Impossibile riconoscere il viso. Usa l\'impronta digitale.</string>
     <string name="fingerprint_enter_second_psw_msg">Immettere la password del Secondo Spazio dopo il riavvio del dispositivo, per poter utilizzare il riconoscimento delle impronte</string>
-    <string name="fingerprint_enter_second_psw_msg_oldman">"Impossibile entrare nel Secondo Spazio durante l'utilizzo della Modalità Lite"</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">"Impossibile entrare nel Secondo Spazio durante l'utilizzo della Mod. Lite"</string>
     <string name="fingerprint_enter_second_psw_title">Immetti password Secondo Spazio</string>
     <string name="fingerprint_not_identified_msg">Troppi tentativi non riusciti. Inserisci la password ora o prova ad utilizzare l\'impronta in pochi secondi.</string>
     <string name="fingerprint_not_identified_msg_lock">Troppi tentativi non riusciti. Immetti password ora.</string>
@@ -1032,6 +1034,7 @@ Inserisci il PIN per sbloccare."</string>
     <string name="fs_gesture_back_ready_title">Indietro</string>
     <string name="fs_gesture_final_over">"Finito"</string>
     <string name="fs_gesture_final_restart">Studia ancora</string>
+    <string name="fs_gesture_final_see_more">Visualizza più demo in Impostazioni &gt; Pagina iniziale &gt; Navigazione di sistema</string>
     <string name="fs_gesture_final_summary">Potrai modificare questa scelta in [Impostazioni-Visualizzazione a schermo intero]</string>
     <string name="fs_gesture_final_title">"Studio terminato"</string>
     <string name="fs_gesture_finish">Ottimo!</string>
@@ -1206,6 +1209,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
     <string name="invalid_charger_text">Utilizza solo il caricabatterie in dotazione.</string>
     <string name="invalid_charger_title">"La ricarica USB non è supportata."</string>
     <string name="invalid_confirm_pin_hint">"I PIN non corrispondono"</string>
+    <string name="item_view_role_description">Tab</string>
     <string name="keep_screen_on">Lascia attivo</string>
     <string name="keep_screen_on_summary">Lo schermo non si spegnerà mentre il dispositivo é in carica</string>
     <string name="keyboard_key_back">Indietro</string>
@@ -1274,7 +1278,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
     <string name="keyguard_indication_charging_time">In carica (%s al completamento)</string>
     <string name="keyguard_indication_charging_time_fast">Carica rapida (%s al completamento)</string>
     <string name="keyguard_indication_charging_time_slowly">Carica lenta (%s al completamento)</string>
-    <string name="keyguard_indication_charging_time_wireless">%2$s • Ricarica in modalità wireless (%1$s al completamento)</string>
+    <string name="keyguard_indication_charging_time_wireless">%2$s • Ricarica in mod. wireless (%1$s al completamento)</string>
     <string name="keyguard_indication_trust_disabled">Il dispositivo rimarrà bloccato finché non lo sbloccherai manualmente</string>
     <string name="keyguard_indication_trust_unlocked">Mantenuto sbloccato da Agente di Attendibilità</string>
     <string name="keyguard_instructions_when_pattern_disabled">Premi Menu per sbloccare.</string>
@@ -1310,7 +1314,7 @@ Contatta il tuo provider di rete per richiedere un'altra SIM."</string>
     <string name="keyguard_retry">Scorri verso l\'alto per riprovare</string>
     <string name="keyguard_sim_error_message_short">SIM non valida.</string>
     <string name="keyguard_sim_locked_message">La SIM è bloccata.</string>
-    <string name="keyguard_sim_puk_locked_message">La SIM è modalità blocco PUK.</string>
+    <string name="keyguard_sim_puk_locked_message">La SIM è mod. blocco PUK.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Sblocco SIM…</string>
     <string name="keyguard_torch_cover_text">Tieni premuto il tasto Accensione per accendere la Torcia</string>
     <string name="keyguard_try_fingerprint">Usa l\'impronta digitale per aprire</string>
@@ -1394,7 +1398,7 @@ Riprova tra %2$d secondi."</string>
     <string name="lb_playback_controls_high_quality_enable">Attiva Alta Qualità</string>
     <string name="lb_playback_controls_more_actions">Altre Azioni</string>
     <string name="lb_playback_controls_pause">Pausa</string>
-    <string name="lb_playback_controls_picture_in_picture">Entra in Modalità Picture In Picture</string>
+    <string name="lb_playback_controls_picture_in_picture">Entra in Mod. Picture In Picture</string>
     <string name="lb_playback_controls_play">Riproduci</string>
     <string name="lb_playback_controls_repeat_all">Ripeti tutti</string>
     <string name="lb_playback_controls_repeat_none">Non ripetere</string>
@@ -1429,7 +1433,7 @@ Riprova tra %2$d secondi."</string>
     <string name="location_status">Condividendo la posizione</string>
     <string name="location_status_content_description">%1$s sta condividendo la posizione</string>
     <string name="lock_screen_access_to_5G">Accesso al 5G</string>
-    <string name="lock_screen_carrier_airplane_mode_on">Modalità Aereo</string>
+    <string name="lock_screen_carrier_airplane_mode_on">Mod. Aereo</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
     <string name="lock_screen_date_two_lines">"EEEE
@@ -1474,11 +1478,13 @@ d MMMM"</string>
     <string name="material_hour_suffix">"%1$s in punto"</string>
     <string name="material_minute_selection">Seleziona i minuti</string>
     <string name="material_minute_suffix">%1$s minuti</string>
-    <string name="material_timepicker_clock_mode_description">Passa alla modalità orologio per inserire l\'ora.</string>
+    <string name="material_slider_range_end">Fine intervallo,</string>
+    <string name="material_slider_range_start">Inizio intervallo,</string>
+    <string name="material_timepicker_clock_mode_description">Passa alla mod. orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Hour</string>
     <string name="material_timepicker_minute">Minuti</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
-    <string name="material_timepicker_text_input_mode_description">Passa alla modalità di inserimento testo per inserire l\'ora.</string>
+    <string name="material_timepicker_text_input_mode_description">Passa alla mod. di inserimento testo per inserire l\'ora.</string>
     <string name="media_category">Media</string>
     <string name="media_output_dialog_add_output">Aggiungi output</string>
     <string name="media_output_dialog_connect_failed">"Impossibile connettersi. Riprova."</string>
@@ -1501,6 +1507,7 @@ d MMMM"</string>
     <string name="megabyte_per_second">M/s</string>
     <string name="memory_leak">Perdita di memoria</string>
     <string name="menu_ime">Cambio tastiera</string>
+    <string name="messages_count_overflow_indicator">%d+</string>
     <string name="mic_active">Microfono Attivo</string>
     <string name="mic_and_camera_recording_announcement">Fotocamera e Microfono stanno registrando</string>
     <string name="mic_camera_stopped_recording_announcement">Fotocamera e Microfono hanno interrotto la registrazione</string>
@@ -1539,7 +1546,7 @@ dd/MM"</string>
     <string name="miui_notification_menu_snooze">Sospendi</string>
     <string name="miui_notification_menu_title_not_allow">Limitazione</string>
     <string name="miui_notification_menu_unfold">Segna come importante</string>
-    <string name="miui_screen_rotation_freeze_message">Orientamento dello schermo bloccato in modalità orizzontale</string>
+    <string name="miui_screen_rotation_freeze_message">Orientamento dello schermo bloccato in mod. orizzontale</string>
     <string name="miui_snooze_always_float">"Non nascondere"</string>
     <string name="miui_snooze_cancel">Annulla</string>
     <string name="miui_snooze_default_time">Per %d minuti</string>
@@ -1715,17 +1722,38 @@ Se hai domande, contatta %2$s."</string>
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositivi</string>
     <string name="msim_set_sub_not_supported_phone_in_call">"Impossibile impostare durante una chiamata"</string>
+    <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Più di %1$d nuove notifiche</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
+    <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
     <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
     <string name="mtrl_picker_cancel">Annulla</string>
     <string name="mtrl_picker_confirm">Salva</string>
     <string name="mtrl_picker_date_header_title">Seleziona Data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selezionata</string>
+    <string name="mtrl_picker_day_of_week_column_header">Colonna dei giorni: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato non valido.</string>
+    <string name="mtrl_picker_invalid_format_example">Esempio: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usa: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Intervallo non valido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Vai all\'anno %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fuori dall\'intervallo: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data di inizio – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data di fine</string>
     <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
     <string name="mtrl_picker_range_header_title">Seleziona Intervallo</string>
+    <string name="mtrl_picker_range_header_unselected">Data di inizio – Data di fine</string>
     <string name="mtrl_picker_save">Salva</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">dd</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla mod. di inserimento calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="music_controls_no_title">Nessun titolo</string>
     <string name="nav_bar">Barra di navigazione</string>
     <string name="nav_bar_default">(predefinito)</string>
@@ -1780,7 +1808,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="notification_channel_switch_accessibility">Consenti notifiche da questo canale</string>
     <string name="notification_channel_tv_pip">Picture-in-Picture</string>
     <string name="notification_channel_unsilenced">Queste notifiche ti avviseranno</string>
-    <string name="notification_content_gesture_nav_available">Vai in Impostazioni per aggiornare la modalità di navigazione nel sistema</string>
+    <string name="notification_content_gesture_nav_available">Vai in Impostazioni per aggiornare la mod. di navigazione nel sistema</string>
     <string name="notification_content_system_nav_changed">Mod. di navigazione di sistema aggiornata. Per apportare modifiche, vai su Impostazioni.</string>
     <string name="notification_control_center">Notifiche e Centro di Controllo</string>
     <string name="notification_conversation_bubble">Mostra bolla</string>
@@ -1819,7 +1847,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="oem_unlock_enable_summary">Permetti lo sblocco del bootloader</string>
     <string name="okay">OK</string>
     <string name="one_handed_tutorial_description">Per uscire, scorrere verso l\'alto o toccare qualsiasi punto nell\'app</string>
-    <string name="one_handed_tutorial_title">Usare la modalità a una mano</string>
+    <string name="one_handed_tutorial_title">Usare la mod. a una mano</string>
     <string name="one_week_timestamp">1 settimana fa</string>
     <string name="ongoing_phone_call_content_description">Chiamata in corso</string>
     <string name="ongoing_privacy_chip_content_multiple_apps">Le applicazioni stanno usando il tuo %s.</string>
@@ -1873,7 +1901,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="phone_locked_string">Questo dispositivo è bloccato</string>
     <string name="phone_locked_string_owner_user">Troppi tentativi falliti nell\'inserire la password del Primo Spazio. Dispositivo bloccato.</string>
     <string name="phone_locked_string_second_user">Troppi tentativi falliti nell\'inserire la password del Secondo Spazio. Dispositivo bloccato.</string>
-    <string name="picture_color_mode">Modalità colore immagine</string>
+    <string name="picture_color_mode">Mod. colore immagine</string>
     <string name="picture_color_mode_desc">Usa sRGB</string>
     <string name="pip_close">Chiudi PIP</string>
     <string name="pip_fullscreen">Schermo intero</string>
@@ -1948,9 +1976,13 @@ Se hai domande, contatta %2$s."</string>
     <string name="private_dns_mode_provider">DNS Hostname provider privato</string>
     <string name="private_dns_mode_provider_failure">"Impossibile connettersi"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
+    <string name="process_kernel_label">Sistema operativo Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
     <string name="profile_owned_footer">Il profilo potrebbe essere monitorato</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
+    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="qs_alarm_tile_no_alarm">Nessuna sveglia</string>
     <string name="qs_bill_message_balance">%1$s %2$s rimanenti</string>
     <string name="qs_control_big_tile_state_closed">Spenta</string>
@@ -1979,7 +2011,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="qs_dnd_replace">Sostituisci</string>
     <string name="qs_dnd_until">Fino a %s</string>
     <string name="qs_edit">Modifica</string>
-    <string name="qs_open_night_mode_alert_summary">"Alcune impostazioni di visualizzazione non sono compatibili con la modalità Scura. Tuttavia, esse saranno ripristinate una volta disattivata."</string>
+    <string name="qs_open_night_mode_alert_summary">"Alcune impostazioni di visualizzazione non sono compatibili con la mod. Scura. Tuttavia, esse saranno ripristinate una volta disattivata."</string>
     <string name="qs_paging">Usa le nuove Impostazioni Veloci</string>
     <string name="qs_rearrange">Riorganizza le Impostazioni Veloci</string>
     <string name="qs_status_phone_muted">Telefono silenziato</string>
@@ -2027,7 +2059,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="quick_settings_cellular_detail_title">Dati Mobili</string>
     <string name="quick_settings_cellular_detail_unable_change">"Non puoi impostarlo durante una chiamata"</string>
     <string name="quick_settings_close_user_panel">Chiudi</string>
-    <string name="quick_settings_color_space_label">Modalità correzione colore</string>
+    <string name="quick_settings_color_space_label">Mod. correzione colore</string>
     <string name="quick_settings_connected">Connesso</string>
     <string name="quick_settings_connected_battery_level">Connesso, batteria %1$s</string>
     <string name="quick_settings_connecting">Connessione in corso</string>
@@ -2089,10 +2121,10 @@ Se hai domande, contatta %2$s."</string>
     <string name="quick_settings_night_secondary_label_on_at">Attivo alle %s</string>
     <string name="quick_settings_night_secondary_label_on_at_sunset">Attivo al tramonto</string>
     <string name="quick_settings_night_secondary_label_until_sunrise">Fino all\'alba</string>
-    <string name="quick_settings_nightmode_label">Modalità scura</string>
+    <string name="quick_settings_nightmode_label">Mod. scura</string>
     <string name="quick_settings_notifications_label">Notifiche</string>
     <string name="quick_settings_papermode_label">Lettura</string>
-    <string name="quick_settings_powermode_label">Modalità prestazioni</string>
+    <string name="quick_settings_powermode_label">Mod. prestazioni</string>
     <string name="quick_settings_quietmode_label">ND</string>
     <string name="quick_settings_reset_confirmation_button">Nascondi</string>
     <string name="quick_settings_reset_confirmation_message">Riapparirà la prossima volta che verrà attivato dalle Impostazioni.</string>
@@ -2158,7 +2190,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="require_unlock_for_nfc">Sblocca per usare l\'NFC</string>
     <string name="reset">Azzera</string>
     <string name="restart_button_description">Tocca per riavviare questa app e aprirla a schermo intero.</string>
-    <string name="retail_demo_reset_message">Inserisci la password per eseguire un ripristino di fabbrica in modalità demo</string>
+    <string name="retail_demo_reset_message">Inserisci la password per eseguire un ripristino di fabbrica in mod. demo</string>
     <string name="retail_demo_reset_next">Successivo</string>
     <string name="retail_demo_reset_title">Password richiesta</string>
     <string name="return_to_incall_screen">Premi per tornare alla chiamata</string>
@@ -2251,7 +2283,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="select_logd_size_title">Dimensione buffer logger</string>
     <string name="select_logpersist_dialog_title">Seleziona buffer log buffers per archiviare definitivamente sul dispositivo</string>
     <string name="select_logpersist_title">Archivia dati log definitivamente sul dispositivo</string>
-    <string name="select_private_dns_configuration_dialog_title">Seleziona modalità DNS privato</string>
+    <string name="select_private_dns_configuration_dialog_title">Seleziona mod. DNS privato</string>
     <string name="select_private_dns_configuration_title">DNS Privato</string>
     <string name="select_usb_configuration_dialog_title">Seleziona configurazione USB</string>
     <string name="select_usb_configuration_title">Seleziona configurazione USB</string>
@@ -2279,7 +2311,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="show_battery_percentage">Mostra percentuale della batteria incorporata</string>
     <string name="show_battery_percentage_summary">Mostra la percentuale del livello della batteria all\'interno dell\'icona della barra di stato durante la carica</string>
     <string name="show_brightness">Mostra luminosità nelle Impostazioni veloci</string>
-    <string name="show_demo_mode">Mostra modalità demo</string>
+    <string name="show_demo_mode">Mostra mod. demo</string>
     <string name="show_hw_layers_updates">Mostra aggiornamenti layer hardware</string>
     <string name="show_hw_layers_updates_summary">Fai lampeggiare di verde i layer hardware quando essi si aggiornano</string>
     <string name="show_hw_screen_updates">Mostra aggiornamenti GPU</string>
@@ -2342,7 +2374,7 @@ essere monitorata"</string>
     <string name="start_camera_error_try_again">"Impossibile avviare la Fotocamera. Riprova."</string>
     <string name="start_dreams">Salva schermo</string>
     <string name="status_bar">Barra di stato</string>
-    <string name="status_bar_airplane">Modalità Aereo</string>
+    <string name="status_bar_airplane">Mod. Aereo</string>
     <string name="status_bar_alarm">Sveglia</string>
     <string name="status_bar_clear_all_button">Cancella</string>
     <string name="status_bar_clock_date_format">E d MMMM</string>
@@ -2358,6 +2390,7 @@ d MMM"</string>
     <string name="status_bar_ethernet">LAN</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Imposta metodi di input</string>
     <string name="status_bar_latest_events_title">Notifiche</string>
+    <string name="status_bar_network_name_separator">-</string>
     <string name="status_bar_no_notifications_title">Nessuna notifica</string>
     <string name="status_bar_notification_app_settings_title">%s impostazioni</string>
     <string name="status_bar_notification_inspect_item_title">Impostazioni di notifica</string>
@@ -2384,7 +2417,7 @@ d MMM"</string>
     <string name="stream_system_enforced">Sistema applicato</string>
     <string name="stream_tts">Trasmesso Attraverso l\'Altoparlante</string>
     <string name="stream_voice_call">Chiama</string>
-    <string name="strict_mode">Abilita modalità rigorosa</string>
+    <string name="strict_mode">Abilita mod. rigorosa</string>
     <string name="strict_mode_summary">Fai lampeggiare lo schermo quando un\'applicazione esegue un\'operazione lunga sul thread principale</string>
     <string name="structure_face_data_input_error_away_screen">Sposta il telefono un po\' più lontano dal volto</string>
     <string name="structure_face_data_input_error_expose_features">"Non riesco a vedere alcune parti del volto"</string>
@@ -2632,7 +2665,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="volume_odi_captions_hint_disable">disattiva</string>
     <string name="volume_odi_captions_hint_enable">attiva</string>
     <string name="volume_odi_captions_tip">Sottotitoli automatici</string>
-    <string name="volume_ringer_change">Tocca per cambiare la modalità della suoneria</string>
+    <string name="volume_ringer_change">Tocca per cambiare la mod. della suoneria</string>
     <string name="volume_ringer_hint_mute">silenzioso</string>
     <string name="volume_ringer_hint_unmute">riattiva audio</string>
     <string name="volume_ringer_hint_vibrate">vibra</string>
@@ -2650,7 +2683,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="volume_stream_suppressed">%1$s silenzioso — %2$s</string>
     <string name="volume_stream_vibrate">%s vibrazione</string>
     <string name="volume_stream_vibrate_dnd">%s vibrazione — Solo priorità</string>
-    <string name="volume_up_silent">Uscità modalità DND con aumento volume</string>
+    <string name="volume_up_silent">Uscità mod. DND con aumento volume</string>
     <string name="volume_zen_end_now">Disattiva ora</string>
     <string name="vpn_footer">La rete può essere monitorata</string>
     <string name="vpn_settings_not_available">Le opzioni VPN non sono disponibili per questo utente</string>
@@ -2714,7 +2747,7 @@ Indirizzo Wi-Fi (BSSID)
     <string name="wifi_dns1_hint">1.1.1.1</string>
     <string name="wifi_dns2_hint">1.0.0.1</string>
     <string name="wifi_enhanced_mac_randomization">Casualizzazione MAC potenziata da Wi-Fi</string>
-    <string name="wifi_enhanced_mac_randomization_summary">Quando questa modalità è abilitata, l\'indirizzo MAC di questo dispositivo può cambiare ogni volta che si connette a una rete con MAC Casuale abilitato.</string>
+    <string name="wifi_enhanced_mac_randomization_summary">Quando questa mod. è abilitata, l\'indirizzo MAC di questo dispositivo può cambiare ogni volta che si connette a una rete con MAC Casuale abilitato.</string>
     <string name="wifi_fail_to_scan">"\"Impossibile scansionare le reti"</string>
     <string name="wifi_gateway_hint">192.168.1.254</string>
     <string name="wifi_hand_sel_wapi_cert">Certificato WAPI</string>

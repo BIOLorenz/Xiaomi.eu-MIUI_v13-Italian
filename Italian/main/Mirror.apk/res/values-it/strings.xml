@@ -210,10 +210,10 @@
     <string name="heavenly_stems_yi">Yi</string>
     <string name="http_buffer_size">Dimensione cache HTTP</string>
     <string name="invisible_mode_dialog_cancel">Annulla</string>
-    <string name="invisible_mode_dialog_message">"Impossibile usare MIUI + Screen Combo quando sei in incognito. Disattiva prima la modalità in incognito."</string>
+    <string name="invisible_mode_dialog_message">"Impossibile usare MIUI + Screen Combo quando sei in incognito. Disattiva prima la mod. in incognito."</string>
     <string name="invisible_mode_dialog_positive">Disattiva</string>
     <string name="invisible_mode_dialog_title">"Sei in incognito"</string>
-    <string name="invisible_mode_toast">Disattiva prima la modalità in incognito</string>
+    <string name="invisible_mode_toast">Disattiva prima la mod. in incognito</string>
     <string name="loading">Attendi…</string>
     <string name="loading_view_abort_close_text">Chiudi</string>
     <string name="loading_view_abort_text">"Connessione scaduta.
@@ -332,7 +332,7 @@ Chiudi questa pagina e riprova."</string>
     <string name="pad_settings_pc_use_tile">Info su questa funzione</string>
     <string name="pad_settings_phone_handoff_summary">Usa handoff con app, appunti, video e altri elementi sull\'altro dispositivo associato al tuo Mi Account</string>
     <string name="pad_settings_phone_handoff_title">Trasferimento</string>
-    <string name="pcmode_not_support_multi_window">"La modalità PC non supporta la visualizzazione di finestre multiple."</string>
+    <string name="pcmode_not_support_multi_window">"La mod. PC non supporta la visualizzazione di finestre multiple."</string>
     <string name="permission_access_nearby_device">Accedi ai dispositivi nelle vicinanze</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_all_purpose">Benvenuto in MIUI+ Beta! Puoi utilizzare questa app per collegare il telefono a un computer e combinare due dispositivi in una stazione di lavoro.</string>
@@ -491,7 +491,7 @@ per continuare"</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
-    <string name="verbose_mode">Modalità verbosa</string>
+    <string name="verbose_mode">Mod. verbosa</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>

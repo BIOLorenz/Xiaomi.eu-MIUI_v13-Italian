@@ -27,8 +27,8 @@
     <string name="ack_record">Record Ack</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
-    <string name="airplane_error_msg">"Non è possibile utilizzare il Bluetooth in modalità aereo."</string>
-    <string name="airplane_error_title">Modalità Aereo</string>
+    <string name="airplane_error_msg">"Non è possibile utilizzare il Bluetooth in mod. aereo."</string>
+    <string name="airplane_error_title">Mod. Aereo</string>
     <string name="app_name">Bluetooth</string>
     <string name="aptx_notification_aptx">Questo dispositivo supporta Qualcomm® aptXTM</string>
     <string name="aptx_notification_aptx_adaptive">Questo dispositivo supporta Qualcomm® aptXTM Adaptive</string>
