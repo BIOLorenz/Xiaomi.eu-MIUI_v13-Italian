@@ -59,6 +59,7 @@
     <string name="alarmclock_empty_text">Nessuna sveglia</string>
     <string name="alarmclock_silent_hint">Sveglia silenziata</string>
     <string name="alert">Suoneria</string>
+    <string name="alert_page_desc">Tieni premuto e scorri verso l\'alto per spegnere la sveglia</string>
     <string name="alert_ringtone">Suoneria sveglia</string>
     <string name="alert_vibrate_enable_summary">Vibra quando viene disattivata la sveglia</string>
     <string name="alert_volume">Volume suoneria</string>
@@ -637,6 +638,7 @@
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Consenti a questa applicazione di connettersi ad internet per accedere a tutte le sue funzioni.</string>
     <string name="system_permission_main_purpose">Visualizzare l\'ora, impostare sveglie e timer, utilizzare il cronometro</string>
     <string name="system_permission_purpose">Creare sveglie settimanali e impostare suonerie personalizzate</string>

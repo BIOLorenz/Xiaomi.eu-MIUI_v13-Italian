@@ -99,6 +99,11 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="apn_settings_not_available">Le impostazioni dei Nomi di Punti di Accesso (APN) non sono disponibili per questo utente</string>
     <string name="app_process_limit_title">Limitatore processi in background</string>
     <string name="applications">Applicazioni</string>
+    <string name="attach_to_bug_report">Aggiungi tracce a segnalazioni di bug</string>
+    <string name="attach_to_bug_report_summary">Invia automaticamente le tracce in corso a BetterBug quando viene raccolta una segnalazione di bug</string>
+    <string name="attached_to_report">Traccia aggiunta alla segnalazione di bug</string>
+    <string name="attached_to_report_summary">Tocca per aprire BetterBug</string>
+    <string name="attaching_to_report">Aggiunta della traccia alla segnalazione di bug in corso…</string>
     <string name="available_via_carrier">Disponibile tramite %1$s</string>
     <string name="available_via_passpoint">Disponibile tramite %1$s</string>
     <string name="battery_info_status_charging">Ricarica</string>
@@ -302,6 +307,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="disabled_by_admin_summary_text">Controllato dall\'amministratore</string>
     <string name="dont_show_again">"Non mostrare più"</string>
     <string name="eight_hours">8 ore</string>
+    <string name="eight_thousand_kb">8192 KB</string>
     <string name="enable_adb">Debug USB</string>
     <string name="enable_adb_summary">Mod. debug quando la USB é connessa</string>
     <string name="enable_adb_wireless">Debug wireless</string>
@@ -323,6 +329,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="external_source_trusted">Permesso</string>
     <string name="external_source_untrusted">Non autorizzato</string>
     <string name="failed_to_open_app_settings_toast">Impossibile aprire le Impostazioni per %1$s</string>
+    <string name="five_gb">5 GB</string>
     <string name="force_allow_on_external">Forza ammissione app da esterno</string>
     <string name="force_allow_on_external_summary">Permetti la scrittura delle app su archivio esterno, indipendentemente dai loro valori di manifest</string>
     <string name="force_msaa">Forza 4x MSAA</string>
@@ -331,6 +338,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="force_resizable_activities_summary">Rendi tutte le attività multi finestra ridimensionabili, indipendentemente dai loro valori di manifest.</string>
     <string name="force_rtl_layout_all_locales">Forza direzione disposizione RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Forza direzione disposizione ad RTL per tutte le località</string>
+    <string name="four_thousand_kb">4096 KB</string>
     <string name="guest_exit_guest">Rimuovi utente ospite</string>
     <string name="guest_new_guest">Aggiungi ospite</string>
     <string name="guest_nickname">Ospite</string>
@@ -398,6 +406,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="lb_search_bar_hint_speech">Parla per cercare</string>
     <string name="lb_search_bar_hint_with_title">Cerca %1$s</string>
     <string name="lb_search_bar_hint_with_title_speech">Parla per cercare %1$s</string>
+    <string name="link_to_traces">Visualizza file di traccia</string>
     <string name="loading_injected_setting_summary">Caricamento…</string>
     <string name="local_backup_password_summary_change">Tocca per modificare o rimuovere la password dei backup locali</string>
     <string name="local_backup_password_summary_none">I backup locali non sono attualmente protetti</string>
@@ -494,6 +503,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="oem_unlock_enable">Sblocco OEM</string>
     <string name="oem_unlock_enable_summary">Permetti lo sblocco del bootloader</string>
     <string name="okay">OK</string>
+    <string name="one_gb">1 GB</string>
     <string name="one_hour">1 ora</string>
     <string name="orb_search_action">Azione di Ricerca</string>
     <string name="osu_completing_sign_up">Completamento registrazione…</string>
@@ -599,6 +609,8 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="show_touches">Mostra pressioni</string>
     <string name="show_touches_summary">Mostra feedback visuali per pressioni</string>
     <string name="simulate_color_space">Simula lo spazio del colore</string>
+    <string name="sixteen_thousand_kb">16384 KB</string>
+    <string name="sixtyfive_thousand_kb">65536 KB</string>
     <string name="speed_label_fast">Veloce</string>
     <string name="speed_label_medium">Medio</string>
     <string name="speed_label_okay">OK</string>
@@ -606,7 +618,10 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="speed_label_very_fast">Molto veloce</string>
     <string name="speed_label_very_slow">Molto lento</string>
     <string name="standby_bucket_summary">Stato standby app: %s</string>
+    <string name="start_new_trace">Avvia nuova traccia</string>
     <string name="status_unavailable">Non disponibile</string>
+    <string name="stop_on_bugreport">Interrompi tracciamento per segnalazioni di bug</string>
+    <string name="stop_on_bugreport_summary">Consente di interrompere le registrazioni di traccia attive quando viene iniziata una segnalazione di bug</string>
     <string name="stop_tracing">Interrompi tracciamento</string>
     <string name="storage_category">Archiviazione</string>
     <string name="strict_mode">Mod. restrizione attivata</string>
@@ -617,6 +632,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="tap_to_share">Tocca per condividere l\'acquisizione</string>
     <string name="tap_to_sign_up">Tocca per iscriverti</string>
     <string name="tap_to_stop_tracing">Tocca per fermare il tracciamento</string>
+    <string name="ten_gb">10 GB</string>
     <string name="ten_minutes">10 minuti</string>
     <string name="tether_settings_title_all">Tethering e hotspot</string>
     <string name="tether_settings_title_bluetooth">Tethering bluetooth</string>
@@ -627,6 +643,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="tethering_hardware_offload_summary">Usa accelerazione hardware tethering se disponibile</string>
     <string name="tethering_settings_not_available">Impostazioni tethering non disponibili per questo utente</string>
     <string name="thirty_minutes">30 minuti</string>
+    <string name="thirtytwo_thousand_kb">32768 KB</string>
     <string name="time_unit_just_now">Un momento fa</string>
     <string name="title_convert_fbe">Conversione a file basato su crittografia</string>
     <string name="trace_debuggable_applications">Acquisisci da app di debug</string>
@@ -670,7 +687,9 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="tts_status_requires_network">%1$s richiede una connessione di rete</string>
     <string name="tts_status_title">Stato lingua predefinita</string>
     <string name="twelve_hours">12 ore</string>
+    <string name="twenty_gb">20 GB</string>
     <string name="twentyfour_hours">24 ore</string>
+    <string name="two_hundred_mb">200 MB</string>
     <string name="unknown">Sconosciuto</string>
     <string name="usb_audio_disable_routing">Disabilita USB audio routing</string>
     <string name="usb_audio_disable_routing_summary">Disabilita routing automatico su periferica audio USB</string>

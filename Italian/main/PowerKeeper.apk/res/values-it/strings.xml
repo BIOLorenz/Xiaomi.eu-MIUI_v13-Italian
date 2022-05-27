@@ -43,6 +43,7 @@
     <string name="character_counter_content_description">Caratteri inseriti %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="checking_intranet">Controllo connessione intranet…</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -112,6 +113,7 @@
     <string name="chinese_symbol_animals_snake">Serpente</string>
     <string name="chinese_symbol_animals_tiger">Tigre</string>
     <string name="chip_text">Testo chip</string>
+    <string name="clear_temperature">Temperatura finale</string>
     <string name="clear_text_end_icon_content_description">Cancella testo</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="close">Chiudi</string>
@@ -135,10 +137,12 @@
 Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
     <string name="config_suggest_suffix_title">Risparmio energetico (consigliato)</string>
     <string name="confirm">OK</string>
+    <string name="connect_intranet_hint">Connettiti alla intranet</string>
     <string name="copy">Copia</string>
     <string name="current_cloud_addr_is">L\'indirizzo del server di controllo cloud è:</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
+    <string name="delete_data_confirm">Eliminare questo elemento?</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -223,14 +227,19 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
     <string name="heavenly_stems_yi">Yi</string>
     <string name="hide_mode_desc">Quando un\'app viene eseguita in background, le sue attività saranno monitorate per ridurre l\'utilizzo della batteria. Questa funzione otterrà e utilizzerà i dati utente secondo %s</string>
     <string name="hide_system_app">Nascondi app di sistema</string>
+    <string name="high_temp_benchmark_state">Surriscaldato</string>
+    <string name="high_temp_benchmark_state_message">"Sembra che questo dispositivo sia troppo caldo. Utilizzare questa app dopo che il dispositivo si è raffreddato: "</string>
     <string name="high_temp_state">Surriscaldato</string>
     <string name="high_temp_state_message">Il tuo dispositivo si sta surriscaldando. Dati mobili, hotspot Wi-Fi, GPS e Fotocamera saranno limitati.</string>
+    <string name="high_temp_state_message_orange_es">Per migliorare le prestazioni del dispositivo, alcune applicazioni sono state temporaneamente disabilitate.</string>
     <string name="hints_loading_text">Attendi…</string>
     <string name="icon_content_description">Icona Dialogo</string>
     <string name="important_warning">Attenzione</string>
     <string name="insert_data">Inserisci i dati</string>
     <string name="item_view_role_description">Tab</string>
+    <string name="kill_all_back_pro_toast_message">Il tuo dispositivo è surriscaldato. Tutte le applicazioni in esecuzione in background sono state temporaneamente chiuse.</string>
     <string name="kill_pkg_toast_message">"Il tuo dispositivo è surriscaldato, l'app verrà chiusa"</string>
+    <string name="kill_some_back_pro_toast_message">Il tuo dispositivo è surriscaldato. Alcune applicazioni in esecuzione in background sono state temporaneamente chiuse.</string>
     <string name="lasttime_applist_cloud">App aggiornate:</string>
     <string name="lasttime_feature_cloud">Funzioni aggiornate:</string>
     <string name="material_clock_display_divider">:</string>
@@ -390,17 +399,24 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
     <string name="scenario_policies_summary">Applicare strategie di risparmio energetico differenti in base allo scenario.</string>
     <string name="scenario_policies_title">Scenari smart</string>
     <string name="scenario_policies_warmcontrol">Controllo della temperatura</string>
+    <string name="screen_off_current">Corrente a Schermo Spento</string>
+    <string name="screen_on_current">Corrente a Schermo Acceso</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_result_text">"Non è stato possibile trovare alcuna app"</string>
     <string name="send">Invia</string>
     <string name="show_system_app">Mostra app di sistema</string>
     <string name="sleep_config_enhance_description">"Ogni volta che MIUI rileva che stai dormendo, chiuderà le app in background, limiterà NFC, Bluetooth, GPS, dati e utilizzo del Wi-Fi e non attiverà lo schermo per le notifiche."</string>
     <string name="sleep_config_enhance_description_non_nfc">"Ogni volta che MIUI rileva che stai dormendo, chiuderà le app in background, limiterà il Bluetooth, GPS, dati e utilizzo del Wi-Fi e non attiverà lo schermo per le notifiche."</string>
+    <string name="sleep_config_enhance_description_pad">"Per risparmiare batteria, MIUI chiuderà le app in background, limiterà l'uso di Bluetooth e Wi-Fi, e non accenderà lo schermo alla ricezione di notifiche mentre dormi di notte."</string>
     <string name="sleep_config_enhance_title">Modalita Risparmio Notturno</string>
     <string name="sleepmode_disclaimer_agree">Accetto</string>
     <string name="sleepmode_disclaimer_cancel">Annulla</string>
+    <string name="sleepmode_privacy_content">"Questa funzione deve accedere alle informazioni sul sistema e del dispositivo. Queste informazioni non saranno caricate sui nostri server."</string>
     <string name="sleepmode_privacy_link">Ulteriori informazioni su privacy e sicurezza</string>
     <string name="sleepmode_privacy_title">Modalita Risparmio Notturno</string>
+    <string name="softbank_high_temp_toast_time_10min">Torcia spenta per evitare surriscaldamento</string>
+    <string name="softbank_high_temp_toast_time_4min">Flash spento per evitare surriscaldamento</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
@@ -476,9 +492,12 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
+    <string name="title_dry_history">DryHistory</string>
+    <string name="title_history">LifeHistory</string>
     <string name="title_home">Casa</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
+    <string name="trig_temperature">Temperatura di avvio</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>

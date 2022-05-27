@@ -386,7 +386,9 @@
     <string name="exo_download_paused_for_network">Download in attesa della rete</string>
     <string name="exo_download_paused_for_wifi">Download in attesa del WiFi</string>
     <string name="exo_download_removing">Rimozione download</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -775,6 +777,7 @@ mm"</string>
     <string name="ota_recovery_theme_notity_btn">Ripristina</string>
     <string name="ota_recovery_theme_notity_content">"Puoi tornare al tema che hai usato prima dell'aggiornamento"</string>
     <string name="ota_recovery_theme_notity_title">Ripristina il tuo tema</string>
+    <string name="pad_fold_no_permission">Permessi di archiviazione richiesti</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="personalize">Personalizzazione</string>
     <string name="personalize_alarm_ringtone_title">Sveglie</string>
@@ -1006,6 +1009,7 @@ mm"</string>
     <string name="resource_restore">Ripristina</string>
     <string name="resource_restore_fail">"Impossibile ripristinare"</string>
     <string name="resource_restore_succ">Ripristino completato</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
     <string name="resource_ringtone_default">Suoneria</string>
     <string name="resource_ringtone_playing_error">Errore</string>
     <string name="resource_ringtone_volume_mute">La suoneria è silenziata</string>

@@ -182,6 +182,7 @@
     <string name="miservice_notification_open_feedback_title">Introduzione a \"Servizi e feedback\"</string>
     <string name="miservice_notification_scan_content">Usa Scanner per tradurre parole e frasi</string>
     <string name="miservice_notification_scan_title">Traduci in uno snap</string>
+    <string name="miui_feedback_answer_detail_community">Puoi trovare risposte alle tue domande nella Xiaomi Community</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Sì</string>
     <string name="miui_feedback_answer_detail_feedback_result">Grazie per la segnalazione!</string>
     <string name="miui_feedback_answer_detail_feedback_title">Questa informazione è stata utile?</string>

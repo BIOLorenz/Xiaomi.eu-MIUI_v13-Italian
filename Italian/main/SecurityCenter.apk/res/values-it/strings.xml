@@ -97,6 +97,7 @@
     <string name="activity_mine_task">Le mie attività</string>
     <string name="activity_new_condition_name">Aggiungi condizione</string>
     <string name="activity_new_result_name">Aggiungi risultato</string>
+    <string name="activity_new_task_name">Aggiungi attività</string>
     <string name="activity_no_task">Non ci sono attività</string>
     <string name="activity_task_center">Centro attività</string>
     <string name="activity_title_antispam">Blacklist</string>
@@ -724,6 +725,7 @@
     <string name="auto_task_default_task_title_driver_car">Guida</string>
     <string name="auto_task_default_task_title_get_up">Alzati</string>
     <string name="auto_task_default_task_title_listen_music">Ascolta musica</string>
+    <string name="auto_task_default_task_title_meet">Riunione</string>
     <string name="auto_task_default_task_title_noon_break">Sonnellino</string>
     <string name="auto_task_default_task_title_save_power">Risparmia batteria</string>
     <string name="auto_task_default_task_title_sleep">Sonno</string>
@@ -1413,6 +1415,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
     <string name="earthly_branches_zi">Zi</string>
     <string name="edit_new_task_name">Nome</string>
     <string name="edit_phone_num">Modifica numero SIM</string>
+    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty_app">Nessuna app</string>
     <string name="empty_title_auto_start_list">Nessuna app in avvio automatico</string>
@@ -1659,7 +1662,9 @@ terremoti"</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
     <string name="exo_player_time_seperate">/</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -2249,6 +2254,9 @@ e prova a Cambiare Voce!"</string>
     <string name="gtb_dialog_btn_close">Disattiva</string>
     <string name="gtb_dialog_btn_open">Attiva</string>
     <string name="gtb_dialog_hint_smart_5g">Puoi attivare e disattivare questa funzione in Turbo Videogiochi &gt; Impostazioni.</string>
+    <string name="gtb_dialog_privacy_speed_message">"Stai per utilizzare Booster di Gioco Xunyou. Questo servizio raccoglierà il tuo ID Mi Account per registrare la durata del tuo abbonamento."</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>\"Ho letto e accettato l\'&lt;a href=\"%1$s\"&gt;Informativa sulla privacy.&lt;/a&gt; di Booster di Gioco Xunyou\"</Data></string>
+    <string name="gtb_dialog_privacy_speed_title">Booster di Gioco Xunyou</string>
     <string name="gtb_dialog_privacy_voice_message">"Stai per utilizzare Xunyou Game Voice Changer. Questo servizio raccoglierà il tuo ID Mi Account per registrare la durata dell'abbonamento."</string>
     <string name="gtb_dialog_summary_smart_5g">Ogni volta che Turbo Videogiochi rileva una rete 5G, può connettere il tuo dispositivo alla migliore rete disponibile per ridurre il ping. Attivare questa funzione ora?</string>
     <string name="gtb_dialog_title_smart_5g">Ottimizzazioni rete 5G</string>
@@ -3289,6 +3297,11 @@ dall'operatore"</string>
     <string name="power_center_dialog_msg_top">Quando il risparmio energetico è attivo, MIUI attuerà le seguenti ottimizzazioni:</string>
     <string name="power_center_hints_scan_danger_result">Puoi correggere i problemi di batteria ora</string>
     <string name="power_center_list_item_auto_brightness">Regola automaticamente la luminosità dello schermo</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">°C</string>
     <string name="power_center_list_item_close_bluetooth">Disattiva Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Impostazioni avanzate</string>
     <string name="power_center_list_item_haptic_feedback">Disattiva la Vibrazione al tocco</string>
@@ -3800,6 +3813,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="privacy_revoke_dialog_title_cn">Attenzione</string>
     <string name="privacy_revoke_failed_dialog_content">Si è verificato un errore del server. Aspetta e prova di nuovo.</string>
     <string name="privacy_revoke_failed_dialog_title">"Impossibile revocare il consenso"</string>
+    <string name="privacy_revoke_tip_dialog_title">"Impossibile utilizzare l'app"</string>
     <string name="privacy_revoke_title">Revoca autorizzazione...</string>
     <string name="privacy_risk_app">App rischiose</string>
     <string name="privacy_risk_app_fuzzy">App senza anteprima sfocata</string>
@@ -3894,6 +3908,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="privacy_using_record">Registrare audio</string>
     <string name="privacyapp_number_masked_text">Il contenuto delle notifiche è nascosto</string>
     <string name="privacyapp_number_unmasked_text">Il contenuto delle notifiche può essere nascosto</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Server Multimediale</string>
     <string name="process_vpnsdkmanager_label">Turbo videogiochi</string>
     <string name="promotion">AD</string>
@@ -4040,6 +4055,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="sd_format_summary">Cancella tutti i dati sulla scheda SD (incluse canzoni e foto)</string>
     <string name="sd_insert_summary">Inserisci la scheda SD da montare</string>
     <string name="sd_mount">Monta scheda SD</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_result_text">"Non è stato possibile trovare alcuna app"</string>
     <string name="section_clear_acc_item_title">"Liberato %s. Se non hai ancora abbastanza spazio, prova ad utilizzare Pulizia."</string>
@@ -4531,6 +4547,7 @@ Per usare questo ^1 con questo dispositivo, devi prima configurarlo."</string>
     <string name="storage_mount_failure">"Impossibile montare %1$s"</string>
     <string name="storage_mount_success">Montato %1$s con successo</string>
     <string name="storage_space_release_hint">Hai bisogno di più spazio?</string>
+    <string name="storage_system_log">Log di sistema</string>
     <string name="storage_system_memory_expansion">Estensione memoria</string>
     <string name="storage_unmount_failure">"Impossibile smontare %1$s"</string>
     <string name="storage_unmount_success">Smontato %1$s con successo</string>
@@ -4826,6 +4843,7 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="title_condition_incall">Chiama</string>
     <string name="title_condition_location">Posizione</string>
     <string name="title_condition_lock_screen">Schemata di blocco</string>
+    <string name="title_condition_meeting">Riunione</string>
     <string name="title_condition_message">Messaggio</string>
     <string name="title_condition_nfc">NFC</string>
     <string name="title_condition_start_activity">Apri app</string>

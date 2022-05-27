@@ -618,9 +618,12 @@ Se questa autorizzazione è disattivata, gli avvisi esistenti e gli eventi basat
     <string name="anc_mild">Leggero</string>
     <string name="android_beam_disabled_summary">Non disponibile perché la tecnologia NFC non è attiva</string>
     <string name="android_beam_explained">Quando questa funzionalità è attiva, puoi trasferire contenuti di applicazioni su un altro dispositivo che supporta la tecnologia NFC tenendo vicini i due dispositivi. Puoi trasferire, ad esempio, pagine dell\'applicazione Browser, video di YouTube, contatti di Persone e altri dati. È sufficiente avvicinare i dispositivi (generalmente mettendo a contatto le due parti posteriori), quindi toccare lo schermo. L\'app stabilisce i dati da trasferire.</string>
+    <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_off_summary">Disattivato</string>
     <string name="android_beam_on_summary">Pronto a trasmettere i contenuti dell\'applicazione tramite NFC</string>
+    <string name="android_beam_settings_title">Android Beam</string>
     <string name="android_beam_tips">Assicurati che i due dispositivi si tocchino, quindi scegli il contenuto che vuoi inviare.</string>
+    <string name="android_beam_witch_label">Android Beam</string>
     <string name="android_version_pending_update_summary">Aggiornamento disponibile</string>
     <string name="android_version_summary">Aggiornato ad Android %1$s</string>
     <string name="angle_enabled_app">Seleziona app ANGLE abilitate</string>
@@ -758,12 +761,14 @@ Vuoi disabilitare le finestre flottanti?"</string>
     <string name="app_permissions_summary">Le app stanno utilizzando %1$s</string>
     <string name="app_permissions_summary_more">Applicazioni con %1$s e altro</string>
     <string name="app_pinning_intro">La funzionalità di blocco delle app su schermo ti consente di mantenere visibile l\'app in uso finché non decidi di sbloccarla. Questa funzionalità può essere usata, ad esempio, per consentire a un amico di cui ti fidi di giocare a un gioco specifico.</string>
+    <string name="app_pinning_main_switch_title">Usa blocco app</string>
     <string name="app_process_limit_title">Limitatore processi in background</string>
     <string name="app_restrictions_custom_label">Imposta restrizioni applicazioni</string>
     <string name="app_sees_restricted_accounts">Questa app può accedere ai tuoi account</string>
     <string name="app_sees_restricted_accounts_and_controlled_by">Questa app può accedere ai tuoi account. Controllata da %1$s</string>
     <string name="app_settings_link">Impostazioni aggiuntive nell\'app</string>
     <string name="app_switch_key">Recenti</string>
+    <string name="app_uninstall_sounds_enable_title">Riproduci un suono quando disinstalli le app</string>
     <string name="app_usage_cycle">Ciclo di utilizzo dati dell\'app</string>
     <string name="app_usage_preference">Preferenze sui dati di utilizzo delle app</string>
     <string name="app_version">Versione</string>
@@ -2166,6 +2171,7 @@ Questa funzione può essere disattivata in [Settings]</string>
     <string name="condition_hotspot_title">Hotspot attivo</string>
     <string name="condition_night_display_summary">Lo schermo diventa di colore ambra. Potrebbe aiutarti a prendere sonno.</string>
     <string name="condition_night_display_title">Luce Notturna attivata</string>
+    <string name="condition_summary">%1$d</string>
     <string name="condition_turn_off">Disattiva</string>
     <string name="condition_turn_on">Attiva</string>
     <string name="condition_work_summary">App, sincronizzazione background ed altre funzionalità relative al tuo profilo di lavoro sono disattivate.</string>
@@ -2822,6 +2828,7 @@ Se il problema continua a verificarsi, potrebbe essere necessario disinstallare 
     <string name="dialog_wifi_context">Devi connetterti a internet per configurare il tuo dispositivo. A meno che non ti connetti al Wi-Fi, potrebbero essere utilizzati i dati. L\'utilizzo di dati potrebbe generare costi aggiuntivi. Utilizzare comunque i dati?</string>
     <string name="dialog_wifi_title">Utilizzo dati rete mobile</string>
     <string name="dialog_yes">Sì</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: dopo un reboot, questa app non può avviarsi finché non sblocchi il telefono"</string>
     <string name="disableNetwork">Disattiva rete</string>
     <string name="disable_overlays">Disabilita overlay HW</string>
@@ -4182,6 +4189,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
     <string name="keyguard_advance_setting_title">Impostazioni avanzate</string>
     <string name="keyguard_security_setting_others">Altri</string>
     <string name="keyguard_security_setting_privacy_policy">Informativa sulla Privacy</string>
+    <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
     <string name="keywords_accessibility">Facilità d\'uso, facilità d\'accesso, assistenza, assistenza</string>
     <string name="keywords_accounts">account</string>
     <string name="keywords_adb_wireless">ADB, debug, sviluppatori</string>
@@ -4954,6 +4962,7 @@ Ci sono altri utenti presenti su questo dispositivo.
     <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
     <string name="memory_usage">Memoria occupata</string>
     <string name="memory_usage_apps">Memoria usata dalle app</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">%1$s di memoria usati in media nelle ultime 3 ore</string>
     <string name="memorycard_calculating">Calcolo…</string>
     <string name="menu_cancel">Ignora</string>
@@ -4990,6 +4999,7 @@ Ci sono altri utenti presenti su questo dispositivo.
     <string name="mi_service">Servizi Mi</string>
     <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
     <string name="mi_shopping_mall">Mi Store</string>
+    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
     <string name="mi_transfer">Mi Mover</string>
     <string name="mi_upi_settings">Akun Mi Pay</string>
     <string name="mi_wallet">Mi Wallet</string>
@@ -5010,9 +5020,12 @@ Ci sono altri utenti presenti su questo dispositivo.
     <string name="miheadset_ancMedium">Tutti i giorni</string>
     <string name="miheadset_ancMild">Leggero</string>
     <string name="miheadset_anc_manual">Manuale</string>
+    <string name="miheadset_audio_mode">Qualità audio</string>
     <string name="miheadset_audio_mode_high">Alta</string>
     <string name="miheadset_audio_mode_listen">Bassa</string>
     <string name="miheadset_audio_mode_normal">Normale</string>
+    <string name="miheadset_audio_quality">Qualità audio</string>
+    <string name="miheadset_audio_sound_quality">Qualità audio</string>
     <string name="miheadset_bright">Luminoso</string>
     <string name="miheadset_call_assist">Mi IA</string>
     <string name="miheadset_cancel_device">Annulla</string>
@@ -5847,6 +5860,7 @@ Questo darà anche all'app la possibilità di attivare o disattivare la funzione
     <string name="notification_log_details_content_intent">scopo</string>
     <string name="notification_log_details_content_view">visualizzazione personalizzata</string>
     <string name="notification_log_details_delete_intent">elimina scopo</string>
+    <string name="notification_log_details_delimiter">": "</string>
     <string name="notification_log_details_explanation">spiegazione</string>
     <string name="notification_log_details_extras">extra</string>
     <string name="notification_log_details_full_screen_intent">scopo a schermo intero</string>
@@ -5999,6 +6013,7 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
     <string name="overlay_settings_title">Consenti sovrapposizioni dello schermo nelle impostazioni</string>
     <string name="overlay_toast_failed_to_apply">Applicazione dell\'overlay non riuscita</string>
     <string name="owner_info_settings_edit_text_hint">Testo da visualizzare sulla Schermata di blocco</string>
+    <string name="owner_info_settings_status">%1$d di %2$d</string>
     <string name="owner_info_settings_summary">Nessuno</string>
     <string name="owner_info_settings_title">Info proprietario</string>
     <string name="owner_space">Primo spazio</string>
@@ -6461,6 +6476,8 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="privileged_action_disable_sub_dialog_title">Disattivare %1$s?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">Disattivare la SIM?</string>
     <string name="process_dex2oat_label">Ottimizzazione app</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">Sistema operativo Android</string>
     <string name="process_mediaserver_label">Server media</string>
     <string name="process_provider_in_use_description">Il provider %1$s è in uso.</string>
     <string name="process_service_in_use_description">Il servizio %1$s è in uso.</string>
@@ -6508,11 +6525,14 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="proxy_error_invalid_exclusion_list">L\'elenco di eccezioni digitato non è nel formato corretto. Digita un elenco di domini esclusi separati da virgole.</string>
     <string name="proxy_error_invalid_host">Il nome host specificato non è valido.</string>
     <string name="proxy_error_invalid_port">La porta specificata non è valida.</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_exclusionlist_label">Ignora per</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_hostname_label">Nome Host</string>
     <string name="proxy_port_label">Porta</string>
     <string name="proxy_settings_label">Impostazioni proxy</string>
     <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="proxy_url_title">"PAC URL: "</string>
     <string name="proxy_warning_limited_support">Il proxy HTTP viene utilizzato dal browser ma potrebbe non essere utilizzato da altre applicazioni.</string>
     <string name="qtifeedback_settings_subtitle">Qualcomm Technologies Reporting</string>
@@ -7096,6 +7116,7 @@ Per utilizzare il blocco delle app: \u0009
     <string name="search_hint">Ricerca</string>
     <string name="search_home_key">Home</string>
     <string name="search_input_hint">Ricerca</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_key_settings_title">Tasti;Pulsanti</string>
     <string name="search_lab_functions_title">Funzionalità beta;Funzionalità lab</string>
     <string name="search_label">Impostazioni</string>
@@ -7634,6 +7655,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="single_key_use_summary">"Il tasto Home, a differenza degli altri due tasti per le normali operazioni"</string>
     <string name="single_press_AI_button">Premi il pulsante IA</string>
     <string name="size_byte">B</string>
+    <string name="size_embedded">Finestre parallele</string>
     <string name="size_full">Schermo intero</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
@@ -7757,6 +7779,7 @@ Se non accetti di concedere tali permessi, non sarai in grado di utilizzare alcu
     <string name="sos_privacy_dialog_title">Termini e Condizioni</string>
     <string name="sos_privacy_policy">Informativa sulla Privacy</string>
     <string name="sos_privacy_policy_change_title">Informativa sulla privacy aggiornata</string>
+    <string name="sos_privacy_policy_change_title_reject">"Impossibile utilizzare l'app"</string>
     <string name="sos_privacy_policy_no_net_button">Ok</string>
     <string name="sos_privacy_policy_no_net_message">Impossibile collegarsi alla rete. Controlla le impostazioni e riprova.</string>
     <string name="sos_privacy_policy_no_net_title">"Impossibile connettersi alla rete"</string>
@@ -8131,6 +8154,7 @@ Prova ad utilizzare una ^3 più veloce, o usa questa ^4 come memoria portatile"<
     <string name="stylus_ota_updating">Aggiornamento</string>
     <string name="stylus_schematic_diagram">Demo</string>
     <string name="stylus_screen_shot">Esegui screenshot</string>
+    <string name="stylus_settings_title">Penna</string>
     <string name="stylus_shortcut_title_screenshot">Screenshot</string>
     <string name="stylus_success">Fatto</string>
     <string name="subscreen_title">Schermo posteriore</string>
@@ -8187,6 +8211,7 @@ Prova ad utilizzare una ^3 più veloce, o usa questa ^4 come memoria portatile"<
     <string name="switch_screen_button_order_desc">Inverti tasti Indietro e Menu</string>
     <string name="switch_select_to_speak_on">Seleziona per parlare</string>
     <string name="switch_sim_dialog_title">Utilizzare %1$s?</string>
+    <string name="switch_to_removable_notification">Passato a %1$s</string>
     <string name="symbols_not_allowed_for_password">La password non può contenere simboli</string>
     <string name="sync_active">Sincronizzazione attiva</string>
     <string name="sync_automatically">Sincronizzazione automatica</string>
@@ -8784,6 +8809,7 @@ o auricolari con jack da 3,5 mm."</string>
     <string name="use_personalized_ad_service">Pubblicità personalizzate</string>
     <string name="use_personalized_ad_service_summary">"Dopo aver disattivato questa funzionalità, non riceverai più annunci personalizzati. Tuttavia, riceverai ancora annunci irrilevanti per i tuoi interessi. Puoi saperne di più sugli annunci personalizzati in Xiaomi Privacy Policy.
 Disattivare gli annunci personalizzati?"</string>
+    <string name="use_personalized_ad_service_summary_for_global">"Quando i consigli pubblicitari personalizzati sono disattivati, vedrai comunque la stessa quantità di annunci nelle app di sistema di MIUI di quando questa funzionalità è attiva. Gli annunci di Xiaomi e delle piattaforme di terze parti, tuttavia, non saranno più pertinenti, poiché non saranno basati sulle tue preferenze personali."</string>
     <string name="use_privacy_password_immediate">Usa</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usa lingue di sistema</string>
     <string name="use_system_preference">Usa impostazione di sistema (Predefinito)</string>

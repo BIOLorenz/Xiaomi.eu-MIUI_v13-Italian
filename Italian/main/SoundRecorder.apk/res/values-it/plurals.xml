@@ -116,9 +116,21 @@
         <item quantity="other">Cerca tra %d registrazioni chiamate</item>
         <item quantity="one">Cerca tra %d registrazione chiamata</item>
     </plurals>
+    <plurals name="search_fm_records_hint">
+        <item quantity="other">%d registrazioni radio</item>
+        <item quantity="one">%d registrazione radio</item>
+    </plurals>
+    <plurals name="search_recorder_records_hint">
+        <item quantity="other">%d registrazioni audio</item>
+        <item quantity="one">%d registrazione audio</item>
+    </plurals>
     <plurals name="search_result">
         <item quantity="other">Trovate %d registrazioni</item>
         <item quantity="one">Trovata %d registrazione</item>
+    </plurals>
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">%d nuove registrazioni</item>
+        <item quantity="one">%d nuova registrazione</item>
     </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">%d giorni rimanenti</item>

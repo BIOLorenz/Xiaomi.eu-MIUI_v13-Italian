@@ -36,11 +36,13 @@ Questa modifica potrebbe consentire il monitoraggio della posizione del tuo disp
     <string name="wifi_eap_error_message_code_32764">%1$s: errore di autenticazione EAP 32764</string>
     <string name="wifi_eap_error_message_code_32765">%1$s: errore di autenticazione EAP 32765</string>
     <string name="wifi_eap_error_message_code_32766">%1$s: errore di autenticazione EAP 32766</string>
+    <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
     <string name="wifi_p2p_enter_pin_message">Inserisci il PIN richiesto:</string>
     <string name="wifi_p2p_frequency_conflict_message">"Il telefono verrà momentaneamente scollegato dalla rete Wi-Fi durante il collegamento a %1$s."</string>
     <string name="wifi_p2p_from_message">Da:</string>
     <string name="wifi_p2p_invitation_sent_title">Invito inviato</string>
     <string name="wifi_p2p_invitation_to_connect_title">Invito a connettersi</string>
+    <string name="wifi_p2p_show_pin_message">PIN:</string>
     <string name="wifi_p2p_to_message">A:</string>
     <string name="wifi_sim_required_message">Per connetterti alla rete %1$s, inserisci una SIM %2$s</string>
     <string name="wifi_sim_required_title">Rete Wi-Fi scollegata</string>
@@ -58,6 +60,7 @@ Questa modifica potrebbe consentire il monitoraggio della posizione del tuo disp
     <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Confermi la connessione?</string>
     <string name="wifi_suggestion_imsi_privacy_title">%s vuole connettersi automaticamente</string>
     <string name="wifi_suggestion_title">Vuoi consentire le reti Wi-Fi suggerite?</string>
+    <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
     <string name="wifi_wakeup_enabled_content">"Ti trovi nell'area di copertura di una rete salvata: %1$s"</string>
     <string name="wifi_wakeup_enabled_title">Wi‑Fi attivato automaticamente</string>
     <string name="wifi_wakeup_onboarding_action_disable">"Non riattivare"</string>

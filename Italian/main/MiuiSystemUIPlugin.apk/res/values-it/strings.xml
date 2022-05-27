@@ -130,6 +130,7 @@
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="close">Chiudi</string>
     <string name="close_invisible_mode_dialog_cancel">Annulla</string>
+    <string name="close_invisible_mode_dialog_message">"Impossibile utilizzare Mi Smart Play ora. Disattiva la modalità Incognito nelle Impostazioni per poter utilizzare questa funzione."</string>
     <string name="close_invisible_mode_dialog_ok">Impostazioni</string>
     <string name="close_invisible_mode_dialog_title">"Sei in incognito"</string>
     <string name="config_bodyFontFamily">sans-serif</string>
@@ -269,6 +270,7 @@
     <string name="loading">Sconosciuto</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
+    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
     <string name="midnight">Notte</string>
     <string name="miplay_accessibility_cast">Seleziona dispositivo</string>
     <string name="miplay_accessibility_cover">Copertura</string>
@@ -440,6 +442,7 @@
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Disattiva</string>
     <string name="quick_settings_cellular_detail_title">Dati Mobili</string>
     <string name="quick_settings_cellular_detail_unable_change">"Impossibile impostare durante una chiamata"</string>
+    <string name="quick_settings_circulate_workd_label">Mi Smart Hub</string>
     <string name="quick_settings_drivemode_label">Automobile</string>
     <string name="quick_settings_edit_label">Modifica</string>
     <string name="quick_settings_extreme_batterysaver_label">Risparmio energetico estremo</string>
@@ -475,6 +478,9 @@
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Per aggiungere un elemento premi e tieni premuto, quindi trascinalo nella parte superiore del pannello.</string>
     <string name="quick_settings_uwbsh_label">Xiaomi Magic Control</string>
     <string name="quick_settings_vibrate_label">Vibrazione</string>
+    <string name="quick_settings_vowifi_label">Chiamata WiFi</string>
+    <string name="quick_settings_vowifi_sim1_label">Chiamata WiFi SIM1</string>
+    <string name="quick_settings_vowifi_sim2_label">Chiamata WiFi SIM2</string>
     <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Aumento velocità</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Annulla</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Conferma</string>

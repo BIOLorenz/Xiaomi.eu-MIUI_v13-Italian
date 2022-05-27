@@ -36,6 +36,10 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">"Sembra che tu non abbia eseguito il backup degli oggetti per %s settimane. Crea un backup per evitare di perdere file importanti."</item>
+        <item quantity="one">"Sembra che tu non abbia eseguito il backup degli oggetti per %s settimana. Crea un backup per evitare di perdere file importanti."</item>
+    </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s backup, dimensione:%2$s</item>
         <item quantity="one">%1$s backup, dimensione:%2$s</item>
@@ -71,5 +75,9 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="session_time_remain">
+        <item quantity="other">Circa %s min rimanenti</item>
+        <item quantity="one">Circa %s min rimanente</item>
     </plurals>
 </resources>

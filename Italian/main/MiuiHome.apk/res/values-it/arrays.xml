@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="animation_rate_entries">
-        <item>Relaxed</item>
+        <item>Rilassato</item>
         <item>Bilanciato</item>
         <item>Veloce</item>
     </string-array>

@@ -68,6 +68,8 @@
     <string name="aqi_detail_co_unit">Unità: mg/m³</string>
     <string name="aqi_detail_no2">NO2</string>
     <string name="aqi_detail_o3">O3</string>
+    <string name="aqi_detail_pm10">PM10</string>
+    <string name="aqi_detail_pm25">PM2.5</string>
     <string name="aqi_detail_so2">SO2</string>
     <string name="aqi_detail_title">Indice Qualità Aria</string>
     <string name="aqi_detail_unit">Unità: µg/m3 (CO:mg/m3)</string>
@@ -191,6 +193,7 @@
     <string name="content_desc_city_manage_del">Elimina</string>
     <string name="content_desc_close_button">Chiudi</string>
     <string name="copy">Copia</string>
+    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
     <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s°C</string>
     <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s°F</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s dopo.</string>
@@ -201,6 +204,8 @@
     <string name="daily_forecast_add_city_title">Segui in metro in %1$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
     <string name="data_provided_by">Fornito in parte da</string>
+    <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
+    <string name="data_source_timezone">GMT%1$s</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="dialog_internet_error_title">Si è verificato un errore</string>
@@ -330,15 +335,19 @@
     <string name="index_item_downloading">In download</string>
     <string name="index_item_experience_now">Installa ora</string>
     <string name="index_item_installing2">Installazione</string>
+    <string name="indices_desc_humidity_without_pic">%1$s%%</string>
     <string name="indices_title_chance_of_rain">Possibilità di pioggia</string>
     <string name="indices_title_feel">PERCEPITA</string>
     <string name="indices_title_pressure">PRESSIONE</string>
     <string name="indices_title_wind_speed">Velocità del vento</string>
     <string name="information_settings_title">Informazioni meteo</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_chance_of_rain">POSSIBILITÀ DI PIOGGIA</string>
     <string name="international_details_humidity">UMIDITÀ</string>
     <string name="international_details_real_feel_title">Temp. Percepita</string>
     <string name="international_details_uv_index_title">INDICE UV</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">Abilita servizi di localizzazione</string>
     <string name="location_tag">Individua</string>
     <string name="manager_city_option_add_home">Aggiungi alla pagina iniziale</string>
@@ -350,6 +359,7 @@
     <string name="minute_rain_feedback_subtitle">Dicci che tempo fa</string>
     <string name="minute_rain_feedback_title">Il meteo non sembra attendibile..</string>
     <string name="minute_rain_now">Adesso</string>
+    <string name="minute_rain_progress_indicator_original_time">- -</string>
     <string name="missing_required_permission">Hai disattivato un permesso necessario.</string>
     <string name="miuix_access_state_desc">Selezionato</string>
     <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
@@ -437,6 +447,9 @@
     <string name="notif_weather_title">%1$s oggi a %2$s</string>
     <string name="open">Apri</string>
     <string name="other_settings">Altre impostazioni</string>
+    <string name="pad_keyboard_add_city">Aggiungi località</string>
+    <string name="pad_keyboard_left_switch">Località precedente</string>
+    <string name="pad_keyboard_right_switch">Località successiva</string>
     <string name="particulate_matter_exceeded">Alta</string>
     <string name="particulate_matter_not_exceeded">Normale</string>
     <string name="particulate_matter_serious_exceeded">Troppo alto</string>
@@ -490,7 +503,9 @@
     <string name="send">Invia</string>
     <string name="settings">Impostazioni</string>
     <string name="settings_atmospheric_pressure_atm">Atmosfera standard (atm)</string>
+    <string name="settings_atmospheric_pressure_hpa">Hectopascal (hPa)</string>
     <string name="settings_atmospheric_pressure_inhg">Pollici di mercurio (inHg)</string>
+    <string name="settings_atmospheric_pressure_mbar">Millibar (mbar)</string>
     <string name="settings_atmospheric_pressure_mmhg">Millimetri di mercurio (mmHg)</string>
     <string name="settings_atmospheric_pressure_title">Unità pressione atmosferica</string>
     <string name="share_button">Condividi</string>
@@ -562,6 +577,7 @@
     <string name="sunday_shortest">Dom</string>
     <string name="sunrise">Alba</string>
     <string name="sunset">Tramonto</string>
+    <string name="temperature_normal_unit">%1$s°</string>
     <string name="temperature_unit_C">%1$s°C</string>
     <string name="temperature_unit_F">%1$s°F</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
@@ -610,6 +626,11 @@
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
+    <string name="top_pollution_no2">NO2</string>
+    <string name="top_pollution_o3">O3</string>
+    <string name="top_pollution_pm10">PM10</string>
+    <string name="top_pollution_pm25">PM2.5</string>
+    <string name="top_pollution_so2">SO2</string>
     <string name="traffic_control_daty_after_tomorrow_numbers">Il giorno seguente a domani: %1$s</string>
     <string name="traffic_control_today_numbers">Oggi: %1$s</string>
     <string name="traffic_control_tomorrow_numbers">Domani: %1$s</string>

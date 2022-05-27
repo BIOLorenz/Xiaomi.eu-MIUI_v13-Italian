@@ -104,6 +104,10 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
         <item quantity="other">Rimuovere %d brani?</item>
         <item quantity="one">Rimuovere %d brano?</item>
     </plurals>
+    <plurals name="dialog_request_delete_permission_descript">
+        <item quantity="other">%d dei brani selezionati sono memorizzati in una cartella esterna. Concedi i permessi necessari per eliminarli.</item>
+        <item quantity="one">%d dei brani selezionati è memorizzato in una cartella esterna. Concedi i permessi necessari per eliminarlo.</item>
+    </plurals>
     <plurals name="download_finished">
         <item quantity="other">&lt;font color=\"red\"&gt;%d brani&lt;/font&gt; scaricati</item>
         <item quantity="one">&lt;font color==\"red\"&gt;%d brano&lt;/font&gt; scaricato</item>
@@ -191,6 +195,10 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
     <plurals name="sound_fade_duration_in_seconds">
         <item quantity="other">Dissolvenza incrociata tra le canzoni: %d secondi</item>
         <item quantity="one">Dissolvenza incrociata tra le canzoni: %d secondo</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">Video</item>
+        <item quantity="one">Video</item>
     </plurals>
     <plurals name="video_play_count">
         <item quantity="other">%1$s visualizzazioni</item>

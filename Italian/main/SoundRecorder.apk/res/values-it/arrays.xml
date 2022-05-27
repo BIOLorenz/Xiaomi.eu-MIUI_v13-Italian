@@ -21,6 +21,11 @@
         <item>Normale</item>
         <item>Bassa</item>
     </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/h</item>
+        <item>MP3, ~100kbit/s, ~45MB/h</item>
+        <item>MP3, ~75kbit/s, ~32MB/h</item>
+    </string-array>
     <string-array name="record_scenes_entries">
         <item>Musica</item>
         <item>Voce</item>
@@ -36,5 +41,9 @@
         <item>Sposta il microfono più vicino alla sorgente del suono per una migliore qualità</item>
         <item>Posiziona il telefono tra 2 persone per registrare chiaramente la loro conversazione</item>
         <item>La tecnologia ad alta gamma dinamica consente al microfono di registrare un suono più dettagliato</item>
+    </string-array>
+    <string-array name="record_type_entries">
+        <item>MP3</item>
+        <item>AMR</item>
     </string-array>
 </resources>

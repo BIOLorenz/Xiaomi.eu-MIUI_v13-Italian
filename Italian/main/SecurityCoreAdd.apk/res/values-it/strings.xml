@@ -529,6 +529,7 @@ per accedervi dalla schermata di blocco"</string>
     <string name="scanner_fingerprint_tips_desc">"Seleziona l'impronta esistente per entrare nel Secondo Spazio. Non sarai in grado di utilizzarla per il Primo Spazio."</string>
     <string name="scanner_fingerprint_tips_title">Accedi al Secondo Spazio utilizzando l\'impronta esistente</string>
     <string name="scanner_second_space_fingerprint">Scansiona impronta per il Secondo Spazio</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_result_text">"Non è stato possibile trovare alcuna app"</string>
     <string name="secondSpace">Secondo spazio</string>
@@ -567,6 +568,8 @@ Separa e proteggi i tuoi dati."</string>
     <string name="settings_notification_and_switch_second_space">Impostazioni Secondo Spazio</string>
     <string name="settings_notification_from_owner_space_title">Mostra le notifiche dal Primo Spazio</string>
     <string name="settings_notification_from_second_space_title">Mostra le notifiche del Secondo Spazio</string>
+    <string name="settings_notification_second_space_show_in_locked_summary">Mostra le notifiche dal Secondo spazio sulla schermata di blocco</string>
+    <string name="settings_notification_second_space_show_in_locked_title">Mostra le notifiche sulla schermata di blocco</string>
     <string name="settings_second_space_entrance_summary">Mostra il collegamento al Secondo Spazio nelle Impostazioni</string>
     <string name="settings_second_space_entrance_title">Collegamento nelle Impostazioni</string>
     <string name="settings_set_password_for_owner_space">Imposta un blocco schermo nel Primo Spazio</string>
@@ -748,6 +751,7 @@ per accedere dalla schermata di blocco"</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
     <string name="weibo_send">Invia con Weibo</string>
+    <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">Accedi e condividi</string>
     <string name="whatsapp_send">Condividi su WhatsApp</string>
     <string name="xpsace_guide_button">Crea</string>
@@ -759,6 +763,7 @@ per accedere dalla schermata di blocco"</string>
     <string name="xspace_default_guide_notification_content">Tocca per cambiare</string>
     <string name="xspace_default_guide_notification_main_title">Utilizzo dell\'app predefinita</string>
     <string name="xspace_default_guide_notification_xspace_title">Utilizzo dell\'app clonata</string>
+    <string name="xspace_default_setting_dialog_title"> default</string>
     <string name="xspace_default_setting_label">Personalizzazione</string>
     <string name="xspace_description">"Le app clonate sono copie di app che possono essere utilizzate separatamente con un account diverso.
 

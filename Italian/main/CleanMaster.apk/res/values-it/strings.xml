@@ -985,6 +985,7 @@
     <string name="start_clean">Avvia</string>
     <string name="start_downloading_app">Avvio download: %1$s</string>
     <string name="start_install">Installa ora</string>
+    <string name="storage_system_log">Log di sistema</string>
     <string name="summary_delete_apk">Eliminare definitivamente gli APK selezionati?</string>
     <string name="summary_delete_cache">Alcune applicazioni potrebbero aver bisogno di questi file per funzionare correttamente.</string>
     <string name="summary_delete_large_file">Alcuni file di grosse dimensioni possono essere utili quando non si ha una connessione internet a disposizione (es: mappe, agende, etc.). Assicurati di non aver bisogno di questi file.</string>

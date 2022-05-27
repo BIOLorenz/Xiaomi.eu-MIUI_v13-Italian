@@ -433,6 +433,7 @@
     <string name="pause_prompt_no">No</string>
     <string name="pause_prompt_yes">Sì</string>
     <string name="payphone">Telefono a gettoni</string>
+    <string name="phone_info_divider">" | "</string>
     <string name="picking_participant">Recupero informazioni di contatto…</string>
     <string name="private_num">Numero privato</string>
     <string name="prompt_no_volte_when_failed">"Il servizio VoLTE non è disponibile."</string>
@@ -452,6 +453,7 @@ Come concedere l'autorizzazione
 Tocca \"%1$s\" e quindi seleziona \"%2$s\"."</string>
     <string name="saf_permission_grant_permission_immediately">Successivo</string>
     <string name="saf_permission_later">Non ora</string>
+    <string name="saf_permission_recorder_unlock_screen_message">Per poter salvare le registrazioni, sbloccare prima il dispositivo. Sbloccarlo ora?</string>
     <string name="saf_permission_refused">"Impossibile registrare le chiamate a causa di permessi mancanti"</string>
     <string name="saf_permission_title">Permessi richiesti</string>
     <string name="saf_permission_use_this_folder">Usa questa cartella</string>

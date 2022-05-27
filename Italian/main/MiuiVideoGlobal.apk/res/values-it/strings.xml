@@ -105,6 +105,7 @@
     <string name="auto_play_next_on">Riproduzione automatica attiva</string>
     <string name="back_to_mainpage">Scopri</string>
     <string name="background_playback_enabled">Riproduzione in background attiva</string>
+    <string name="before_yestoday_new">%d giorni fa</string>
     <string name="bind_sign_in_title">Aggiungi Mi Account</string>
     <string name="bottomsheet_action_expand_halfway">Espandi a metà</string>
     <string name="box_title_gallery">Strumenti video</string>
@@ -134,6 +135,8 @@
     <string name="cast_forward">Inoltra</string>
     <string name="cast_forward_10">Avanti dieci secondi</string>
     <string name="cast_forward_30">Avanti trenta secondi</string>
+    <string name="cast_invalid_stream_duration_text">--:--</string>
+    <string name="cast_invalid_stream_position_text">--:--</string>
     <string name="cast_live_label">IN DIRETTA</string>
     <string name="cast_mute">Silenzioso</string>
     <string name="cast_notification_connected_message">Collegato a %1$s</string>
@@ -372,6 +375,7 @@ Invia questo codice al supervisore."</string>
     <string name="dialog_edit_hint_bookmarks_url">URL</string>
     <string name="dialog_edit_hint_name">Nome</string>
     <string name="dialog_edit_hint_url">URL</string>
+    <string name="dialog_item_add_video">Aggiungi video</string>
     <string name="dialog_jumpto_choose">"Non mostrare più"</string>
     <string name="dialog_jumpto_content">Passare a Mi Video per accedere a funzionalità di riproduzione aggiuntive?</string>
     <string name="dialog_jumpto_title">Mi Video</string>
@@ -381,6 +385,7 @@ Invia questo codice al supervisore."</string>
     <string name="dialog_privacy_change_info">"Abbiamo aggiornato l'Informativa sulla privacy di Mi Video a causa delle modifiche apportate ai servizi che offriamo. Per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare l'app."</string>
     <string name="dialog_privacy_change_title">Aggiornamento Informativa sulla privacy</string>
     <string name="dialog_privacy_experience_plan">Unisciti al nostro Programma Esperienza Utente per condividere i dati utente con noi al fine di aiutarci a migliorare i nostri prodotti e servizi.</string>
+    <string name="dialog_privacy_info_new2">" Per essere in grado di utilizzare i servizi, è necessario accettare che %1$s raccoglierà, elaborerà e utilizzerà le informazioni personali. Confermerai di aver letto e accettato la nostra &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt; quando avrai premuto \"Accetta\" qui sotto."</string>
     <string name="dialog_privacy_info_new3">"Per poter utilizzare questo servizio, è necessario consentire a %1$s di raccogliere, elaborare, e utilizzare le tue informazioni personali in conformità con l'Informativa sulla privacy. Cliccando su \"Accetta\" qui sotto, accetti l'&lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; e l'&lt;a href=%3$s&gt;Accordo utente&lt;/a&gt; di Xiaomi."</string>
     <string name="dialog_privacy_info_new4">"Benvenuto in Mi Video! Questa app fornisce i seguenti servizi:&lt;br&gt;&lt;/br&gt; - Servizi di streaming online&lt;br&gt;&lt;/br&gt;- Un lettore video locale&lt;br&gt;&lt;/br&gt;Mi Video deve raccogliere le informazioni personali necessarie per fornirti i servizi di base. Puoi imparare come gestiamo le informazioni che raccogliamo nella nostra Privacy Policy. Sarai in grado di modificare le impostazioni correlate in Impostazioni &gt; Password &amp;amp; sicurezza.&lt;br&gt;&lt;/br&gt;Leggi e accetta il nostro &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare Mi Video."</string>
     <string name="dialog_privacy_revoke_cancel">Annulla</string>
@@ -399,6 +404,8 @@ Invia questo codice al supervisore."</string>
     <string name="dialog_set_default_later">Non ora</string>
     <string name="dialog_set_default_set">Imposta</string>
     <string name="dialog_set_default_text">Impostare Mi Video come lettore video predefinito?</string>
+    <string name="dialog_title_delete_folder">Se si elimina questa cartella, tutti i file in essa contenuti verranno eliminati in modo permanente. Eliminare la cartella?</string>
+    <string name="dialog_title_hidden_folder">"Se nascondi questa cartella, i file in essa contenuti non appariranno tra i tuoi video. Nascondere la cartella?"</string>
     <string name="dialog_video_change">Cambia</string>
     <string name="dialog_video_download_tip">Aggiunto alla coda dei download</string>
     <string name="dialog_video_download_view">Mostra</string>
@@ -497,7 +504,9 @@ Invia questo codice al supervisore."</string>
     <string name="favorite_cancel_success">Rimosso dai preferiti</string>
     <string name="favorite_fail">"Impossibile aggiungere ai preferiti. Riprova."</string>
     <string name="favorite_success">Aggiunto con successo ai preferiti</string>
+    <string name="fcm_2_args">Primo: %1$s e secondo %2$s</string>
     <string name="fcm_fallback_notification_channel_label">Altre</string>
+    <string name="fcm_no_args">Stringa senza argomenti</string>
     <string name="fcm_push_title">Video popolari</string>
     <string name="feedback">Segnalazione</string>
     <string name="feedback_activity_title">Segnalazione</string>
@@ -592,6 +601,7 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_double_tap_to_higher_definition">Fai di nuovo doppio tap per l\'anteprima HD</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Frequenza non supportata. Ripristinata velocità normale.</string>
     <string name="galleryplus_gallery_fold_tags">Nascondi segnalini</string>
+    <string name="galleryplus_gallery_video_adjust_hint">Sono supportati solo video a %d fps</string>
     <string name="galleryplus_gallery_video_adjust_text">Correggi</string>
     <string name="galleryplus_gallery_video_default_music_text">Auto</string>
     <string name="galleryplus_gallery_video_icon_is_8k">8K</string>
@@ -701,6 +711,7 @@ Questa operazione non influenzerà le foto della galleria."</string>
     <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
     <string name="got_it">Ok</string>
     <string name="goto_sign_up">Crea account</string>
+    <string name="gps_prompt_context">Scaricare con rete mobile?</string>
     <string name="gps_prompt_title">Suggerimenti</string>
     <string name="have_learned">Ok</string>
     <string name="heavenly_stems_bing">Bing</string>
@@ -728,6 +739,7 @@ Questa operazione non influenzerà le foto della galleria."</string>
     <string name="init_channels">Ripristina predefinite</string>
     <string name="input_email_address_notice">"Useremo questa email per verificare il tuo account"</string>
     <string name="input_new_pwd">Inserisci una nuova password</string>
+    <string name="input_size_tips_new">Puoi inserire fino a %d caratteri</string>
     <string name="isornot_your_mi_account">È questo il tuo Mi Account?</string>
     <string name="issue">Problema</string>
     <string name="item_card_all_replies">Tutte le risposte</string>
@@ -739,6 +751,7 @@ Questa operazione non influenzerà le foto della galleria."</string>
     <string name="item_download_path">Percorso Download</string>
     <string name="item_download_path_setting">Impostazioni percorso download</string>
     <string name="item_setting_go_back">Revoca autorizzazione...</string>
+    <string name="item_title_unknown">Titolo sconosciuto</string>
     <string name="item_view_role_description">Tab</string>
     <string name="just_a_second">Attendi…</string>
     <string name="language_later_setting_tips">È possibile modificare le preferenze della lingua in Profilo &gt; Lingua.</string>
@@ -747,6 +760,7 @@ per i video"</string>
     <string name="language_setting_tips">Seleziona le tue preferenze linguistiche per ricevere contenuti più rilevanti. Puoi cambiare le tue preferenze linguistiche in Profilo &gt; Lingua.</string>
     <string name="language_setting_tips_dialog">È possibile selezionare le preferenze della lingua per i contenuti in Account &gt; Lingua.</string>
     <string name="later">Più tardi</string>
+    <string name="library_roundedimageview_author">Vince Mi</string>
     <string name="library_roundedimageview_libraryDescription">Una vista veloce (e disegnabile) che supporta angoli arrotondati (e ovali o cerchi) in base all\'esempio originale di Romain Guy.</string>
     <string name="live_now">In diretta ora</string>
     <string name="live_title">Live</string>
@@ -755,16 +769,21 @@ per i video"</string>
     <string name="local_diversion_close_recommend">Chiudi</string>
     <string name="local_diversion_download_more_video">Altri video</string>
     <string name="local_diversion_manage_local_video">Gestisci file</string>
+    <string name="local_diversion_open_mivideo">*Passa a Mi Video, un potente lettore video multifunzione</string>
     <string name="local_diversion_recommend_title">Popolari</string>
     <string name="local_empty_guide">I video che registri appariranno qui</string>
     <string name="local_folder_select_count">Selezionato %s</string>
+    <string name="local_hide_folder_dialog_content">"I video nascosti non saranno visualizzati nelle tue playlist"</string>
     <string name="local_hide_folder_dialog_title">Video nascosti</string>
     <string name="local_hide_folder_setting_goto">Impostazioni</string>
+    <string name="local_hide_folder_setting_tip">Puoi gestire i tuoi video nascosti in Profilo &gt; Impostazioni &gt; Gestisci video nascosti.</string>
     <string name="local_play_tip">Riproduzione di video locali</string>
     <string name="local_push_setting_power_tag">Notifiche riguardo ai video locali</string>
     <string name="local_push_title">Popolari oggi</string>
     <string name="local_push_video_title">Cerca nuovi video locali</string>
     <string name="local_subtitle_choose_language_text">Lingua</string>
+    <string name="local_subtitle_exemption_hint">Cerca sottotitoli su opensubtitle.org</string>
+    <string name="local_subtitle_input_keyword_text">Cerca parole chiave</string>
     <string name="local_subtitle_search_result_text">Risultati…</string>
     <string name="local_subtitle_searching_text">Ricerca…</string>
     <string name="local_video_create_a_new_playlist">Nuova playlist</string>
@@ -829,6 +848,7 @@ per i video"</string>
     <string name="lv_brightness">Luminosità</string>
     <string name="lv_cast">Trasmetti</string>
     <string name="lv_check_delete_file">Seleziona gli elementi da eliminare</string>
+    <string name="lv_check_send_file_new">Puoi inviare solo %d file alla volta</string>
     <string name="lv_confirm_delete_history">Eliminare elementi selezionati?</string>
     <string name="lv_confirm_delete_videos">Eliminare gli elementi?</string>
     <string name="lv_confirm_hide_videos">Nascondere i video?</string>
@@ -890,7 +910,11 @@ per i video"</string>
     <string name="lv_subtitle_manual_add_sub">Sottotitoli aggiunti correttamente</string>
     <string name="lv_subtitle_no_subtitle">"Sottotitoli non disponibili"</string>
     <string name="lv_subtitle_non_subtitle_file">Nessun file di sottotitoli disponibile</string>
+    <string name="lv_subtitle_offset_add_1s_new">+%ds</string>
+    <string name="lv_subtitle_offset_add_dot5s_new">+%fs</string>
     <string name="lv_subtitle_offset_normal">"Non spostare i sottotitoli"</string>
+    <string name="lv_subtitle_offset_sub_1s_new">-%ds</string>
+    <string name="lv_subtitle_offset_sub_dot5s_new">-%fs</string>
     <string name="lv_subtitle_onlinesub_language">Lingua: %s</string>
     <string name="lv_subtitle_onlinesub_loading">Caricamento dei sottotitoli…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Caricamento dei sottotitoli…</string>
@@ -903,6 +927,7 @@ per i video"</string>
     <string name="lv_subtitle_onlinesub_size_string_b">Dimensione: %sB</string>
     <string name="lv_subtitle_onlinesub_title">Sottotitoli online</string>
     <string name="lv_subtitle_open_subtitle_file_title">Trova file dei sottotitoli</string>
+    <string name="lv_subtitle_preoffset_max_new">"Impossibile spostarsi oltre %ds"</string>
     <string name="lv_subtitle_subonline_non_network">"Impossibile connettersi alla rete. Connettiti e riprova."</string>
     <string name="lv_subtitle_synchronization_title">Sincronizza</string>
     <string name="lv_subtitle_title">Sottotitoli</string>
@@ -986,6 +1011,8 @@ per i video"</string>
     <string name="mnc_live_subscribe_toast">Iscritto correttamente</string>
     <string name="mnc_live_tv">Live</string>
     <string name="mnc_live_unsubscribe_toast">Iscrizione annullata correttamente</string>
+    <string name="mnc_subscribe_push_context">Tocca per guardare ora</string>
+    <string name="mnc_subscribe_push_title">Lo stream sta iniziando</string>
     <string name="moment_guide_desc">Usa i gesti per ingrandire e rimpicciolire</string>
     <string name="moment_tab_all">Tutto</string>
     <string name="moment_tab_facebook">Facebook</string>
@@ -1095,6 +1122,7 @@ per i video"</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="mtrl_timepicker_confirm">OK</string>
     <string name="music_new_user_dialog_got_it">Ok</string>
+    <string name="music_new_user_dialog_tip">Benvenuto in Mi Video! Questa app fornisce un lettore video locale e servizi di streaming video e musica online.</string>
     <string name="my_favorite_channels">I miei canali preferiti</string>
     <string name="my_feedback_title">Il mio feedback</string>
     <string name="need_update_app">Aggiorna Mi Video per utilizzare tutte le sue funzionalità</string>
@@ -1151,6 +1179,7 @@ per i video"</string>
     <string name="online_play_hint">Per esempio: http://www.example.com/video.mp4</string>
     <string name="online_play_title">Perfavore inserisic il link url del calendario</string>
     <string name="open_settings">Impostazioni</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Iscrizioni recenti</string>
     <string name="order_recently_updated">Aggiornati di recente</string>
     <string name="out_of_memory_background_playback_is_suspended">Riproduzione in background interrotta, memoria insufficiente</string>
@@ -1363,11 +1392,14 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
     <string name="pip">PiP</string>
     <string name="pip_not_supported_toast">Aggiorna MIUI per poter usare picture-in-picture.</string>
+    <string name="play_list_delete_title">Eliminare questa playlist?</string>
+    <string name="play_list_detial_add">Aggiungi video</string>
     <string name="play_list_detial_delete">Elimina</string>
     <string name="play_list_detial_play">Riproduci</string>
     <string name="play_list_detial_rename">Rinomina</string>
     <string name="play_list_save_dialog_create">Crea playlist</string>
     <string name="play_list_save_dialog_title">Aggiungi</string>
+    <string name="play_list_sign_in_dialog_message">Accedi con il tuo account Google per visualizzare tutte le tue playlist.</string>
     <string name="play_list_user_local">Dispositivo</string>
     <string name="play_list_user_online">Online</string>
     <string name="playlist_create">Crea</string>
@@ -1610,6 +1642,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="sending">Invio in corso...</string>
     <string name="service_error">Errore Server</string>
     <string name="set_success">Modificato correttamente</string>
+    <string name="settings_manager_hidden_folder">Gestisci video nascosti</string>
     <string name="share">Condividi</string>
     <string name="share_fail">"Impossibile condividere. Controlla le impostazioni di rete e riprova."</string>
     <string name="share_success">Condivisione riuscita</string>
@@ -1628,6 +1661,9 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="slide_save_message">Generazione del video…</string>
     <string name="small_video_cancel_button">Annulla</string>
     <string name="small_video_download_button">Scarica</string>
+    <string name="small_video_load_more_hint">Scorri verso l\'alto per riprodurre altri video</string>
+    <string name="small_video_snack_download_description">Scarica SnackVideo per vedere gli ultimi video dai tuoi creatori preferiti.</string>
+    <string name="small_video_snack_download_title">SnackVideo</string>
     <string name="sms_send_success">Inviato correttamente</string>
     <string name="sns_access_token_expired_warning">Sessione scaduta. Effettua nuovamente l\'accesso per ricollegare questo account.</string>
     <string name="sns_bind_limit">Troppi tentativi. Prova ad accedere in altri modi.</string>
@@ -1684,10 +1720,15 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="submit">Invia</string>
     <string name="subscribe">ISCRIVITI</string>
     <string name="subscribe_author_recommend_btn">Iscriviti</string>
+    <string name="subscribe_author_recommend_title">Iscriviti per vedere i video più recenti di questi creatori</string>
     <string name="subscribe_dialog_import_agree">Importa</string>
     <string name="subscribe_dialog_import_cancel">Annulla</string>
+    <string name="subscribe_dialog_import_content">"Importa i tuoi abbonamenti Mi Video sul tuo account Google per avere tutti gli abbonamenti in un unico posto. Sarai in grado di guardarli tutti su Mi Video. Importare ora?"</string>
+    <string name="subscribe_dialog_import_title">Importa nell\'account Google</string>
     <string name="subscribe_error_toast">"Impossibile iscriversi"</string>
     <string name="subscribe_import_hint_btn">Importa</string>
+    <string name="subscribe_import_hint_content">Importa gli abbonamenti sul tuo account Google</string>
+    <string name="subscribe_login_for_video">Accedi al tuo account Google per visualizzare tutti i tuoi abbonamenti</string>
     <string name="subscribed">ISCRITTO</string>
     <string name="subscriptions">Sottoscrizioni</string>
     <string name="subtitle_add_subtitle_failed">"Impossibile aggiungere i sottotitoli. Assicurarsi che il file non sia danneggiato."</string>
@@ -1701,6 +1742,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="sure_to_logout">Disconnettersi ora?</string>
     <string name="switch_ratio_pause">La velocità di riproduzione è instabile. Ritorno alla velocità predefinita.</string>
     <string name="symbol_rmb">¥</string>
+    <string name="sync_favorites_limit_new">"Ci sono più di %d video nei tuoi preferiti. Dovremo eliminare alcuni dei video precedenti per continuare la sincronizzazione."</string>
     <string name="sync_favorites_message">Sincronizzare i preferiti da questo dispositivo al tuo account? Gli elementi che non sono più disponibili verranno rimossi.</string>
     <string name="sync_favorites_title">Sincronizza i preferiti</string>
     <string name="t_check_hide_file">Seleziona gli elementi da nascondere</string>
@@ -1712,12 +1754,14 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="t_lv_check_unhide_file">Seleziona video da mostrare</string>
     <string name="t_lv_downloading_new_version">Download aggiornamenti…</string>
     <string name="t_lv_no_new_version">Mi Video è aggiornato.</string>
+    <string name="t_lv_password_limit_new">La password deve essere lunga almeno %d caratteri</string>
     <string name="t_lv_password_null">"La password non può essere vuota"</string>
     <string name="t_lv_password_wrong">Password non corretta. Riprova.</string>
     <string name="t_lv_search_null">Inserisci le parole chiave da cercare</string>
     <string name="t_lv_subtitle_padding_default_hint">Regolazione dei sottotitoli…</string>
     <string name="t_network_error">Si è verificato un errore di rete.</string>
     <string name="t_ovp_check_delete_favor">Seleziona gli elementi da rimuovere</string>
+    <string name="t_password_limit_new">La password deve essere lunga almeno %d caratteri</string>
     <string name="t_password_null">"La password non può essere vuota"</string>
     <string name="t_password_wrong">La password inserita non è corretta. Riprova.</string>
     <string name="t_start_download">Avvio download:</string>
@@ -1728,6 +1772,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="tab_name_movies">Film</string>
     <string name="tab_name_trending">Di tendenza</string>
     <string name="tab_name_video">Video</string>
+    <string name="tab_name_vk">VK Video</string>
     <string name="tab_playlist_local">Dispositivo</string>
     <string name="tab_playlist_online">Online</string>
     <string name="talkback_ad_clicked">Annuncio</string>
@@ -1786,11 +1831,15 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="tip_auth_again">"Dal momento che non hai precedentemente accettato i termini della corrispondente Informativa sulla privacy del fornitore di contenuti di terze parti, non è possibile visualizzare contenuti video in Momenti. Tocca il pulsante qui sotto per accettare l'Informativa sulla privacy e accedere a questa funzionalità."</string>
     <string name="tip_author_click">Tocca per visualizzare altri video di questo account</string>
+    <string name="tip_content_or">O</string>
     <string name="tip_download_video_to_save_here">%d. Il video sarà salvato nei download</string>
     <string name="tip_enter_the_website">%d. Apri un sito web o un\'app</string>
     <string name="tip_local_long_press_for_manager">Tieni premuto per gestire i video</string>
+    <string name="tip_local_long_press_for_manager_folder">Tieni premuto per gestire le cartelle</string>
     <string name="tip_local_manager_here">Gestisci qui i tuoi file</string>
+    <string name="tip_login_for_your_online_playlist">Accedi per vedere le tue playlist.</string>
     <string name="tip_play_a_video">%d. Riproduci un video</string>
+    <string name="tip_pop"><com.miui.video.biz.livetv.data.mnc.information.Data>Il contenuto dei Momenti è fornito da Firework. Al fine di migliorare la vostra esperienza di visualizzazione e ricevere raccomandazioni di contenuto più rilevanti, consentire a Firework di raccogliere, elaborare e utilizzare le tue informazioni personali in conformità alla sua Informativa sulla privacy. Leggi e accetta la &lt;a href=\"%1$s\"&gt;Politica sulla privacy fi Fireworks&lt;/a&gt; prima di usare i suoi servizi.</com.miui.video.biz.livetv.data.mnc.information.Data></string>
     <string name="tip_storage_used_space" formatted="false">Usato %.2f GB/%.2f GB</string>
     <string name="tip_tap_download_button">%d. Tocca \"Scarica\"</string>
     <string name="tip_topic_click">Tocca per trovare altri video su questo argomento</string>
@@ -1799,6 +1848,8 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="title_download_setting">Impostazioni download</string>
     <string name="title_firework_recommend">Raccomandazioni fuochi d\'artificio</string>
     <string name="title_history">Cronologia</string>
+    <string name="title_mangotv_history_sub" formatted="false">%s (Episodio %d)</string>
+    <string name="title_mangotv_subtitle_language">Lingua sottotitoli</string>
     <string name="title_publisher">Creatori</string>
     <string name="title_select_directory">Seleziona cartella</string>
     <string name="title_selected">Selezionato</string>
@@ -1811,8 +1862,11 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="toast_bookmark_success_to_add">Segnalibro aggiunto</string>
     <string name="toast_bookmark_success_to_delete">Segnalibro eliminato</string>
     <string name="toast_bookmark_url_error">Inserire un URL valido</string>
+    <string name="toast_fail_to_delete">"Impossibile eliminare. Riprova."</string>
+    <string name="toast_fail_to_rename">"Impossibile rinominare. Riprova."</string>
     <string name="toast_m3u8_download_path_tip">"Impossibile cambiare il percorso di download per il contenuto in formato m3u8"</string>
     <string name="toast_no_data">"Questo elemento non è disponibile ora. Torna più tardi."</string>
+    <string name="toast_play_error_tip">"Impossibile riprodurre questo file"</string>
     <string name="toast_request_too_frequently">Non così in fretta!</string>
     <string name="toast_share_failed">"Impossibile condividere. Attendi un minuto o due e riprova."</string>
     <string name="today">Oggi</string>
@@ -1930,6 +1984,13 @@ Dimensione : %2$s"</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spazio insufficientee, controlla la scheda SD.</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+    <string name="yandex_ads_internal_text_divider">·</string>
+    <string name="yandex_ads_internal_tools_age_text">3+</string>
+    <string name="yandex_ads_internal_tools_domain_text">dominio</string>
+    <string name="yandex_ads_internal_tools_price_text">prezzo</string>
+    <string name="yandex_ads_internal_tools_rating_text">valutazione</string>
+    <string name="yandex_ads_internal_tools_review_count_text">conteggio recensioni</string>
+    <string name="yandex_ads_internal_tools_sponsored_text">sponsorizzato</string>
     <string name="year">anno</string>
     <string name="yesterday">Ieri</string>
     <string name="ytb_account">Account</string>

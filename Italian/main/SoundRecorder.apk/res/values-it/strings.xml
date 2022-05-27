@@ -23,6 +23,8 @@
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
     <string name="actionbar_button_up_description">Indietro</string>
+    <string name="add_remark_hint">Inserisci il tuo commento</string>
+    <string name="add_remark_tip">Tocca per aggiungere un commento</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="agree_description">Consenti a questa app di connettersi a internet per poter utilizzare tutte le sue funzionalità.</string>
     <string name="alert_message_clear_records">Eliminare le registrazioni selezionate?</string>
@@ -187,6 +189,7 @@
     <string name="error_filename_illegal_char">Il nome del file contiene caratteri non validi.</string>
     <string name="error_filename_too_long">Nome file troppo lungo</string>
     <string name="error_icon_content_description">Errore</string>
+    <string name="error_remark_too_long">Il commento è troppo lungo</string>
     <string name="error_sdcard_access">"Impossibile accedere alla scheda SD"</string>
     <string name="error_sdcard_unmounted">Inserisci una scheda SD adesso</string>
     <string name="evening">Pomeriggio</string>
@@ -203,6 +206,7 @@
 
   3. In che modo il testo trasferito dalla registrazione può essere più accurato?
   La registrazione su testo attualmente supporta solo la trascrizione in mandarino. La precisione dei risultati di trascrizione sarà influenzata dalla distanza, dall'ambiente, dagli accenti parlati e così via. Il tasso di precisione può variare notevolmente. Se desideri una trascrizione del testo più accurata, puoi scegliere di allontanarti dal tuo telefono cellulare."</string>
+    <string name="fm_record">Radio</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -257,6 +261,7 @@
     <string name="heavenly_stems_yi">Yi</string>
     <string name="icon_content_description">Icona Dialogo</string>
     <string name="invalid_argument">Argomento illegale</string>
+    <string name="invisible_mode_error_tip">Disattiva la modalità in incognito nelle Impostazioni per utilizzare il microfono</string>
     <string name="item_view_role_description">Tab</string>
     <string name="keywords_search_call_record">Registra chiamate;Registra chiamata;Registrazione chiamata;Registrazione chiamate</string>
     <string name="keywords_search_record">Nuova registrazione;Aggiungi registrazione;Registrazione;Registrazioni;Trascrizione;Trascrivere;Registratore;Registratore vocale;Registratore di suoni;App registratore;App registrazione;Come posso registrare;Come registrare un suono;Dov\'è il registratore;Registratore MIUI</string>
@@ -272,6 +277,7 @@
     <string name="loading_order_list_empty">Nessun ordine.</string>
     <string name="low_battery_error">"\"Batteria rimanente inferiore al 5%. Interrompi e salva la tua registrazione per essere certo di non perderla."</string>
     <string name="low_battery_error_confirm">OK</string>
+    <string name="low_battery_error_for_pad">"Meno del %s di batteria rimanente. Interrompi e salva la registrazione per assicurarti che non vada persa."</string>
     <string name="low_battery_error_title">Batteria scarica</string>
     <string name="lyric_item_point_count">%1$d a %2$d</string>
     <string name="manage_external_storage">Accedere a tutti i file</string>
@@ -401,12 +407,17 @@
     <string name="network_tip_dialog_title">E\' necessaria la connessione internet</string>
     <string name="network_unavailable_tip">Controllare la connessione di rete e riprovare</string>
     <string name="new_record_name">Registra</string>
+    <string name="new_saf_permission_dialog_content">"I permessi di Registratore sono stati aggiornati. Consenti a Registratore di accedere alle registrazioni delle chiamate.
+
+Come concedere il permesso
+Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="new_saf_permission_dialog_grant_permission_immediately">Successivo</string>
     <string name="night">Sera</string>
     <string name="no_content">Nessun oggetto</string>
     <string name="no_file">Vuoto</string>
     <string name="no_network">"Impossibile connettersi alla rete"</string>
     <string name="no_playback_file">Seleziona una registrazione per visualizzare i dettagli</string>
+    <string name="no_records">Nessuna registrazione</string>
     <string name="noon">Mezzogiorno</string>
     <string name="normal_settings_pref_title">Impostazioni generali</string>
     <string name="not_allowed">Non concesso</string>
@@ -415,6 +426,7 @@
     <string name="notification_playback">Riproduzione in corso…</string>
     <string name="notification_recording">Registrazione…</string>
     <string name="notification_recording_ticker">Telefono silenziato</string>
+    <string name="notification_recording_ticker_for_pad">Il tuo dispositivo sta registrando audio in modalità silenziosa. Usa i tasti del volume per disattivare la modalità silenziosa.</string>
     <string name="notification_save_as_complete">Salvato con successo</string>
     <string name="notification_stopped">Registrazione interrotta</string>
     <string name="notification_title_all_paused">Download in pausa</string>
@@ -458,8 +470,13 @@
     <string name="permission_dialog_cancel">Annulla</string>
     <string name="permission_dialog_ok">Impostazioni</string>
     <string name="permission_read_phone_state">Accesso alle info dispositivo</string>
+    <string name="permission_read_phone_state_description">Per accedere allo stato della chiamata al fine di interrompere automaticamente la registrazione quando si ricevono le chiamate</string>
     <string name="permission_record">Registra audio</string>
+    <string name="permission_record_description">Per fornire servizi di registrazione audio</string>
     <string name="permission_storage">Accesso alla memoria</string>
+    <string name="permission_storage_description">Per gestire le registrazioni e scaricarle dal cloud</string>
+    <string name="permission_storage_description_for_download">Per scaricare le registrazioni dal cloud</string>
+    <string name="permission_storage_description_for_manage_files">Per gestire le registrazioni</string>
     <string name="play_speed">Velocità %1$.1fX</string>
     <string name="playback_delete_records">Elimina la registrazione</string>
     <string name="playback_share_records">Condividi la registrazione</string>
@@ -481,6 +498,7 @@
     <string name="preference_tip_rename">Rinomina al termine della registrazione</string>
     <string name="privacy_policy_title">Informativa sulla Privacy</string>
     <string name="privacy_settings">Privacy</string>
+    <string name="progress">Barra di avanzamento della riproduzione</string>
     <string name="recognition_button_add_to_queue">Aggiungi alla coda</string>
     <string name="recognition_button_cancel">Non adesso</string>
     <string name="recognition_button_start">Riconoscimento di precisione online</string>
@@ -551,6 +569,7 @@
     <string name="record_downloading_notification_count">%d in download</string>
     <string name="record_format_preference_title">Formato di registrazione</string>
     <string name="record_item_title_multi_choice">Scegli</string>
+    <string name="record_item_title_remark">Aggiungi commento</string>
     <string name="record_item_title_send">Condividi</string>
     <string name="record_list">Registrazioni</string>
     <string name="record_list_app">Registrazioni app</string>
@@ -562,6 +581,8 @@
     <string name="record_list_fm">Registrazioni FM</string>
     <string name="record_list_item_recognize_text">Testo</string>
     <string name="record_mark_point">Segna %s</string>
+    <string name="record_name_minute">​</string>
+    <string name="record_permission_dialog_title">Permessi del microfono richiesti</string>
     <string name="record_quliaty_preference_title">Qualità di registrazione</string>
     <string name="record_resotre">Ripristina registrazioni</string>
     <string name="recorder_record">Audio</string>
@@ -570,6 +591,8 @@
     <string name="recording_quality_low">Bassa</string>
     <string name="recording_quality_standard">Standard</string>
     <string name="recording_stopped">Registrazione interrotta</string>
+    <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
+    <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
     <string name="recovery">Ripristina</string>
     <string name="recovery_failed_dialog_button">Ok</string>
     <string name="recovery_failed_dialog_title">Attenzione</string>
@@ -594,6 +617,7 @@
     <string name="rename_no_more_tip">"Non mostrare più"</string>
     <string name="retry">Riprova</string>
     <string name="runtime_permission_ungranted">"Impossibile utilizzare il Registratore per mancanza di autorizzazioni"</string>
+    <string name="saf_permission_dialog_content">A causa delle restrizioni di Android, Registratore necessita del permesso di accedere alle registrazioni effettuate da altre app. Consenti a Registratore di accedere a queste registrazioni per poterle visualizzare.</string>
     <string name="saf_permission_dialog_grant_permission_immediately">Impostazioni</string>
     <string name="saf_permission_dialog_later">Non ora</string>
     <string name="saf_permission_dialog_no_more_tip">"Non mostrare più"</string>
@@ -616,6 +640,7 @@
     <string name="search_tip_rename">Rinomina al termine della registrazione</string>
     <string name="send">Invia</string>
     <string name="service_instructions">Termini del servizio Ifly</string>
+    <string name="settings_saf_permission">Permessi di gestione file</string>
     <string name="share">Condividi</string>
     <string name="share_dialog_title">Condividi tramite</string>
     <string name="shortcut_records">Registrazioni</string>
@@ -658,9 +683,11 @@
     <string name="status_bar_back">Premi per tornare al Registratore</string>
     <string name="status_bar_recording">Registrazione…</string>
     <string name="status_bar_recording_pause">Registrazione in pausa</string>
+    <string name="storage_permission_dialog_title">Permessi di archiviazione richiesti</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="sync_desc_state_complete">Sincronizzato con il cloud: %1$s</string>
     <string name="tab_all">Tutto</string>
     <string name="tab_apps">Applicazioni</string>
     <string name="tab_call">Chiamate</string>
@@ -726,6 +753,8 @@
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="toast_max_record_time">App: %1$s tempo di registrazione massima %2$s</string>
     <string name="toast_uninstall_fileexplorer">"File Explorer non è installato!"</string>
     <string name="today">Oggi</string>

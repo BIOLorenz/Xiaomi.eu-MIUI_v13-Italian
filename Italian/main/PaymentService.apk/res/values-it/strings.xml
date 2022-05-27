@@ -238,14 +238,18 @@ Invia questo codice al supervisore."</string>
     <string name="logout_account">Disconetti</string>
     <string name="mibi_account_disable_dialog_btn_negative">Annulla</string>
     <string name="mibi_account_disable_dialog_btn_positive">Attiva</string>
+    <string name="mibi_account_disable_dialog_msg">Per utilizzare MiCoin, è necessario accedere al proprio account Xiaomi. Si prega di abilitare il servizio account Xiaomi in Impostazioni-Gestione applicazioni.</string>
     <string name="mibi_account_disable_dialog_title">Avviso</string>
     <string name="mibi_all_license_message">"Stai per utilizzare del Mi Credit, un servizio fornito da Xiaomi Inc. Prima che tu possa utilizzare questo servizio, dovrai concordare con i Termini di Servizio. Tocca OK se hai concordato con i termini e le condizioni descritte in %1$s e %2$s. Dovrai connetterti ad Internet, localizzare il tuo dispositivo ed utilizzare i Mi Credit.\""</string>
+    <string name="mibi_all_purpose">Benvenuto in MiCoin, puoi utilizzare questa app per ricaricare MiCoin, controllare le tue carte regalo, ecc.</string>
     <string name="mibi_app_name">Mi Credit</string>
     <string name="mibi_applock_config">"Impossibile impostare App lock quando è in uso lo Split Screen."</string>
     <string name="mibi_applock_dialog_cancel">Non adesso</string>
     <string name="mibi_applock_dialog_content">A causa di un aggiornamento di sistema, la sequenza di sblocco attuale è scaduta. Imposta una nuova sequenza di blocco.</string>
     <string name="mibi_applock_dialog_ok">Imposta</string>
     <string name="mibi_applock_dialog_title">Imposta una nuova sequenza di blocco</string>
+    <string name="mibi_auth_manage_access_camera">Accesso alla Fotocamera</string>
+    <string name="mibi_auth_manage_desc_camera">Quando si utilizza una scheda di ricarica del telefono cellulare per ricaricare MiCoin, è possibile  identificare il numero della carta e il segreto della carta, ecc. concedendo il permesso all\'uso della fotocamera.</string>
     <string name="mibi_auth_manage_perm_grant">Concesso</string>
     <string name="mibi_auth_manage_perm_ungrant">Attiva</string>
     <string name="mibi_balance_payment_title">Mi Credit</string>
@@ -256,8 +260,10 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_bill_record">Transazioni</string>
     <string name="mibi_bill_record_empty">Nessun elemento.</string>
     <string name="mibi_btn_agree">Accetto</string>
+    <string name="mibi_btn_agree_continue">Accetta e continua</string>
     <string name="mibi_btn_back">Avvia</string>
     <string name="mibi_btn_count_down_auto">Chiedi di nuovo tra %1$d secondi</string>
+    <string name="mibi_btn_exit">Esci dall\'app</string>
     <string name="mibi_btn_finish">Fine</string>
     <string name="mibi_btn_mili_center_recharge">Ricarica Mi Credit</string>
     <string name="mibi_btn_net_connection_retry">Riprova</string>
@@ -268,11 +274,13 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_btn_recharge_large">Ricarica</string>
     <string name="mibi_btn_recharge_other">Ricarica</string>
     <string name="mibi_btn_recharge_success_quick">Ricarica completata</string>
+    <string name="mibi_btn_return_home">Ritorna alla Home</string>
     <string name="mibi_business_title">Altri servizi</string>
     <string name="mibi_button_bind_phone">Collega adesso</string>
     <string name="mibi_button_call">Chiama</string>
     <string name="mibi_button_cancel">Annulla</string>
     <string name="mibi_button_confirm">Conferma</string>
+    <string name="mibi_button_count_down_finish">OK(%1$s)</string>
     <string name="mibi_button_custom_service_phone">Ok</string>
     <string name="mibi_button_disagree">Non accetto</string>
     <string name="mibi_button_next">Successivo</string>
@@ -284,6 +292,19 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_change_security_lock">Altri blocco schermo</string>
     <string name="mibi_check_giftcard">Mostra coupon</string>
     <string name="mibi_click_retry">%1$s, tocca per riprovare</string>
+    <string name="mibi_colon">": "</string>
+    <string name="mibi_cta_agreement_checkbox_description">Si prega di leggere e accettare %1$s e %2$s</string>
+    <string name="mibi_cta_agreement_tips">Si prega di accettare i termini e l\'uso.</string>
+    <string name="mibi_cta_description">"Benvenuto in Mi Coin, questa applicazione fornisce funzioni come la ricarica Mi Coin e la visualizzazione di certificati regalo. Elaboreremo le tue informazioni rilevanti come richiesto dalle leggi e dai regolamenti. Qui ti ricordiamo solennemente:
+1. 1. Prima di utilizzare prodotti o servizi Mibi, leggere e comprendere attentamente l'Informativa sulla privacy, e utilizzare i relativi prodotti o servizi dopo aver confermato la vostra piena comprensione e accordo.
+2. 2. Durante l'utilizzo di questa app, sono richiesti permessi internet e fotocamera. Ti chiederemo se hai il permesso di aprire i permessi correlati per elemento quando hai la prima chiamata. Puoi anche gestire le autorizzazioni correlate nelle impostazioni di accesso alla privacy dell'app - Gestione autorizzazioni o nelle impostazioni del tuo dispositivo.
+%1$s"</string>
+    <string name="mibi_cta_description_suffix">"3. Prendiamo e proteggiamo le vostre informazioni personali molto seriamente. Se hai domande, commenti o suggerimenti sul contenuto di questa politica, puoi contattarci visitando %1$s.
+"</string>
+    <string name="mibi_cta_description_with_review_entry_suffix">"3. Se non accetti l'Informativa sulla privacy, forniremo una modalità di sola visualizzazione. Puoi scegliere tra [%1$s].
+4. Prendiamo e proteggiamo le tue informazioni personali molto seriamente. Se hai domande, commenti o suggerimenti sul contenuto di questa politica, puoi contattarci visitando %2$s.
+"</string>
+    <string name="mibi_cta_title">Cari Mi Fan</string>
     <string name="mibi_deduct_goods_name">Prodotto</string>
     <string name="mibi_deduct_open_prompt">%1$s sarà in grado di ricarica automaticamente %2$s senza verifica.Puoi disattivare questa funzionalità in %1$s</string>
     <string name="mibi_deduct_order_price">Prezzo</string>
@@ -326,6 +347,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_error_common_summary">Errore di sistema. Riprova più tardi.</string>
     <string name="mibi_error_deduct">"Impossibile attivare il protocollo di pagamento automatico"</string>
     <string name="mibi_error_expired_summary">Il tuo ordine è scaduto</string>
+    <string name="mibi_error_frozen_service_num">400-100-3399</string>
     <string name="mibi_error_frozen_summary">Il tuo account è stato congelato, si prega di contattar eil nostro centro di assistenza clienti.</string>
     <string name="mibi_error_has_bought_summary">Hai già acquistato questo prodotto.</string>
     <string name="mibi_error_illegal_order_summary">Errore ordine. Riprova più tardi</string>
@@ -346,14 +368,17 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_fee">%1$s Mi Credit</string>
     <string name="mibi_forget_password"><u>Password dimenticata</u></string>
     <string name="mibi_format_bill_date">d/M/yyyy</string>
+    <string name="mibi_format_bill_time">dd-MM-yyy HH:mm</string>
     <string name="mibi_format_date">dd. MMM, yyyy</string>
     <string name="mibi_format_time">dd MMM, yyyy hh:mmaa</string>
+    <string name="mibi_format_time_giftcard">dd-MM-yyyy HH:mm:ss</string>
     <string name="mibi_frozen">Bloccato</string>
     <string name="mibi_frozen_prim">Account bloccato</string>
     <string name="mibi_frozen_sub">E\' stata rilevata un\'attività sospetta</string>
     <string name="mibi_frozen_text">Il tuo account è stato bloccato. Contatta il nostro servizio di assistenza</string>
     <string name="mibi_frozen_text_pad">Il tuo account è bloccato. Contatta 400–100–3399.</string>
     <string name="mibi_get_phone_format_error">Verifica il numero di telefono</string>
+    <string name="mibi_get_phone_num_prefix">+39</string>
     <string name="mibi_get_phone_num_summary">Immetti il numero di telefono utilizzato per i pagamenti</string>
     <string name="mibi_get_phone_num_title">Inserisci il tuo numero di telefono</string>
     <string name="mibi_get_phone_sms_prompt">Codice di verifica inviato a %1$s</string>
@@ -365,7 +390,9 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_giftcard_discount">Sconti</string>
     <string name="mibi_giftcard_discount_detail">Sconto (spendi %1$s Mi Credit)</string>
     <string name="mibi_giftcard_discount_detail2">(Spendi %1$s Mi Credit per rinnovarlo)</string>
+    <string name="mibi_giftcard_discount_detail3">Usa %1$s Mi Coins per riscattare</string>
     <string name="mibi_giftcard_empty_detail">Nessun coupon %1$s.</string>
+    <string name="mibi_giftcard_expire_soon">Scade a breve</string>
     <string name="mibi_giftcard_has_expired">Scaduta il %1$s</string>
     <string name="mibi_giftcard_has_unavailable">Scaduto</string>
     <string name="mibi_giftcard_has_used">Rinnovato</string>
@@ -380,6 +407,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_giftcard_use_now">Rinnova</string>
     <string name="mibi_giftcard_used">Rinnovato</string>
     <string name="mibi_giftcard_vaild_util">valido fino al %1$s</string>
+    <string name="mibi_giftcard_valid_time_last">Scade tra %1$s giorni</string>
     <string name="mibi_giftcard_will_expire">Scaduta il %1$s</string>
     <string name="mibi_giftcard_with_num"><Data>&lt;font color=#FF7700&gt;&lt;xliff:g id=value&gt;%1$d&lt;/xliff:g&gt; Il coupon Mi Coin è disponibile&lt;/font&gt;</Data></string>
     <string name="mibi_header_network_error">"Impossibile collegarsi alla rete."</string>
@@ -391,6 +419,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_is_what">Cosa puoi acquistare con i Mi Credit?</string>
     <string name="mibi_label_balance">Saldo</string>
     <string name="mibi_label_giftcard">Carta regalo</string>
+    <string name="mibi_label_giftcard_with_num">Carta Regalo(%1$s)</string>
     <string name="mibi_label_pay_remain">Importo dovuto: %1$s Mi Credit</string>
     <string name="mibi_license_message_span">Accordo utente Mi Credit</string>
     <string name="mibi_license_title">Termini e condizioni</string>
@@ -410,9 +439,12 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_msg_error">Ricarica fallita</string>
     <string name="mibi_msg_order_hint_1_1">Dopo aver toccato \'Conferma Acquisto\', il telefono eseguirà l\'operazione</string>
     <string name="mibi_msg_order_hint_1_2">Contatta automaticamente il tuo fornitore di servizi.</string>
+    <string name="mibi_msg_picker_hint_1_1">1.</string>
     <string name="mibi_msg_picker_hint_1_2">Il riempimento testuale potrebbe essere più costoso: &lt;font color=red&gt;￥%1$d = %2$d Mi Credit&lt;/font&gt;</string>
+    <string name="mibi_msg_picker_hint_2_1">2.</string>
     <string name="mibi_msg_picker_hint_2_a">L\'operatore ha ricaricato ￥%1$s in base al costo del servizio ricarica</string>
     <string name="mibi_msg_picker_hint_2_b">Un SMS ti verrà recapitato dal tuo operatore dopo che toccherai il pulsante \"Ricarica\". L\'operatore ti addebiterà il costo di un normale SMS.</string>
+    <string name="mibi_msg_picker_hint_3_1">3.</string>
     <string name="mibi_msg_picker_hint_3_2">Ricarica mensile massima: ￥%1$s</string>
     <string name="mibi_msg_send_no_net_error">"Impossibile inviare il messaggio: impossibile connettersi al provider di rete"</string>
     <string name="mibi_msg_send_no_sim_error">Impossibile inviare messaggio: prova a reinserire la scheda SIM.</string>
@@ -431,6 +463,8 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_order_balance_lable">Mi Credit</string>
     <string name="mibi_order_balance_lable_append">Mi Credit + sconto</string>
     <string name="mibi_order_balance_title">I miei Mi Credit</string>
+    <string name="mibi_order_discount_giftcard_title">Coupon (Usane uno alla volta)</string>
+    <string name="mibi_order_mibi_to_money_rate">1 Mi Coin = 1 RMB</string>
     <string name="mibi_order_no_use_balance">Inutilizzato</string>
     <string name="mibi_order_pay_back">Conferma</string>
     <string name="mibi_order_pay_type">Metodi pagamento</string>
@@ -451,6 +485,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_payment_recharge_group_title">Scegli metodo di ricarica</string>
     <string name="mibi_payment_success_title">Pagamento ricevuto</string>
     <string name="mibi_payment_with_login_title">Mi Credit</string>
+    <string name="mibi_paymnet_failed_title">Transazione Fallita</string>
     <string name="mibi_paytool_alipay">Alipay</string>
     <string name="mibi_paytool_app_not_installed">"Non hai installato %1$s. Scaricare ed installare ora?\""</string>
     <string name="mibi_paytool_error_install">Errore nell\'installazione del plugin di sicurezza mobile %1$s</string>
@@ -458,10 +493,16 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_paytool_mipay">Mi Pay</string>
     <string name="mibi_paytool_msp_not_installed">Non hai installato il plugin di sicurezza mobile %1$s, installare ora?</string>
     <string name="mibi_paytool_paypal">PayPal</string>
+    <string name="mibi_paytool_tenpay">Tenpay</string>
     <string name="mibi_paytool_wechat_return_cancel">Annullamento ritorno WeChat</string>
     <string name="mibi_paytool_weixin">WeChat</string>
     <string name="mibi_permanently_denied_perm_camera">Consenti l\'uso della fotocamera in Impostazioni per utilizzare le funzionalità.</string>
     <string name="mibi_permanently_denied_perm_send_sms">Consenti l\'invio di SMS in Impostazioni per utilizzare le funzionalità.</string>
+    <string name="mibi_permission_des_camera">Utilizzato per OCR per identificare il numero di carta di ricarica del telefono cellulare, ecc.</string>
+    <string name="mibi_prepaid_card_hint">Tutte le ricariche sono ricariche una tantum, e il valore nominale selezionato deve essere coerente con la carta di ricarica. Una selezione errata comporterà una perdita di fondi.</string>
+    <string name="mibi_prepaid_card_hint_input_card_num">Inserisci il numero della carta</string>
+    <string name="mibi_prepaid_card_hint_input_pwd">Inserisci la password</string>
+    <string name="mibi_prepaid_card_info">Informazioni sulla Ricarica Carta</string>
     <string name="mibi_prepaid_card_order_info">%1$s carta di ricarica: RMB %2$s</string>
     <string name="mibi_prepaid_carriers_picker_hint">Seleziona operatore</string>
     <string name="mibi_prepaid_dialog_content">Eventuali perdite causate dalla discrepanza tra il numero della carta, il valore nominale, la password e le informazioni effettive sono a carico dell\'utente. Controllare due volte le informazioni fornite prima di procedere.</string>
@@ -474,15 +515,20 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_prepaid_error_password">Password carta non valida</string>
     <string name="mibi_prepaid_number_edit_hint">Numero</string>
     <string name="mibi_prepaid_password_edit_hint">Password</string>
+    <string name="mibi_prepaid_picker_hint_1_1">1.</string>
     <string name="mibi_prepaid_picker_hint_1_2">Supportato solo addebito una tantum;</string>
+    <string name="mibi_prepaid_picker_hint_2_1">2.</string>
     <string name="mibi_prepaid_picker_hint_2_2_a">"Il valore nominale selezionato deve essere coerente con quello della carta prepagata. La scelta di un altro valore invaliderà la carta. Questa azione non può essere annullata."</string>
     <string name="mibi_prepaid_picker_hint_2_2_b">Se il valore nominale della carta prepagata non lo è del &lt;font color=red&gt;￥%1$s&lt;/font&gt;, la carta verrà invalidata. Xiaomi non si riterrà responsabile per eventuali perdite monetarie che potrebbero verificarsi a seguito di un errore dell\'utente.</string>
+    <string name="mibi_prepaid_picker_hint_3_1">3.</string>
     <string name="mibi_prepaid_picker_hint_3_2">Inserisci il numero della carta, il valore nominale e la password. <b>Qualsiasi perdita causata dalla discrepanza tra le informazioni fornite e le informazioni effettive sarà a carico dell\'utente.</b></string>
     <string name="mibi_prepaid_picker_title_default">Seleziona ammontare</string>
     <string name="mibi_prepaid_picker_title_selected">Ammontare</string>
     <string name="mibi_privacy_license_name">Informativa sulla Privacy</string>
+    <string name="mibi_privacy_manage_revoke_agreement">Ritirare il consenso</string>
     <string name="mibi_privacy_manage_user_license">Accordo utente</string>
     <string name="mibi_privacy_policy">Informativa sulla Privacy</string>
+    <string name="mibi_privacy_setting">Impostazioni Privacy</string>
     <string name="mibi_privacy_tip_message">"Non puoi utilizzare i Mi Credits dopo aver revocato l'autorizzazione."</string>
     <string name="mibi_privacy_tip_title">Concedi prima le autorizzazioni</string>
     <string name="mibi_process_expired">"Dove stai andando? Questa operazione è scaduta"</string>
@@ -529,6 +575,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_recharge_grid_item_more">Altro</string>
     <string name="mibi_recharge_grid_mibi_picker_hint">Seleziona ammontare</string>
     <string name="mibi_recharge_grid_money_picker_hint">Seleziona ammontare</string>
+    <string name="mibi_recharge_input_amount_hint">Inserire l\'importo</string>
     <string name="mibi_recharge_label">Ricarica</string>
     <string name="mibi_recharge_mibi_title">Mi Credit</string>
     <string name="mibi_recharge_more_channels_title">Altro</string>
@@ -541,15 +588,50 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_recharge_value_money_special_unit">Acquista %1$s %2$s di Mi Coins</string>
     <string name="mibi_recharge_warn_text">"Non puoi pagare beni fisici usando Mi Credit."</string>
     <string name="mibi_return">Ritorna</string>
+    <string name="mibi_review_model_btn_entry">Entra in mod. Solo Visualizzazione</string>
+    <string name="mibi_review_model_btn_use">Prova il servizio Micoin</string>
     <string name="mibi_review_model_icon_1">Tema</string>
+    <string name="mibi_review_model_icon_2">Servizio Cloud</string>
     <string name="mibi_review_model_icon_3">Leggi</string>
     <string name="mibi_review_model_icon_4">Video</string>
     <string name="mibi_review_model_icon_5">Musica</string>
     <string name="mibi_review_model_icon_6">Gioco</string>
+    <string name="mibi_review_model_introduction_description">"Se non accetti l'Informativa sulla privacy, forniremo una modalità di sola visualizzazione. In questa modalità, mostreremo l'introduzione dei servizi Micoin correlati.
+
+In questa modalità, dobbiamo solo richiedere l'accesso a Internet e non raccogliere, memorizzare, condividere o utilizzare alcuna delle tue informazioni personali.
+
+Durante il processo di navigazione, se si desidera svolgere attività relative a Micoin, è necessario accettare le regole relative al trattamento dei dati personali. Tratteremo le tue informazioni personali secondo la tua autorizzazione e le disposizioni pertinenti delle leggi e dei regolamenti."</string>
+    <string name="mibi_review_model_introduction_title">Info sulla modalità solo visualizzazione</string>
+    <string name="mibi_review_model_mibi_function">MiCoin Gestione Ricarica Fondi Controlla Buono Regalo</string>
+    <string name="mibi_review_model_mibi_introduction">"MiCoin è un registratore di cassa aggregato per le aziende virtuali all'interno del gruppo Xiaomi. Supporta metodi di pagamento come Alipay, WeChat e Mi Wallet. Fornisce anche carte prepagate e prodotti di marketing come Mi Coin Card e MiCoin Gift Vouchers.
+
+Servizi forniti："</string>
+    <string name="mibi_review_model_tips">La modalità attuale è solo per visualizzazione, fare clic sul pulsante per provare il servizio Micoin.</string>
+    <string name="mibi_review_model_title">Modalità di visualizzazione</string>
+    <string name="mibi_review_model_use_tips">Prova il servizio Micoin</string>
+    <string name="mibi_revoke_agreement_failed_msg">Impossibile ritirare il consenso, si prega di riprovare</string>
+    <string name="mibi_revoke_agreement_msg">"Se ritiri il tuo consenso all'informativa sulla privacy dell'applicazione Mibibi, interromperemo la raccolta delle tue informazioni personali e cancelleremo le informazioni personali raccolte dall'app in conformità con la legge, a meno che altre leggi e regolamenti specificino il periodo di conservazione dei dati personali.
+Poiché la fornitura di servizi MiCoin si basa sulla raccolta delle informazioni personali necessarie, se si revoca il consenso, si riterrà che non accetti che continuiamo a fornirti servizi MiCoin e a rinunciare ai tuoi beni e diritti nell'app MiCoin. Causa una certa perdita e le informazioni personali non possono essere recuperate, si prega di scegliere con attenzione."</string>
+    <string name="mibi_revoke_agreement_title">Avvertenze di rischio</string>
+    <string name="mibi_revoke_service_failed_msg">Impossibile disconnettersi dal servizio, riprova</string>
+    <string name="mibi_revoke_service_msg">"Se si esce dal servizio MiCoin, interromperemo la raccolta delle tue informazioni personali e cancelleremo le informazioni personali raccolte dall'applicazione in conformità con la legge, ad eccezione di altre leggi e regolamenti che stabiliscono chiaramente il periodo di conservazione dei dati personali.
+Poiché la fornitura di servizi MiCoin si basa sulla raccolta di informazioni personali necessarie, se si annulla il servizio, sarai considerato in disaccordo sul fatto che continuiamo a fornirti servizi MiCoin e a rinunciare ai tuoi beni e diritti nell'app MiCoin. Causa una certa perdita e le informazioni personali non possono essere recuperate, si prega di scegliere attentamente."</string>
     <string name="mibi_scan_prompt_number">Scansionamento numero di carta prepagato %1$s</string>
     <string name="mibi_scan_prompt_password">Scansionamento password carta prepagata %1$s</string>
     <string name="mibi_scan_prompt_voucher">Scansionamento password Mi Credit</string>
     <string name="mibi_security_setting">Impostazioni</string>
+    <string name="mibi_setting_authorization_management">Gestione Autorizzazioni</string>
+    <string name="mibi_setting_cache_deleted_privacy">Il ritiro del consenso è stato completato e i dati locali sono stati cancellati</string>
+    <string name="mibi_setting_cache_deleted_service">Il servizio di disconnessione è stato completato e i dati locali sono stati cancellati.</string>
+    <string name="mibi_setting_cancel_revoke_agreement">Annulla Prelievo</string>
+    <string name="mibi_setting_cancel_revoke_service">Annulla Disconnessione</string>
+    <string name="mibi_setting_confirm_revoke_agreement">Conferma Prelievo</string>
+    <string name="mibi_setting_confirm_revoke_service">Conferma Disconnessione</string>
+    <string name="mibi_setting_perm_setting_dialog_confirm">Sì, lo so</string>
+    <string name="mibi_setting_perm_setting_dialog_msg">Le modifiche dei permessi MiCoin non sono supportate nelle versioni MIUI 10 e seguenti. Se è necessario modificare i permessi, si prega di aggiornare il sistema MIUI a MIUI 11 e versioni successive.</string>
+    <string name="mibi_setting_perm_setting_dialog_title">Impostazione suggerimenti</string>
+    <string name="mibi_setting_privacy_management">Gestione Informativa sulla Privacy</string>
+    <string name="mibi_setting_revoke_service">Cancellazione del servizio MiCoin</string>
     <string name="mibi_shurtcut_create_success">Posizionato su schermata Home</string>
     <string name="mibi_signing_pay_group_title">Seleziona un metodo di pagamento</string>
     <string name="mibi_signing_success_sub">Il rinnovo dei pagamenti verrà effettuato utilizzando %1$s</string>
@@ -557,6 +639,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_sms_code_empty">Inserisci il codice di verifica inviato al tuo telefono.</string>
     <string name="mibi_sms_code_error">Si è verificato un errore nel codice di verifica del telefono, riprova</string>
     <string name="mibi_sms_code_hint">Immetti codice di verifica a 6 cifre</string>
+    <string name="mibi_string_with_bracket">(%s)</string>
     <string name="mibi_summary_bind_phone">Per garantire la sicurezza del tuo account, completa il pagamento dopo aver abbinato il numero di telefono.</string>
     <string name="mibi_summary_custom_service_phone">Tel:</string>
     <string name="mibi_summary_sms_code">Immetti il codice di verifica inviato a %1$s，e quindi termina il pagamento</string>
@@ -577,6 +660,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_voucher_card_text">Si prega di grattare lo strato di vernice</string>
     <string name="mibi_voucher_error_password">Codice non valido.</string>
     <string name="mibi_voucher_input_password_prompt">Inserisci codice</string>
+    <string name="mibi_voucher_password">Password Carta Mi Coin</string>
     <string name="mibi_web_login">Accedi</string>
     <string name="mibi_web_login_app_description">Accedi con %1$s</string>
     <string name="mibi_web_login_description">Accedi</string>

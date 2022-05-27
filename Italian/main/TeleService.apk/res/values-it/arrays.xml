@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="absent_num">
+        <item>NUMERO ASSENTE</item>
+        <item>ABSENTNUMBER</item>
+    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animazione disattivata</item>
         <item>Scala animazione 0,5x</item>
@@ -140,6 +144,12 @@
         <item>Naturali</item>
         <item>Standard</item>
     </string-array>
+    <string-array name="config_rcs_provision_error_on_publish_response">
+        <item>404 non trovato</item>
+    </string-array>
+    <string-array name="config_volte_provision_error_on_publish_response">
+        <item>403 non autorizzato per la presenza</item>
+    </string-array>
     <string-array name="connect_disconnect_vibrate_entry_values">
         <item>100</item>
         <item>50</item>
@@ -155,6 +165,11 @@
         <item>Logcat</item>
         <item>Systrace (grafica)</item>
         <item>Stack di chiamate su glGetError</item>
+    </string-array>
+    <string-array name="enhanced_4g_lte_mode_title_variant">
+        <item>@string/enhanced_4g_lte_mode_title</item>
+        <item>Chiamata Avanzata</item>
+        <item>Chiamata 4G</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Non utilizzare mai la verifica HDCP</item>
@@ -323,6 +338,10 @@
         <item>Scala animazione 2x</item>
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
+    </string-array>
+    <string-array name="transport_types">
+        <item>UDP</item>
+        <item>TCP</item>
     </string-array>
     <string-array name="tts_demo_string_langs">
         <item>eng</item>

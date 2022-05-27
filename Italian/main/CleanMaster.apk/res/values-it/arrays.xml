@@ -9,6 +9,10 @@
         <item>Dimensione</item>
         <item>Nome</item>
     </string-array>
+    <string-array name="fast_hide_path">
+        <item>/DCIM</item>
+        <item>/Picture</item>
+    </string-array>
     <string-array name="installed_app_sort_type">
         <item>Utilizzati di frequente</item>
         <item>Dimensione</item>

@@ -12,6 +12,7 @@
     <string name="amazonanimals_preview">Foresta pluviale</string>
     <string name="android_ringtone_default_with_actual">Suoneria predefinita (%1$s)</string>
     <string name="android_ringtone_silent">Nessuno</string>
+    <string name="app_continuity_channel_name">Regolazione layout app</string>
     <string name="application_cannot_open_alipay_health_code">"Impossibile aprire il codice sanitario Alipay"</string>
     <string name="application_cannot_open_alipay_payment_code">"Impossibile aprire il codice di pagamento di Alipay"</string>
     <string name="application_cannot_open_alipay_scanner">"Impossibile aprire lo scanner di Alipay"</string>
@@ -154,6 +155,7 @@
     <string name="dewdrops">Rugiada mattutina</string>
     <string name="digitaluniverse">Universo digitale (stereo)</string>
     <string name="disable_nfc">Ricarica wireless in corso. NFC disattivato.</string>
+    <string name="disable_nfc_haptic_reverse">Disattivati NFC e vibrazione durante la ricarica wireless inversa</string>
     <string name="disable_nfc_reverse">Ricarica wireless inversa in corso. NFC disattivato.</string>
     <string name="dock_tip_floatwindow">Trascina la barra sul bordo dello schermo per entrare in mod. schermo diviso.</string>
     <string name="dock_tip_splitscreen_landscape_drag">Trascina orizzontalmente la barra per scambiare le posizioni delle finestre delle app.</string>
@@ -166,6 +168,7 @@
     <string name="enable_livetalk_title">Attiva il pacchetto ricarica</string>
     <string name="enable_midrop">Attiva</string>
     <string name="enable_nfc">Ricarica terminata. NFC è di nuovo attivo.</string>
+    <string name="enable_nfc_haptic_reverse">Ricarica inversa terminata. NFC e vibrazione di nuovo attivi.</string>
     <string name="enable_nfc_reverse">Ricarica inversa terminata. NFC è di nuovo attivo.</string>
     <string name="expect">Emozione</string>
     <string name="fadein">Fade in</string>
@@ -190,6 +193,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Non ora</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Attiva</string>
     <string name="fp_nav_center_action_choose_dlg_title">Attiva Tocco rapido</string>
+    <string name="freeform_exchange_tip">Apri finestra fluttuante in mod. schermo intero</string>
     <string name="frenchchic">Chic</string>
     <string name="frequent_email">E-mail usata di frequente</string>
     <string name="frequent_phrases">Frasi frequenti</string>
@@ -372,6 +376,11 @@
     <string name="relaunch_dialog_alwaysUsePrompt">Ricorda la mia scelta</string>
     <string name="relaunch_dialog_button_cancel">Annulla</string>
     <string name="relaunch_dialog_button_confirm">Riavvia adesso</string>
+    <string name="relaunch_dialog_message">Questa app può essere ridimensionata solo dopo un riavvio. Tutte le modifiche non salvate andranno perse se si riavvia l\'app ora. Riavviare comunque?</string>
+    <string name="relaunch_dialog_title">Riavviare \"%s\"?</string>
+    <string name="relaunch_fold_notification_content">Questa app potrebbe non essere visualizzata correttamente su questa schermata. Riavvia l\'applicazione per regolare il layout.</string>
+    <string name="relaunch_notification_title">Riavvia \"%s\"</string>
+    <string name="relaunch_unfold_notification_content">Questa app potrebbe non essere visualizzata correttamente su questa schermata. Riavvia l\'applicazione per regolare il layout.</string>
     <string name="remain">Rimanente: %s</string>
     <string name="replace">Sostituisci</string>
     <string name="resolver_app_recommend_flag">Consigliati</string>
@@ -381,6 +390,7 @@
     <string name="resolver_offical_recommend">Ufficiale</string>
     <string name="resolver_other_method">Altre opzioni</string>
     <string name="resolver_recommend_options_tag">Opzioni consigliate</string>
+    <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
     <string name="resource_select">Seleziona</string>
     <string name="reveries">Inversione (stereo)</string>
     <string name="robot">Robot</string>
@@ -388,8 +398,11 @@
     <string name="rog_phone">ROG</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">Telefono Samsung</string>
+    <string name="sc_notification_warning_content">"Se l'applicazione non viene visualizzata correttamente, è possibile ripristinare la visualizzazione predefinita o modificare le preferenze di visualizzazione dell'app nelle Impostazioni."</string>
     <string name="sc_notification_warning_restore">Ripristina</string>
     <string name="sc_notification_warning_settings">Impostazioni</string>
+    <string name="sc_notification_warning_title">Preferenze display app</string>
+    <string name="sc_relaunch_dialog_message">Questa app potrebbe non essere visualizzata correttamente su questa schermata. Riavvia l\'applicazione per regolare il layout.</string>
     <string name="scanning_device_tips">Ricerca dispositivi nelle vicinanze… Assicurati che l\'altro dispositivo sia in mod. rilevabile.</string>
     <string name="screen_button_notification_text">Per attivarli, premi contemporaneamente il tasto Home ed il tasto Accensione.</string>
     <string name="screen_button_notification_title">I tasti di navigazione sono disattivati</string>
@@ -511,6 +524,7 @@
     <string name="unknown_caller">Numero sconosciuto</string>
     <string name="unrecognized_manufacture">Sconosciuto</string>
     <string name="unrecognized_model">Dispositivo sconosciuto</string>
+    <string name="unreplace_freeform_count_max">"Impossibile aprire altre finestre fluttuanti"</string>
     <string name="user_authentication_failed">AUTENTICAZIONE FALLITA -29-</string>
     <string name="user_switching_dialog_switch_into_kid_space">Passaggio a Spazio bambino…</string>
     <string name="user_switching_dialog_switch_out_kid_space">Uscita da Spazio bambino…</string>

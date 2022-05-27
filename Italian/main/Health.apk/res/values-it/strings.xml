@@ -276,6 +276,7 @@ Se non vuoi sfruttare i consigli personalizzati, puoi comunque effettuare allena
     <string name="close_once">Disattiva una volta</string>
     <string name="close_stand_notice_and_detection_tip">Rilevamento e promemoria sono disattivati</string>
     <string name="collapse">Nascondi</string>
+    <string name="collect_diagnosis_log">Raccogli log diagnostici</string>
     <string name="complete_preference_basic_info">Completa il tuo profilo</string>
     <string name="complete_progress">Avanzamento</string>
     <string name="completed_stand">Sei stato abbastanza in piedi</string>
@@ -376,6 +377,10 @@ Se non vuoi sfruttare i consigli personalizzati, puoi comunque effettuare allena
     <string name="device_list_origin_description">"Questi dispositivi sono associati al Mi Account %1$s. Se non riesci a trovare il dispositivo, assicurati di averlo già aggiunto nell'app corrispondente."</string>
     <string name="device_off_sync_description">"I dati di salute generati su questo dispositivo non saranno sincronizzati con Xiaomi Health"</string>
     <string name="device_unbound_from_account">Questo dispositivo non è più associato al tuo account</string>
+    <string name="diagnosis_log_send_failed">Invio Log diagnostici fallito.</string>
+    <string name="diagnosis_log_sent_format">"I log diagnostici sono stati inviati.
+ID:%s
+Si prega di inviare questo codice al tecnico."</string>
     <string name="dialog_abandon">Ignora</string>
     <string name="dialog_abandon_sleep_edit">Vuoi annullare le modifiche?</string>
     <string name="dialog_account_perm_desc">Per accedere all\'account di sistema</string>
@@ -553,6 +558,7 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="for_diagnosis_usage_only">Usa queste informazioni solo per diagnosi.</string>
     <string name="forward_slash">/</string>
     <string name="free_training">Allenamento libero</string>
     <string name="freestyle">Stile Libero</string>
@@ -1190,6 +1196,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="tb_select_a_column">%1$s selezionato</string>
     <string name="tb_sleep_index_title">Passa a %1$s</string>
     <string name="tb_unmultiple_selecte_all">Deseleziona tutto</string>
+    <string name="temporary_not_available">temporaneamente non disponibile</string>
     <string name="text_no_value">--</string>
     <string name="text_save_exercise_goal">Fatto</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>

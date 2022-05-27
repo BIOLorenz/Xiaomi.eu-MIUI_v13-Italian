@@ -6,7 +6,9 @@
     <string name="dance">Dance</string>
     <string name="eq_dialog_title">Equalizzatore</string>
     <string name="flat">Piatto</string>
+    <string name="folk">Folk</string>
     <string name="headset_plug">Collega le cuffie per questi effetti.</string>
+    <string name="heavy_metal">Heavy Metal</string>
     <string name="hip_hop">Hip Hop</string>
     <string name="jazz">Jazz</string>
     <string name="no_effects">Effetti non disponibili.</string>

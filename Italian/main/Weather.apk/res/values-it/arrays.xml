@@ -8,6 +8,14 @@
         <item>Molto malsano</item>
         <item>Rischiosa</item>
     </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="aqi_value">
         <item>Normale</item>
         <item>Soddisfacente</item>
@@ -21,7 +29,7 @@
         <item>Pechino</item>
         <item>Shanghai</item>
         <item>Hong Kong</item>
-        <item>Taipei City</item>
+        <item>Taipei</item>
         <item>Giacarta</item>
         <item>Delhi</item>
         <item>Mumbai</item>

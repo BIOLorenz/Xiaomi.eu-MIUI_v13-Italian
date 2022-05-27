@@ -455,6 +455,7 @@
     <string name="composer_not_initialized">"Il compositore di vCard non si è avviato correttamente."</string>
     <string name="conference_call_disable_tip">"Impossibile effettuare chiamate. Assicurati che il tuo dispositivo sia connesso ad una rete 4G con supporto VoLTE."</string>
     <string name="config_export_file_extension">vcf</string>
+    <string name="config_export_vcard_type">v30_generic</string>
     <string name="confirm_call_log_dial_summary">Chiedi conferma prima di comporre dal registro chiamate per evitare chiamate accidentali.</string>
     <string name="confirm_call_log_dial_title">Conferma prima di comporre dal registro chiamate</string>
     <string name="confirm_delete_contact_all_call_logs">"Eliminare cronologia %s?"</string>
@@ -1061,6 +1062,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="permission_retry_setting">Impostazioni</string>
     <string name="permission_write_external_storage_desc">Per salvare i dati dell\'app</string>
     <string name="phoneLabelsGroup">Telefono</string>
+    <string name="phone_info_divider">" | "</string>
     <string name="phone_number_too_long_toast">Numero troppo lungo</string>
     <string name="phone_primary">Primario</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>
@@ -1470,6 +1472,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="unknown_contact_name">Contatto sconosciuto</string>
     <string name="unknown_details_add_to_contact">Esistente</string>
     <string name="unknown_details_new_contact">Nuovo</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">"Impossibile mostrare i codici QR durante l'utilizzo dello schermo diviso"</string>
     <string name="update_sim_contact_photo_toast">"Non è possibile impostare la foto per i contatti SIM"</string>
     <string name="upgrade_in_progress">Elenco contatti in fase di aggiornamento.</string>
     <string name="upgrade_out_of_memory">"Contatti in fase di aggiornamento. 
