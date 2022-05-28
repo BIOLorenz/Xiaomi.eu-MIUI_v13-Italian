@@ -28,7 +28,6 @@
     <string name="action_mode_select_all">Seleziona tutto</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="ad_download">Scarica</string>
-    <string name="add_one">(1)</string>
     <string name="add_private">Aggiungi file alle cartelle nascoste</string>
     <string name="add_private_files">Aggiungi file</string>
     <string name="added_category">Aggiunto</string>
@@ -231,7 +230,6 @@
     <string name="dialog_type_image">Immagini</string>
     <string name="dialog_type_text">Documenti</string>
     <string name="dialog_type_video">Video</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="disk_available">Disponibile:</string>
     <string name="disk_total">Totale:</string>
     <string name="display_setting">Elementi visualizzati</string>
