@@ -233,8 +233,8 @@
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="game_booster">Turbo videogiochi</string>
-    <string name="gamebooster_network_dialog_message">Consentire all\'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzionalità di Turbo Videogiochi?</string>
-    <string name="gamebooster_network_dialog_message_pad">Consentire all\'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzionalità di Turbo Videogiochi?</string>
+    <string name="gamebooster_network_dialog_message">Consentire all\'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzionalità di Game Turbo?</string>
+    <string name="gamebooster_network_dialog_message_pad">Consentire all\'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzionalità di Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Alcune funzionalità non sono disponibili"</string>
     <string name="gamebox_no_network_btn">Ricarica</string>
     <string name="gb_adv_touch_adv_title">Mod. classica (predefinita)</string>

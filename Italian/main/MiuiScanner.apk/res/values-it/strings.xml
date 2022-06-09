@@ -633,7 +633,7 @@
     <string name="picture_confirm">Determina</string>
     <string name="picture_data_exception">Ottenere l\'eccezione dati album…</string>
     <string name="picture_data_null">Nessun dato qui…</string>
-    <string name="picture_default_original_image">Apri il file originale</string>
+    <string name="picture_default_original_image">Originale</string>
     <string name="picture_done">Completo</string>
     <string name="picture_done_front_num">%1$d/%2$d Ok</string>
     <string name="picture_editor">Modifica</string>

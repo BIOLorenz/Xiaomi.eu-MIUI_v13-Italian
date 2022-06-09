@@ -328,5 +328,6 @@
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="wifi_region">Regione Wi-Fi</string>
     <string name="yesterday">Ieri</string>
 </resources>

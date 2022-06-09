@@ -316,6 +316,7 @@ Selezione"</string>
     <string name="change_pin_confirm_pin_header">Conferma il PIN</string>
     <string name="change_pin_confirm_pins_dont_match">"I PIN non corrispondono"</string>
     <string name="change_pin_continue_label">Continua</string>
+    <string name="change_pin_enter_new_pin_header">Imposta un nuovo PIN</string>
     <string name="change_pin_ok_label">Ok</string>
     <string name="character_counter_content_description">Caratteri inseriti %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
@@ -401,9 +402,13 @@ Selezione"</string>
     <string name="close_dialog">OK</string>
     <string name="close_profile">Chiudi</string>
     <string name="config_default_data_sim">Impostazioni</string>
+    <string name="config_simUnlockUiClass">\@null</string>
+    <string name="config_simUnlockUiPackage">\@null</string>
+    <string name="confirmPinLabel">Conferma il nuovo PIN</string>
     <string name="confirm_enable_oem_unlock_text">AVVISO. Le funzioni di protezione del dispositivo non funzionano su questo dispositivo se questa impostazione è attiva.</string>
     <string name="confirm_enable_oem_unlock_title">Consentire lo sblocco OEM?</string>
     <string name="confirm_password_label">Conferma nuova password</string>
+    <string name="confirm_pin_label">Conferma il nuovo PIN</string>
     <string name="connect_disconnect_vibrate_none">Nessuno</string>
     <string name="connect_disconnect_vibrate_normal">Normale</string>
     <string name="connect_disconnect_vibrate_weak">Leggero</string>
@@ -469,6 +474,7 @@ Selezione"</string>
     <string name="default_preference_summary_domain_address">&lt;Non impostato&gt;</string>
     <string name="default_preference_summary_password">&lt;Non impostato&gt;</string>
     <string name="default_preference_summary_username">&lt;Non impostato&gt;</string>
+    <string name="default_transport">UDP</string>
     <string name="delete">Elimina</string>
     <string name="delete_blob_confirmation_text">Eliminare i dati condivisi?</string>
     <string name="delete_blob_text">Elimina dati condivisi</string>
@@ -580,6 +586,7 @@ Selezione"</string>
     <string name="error_icon_content_description">Errore</string>
     <string name="esim_goto_active">Attiva</string>
     <string name="evening">Pomeriggio</string>
+    <string name="exception_error">Errore di rete o SIM.</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a discesa</string>
     <string name="external_source_trusted">Autorizzate</string>
@@ -589,6 +596,7 @@ Selezione"</string>
     <string name="fiveg_power_switch_summary">Ridurre il consumo di energia della rete 5G in determinati scenari</string>
     <string name="fiveg_power_switch_title">Risparmio Batteria 5G</string>
     <string name="fiveg_sa_switch_open_dialog_title">Attenzione</string>
+    <string name="fiveg_sa_vice_switch_title">SA su SIM secondaria</string>
     <string name="fiveg_switch_per_slot_title">5G</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">d</string>
@@ -970,6 +978,7 @@ Selezione"</string>
     <string name="other_settings_categorys">Funzionalità aggiuntive</string>
     <string name="overlay_display_devices_title">Simula display secondari</string>
     <string name="overseas_roaming_setting">Roaming dati</string>
+    <string name="password">Password</string>
     <string name="password_changed">Password modificata</string>
     <string name="password_title">Password</string>
     <string name="password_toggle_content_description">Mostra password</string>
@@ -992,6 +1001,7 @@ Il tuo telefono verrà bloccato automaticamente dopo un altro tentativo fallito"
     <string name="ping_test_label">Esegui test ping</string>
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Overlay schermo che mostra i dati touch correnti</string>
+    <string name="port">Porta</string>
     <string name="port_title">Numero porta</string>
     <string name="power_charging_duration">%1$s - %2$s rimanenti fino al completamento</string>
     <string name="power_charging_limited">%1$s - Ricarica temporaneamente limitata</string>
@@ -1080,8 +1090,12 @@ Il tuo telefono verrà bloccato automaticamente dopo un altro tentativo fallito"
     <string name="private_dns_mode_provider_failure">"Connessione fallita"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci il nome host del provider DNS</string>
     <string name="private_num">Numero privato</string>
+    <string name="process_kernel_label">Sistema operativo Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Spegni e riaccendi il dispositivo</string>
     <string name="profile_info_settings_title">Informazioni profilo</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
+    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="puk_lock_warning">"
 La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="quick_dial_setting_title">Chiamata rapida</string>
@@ -1226,6 +1240,7 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="sip_system_decide">Automatico</string>
     <string name="smart_dual_sim_prompt">Il dispositivo si connetterà a una rete dati mobile utilizzando la SIM secondaria se la connettività attuale è scarsa. Questo potrebbe generare costi aggiuntivi. Imposta un limite di utilizzo dei dati per evitare costi aggiuntivi.</string>
     <string name="smart_dual_sim_prompt_ok">Impostazioni</string>
+    <string name="smart_dual_sim_title">Smart dual SIM</string>
     <string name="smart_multinetwork_acceleration_title">Accelerazione della rete smart</string>
     <string name="sms_messages_title">SMS</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
@@ -1478,6 +1493,9 @@ Qualsiasi utente può aggiornare le app per tutti gli altri."</string>
     <string name="wifi_call_accept">Accetta</string>
     <string name="wifi_call_cancel">Maggior informazioni</string>
     <string name="wifi_call_help">Guida</string>
+    <string name="wifi_call_setting_vodafone_de">Chiamate Wi-Fi</string>
+    <string name="wifi_calling">Chiamate Wi-Fi</string>
+    <string name="wifi_calling_settings_title">Chiamate Wi-Fi</string>
     <string name="wifi_cant_connect">"Impossibile connettersi"</string>
     <string name="wifi_cant_connect_to_ap">"Impossibile connettersi a \"%1$s\""</string>
     <string name="wifi_check_password_try_again">Controlla la password e riprova</string>

@@ -36,6 +36,10 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">Trovati %d risultati</item>
+        <item quantity="one">Trovato %d risultato</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>

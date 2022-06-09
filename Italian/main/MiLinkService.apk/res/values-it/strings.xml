@@ -397,7 +397,7 @@ Se devi attivare Miracast, premi il pulsante [MENU] e seleziona Le mie app &gt; 
     <string name="notify_wifiap_dialog_msg">Per scansionare il codice e configurare la rete, disattivare l\'hotspot.</string>
     <string name="notify_wifiap_dialog_negative">Ok</string>
     <string name="notify_wifiap_dialog_title">Configura rete</string>
-    <string name="open_game_accelerate">Attiva Turbo Videogiochi</string>
+    <string name="open_game_accelerate">Attiva Game Turbo</string>
     <string name="p2p_location_des">Per collegare il dispositivo a monitor esterni</string>
     <string name="paipai_connect_btn_text">Fatto</string>
     <string name="paipai_connect_tv1_text">Connesso al dispositivo</string>
@@ -488,7 +488,7 @@ Leggi e accetta il nostro &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a hr
     <string name="screen_projection_example_document_title">Documenti</string>
     <string name="screen_projection_example_gallery_summary">Tocca il pulsante Condividi sotto un elemento nella Galleria per visualizzarlo su un monitor esterno.</string>
     <string name="screen_projection_example_gallery_title">Foto e Video</string>
-    <string name="screen_projection_example_game_summary">Turbo Videogiochi ti permette di eseguire giochi su un monitor esterno. Usa il collegamento nella Barra Rapida per attivare questa funzione.</string>
+    <string name="screen_projection_example_game_summary">Game Turbo ti permette di eseguire giochi su un monitor esterno. Usa il collegamento nella Barra Rapida per attivare questa funzione.</string>
     <string name="screen_projection_example_game_title">Giochi</string>
     <string name="screen_projection_help">Guida</string>
     <string name="screen_projection_sample_summary">Proiezione di documenti, giochi, foto e video</string>

@@ -312,6 +312,10 @@
         <item quantity="other">%d agente di attendibilità attivo</item>
         <item quantity="one">1 agente di attendibilità attivo</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Al massimo %d processi</item>
+        <item quantity="one">Al massimo %d processo</item>
+    </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d app hanno utilizzato la memoria nelle ultime %2$s</item>
         <item quantity="one">1 app ha utilizzato la memoria nelle ultime %2$s</item>
@@ -495,6 +499,14 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d app possono mostrare le notifiche</item>
         <item quantity="one">%d app può mostrare le notifiche</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bit/campione</item>
+        <item quantity="one">%d bit/campione</item>
+    </plurals>
+    <plurals name="string_int">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
     </plurals>
     <plurals name="string_int_hour">
         <item quantity="other">%d ore</item>

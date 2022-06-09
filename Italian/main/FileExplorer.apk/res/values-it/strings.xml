@@ -28,6 +28,7 @@
     <string name="action_mode_select_all">Seleziona tutto</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="ad_download">Scarica</string>
+    <string name="add_one">(1)</string>
     <string name="add_private">Rendi i file privati</string>
     <string name="add_private_files">Aggiungi file</string>
     <string name="added_category">Aggiunto</string>
@@ -227,6 +228,7 @@
     <string name="dialog_type_image">Immagini</string>
     <string name="dialog_type_text">Documenti</string>
     <string name="dialog_type_video">Video</string>
+    <string name="directory_info_divider">"  |  "</string>
     <string name="disk_available">Disponibile:</string>
     <string name="disk_total">Totale:</string>
     <string name="display_setting">Elementi visualizzati</string>
@@ -287,6 +289,7 @@
     <string name="exposed_dropdown_menu_content_description">Mostra menu a tendina</string>
     <string name="extended_storage_file_can_not_open">"Impossibile aprire il file. Copiarlo nella memoria interna."</string>
     <string name="extract">Estrai</string>
+    <string name="fab_menu_ball">Azioni rapide</string>
     <string name="fab_menu_sort">Ordinamento note</string>
     <string name="fail_to_create_folder_unknown">"Impossibile creare la cartella a causa di un errore sconosciuto."</string>
     <string name="failed_not_access_sd_card">Prima concedi l\'accesso alla scheda SD</string>
@@ -898,6 +901,7 @@
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="wifi_state">Stato Wi-Fi</string>
     <string name="withdraw">Revoca</string>
     <string name="withdraw_consent">Revoca autorizzazione...</string>
     <string name="withdraw_consent_content">"Se continui, ritirerai il tuo consenso all'Informativa sulla privacy di Gestore File. Le informazioni personali già raccolte e conservate saranno cancellate entro un determinato periodo in conformità delle disposizioni legislative e regolamentari applicabili, salvo altrimenti disposto. Come Gestore File fornisce i propri servizi basati sulla raccolta delle informazioni personali necessarie, il vostro ritiro del consenso sarà considerato come rifiuto di accettare i servizi di Gestore File."</string>

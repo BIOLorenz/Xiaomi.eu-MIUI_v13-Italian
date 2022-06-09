@@ -567,6 +567,7 @@ per mostrare i widget."</string>
     <string name="pa_setting_privacy_perm_install_app">Accedi alla lista delle app installate su questo dispositivo</string>
     <string name="pa_setting_privacy_perm_install_app_desc">Per fornire suggerimenti app</string>
     <string name="pa_setting_privacy_perm_location">Accesso alla posizione</string>
+    <string name="pa_setting_privacy_perm_location_desc">Per calcolare la classifica regionale delle piste sciistiche</string>
     <string name="pa_setting_privacy_perm_not_granted">Non concesso</string>
     <string name="pa_setting_privacy_perm_storage">Accesso alla memoria</string>
     <string name="pa_setting_privacy_policy">Informativa sulla Privacy</string>

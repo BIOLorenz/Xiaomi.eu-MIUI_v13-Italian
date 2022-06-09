@@ -439,11 +439,11 @@
     <string name="beauty_makeups_yuanqi">Fresco</string>
     <string name="beauty_mo_fe">Naturali</string>
     <string name="beauty_mo_ma">Classico</string>
-    <string name="beauty_mo_or">Apri il file originale</string>
+    <string name="beauty_mo_or">Originale</string>
     <string name="beauty_mo_pr">xxx</string>
     <string name="beauty_mode_reset_toast">Effetto Rimodellazione rimosso</string>
     <string name="beauty_mutex_toast_tip">&lt;a href=&gt;Disattiva&lt;/a&gt; prima gli effetti di trucco</string>
-    <string name="beauty_ne">Apri il file originale</string>
+    <string name="beauty_ne">Originale</string>
     <string name="beauty_no_t">Bellezza disattivata</string>
     <string name="beauty_origin_skincolor">Originale</string>
     <string name="beauty_reset">Azzera</string>
@@ -1413,7 +1413,7 @@ più grandi nelle foto"</string>
     <string name="portait_effect_entry_mood">Emozioni</string>
     <string name="portait_effect_entry_movie">Film</string>
     <string name="portait_effect_entry_nature">Natura</string>
-    <string name="portait_effect_entry_original">Apri il file originale</string>
+    <string name="portait_effect_entry_original">Originale</string>
     <string name="portait_effect_entry_oxygen">Ossigeno</string>
     <string name="portait_effect_entry_pink">Arrossamento</string>
     <string name="portait_effect_entry_pink_orange">Agrumi</string>
@@ -1652,10 +1652,14 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_iso_entry_iso800">800</string>
     <string name="pref_camera_iso_title">ISO</string>
     <string name="pref_camera_iso_title_abbr">ISO</string>
+    <string name="pref_camera_iso_value_iso1600">1600</string>
+    <string name="pref_camera_iso_value_iso3200">3200</string>
+    <string name="pref_camera_iso_value_iso800">800</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_low">Bassa</string>
     <string name="pref_camera_jpegquality_entry_normal">Normale</string>
     <string name="pref_camera_jpegquality_title">Qualità</string>
+    <string name="pref_camera_jpegquality_value_normal">normale</string>
     <string name="pref_camera_live_sticker_internal_title">Strumenti magici</string>
     <string name="pref_camera_long_press_shutter_feature_title">Tieni premuto il tasto di scatto</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Scatto continuo</string>
@@ -1916,7 +1920,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_video_ai_audio_effect_comparation_3d">3D</string>
     <string name="pref_video_ai_audio_effect_comparation_3d_i">Suono 3D</string>
     <string name="pref_video_ai_audio_effect_comparation_3d_ii">Demo</string>
-    <string name="pref_video_ai_audio_effect_comparation_3d_original">Apri il file originale</string>
+    <string name="pref_video_ai_audio_effect_comparation_3d_original">Originale</string>
     <string name="pref_video_ai_audio_single">Audio frontale</string>
     <string name="pref_video_captrue_ability_title">Cattura immagini durante la registrazione</string>
     <string name="pref_video_capture_repeating_title">Scatta foto durante la registrazione video</string>

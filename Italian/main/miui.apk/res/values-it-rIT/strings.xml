@@ -263,6 +263,7 @@
     <string name="note">Nota</string>
     <string name="organization">Organizzazione</string>
     <string name="perm_payment_dspt">Consente all\'applicazione di pagare tramite il servizio Mi Pay</string>
+    <string name="perm_payment_lab">Mi Pay</string>
     <string name="permdesc_sendSmsNoConfirmation">L\'applicazione può inviare SMS senza chiederti il permesso. Il tuo operatore potrebbe addebitarti il costo dei messaggi.</string>
     <string name="permlab_sendSmsNoConfirmation">Consenti gli SMS in backgroud</string>
     <string name="phone">Telefono</string>

@@ -427,7 +427,7 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="permission_call_state_introduction">Per accedere allo stato del telefono, registrare le chiamate e mettere in pausa le registrazioni durante le chiamate in arrivo</string>
     <string name="permission_clock_info_introduction">Per salvare i dati delle sveglie</string>
     <string name="permission_contact">Accesso ai contatti:</string>
-    <string name="permission_contact_describe">Accedi ai contatti</string>
+    <string name="permission_contact_describe">Accesso ai contatti</string>
     <string name="permission_contact_describe_MIUIDaemon_summary">Per verificare la tua identità.</string>
     <string name="permission_contact_describe_bluetooth_summary">Per consentire agli altri dispositivi compatibili che si connettono a questo dispositivo di accedere ai contatti. Questo accadrà solo quando attiverai il Bluetooth o modificherai i tuoi contatti mentre il Bluetooth è attivo.</string>
     <string name="permission_contact_describe_desktop_summary">Per utilizzare la funzione Contatto di Emergenza nella schermata Home in modalità Lite e visualizzare le notifiche di conversazione;</string>

@@ -3,6 +3,8 @@
     <string name="BookTitleDisplayName">Titolo del libro</string>
     <string name="DefaultParagraphFontDisplayName">Carattere paragrafo predefinito</string>
     <string name="EmphasisDisplayName">Enfasi</string>
+    <string name="FontAsian">SimSun</string>
+    <string name="FontLatin">Times New Roman</string>
     <string name="Heading1DisplayName">Titolo 1</string>
     <string name="Heading2DisplayName">Titolo 2</string>
     <string name="Heading3DisplayName">Titolo 3</string>
@@ -133,6 +135,7 @@
     <string name="filter">Blocco intelligente</string>
     <string name="func_extract_sheet">Estrai</string>
     <string name="func_output_as_pic">Immagine</string>
+    <string name="func_pdf_to_word">Word</string>
     <string name="func_smart_typography">Disposizione intelligente</string>
     <string name="func_translate_title">Traduci l\'intero documento</string>
     <string name="help_send_editing_file">Invia %s per aiutare lo sviluppatore a individuare il problema.</string>
@@ -323,6 +326,7 @@
     <string name="reader_writer_table_edit_add_row">aggiungi riga</string>
     <string name="search_menu_title">Cerca</string>
     <string name="ss_card_mode_filter_title_text">Seleziona gli elementi da visualizzare</string>
+    <string name="wps_lite_app_svn">svn</string>
     <string name="wps_lite_xiaomi_app_packageName">Documenti Mi (Fornito da WPS)</string>
     <string name="writer_characters">Caratteri (senza spazi)</string>
     <string name="writer_characters_with_spaces">Caratteri (con spazi)</string>
@@ -343,6 +347,7 @@
     <string name="writer_mi_search_prev">Indietro</string>
     <string name="writer_mi_server_support">Servizio Documenti Wps Office</string>
     <string name="writer_page_break">Interruzione di pagina</string>
+    <string name="writer_page_setting_units"> cm</string>
     <string name="writer_page_setting_units_inch">pollici</string>
     <string name="writer_paragraph_set_firstlineindent" formatted="false">Rientro prima riga: %.2f%2$s</string>
     <string name="writer_paragraph_set_hangingindent" formatted="false">Rientro in sospensione: %.2f%2$s</string>

@@ -626,6 +626,7 @@
     <string name="note_sort_way">Ordinamento note</string>
     <string name="notealert_enter">Controlla</string>
     <string name="notealert_ok">Rifiuta</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">"Note è un'app di sistema. Non potrai utilizzare questa app dopo averla disinstallata."</string>
     <string name="notes_description_title">Disinstallare Note?</string>
     <string name="notification_content_add_todo_from_other_app">Hai aggiunto una nuova attività. Tocca per vederla.</string>
@@ -700,7 +701,7 @@
     <string name="pref_excerpt_link_float">Ricevi un promemoria per creare un estratto ogni volta che viene copiato un URL</string>
     <string name="pref_permission_allowed">Concesso</string>
     <string name="pref_permission_manage">Dettagli permessi</string>
-    <string name="pref_permission_manage_key_contact">Accedi ai contatti</string>
+    <string name="pref_permission_manage_key_contact">Accesso ai contatti</string>
     <string name="pref_permission_manage_key_recording">Registra audio</string>
     <string name="pref_permission_manage_key_storage">Accesso alla memoria</string>
     <string name="pref_permission_not_allowed">Non concesso</string>

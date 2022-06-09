@@ -135,6 +135,7 @@
     <string name="change_time">Cambia sfondo</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d di %2$d</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -454,13 +455,26 @@ Invia questo codice al supervisore."</string>
     <string name="lks_cta_summary1">Carosello sfondi offre le seguenti caratteristiche:</string>
     <string name="lks_cta_summary2">"1. Sfondi aggiornati automaticamente&lt;br&gt;2. Immagini e storie applicate alla schermata di blocco&lt;br&gt;3. Opzioni di personalizzazione&lt;br&gt;Questa funzione deve connettersi a Internet per funzionare normalmente.&lt;br&gt;&lt;br&gt;Per fornire servizi aggiuntivi, potremmo chiedere l'autorizzazione per accedere e salvare gli elementi nella memoria di questo dispositivo. Leggi e accetta il nostro &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Accordo utente&lt;/font&gt;&lt;/a&gt; e &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Informativa sulla privacy&lt;/font&gt;&lt;/a&gt; prima di continuare."</string>
     <string name="lks_cta_title">Termini e condizioni</string>
+    <string name="lks_dislike">"Non mi piace"</string>
     <string name="lks_left_net_deny">La connessione di rete è limitata</string>
     <string name="lks_left_net_error">"Impossibile connettersi alla rete."</string>
     <string name="lks_left_top_notice">Tocca qui per tornare in cima</string>
     <string name="lks_left_top_notice_refresh">Tocca per vedere nuovi elementi</string>
     <string name="lks_logo_desc2">Nuovi sfondi giornalieri</string>
     <string name="lks_logo_desc_search">Nuovi sfondi giornalieri</string>
+    <string name="lks_loop_icon_ask_cancle">Annulla</string>
+    <string name="lks_loop_icon_ask_ok">Attiva</string>
+    <string name="lks_loop_icon_ask_title">Diapositive schermata di blocco</string>
+    <string name="lks_loop_icon_close_cancle">Annulla</string>
+    <string name="lks_loop_icon_close_ok">OK</string>
+    <string name="lks_loop_icon_close_title">Attenzione</string>
+    <string name="lks_loop_icon_dlg_title">Diapositive schermata di blocco</string>
+    <string name="lks_loop_icon_open_ok">Ok</string>
+    <string name="lks_no_network">"Impossibile connettersi alla rete"</string>
+    <string name="lks_please_reload">Ricarica</string>
+    <string name="lks_retry">Riprova</string>
     <string name="lks_subscription_toast">Sfondo cambiato con successo</string>
+    <string name="lks_to_history">Cronologia</string>
     <string name="llks_add_cate">Iscriviti a %s</string>
     <string name="llks_auto_switch_wp">Iscriviti alle categorie che ti piacciono</string>
     <string name="llks_display_error">Permessi richiesti</string>

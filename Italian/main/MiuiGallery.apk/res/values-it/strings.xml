@@ -981,6 +981,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="face_name_edit">Modifica</string>
     <string name="face_name_input">Inserisci il nome</string>
     <string name="face_recommend">Consigliati</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">"Operazione fallita"</string>
     <string name="fail_to_pick_email">Email selezionata non valida</string>
     <string name="fail_to_sync_album">"Impossibile sincronizzare l'album con il server. Verifica la connessione di rete."</string>
@@ -1068,7 +1069,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="filter_portrait_mist">Nebbia</string>
     <string name="filter_portrait_painting">Dipinto</string>
     <string name="filter_portrait_pink_orange">Agrumi</string>
-    <string name="filter_portrait_protist">Apri il file originale</string>
+    <string name="filter_portrait_protist">Originale</string>
     <string name="filter_sky_clear_sky">Cielo chiaro</string>
     <string name="filter_sky_cloudy">Nuvoloso</string>
     <string name="filter_sky_cumulus">Cumuli</string>
@@ -1199,6 +1200,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="grant_permission_go_and_set">Imposta</string>
     <string name="grant_permission_go_and_set_2">Impostazioni</string>
     <string name="grant_permission_go_and_set_3">Impostazioni</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">Permessi richiesti</string>
     <string name="grant_permission_manage_storage_unlock">Sblocca il dispositivo e consente a questa app di accedere a tutti i file per poter visualizzare gli elementi.</string>
     <string name="grant_permission_shortcut">Consenti a questa app di creare collegamenti sulla schermata Home.</string>
@@ -1877,7 +1879,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="permission_contacts_desc">Per assegnare i contatti alle persone sulle foto</string>
     <string name="permission_contacts_desc_2">Per associare persone sulle foto con contatti</string>
     <string name="permission_contacts_name">Contatti</string>
-    <string name="permission_contacts_name_2">Accedi ai contatti</string>
+    <string name="permission_contacts_name_2">Accesso ai contatti</string>
     <string name="permission_custom_cta_network_button_negative">"Non accetto"</string>
     <string name="permission_custom_cta_network_button_positive">Accetto</string>
     <string name="permission_custom_cta_network_title">Attenzione</string>
@@ -1913,7 +1915,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="photo_editor_crop_size_free">Personalizza</string>
     <string name="photo_editor_crop_size_fullscreen">Schermo intero</string>
     <string name="photo_editor_crop_size_movie" formatted="false">%1.2f:%d</string>
-    <string name="photo_editor_crop_size_origin">Apri il file originale</string>
+    <string name="photo_editor_crop_size_origin">Originale</string>
     <string name="photo_editor_doodle">Disegna</string>
     <string name="photo_editor_filter">Blocco intelligente</string>
     <string name="photo_editor_font_default">&gt;Mi Lanting (Normale)</string>

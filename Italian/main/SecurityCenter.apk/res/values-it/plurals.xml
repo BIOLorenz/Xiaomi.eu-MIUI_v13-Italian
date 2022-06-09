@@ -840,6 +840,10 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">%d numeri</item>
         <item quantity="one">%d numero</item>
     </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;%s&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt; frammenti</item>
+        <item quantity="one">&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;%s&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt; frammento</item>
+    </plurals>
     <plurals name="summary_absorbed_time_foramt">
         <item quantity="other">Attiva la mod. Focus per %d minuti</item>
         <item quantity="one">Attiva la mod. Focus per %d minuto</item>

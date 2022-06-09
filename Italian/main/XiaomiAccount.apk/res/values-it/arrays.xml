@@ -39,11 +39,6 @@
         <item>Gestisci i dispositivi associati al tuo Mi Account</item>
         <item>Gestisci dispositivi;I miei dispositivi;Dispositivi;Elenco dispositivi;Account Mi</item>
     </string-array>
-    <string-array name="settings_search_payment_information">
-        <item>Informazioni di pagamento</item>
-        <item>Visualizza e gestisci le informazioni di pagamento</item>
-        <item>Pagamento;Pagamento;Metodo di pagamento;Mi Account;Account</item>
-    </string-array>
     <string-array name="settings_search_privacy_policy">
         <item>Informativa sulla Privacy</item>
         <item>Informativa sulla Privacy Mi Account</item>

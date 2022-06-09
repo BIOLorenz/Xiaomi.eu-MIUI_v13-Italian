@@ -285,7 +285,7 @@ Se non vuoi sfruttare i consigli personalizzati, puoi comunque effettuare allena
 %2$s| %3$s"</string>
     <string name="contact_permission_desc">Per impostare contatti di emergenza</string>
     <string name="contact_permission_subtitle">Per impostare contatti di emergenza</string>
-    <string name="contact_permission_title">Accedi ai contatti</string>
+    <string name="contact_permission_title">Accesso ai contatti</string>
     <string name="copy">Copia</string>
     <string name="copy_done">Copiato con successo</string>
     <string name="course_consume_unit">kcal</string>
