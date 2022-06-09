@@ -318,7 +318,7 @@
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">"hh"</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
     <string name="fmt_time_24hour">"HH"</string>
@@ -405,6 +405,7 @@
     <string name="menu_create_folder">Nuova cartella</string>
     <string name="menu_delete">Elimina</string>
     <string name="menu_delete_forever">Elimina in modo permanente</string>
+    <string name="menu_edit">Modifica</string>
     <string name="menu_folders">Cartelle</string>
     <string name="menu_group">Crea una cartella</string>
     <string name="menu_hide">Nascondi</string>
@@ -585,7 +586,7 @@
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
-    <string name="mtrl_picker_text_input_day_abbr">dd</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla mod. di inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>
@@ -620,10 +621,12 @@
     <string name="note_mindnote_entrance_hint_newversion">"Inizia a digitare "</string>
     <string name="note_mindnote_entrance_icon_text">Crea una mappa mentale</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Crea una mappa mentale</string>
+    <string name="note_module_name">Note</string>
     <string name="note_not_text_stub">Nessun testo</string>
     <string name="note_sort_way">Ordinamento note</string>
     <string name="notealert_enter">Controlla</string>
     <string name="notealert_ok">Rifiuta</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">"Note è un'app di sistema. Non potrai utilizzare questa app dopo averla disinstallata."</string>
     <string name="notes_description_title">Disinstallare Note?</string>
     <string name="notification_content_add_todo_from_other_app">Hai aggiunto una nuova attività. Tocca per vederla.</string>
@@ -784,8 +787,9 @@
     <string name="setting_big_screen_layout_columns">Barra laterale</string>
     <string name="setting_big_screen_layout_flat">Riquadri</string>
     <string name="setting_big_screen_layout_title">Layout schermo grande</string>
+    <string name="setting_cloud_service">Scansione online</string>
     <string name="setting_layout">Disposizione</string>
-    <string name="setting_micloud_sync_title">Sincronizza con il Cloud</string>
+    <string name="setting_micloud_sync_title">Mi Cloud</string>
     <string name="setting_note_list_layout_title">Disposizione</string>
     <string name="setting_other">ALTRO</string>
     <string name="setting_privacy">Informativa sulla Privacy</string>
@@ -1029,6 +1033,7 @@ Consenti di registrare audio."</string>
     <string name="view_all_notes">Mostra tutto</string>
     <string name="warn_cannot_add_new_bullet">"Impossibile aggiungere un nuovo elenco puntato perché la nota è troppo lunga"</string>
     <string name="warn_cannot_add_new_checkbox">"Impossibile aggiungere una nuova casella di controllo perché la nota è troppo lunga"</string>
+    <string name="warn_cannot_add_new_content">"Impossibile aggiungere nuovi contenuti perché la nota è troppo lunga"</string>
     <string name="warn_cannot_add_new_doodle">"Impossibile aggiungere un nuovo scarabocchio perché la nota è troppo lunga"</string>
     <string name="warn_cannot_add_new_element">"Impossibile aggiungere un nuovo elemento perché la nota è troppo lunga"</string>
     <string name="warn_cannot_add_new_link_card">"Impossibile aggiungere un nuovo link perché la nota è troppo lunga"</string>
@@ -1055,6 +1060,8 @@ Consenti di registrare audio."</string>
     <string name="widget_size_item_big">Largo</string>
     <string name="widget_size_item_medium">Media</string>
     <string name="widget_size_item_small">Piccolo</string>
+    <string name="widget_size_item_super_big">Molto grande</string>
+    <string name="widget_size_not_support">"I widget extra large non sono supportati su questo dispositivo"</string>
     <string name="widget_take_notes_title">Note</string>
     <string name="yesterday">Ieri</string>
 </resources>

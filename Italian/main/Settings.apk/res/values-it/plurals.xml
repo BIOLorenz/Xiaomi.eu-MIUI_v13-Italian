@@ -496,6 +496,18 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
         <item quantity="other">%d app possono mostrare le notifiche</item>
         <item quantity="one">%d app può mostrare le notifiche</item>
     </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d ora</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d secondi</item>
+        <item quantity="one">%d secondo</item>
+    </plurals>
     <plurals name="suggestions_collapsed_summary">
         <item quantity="other">+%1$d suggerimenti</item>
         <item quantity="one">+1 suggerimento</item>

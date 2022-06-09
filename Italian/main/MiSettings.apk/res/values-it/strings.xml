@@ -983,7 +983,7 @@ Questa app deve collegarsi a internet e richiede le seguenti autorizzazioni per 
     <string name="usage_state_wednesday">Mer</string>
     <string name="usage_state_week_day_hour_minute">Weekend: %1$do %2$dm</string>
     <string name="usage_state_week_total_text">Schermo attivo (ultimi 7 giorni)</string>
-    <string name="usage_state_which_mouth">MM</string>
+    <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">Infrasettimanale</string>
     <string name="usage_state_work_day_hour_minute">Infrasettimanale: %1$do %2$dm</string>
     <string name="usage_stats_device_limit">Limite giornaliero di utilizzo</string>

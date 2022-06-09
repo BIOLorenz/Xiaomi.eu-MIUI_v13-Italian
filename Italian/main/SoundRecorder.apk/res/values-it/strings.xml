@@ -396,7 +396,7 @@
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
-    <string name="mtrl_picker_text_input_day_abbr">dd</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla mod. di inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>

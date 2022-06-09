@@ -260,6 +260,14 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Registrato %d giorni di seguito</item>
         <item quantity="one">Registrato %d volta</item>
     </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d ora</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Ho capito (%ds)</item>
         <item quantity="one">Ho capito (%ds)</item>

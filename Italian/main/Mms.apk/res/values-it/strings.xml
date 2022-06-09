@@ -395,13 +395,16 @@ aggiunti alla lista blocchi"</string>
     <string name="favorite_at_time">Aggiunto ai preferiti alle: %1s</string>
     <string name="fdn_check_failure">Puoi inviare messaggi solo ai numeri memorizzati.</string>
     <string name="feature_mx">Messaggi Mi</string>
+    <string name="feature_mx_summary"><b>Mi Message ti permette di inviare messaggi ad altri utenti Mi Message tramite internet e senza costi</b>. Per attivare questo servizio è necessario l\'invio di un SMS. Il tuo corriere ti addebiterà questo messaggio. Leggi e accetti il nostro <font color="#B3000000"><a href="http://url1">Accordo utente</a></font> e <font color="#B3000000"><a href="http://url2">Informativa sulla privacy</a></font> prima di utilizzare questa funzione.</string>
     <string name="feature_smart_sms">Messaggi smart</string>
+    <string name="feature_smart_sms_summary"><b>Messaggi Smart fornisce riconoscimento ID mittente e menu smart</b>\". Messaggi Smart è fornito in parte da Yulore. Leggi e accetta \"<font color="#B3000000"><a href="http://url3">Informativa sulla Privacy</a></font> di Yulore prima di utilizzare questa funzionalità.</string>
     <string name="festival_sms_loading">Caricamento…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Creato alle:</string>
     <string name="file_size">Dimensione:</string>
     <string name="file_title">Nome:</string>
     <string name="file_width_height">Dimensione:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -457,6 +460,7 @@ aggiunti alla lista blocchi"</string>
     <string name="ft_cfs_dialog_title">Trasferimento file alternativo</string>
     <string name="go_close">Impostazioni</string>
     <string name="go_to">Vai a</string>
+    <string name="google_message_promo_content">Xiaomi consiglia di passare a Messaggi di Google. Installala ora per ottenere la condivisione di foto di alta qualità, chat Wi-Fi e altro ancora. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Maggiori Informazioni</a></font></string>
     <string name="google_message_promo_title">Aggiorna la tua app di messaggistica</string>
     <string name="group_already_kicked_hint">"Impossibile inviare messaggi. Non sei un membro di questa chat di gruppo."</string>
     <string name="group_member_is_composing">Scrivendo…</string>
@@ -626,7 +630,10 @@ Controlla la tua SIM."</string>
 Questo messaggio potrebbe non essere apprezzato."</string>
     <string name="mms_block_hint_highlight">Blocca MMS</string>
     <string name="mms_main_purpose">"Per accedere alla funzionalità completa del messaggio, attiva Mi Message e Messaggi Smart."</string>
+    <string name="mms_mi_message_main_purpose">Benvenuto su Mi Message! È necessario un SMS in uscita per attivare Mi Message. Il tuo operatore potrebbe addebitarti questo messaggio.</string>
+    <string name="mms_mi_message_request_notice">Vogliamo che tu ottenga il massimo da Mi Message.</string>
     <string name="mms_mx_privacy_policy">Informativa sulla Privacy Mi Message</string>
+    <string name="mms_smart_msg_main_purpose">Messaggi Smart può riconoscere gli ID del mittente, fornire menu smart e identificare messaggi sospetti.</string>
     <string name="mms_smart_msg_privacy_policy">Informativa sulla privacy Messaggi Smart</string>
     <string name="mms_title">Messaggi</string>
     <string name="mms_user_agreement">Accordo utente</string>
@@ -814,6 +821,9 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="pick_too_many_recipients">Troppi destinatari</string>
     <string name="play">Riproduci</string>
     <string name="playing_failed">"Impossibile riprodurre"</string>
+    <string name="prefDefault_vibrateWhen">never</string>
+    <string name="prefDefault_vibrate_false">never</string>
+    <string name="prefDefault_vibrate_true">always</string>
     <string name="pref_advanced_settings_title">Altre impostazioni</string>
     <string name="pref_allow_network_access_summary">Attiva per ricevere le ultime informazioni sulla consegna ed altri servizi.</string>
     <string name="pref_cell_broadcast">Trasmissioni cella</string>
@@ -1346,6 +1356,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="system_permission_declare_privacy_declare">%1s deve raccogliere i tuoi dati e richiede i seguenti permessi per funzionare correttamente:</string>
     <string name="system_permission_declare_privacy_declare_new">Questa applicazione deve collegarsi ad internet e richiede le seguenti autorizzazioni per essere in grado di funzionare correttamente:</string>
     <string name="system_permission_declare_privacy_link">Per comprendere appieno i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro %1s.</string>
+    <string name="system_permission_declare_rcs">Benvenuto in Messaggi 5G!</string>
     <string name="system_permission_declare_revoke_path">Puoi revocare la tua autorizzazione e disattivare i servizi nelle impostazioni di Messaggi.</string>
     <string name="system_permission_declare_single_link">Leggi e accetta i nostri %1s prima di usare questa funzione.</string>
     <string name="system_permission_declare_smart_message">Benvenuto in Messaggi Smart!</string>
@@ -1383,6 +1394,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="system_permission_perm_write_mms">Consenti ai Messaggi di scrivere MMS</string>
     <string name="system_permission_perm_write_sms">Consenti ai Messaggi di scrivere SMS</string>
     <string name="system_permission_requested">Chiedi</string>
+    <string name="system_permission_user_privacy">Prima di continuare, leggere e accettare i seguenti termini e condizioni.</string>
     <string name="tab_finance">Finanza</string>
     <string name="tab_message">SMS</string>
     <string name="tab_promotions">Promozioni</string>
@@ -1462,6 +1474,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="toast_not_show_email_perm_req">Consenti ai Messaggi di accedere alla tua email per utilizzare questa funzione</string>
     <string name="toast_not_show_location_perm_req">Consenti ai Messaggi di accedere alla tua posizione per utilizzare questa funzione</string>
     <string name="toast_not_show_microphone_perm_req">Consenti a Messaggi di utilizzare il microfono per poter utilizzare questa funzione</string>
+    <string name="toast_not_show_read_mms_perm_req">Per poter visualizzare i messaggi ricevuti, è necessario dare il permesso di messaggistica per leggere SMS e MMS. È possibile concedere questa autorizzazione in Impostazioni.</string>
     <string name="toast_not_show_send_sms_perm_req">Per essere in grado di utilizzare questa funzione, consentire a questa app di inviare messaggi.</string>
     <string name="toast_not_show_storage_perm_req">Consenti a Messaggi di accedere alla memoria per poter utilizzare questa funzione</string>
     <string name="toast_not_show_write_contacts_perm_req">Consenti ai Messaggi di modificare i contatti per utilizzare questa funzione</string>
@@ -1519,6 +1532,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="voice_report_anytime">Sempre</string>
     <string name="voice_report_off">Spenta</string>
     <string name="voice_report_wiredon">Con cuffie</string>
+    <string name="wap_push_title">"[WAP Push] "</string>
     <string name="warning_show">Invio tra %ds</string>
     <string name="web_content_invalid_hint">La visualizzazione di questo articolo è limitata dalle leggi e dai regolamenti locali</string>
     <string name="wednesday">Mercoledì</string>
@@ -1526,6 +1540,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="wednesday_shortest">Mer</string>
     <string name="wild_msg_processing">Elaborazione…</string>
     <string name="wild_msg_title">Attiva sincronizzazione cloud</string>
+    <string name="xiaomi_account_service_retry_main_purpose">I servizi Mi Account devono essere attivati perché questa funzione funzioni normalmente. È possibile attivare i servizi Mi Account in Impostazioni &gt; Gestione applicazioni.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Annulla</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ok</string>
     <string name="xiaomi_market_sdk_update_dialog_title">%s nuova versione</string>

@@ -398,10 +398,6 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="icloud_need_wifi_title">E\' richiesta una rete Wi-Fi</string>
     <string name="import_again">Importa di nuovo</string>
     <string name="import_data_from_icloud">Importa dati da iCloud</string>
-    <string name="import_from_xiaomi_account_hint1">"\"1.\u0009Installa Mi Talk ed accedi.
-\u0009http://www.miliao.com
-
-2.\u0009Entra nelle impostazioni di Mi Talk e seleziona \"Backup contatti sul tuo Mi Account\""</string>
     <string name="import_from_xiaomi_account_hint2">Nota: Vai al prossimo punto se il backup è già esistente</string>
     <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk per il backup dei contatti su dispositivi di altre marche</string>
     <string name="import_tip_summary">Per ragioni di compatibilità, sono supportati solo Contatti e Foto. Devi prima caricare i dati dei vecchi dispositivi su iCloud.</string>
@@ -1110,6 +1106,8 @@ Non uscire da quea pagina finché non è stata stabilita una connessione."</stri
     <string name="wifi_title">Impostazioni Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">"Connessione Download Manager fallita, controlla lo stato del Download Manager nella Gestione Applicazioni."</string>
     <string name="xiaomi_external_storage_unavailable">"Memoria non disponibile, verifica la scheda SD."</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s

@@ -539,7 +539,9 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
     <string name="cit_tool_to_fetching">per recuperare</string>
     <string name="cit_tool_wlan">Test Wi-Fi</string>
     <string name="cit_tool_wlan_chain_1_2">1+2</string>
+    <string name="cit_tool_wlan_clear">cancella</string>
     <string name="cit_tool_wlan_exit">Esci</string>
+    <string name="cit_tool_wlan_export">Esporta</string>
     <string name="cit_tool_wlan_rx_ap">Rx: AP</string>
     <string name="cit_tool_wlan_rx_ap_name">MT</string>
     <string name="cit_tool_wlan_rx_chan">Rx: Canale</string>

@@ -71,6 +71,7 @@
     <string name="access_control_password_title">Blocco app</string>
     <string name="access_control_recording_intro_header">Disegna una sequenza di sblocco:</string>
     <string name="access_control_reset_by_account">Accedi col tuo Mi Account per reimpostare la password</string>
+    <string name="access_denied_info">Troppi tentativi. Attendi e riprova.</string>
     <string name="access_point_names">Nome punto accesso</string>
     <string name="accessibility_audio_adjustment_title">Regolazione dell\'audio</string>
     <string name="accessibility_autoclick_custom_title">Personalizza</string>
@@ -629,7 +630,6 @@ Se questa autorizzazione è disattivata, gli avvisi esistenti e gli eventi basat
     <string name="angle_enabled_app">Seleziona app ANGLE abilitate</string>
     <string name="angle_enabled_app_not_set">Nessuna applicazione ANGLE impostata</string>
     <string name="angle_enabled_app_set">Applicazione abilitata ANGLE: %1$s</string>
-    <string name="animation_off">Animazione disattivata</string>
     <string name="animator_duration_scale_title">Scala durata animatore</string>
     <string name="another_migration_already_in_progress">E\' già in corso un\'altra migrazione.</string>
     <string name="anti_spam">Blacklist</string>
@@ -2072,6 +2072,7 @@ Questa funzione può essere disattivata in [Settings]</string>
     <string name="codec_low_latency_video_summary">Fornisci un\'esperienza audio a bassa latenza per giochi e video, rendendo la sincronizzazione del suono e delle immagini più naturale.</string>
     <string name="codec_low_latency_zmi_summary">Riduci il ritardo audio e migliora gli effetti sonori dei giochi automaticamente</string>
     <string name="codec_low_latency_zmi_title">Bassa latenza per i giochi</string>
+    <string name="collect_diagnosis_log">Raccogli log diagnostici</string>
     <string name="color_black">Nero</string>
     <string name="color_blue">Blu</string>
     <string name="color_calibration_none">Questo dispositivo</string>
@@ -2171,6 +2172,7 @@ Questa funzione può essere disattivata in [Settings]</string>
     <string name="condition_hotspot_title">Hotspot attivo</string>
     <string name="condition_night_display_summary">Lo schermo diventa di colore ambra. Potrebbe aiutarti a prendere sonno.</string>
     <string name="condition_night_display_title">Luce Notturna attivata</string>
+    <string name="condition_summary">%1$d</string>
     <string name="condition_turn_off">Disattiva</string>
     <string name="condition_turn_on">Attiva</string>
     <string name="condition_work_summary">App, sincronizzazione background ed altre funzionalità relative al tuo profilo di lavoro sono disattivate.</string>
@@ -2412,6 +2414,10 @@ Per continuare a usare il dispositivo devi effettuare un ripristino dei dati di 
     <string name="dark_color_mode">Mod. scura</string>
     <string name="dark_color_summary_lcd">"Usa tavolozza colori più scura per sfondi di sistema e applicazioni compatibili. La mod. scura può aiutarti ad alleviare la vista quando stai usando il tuo dispositivo al buio."</string>
     <string name="dark_color_summary_oled">Usa tavolozza colori più scura per sfondi di sistema e applicazioni compatibili. La mod. scura riduce il consumo di energia e aiuta ad alleviare la vista.</string>
+    <string name="dark_mode_alert_dialog_cancel">Annulla</string>
+    <string name="dark_mode_alert_dialog_checkbox">"Non mostrare più"</string>
+    <string name="dark_mode_alert_dialog_confirm">Attiva</string>
+    <string name="dark_mode_alert_dialog_title">Attenzione</string>
     <string name="dark_mode_apps_header">App singole</string>
     <string name="dark_mode_auto_time_summary">Attiva e disattiva la mod. scura all\'orario programmato</string>
     <string name="dark_mode_auto_time_title">Personalizza</string>
@@ -2769,6 +2775,10 @@ avviso</string>
     <string name="device_total_memory">"Memoria totale"</string>
     <string name="device_usage_list_summary">Utilizzo dispositivo dall\'ultima carica completa</string>
     <string name="devices_title">Dispositivi</string>
+    <string name="diagnosis_log_send_failed">Invio Log diagnostici fallito.</string>
+    <string name="diagnosis_log_sent_format">"I log diagnostici sono stati inviati.
+ID:%s
+Si prega di inviare questo codice al tecnico."</string>
     <string name="dial_application_title">Chiama</string>
     <string name="dial_pad_tones_title">Toni al tocco del tastierino</string>
     <string name="dialog_background_check_message">"Il telefono non può gestire normalmente la batteria perché %1$s continua a mantenere attivo il telefono.
@@ -2827,6 +2837,7 @@ Se il problema continua a verificarsi, potrebbe essere necessario disinstallare 
     <string name="dialog_wifi_context">Devi connetterti a internet per configurare il tuo dispositivo. A meno che non ti connetti al Wi-Fi, potrebbero essere utilizzati i dati. L\'utilizzo di dati potrebbe generare costi aggiuntivi. Utilizzare comunque i dati?</string>
     <string name="dialog_wifi_title">Utilizzo dati rete mobile</string>
     <string name="dialog_yes">Sì</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: dopo un reboot, questa app non può avviarsi finché non sblocchi il telefono"</string>
     <string name="disableNetwork">Disattiva rete</string>
     <string name="disable_overlays">Disabilita overlay HW</string>
@@ -3556,7 +3567,6 @@ Per maggiori dettagli contatta l'amministratore."</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
-    <string name="fold_game_adaptation">Giochi</string>
     <string name="fold_rule_default">Consigliato</string>
     <string name="fold_rule_important">Importante</string>
     <string name="fold_rule_unimportant">Non importante</string>
@@ -3591,6 +3601,7 @@ Sembrava che ci fosse né cavalli né animali di qualsiasi genere; gli uomini po
     <string name="font_size_summary1">"
 Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
     <string name="font_size_summary2">Mod. semplificata</string>
+    <string name="for_diagnosis_usage_only">Usa queste informazioni solo per diagnosi.</string>
     <string name="forbidden_network">(vietato)</string>
     <string name="forbidden_switch_apn_string">"Le impostazioni APN selezionate non coincidono con il tipo di rete in uso"</string>
     <string name="force_allow_on_external">Forza app su archivio esterno</string>
@@ -3602,6 +3613,7 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
     <string name="force_immersive_compatibility_hint_message">Alcune app potrebbero non lavorare propriamente se decidi di nascondere i tasti virtuali.</string>
     <string name="force_immersive_compatibility_hint_title">Problemi di compatibilità</string>
     <string name="force_msaa">Forza 4x MSAA</string>
+    <string name="force_msaa_new">Forza MSAA 4x</string>
     <string name="force_msaa_summary">Abilita 4x MSAA su app OpenGL ES 2.0</string>
     <string name="force_resizable_activities">Forza attività di ridimensionamento</string>
     <string name="force_resizable_activities_summary">Rendi tutte le attività multi finestra ridimensionabili, indipendentemente dai loro valori di manifest.</string>
@@ -4187,6 +4199,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
     <string name="keyguard_advance_setting_title">Impostazioni avanzate</string>
     <string name="keyguard_security_setting_others">Altri</string>
     <string name="keyguard_security_setting_privacy_policy">Informativa sulla Privacy</string>
+    <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
     <string name="keywords_accessibility">Facilità d\'uso, facilità d\'accesso, assistenza, assistenza</string>
     <string name="keywords_accounts">account</string>
     <string name="keywords_adb_wireless">ADB, debug, sviluppatori</string>
@@ -4959,6 +4972,7 @@ Ci sono altri utenti presenti su questo dispositivo.
     <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
     <string name="memory_usage">Memoria occupata</string>
     <string name="memory_usage_apps">Memoria usata dalle app</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">%1$s di memoria usati in media nelle ultime 3 ore</string>
     <string name="memorycard_calculating">Calcolo…</string>
     <string name="menu_cancel">Ignora</string>
@@ -5472,7 +5486,7 @@ ed esegui il software.</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
-    <string name="mtrl_picker_text_input_day_abbr">dd</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla mod. di inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>
@@ -5587,6 +5601,7 @@ ed esegui il software.</string>
     <string name="network_detail">Dettagli rete %s</string>
     <string name="network_disconnected">Disconnesso</string>
     <string name="network_error">Errore rete</string>
+    <string name="network_error_info">Si è verificato un errore di rete. Controlla le impostazioni di rete e riprova.</string>
     <string name="network_global">Globale</string>
     <string name="network_id">ID rete</string>
     <string name="network_lte">LTE (consigliato)</string>
@@ -5611,6 +5626,7 @@ ed esegui il software.</string>
     <string name="network_speed_for_apps_title">Connessione</string>
     <string name="network_speed_for_apps_total">Velocità di connessione</string>
     <string name="network_state_label">Stato rete:</string>
+    <string name="network_timeout_info">"Impossibile connettersi alla rete. Riprova."</string>
     <string name="network_world_mode_cdma_lte">LTE / CDMA</string>
     <string name="network_world_mode_gsm_lte">LTE / GSM / UMTS</string>
     <string name="networkid_label">ID rete:</string>
@@ -5936,6 +5952,7 @@ Questo darà anche all'app la possibilità di attivare o disattivare la funzione
     <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Non disponibile su dispositivi bloccati dall\'operatore</string>
     <string name="oem_unlock_enable_summary">Permetti lo sblocco del bootloader</string>
     <string name="off">Spenta</string>
+    <string name="ok">OK</string>
     <string name="ok_rules">Fatto</string>
     <string name="okay">OK</string>
     <string name="oldman_app_label">Mod. semplificata</string>
@@ -6009,6 +6026,7 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
     <string name="overlay_settings_title">Consenti sovrapposizioni dello schermo nelle impostazioni</string>
     <string name="overlay_toast_failed_to_apply">Applicazione dell\'overlay non riuscita</string>
     <string name="owner_info_settings_edit_text_hint">Testo da visualizzare sulla Schermata di blocco</string>
+    <string name="owner_info_settings_status">%1$d di %2$d</string>
     <string name="owner_info_settings_summary">Nessuno</string>
     <string name="owner_info_settings_title">Info proprietario</string>
     <string name="owner_space">Primo spazio</string>
@@ -6471,6 +6489,8 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="privileged_action_disable_sub_dialog_title">Disattivare %1$s?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">Disattivare la SIM?</string>
     <string name="process_dex2oat_label">Ottimizzazione app</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">Sistema operativo Android</string>
     <string name="process_mediaserver_label">Server media</string>
     <string name="process_provider_in_use_description">Il provider %1$s è in uso.</string>
     <string name="process_service_in_use_description">Il servizio %1$s è in uso.</string>
@@ -6498,6 +6518,7 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="progress_dialog_speaker_auto_clean_button">Interrompi</string>
     <string name="progress_dialog_speaker_auto_clean_title">Pulizia altoparlante…</string>
     <string name="progress_scanning">Ricerca</string>
+    <string name="progressbar_title">Verifica falle di sicurezza…</string>
     <string name="promote_conversation_summary">Aggiungi alla sezione conversazioni</string>
     <string name="promote_conversation_title">Questa è una conversazione</string>
     <string name="provider_internet_settings">Internet</string>
@@ -6518,11 +6539,14 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="proxy_error_invalid_exclusion_list">L\'elenco di eccezioni digitato non è nel formato corretto. Digita un elenco di domini esclusi separati da virgole.</string>
     <string name="proxy_error_invalid_host">Il nome host specificato non è valido.</string>
     <string name="proxy_error_invalid_port">La porta specificata non è valida.</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_exclusionlist_label">Ignora per</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_hostname_label">Nome Host</string>
     <string name="proxy_port_label">Porta</string>
     <string name="proxy_settings_label">Impostazioni proxy</string>
     <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="proxy_url_title">"PAC URL: "</string>
     <string name="proxy_warning_limited_support">Il proxy HTTP viene utilizzato dal browser ma potrebbe non essere utilizzato da altre applicazioni.</string>
     <string name="qtifeedback_settings_subtitle">Qualcomm Technologies Reporting</string>
@@ -7416,6 +7440,8 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
     <string name="select_webview_provider_title">Implementazione WebView</string>
     <string name="select_webview_provider_toast_text">Questa scelta choice non è più valida. Riprova.</string>
     <string name="send">Invia</string>
+    <string name="send_diagnosis_log">Invio log di diagnosi</string>
+    <string name="sending">Invio in corso...</string>
     <string name="sensors_off_quick_settings_title">Sensori disattivati</string>
     <string name="service_background_processes">%1$s liberi</string>
     <string name="service_foreground_processes">%1$s usati</string>
@@ -7808,6 +7834,10 @@ Se non accetti di concedere tali permessi, non sarai in grado di utilizzare alcu
     <string name="speed_label_slow">Lento</string>
     <string name="speed_label_very_fast">Molto veloce</string>
     <string name="speed_label_very_slow">Molto lento</string>
+    <string name="speed_mode">Mod. Prestazioni</string>
+    <string name="speed_mode_noti_summary">Il dispositivo si riscalderà e consumerà più batteria</string>
+    <string name="speed_mode_noti_title">Passato a Mod. Prestazioni</string>
+    <string name="speed_mode_summary">Priorità alle prestazioni rispetto al consumo energetico e al controllo della temperatura</string>
     <string name="spell_checker_master_switch_title">Utilizza il correttore ortografico</string>
     <string name="spell_checker_not_selected">Non selezionato</string>
     <string name="spell_checker_primary_switch_title">Utilizza il correttore ortografico</string>
@@ -8066,10 +8096,6 @@ Prova ad utilizzare una ^3 più veloce, o usa questa ^4 come memoria portatile"<
     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Ottimizzato per qualità audio (%dkbps)</string>
     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Miglior Resa (Bitrate automatico)</string>
     <string name="string_immediately">Immediatamente</string>
-    <string name="string_int_hour">%d ora</string>
-    <string name="string_int_hours">%d ore</string>
-    <string name="string_int_minutes">%d minuti</string>
-    <string name="string_int_seconds">%d secondi</string>
     <string name="string_never">Mai</string>
     <string name="string_off">Spenta</string>
     <string name="string_offed">Spenta</string>
@@ -8239,6 +8265,7 @@ L\'approccio di Google alla sincronizzazione di dati per consentirti l\'accesso 
     <string name="system_dashboard_summary">Lingue, orario, backup, aggiornamenti</string>
     <string name="system_default_app">(Predefinito di sistema)</string>
     <string name="system_default_app_subtext">Predefinito di sistema</string>
+    <string name="system_error_info">Il sistema è occupato. Aspetta un minuto o due e riprova.</string>
     <string name="system_haptic_feedback">Vibrazione al tocco</string>
     <string name="system_navigation_title">Navigazione di sistema</string>
     <string name="system_package">Impossibile installare aggiornamenti di sistema su supporti esterni.</string>
@@ -8255,6 +8282,7 @@ L\'approccio di Google alla sincronizzazione di dati per consentirti l\'accesso 
     <string name="tap_to_sign_up">Tocca per iscriverti</string>
     <string name="tap_to_wake">Tocca per riattivare</string>
     <string name="tap_to_wake_summary">Tocca due volte un punto qualsiasi dello schermo per riattivare il dispositivo</string>
+    <string name="temporary_not_available">temporaneamente non disponibile</string>
     <string name="terms_title">Termini e condizioni</string>
     <string name="testing">Verifica…</string>
     <string name="testing_phone_info">Informazioni</string>
@@ -8522,6 +8550,7 @@ L\'approccio di Google alla sincronizzazione di dati per consentirti l\'accesso 
     <string name="uninstall_xspace_app_dlg_title">Disinstallare le app clonate?</string>
     <string name="unknown">Sconosciuto</string>
     <string name="unknown_app">App sconosciuta</string>
+    <string name="unknown_error_info">Errore sconosciuto</string>
     <string name="unknown_unavailability_setting_summary">Impostazione non disponibile</string>
     <string name="unlock_change_lock_password_title">Cambia password di sblocco</string>
     <string name="unlock_change_lock_pattern_title">Cambia sequenza di sblocco</string>
@@ -8665,7 +8694,7 @@ La disattivazione di questa funzione non influisce sulla capacità del dispositi
     <string name="usage_state_wednesday">Mer</string>
     <string name="usage_state_week_day_hour_minute">Weekend: %1$do %2$dm</string>
     <string name="usage_state_week_total_text">Schermo attivo (ultimi 7 giorni)</string>
-    <string name="usage_state_which_mouth">MM</string>
+    <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">Infrasettimanale</string>
     <string name="usage_state_work_day_hour_minute">Infrasettimanale: %1$do %2$dm</string>
     <string name="usage_stats_label">Statistiche di utilizzo</string>
@@ -9108,7 +9137,6 @@ Durante una chiamata vocale, non è possibile utilizzare Internet e alcune app p
     <string name="wallpaper_desktop">Schermata Home</string>
     <string name="wallpaper_live">Sfondo animato</string>
     <string name="wallpaper_lockscreen">Schemata di blocco</string>
-    <string name="wallpaper_setting_title">Sfondo</string>
     <string name="wallpaper_settings_fragment_title">Scegli sfondo da</string>
     <string name="wallpaper_settings_summary_custom">Personalizza</string>
     <string name="wallpaper_settings_summary_default">Predefinita</string>

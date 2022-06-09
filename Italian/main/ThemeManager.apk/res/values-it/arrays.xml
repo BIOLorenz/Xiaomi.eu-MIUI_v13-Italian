@@ -3,4 +3,13 @@
     <string-array name="disable_package_replacement">
         <item>disabilita nome pacchetto</item>
     </string-array>
+    <string-array name="exo_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>@string/exo_controls_playback_speed_normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
 </resources>

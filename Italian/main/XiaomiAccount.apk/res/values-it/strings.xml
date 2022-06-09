@@ -418,6 +418,7 @@ Invia questo codice ai tecnici."</string>
     <string name="mi_finance">Le mie finanze</string>
     <string name="mi_finance_info">Bonus per nuovi utenti</string>
     <string name="mi_health">Xiaomi Salute</string>
+    <string name="mi_member">Xiaomi Community</string>
     <string name="mi_vip_info">Mostra privilegi</string>
     <string name="midnight">Notte</string>
     <string name="mipay">Paga</string>
@@ -784,6 +785,7 @@ Invia questo codice ai tecnici."</string>
     <string name="permission_withdraw">Revoca</string>
     <string name="permission_write_external_storage">Accedi e salva gli oggetti nella memoria</string>
     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
+    <string name="phone_register">Usa il numero di telefono</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_policy_update_title">Informativa sulla privacy aggiornata</string>

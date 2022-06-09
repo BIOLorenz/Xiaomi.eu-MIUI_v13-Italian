@@ -252,6 +252,8 @@ dd/MM"</string>
     <string name="midnight">Notte</string>
     <string name="mini_time">Orologio piccolo</string>
     <string name="minimalist_clock">Orologio semplice</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -266,6 +268,8 @@ dd/MM"</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -341,7 +345,7 @@ dd/MM"</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
-    <string name="mtrl_picker_text_input_day_abbr">dd</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a mod. inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa a mod. inserimento testo</string>
@@ -384,7 +388,7 @@ dd/MM"</string>
     <string name="select_notification_notify_style">Seleziona effetto notifica</string>
     <string name="send">Invia</string>
     <string name="share">Condividi</string>
-    <string name="share_to_community">Condividi su Mi Community</string>
+    <string name="share_to_community">Condividi su Xiaomi Community</string>
     <string name="show_battery">Mostra stato batteria</string>
     <string name="show_battery_status">Mostra stato batteria</string>
     <string name="show_lunar">Mostra calendario cinese tradizionale</string>
@@ -425,7 +429,7 @@ wonderful is about to happen"</string>
  i termini e le condizioni di Salute per continuare.</string>
     <string name="step_component_info_desc">Il conteggio dei passi si trasformerà in un trofeo quando il tuo obiettivo sarà raggiunto. Il conteggio dei passi è fornito da Xiaomi Health.</string>
     <string name="step_component_info_tip">Il conteggio dei passi è fornito da Xiaomi Health. Installa o aggiorna Xiaomi Health e accetta i termini e le condizioni per continuare.</string>
-    <string name="step_to_image_community">Trova altri in Mi Community</string>
+    <string name="step_to_image_community">Trova altro in Xiaomi Community</string>
     <string name="summary">"Per ridurre il consumo di energia, gli elementi non verranno visualizzati quando il dispositivo si trova al buio per molto tempo."</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>

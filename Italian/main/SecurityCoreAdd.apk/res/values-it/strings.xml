@@ -38,6 +38,7 @@ questa funzionalità verrà aggiunta automaticamente al Secondo Spazio."</string
     <string name="air_space_exit">Esci dallo spazio</string>
     <string name="air_space_setting">Impostazioni spazio</string>
     <string name="airspace_users_full">"Non è possibile creare altri spazi di lavoro"</string>
+    <string name="alwaysUsePrompt">Ricorda la mia scelta</string>
     <string name="appData">App di terze parti</string>
     <string name="app_name">Componente di Sicurezza di Sistema</string>
     <string name="back">Indietro</string>
@@ -398,6 +399,7 @@ Puoi anche scaricarle separatamente."</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
     <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
@@ -776,6 +778,7 @@ Alcune applicazioni clonate richiedono il supporto di Google Services Framework 
     <string name="xspace_guide_description">"Ogni account
 merita la propria app"</string>
     <string name="xspace_guide_title">Prova le App Clonate</string>
+    <string name="xspace_head">App clonate</string>
     <string name="xspace_header">App clonate</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font&gt;App clonata con successo. &lt;/font&gt;&lt;font color=#0D84FF&gt;Aprila ora&lt;/font&gt;.</string>
@@ -791,6 +794,7 @@ merita la propria app"</string>
     <string name="xspace_notification_error">Accedi al WeChat Clonato e riprova</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">"Eliminazione account app clonate"</string>
+    <string name="xspace_resolver_activity_title">Seleziona app</string>
     <string name="xspace_setting_label">Impostazioni app clonate</string>
     <string name="xspace_settins">Imposta</string>
     <string name="xspace_start">Crea</string>

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="pa_covid_items_default">
+        <item>COVID-19</item>
+        <item>Codice sanitario</item>
+        <item>PCR</item>
+        <item>Zone ad alto rischio</item>
+    </string-array>
     <string-array name="pa_day_time_space">
         <item></item>
         <item></item>

@@ -437,7 +437,7 @@
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
-    <string name="mtrl_picker_text_input_day_abbr">dd</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a mod. inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa a mod. inserimento testo</string>
@@ -531,7 +531,8 @@
     <string name="superpower_settings_launcher">Ultra Risparmio Energetico</string>
     <string name="superpower_system">Consigliato</string>
     <string name="superpower_third">App di terze parti</string>
-    <string name="superpower_time">hh:mm</string>
+    <string name="superpower_time">h:mm</string>
+    <string name="superpower_time_24">H:mm</string>
     <string name="superpower_toast_app_select_full">Puoi aggiungere fino a 6 app usate frequentemente</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>

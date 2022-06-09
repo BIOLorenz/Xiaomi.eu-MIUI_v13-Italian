@@ -276,6 +276,10 @@
         <item quantity="other">%1$d passi</item>
         <item quantity="one">%1$d passo</item>
     </plurals>
+    <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
     <plurals name="subtitle_add_record">
         <item quantity="other">"Non hai registrato per %1$d giorni. Registra i tuoi cicli per ottenere previsioni più accurate."</item>
         <item quantity="one">"Non hai registrato per %1$d giorno. Registra i tuoi cicli per ottenere previsioni più accurate."</item>

@@ -31,6 +31,7 @@
     <string name="add_alarm">Aggiungi</string>
     <string name="add_clock">Aggiungi Orologio</string>
     <string name="add_common_timer">Aggiungi timer</string>
+    <string name="add_new_sound">Aggiungi suoneria</string>
     <string name="add_timer">Timer Frequente</string>
     <string name="add_timer_dialog_title">Aggiungi timer</string>
     <string name="add_timezone_title">Aggiungi fuso orario</string>
@@ -191,6 +192,7 @@
     <string name="common_timer_selector">Seleziona timer</string>
     <string name="confirm">Conferma</string>
     <string name="confirm_abort">Ignora</string>
+    <string name="confirm_remove_custom_ringtone">Se elimini questa suoneria, le sveglie e i timer che la usano riprodurranno la suoneria predefinita. Eliminarla?</string>
     <string name="content_desc_keep_screen">Pulsante \"Mantieni schermo attivo\"</string>
     <string name="continue_operation">Continua</string>
     <string name="continue_step">Successivo</string>
@@ -198,6 +200,7 @@
     <string name="control_set_alarm_with_existing">Sveglia impostata: %s</string>
     <string name="copy">Copia</string>
     <string name="current_stopwatch_time">Tempo attuale</string>
+    <string name="custom_ringtone_lost_permissions">"Impossibile accedere a questo suono."</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="default_alarm_alert">Imposta suoneria sveglia predefinita</string>
@@ -209,6 +212,7 @@
     <string name="delete_timer_item_title">Elimina operazione</string>
     <string name="delete_timezone_title">Elimina fuso orario</string>
     <string name="deskclock_sleep_no_disturbance">Orologio - Pianifica il sonno - Mod. Non Disturbare</string>
+    <string name="device_sounds">Suoni dispositivo</string>
     <string name="dialog_confirm_abort">Vuoi annullare le modifiche?</string>
     <string name="dialog_legal_off_day"><Data>\"Sembra che tu stia utilizzando Sveglie nei giorni festivi. Questa funzione deve connettersi a internet per funzionare correttamente. Prima di utilizzare questa funzione, è necessario accettare il nostro &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Accettare?\"</Data></string>
     <string name="dialog_legal_off_day_desc">"L' orologio non è autorizzato a connettersi ad internet per aggiornare le info sulle festività. Le sveglie si disattiveranno sabato e domenica."</string>
@@ -638,6 +642,7 @@
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Consenti a questa applicazione di connettersi ad internet per accedere a tutte le sue funzioni.</string>
     <string name="system_permission_main_purpose">Visualizzare l\'ora, impostare sveglie e timer, utilizzare il cronometro</string>
     <string name="system_permission_purpose">Creare sveglie settimanali e impostare suonerie personalizzate</string>
@@ -745,6 +750,7 @@
     <string name="tv_blank_list_show_text">Niente da visualizzare. Cerca una località per aggiungerla al tuo orologio mondiale.</string>
     <string name="tv_world_clock_edit_title1">Località visualizzate sulla schermata Home</string>
     <string name="tv_world_clock_edit_title2">Altre località salvate</string>
+    <string name="unknown_ringtone_title">Sconosciuto</string>
     <string name="unselect_all">Deseleziona tutto</string>
     <string name="upcoming_alarm">%s Sveglia in arrivo</string>
     <string name="upcoming_alarm_hint">Disattiva la sveglia in anticipo</string>
@@ -777,6 +783,8 @@
     <string name="week_ringtone_recommend_desc">Sveglia natura riproduce suoni diversi a seconda della data. Impostarlo come suono predefinito?</string>
     <string name="white_noise">Rumore ambientale</string>
     <string name="white_noise_guide_desc">Aggiungi un suono di sfondo per mantenerti concentrato</string>
+    <string name="white_noise_not_selected">Non selezionato</string>
+    <string name="white_noise_selected">Selezionato</string>
     <string name="white_noise_selector">Seleziona audio</string>
     <string name="workday_alarm_clock">Sveglia attiva dal Lun. al Ven.</string>
     <string name="worldclock_edit_label">Orologio mondiale</string>
@@ -799,4 +807,5 @@
     <string name="worldcolock_timezone_local">Identico all\'ora locale</string>
     <string name="xiaoai_ringtone_title">Suonerie Mi IA</string>
     <string name="yesterday">Ieri</string>
+    <string name="your_sounds">I miei suoni</string>
 </resources>

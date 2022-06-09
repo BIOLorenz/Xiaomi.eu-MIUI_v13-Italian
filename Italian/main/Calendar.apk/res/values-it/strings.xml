@@ -234,7 +234,7 @@
     <string name="custom_dd_format">dd</string>
     <string name="custom_long_w_m_format">EEEE, MMMM</string>
     <string name="custom_month_format">MMMM</string>
-    <string name="custom_short_m_format">MM</string>
+    <string name="custom_short_m_format">MMM</string>
     <string name="custom_short_week_format">EEE</string>
     <string name="custom_week_month_format">EEE, MMMM</string>
     <string name="custom_year_format">yyyy</string>
@@ -310,7 +310,7 @@
     <string name="edit_event_reminder_summary_3_days_before">%2$d giorni prima e in quel giorno alle %1$s</string>
     <string name="edit_event_reminder_text">Il %1$s ore %2$s</string>
     <string name="edit_event_reminder_time">Orario promemoria</string>
-    <string name="edit_event_reminder_with_another_day_text">dal %1$s,al %2$s ore %3$s</string>
+    <string name="edit_event_reminder_with_another_day_text">dal %1$s, al %2$s ore %3$s</string>
     <string name="edit_event_show_all">Visualizza tutti</string>
     <string name="edit_event_tab_anniversary">Anniversario</string>
     <string name="edit_event_tab_birthday">Compleanno</string>
@@ -347,7 +347,7 @@
     <string name="event_info_when">Quando</string>
     <string name="event_info_where">Luogo</string>
     <string name="event_lunar_month">Mese</string>
-    <string name="event_reminder_allday_day_zero"> quel giorno alle %2$s</string>
+    <string name="event_reminder_allday_day_zero"> Quel giorno alle %2$s</string>
     <string name="event_reminder_value_zero">Prima dell\'evento</string>
     <string name="event_title">Titolo</string>
     <string name="event_view">Mostra evento</string>
@@ -381,9 +381,9 @@
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">"hh"</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ss</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_24hour">"HH"</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_minute_second">"m:s"</string>
@@ -738,10 +738,13 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="picker_day">Giorno selezionato: %1$d. Scorri verticalmente per selezionare.</string>
     <string name="picker_month">Mese selezionato: %1$d. Scorri verticalmente per selezionare.</string>
     <string name="picker_year">Anno selezionato: %1$d. Scorri verticalmente per selezionare.</string>
-    <string name="plain_short_month_format">MM</string>
+    <string name="plain_short_month_format">MMM</string>
     <string name="plain_year_format">yyyy</string>
     <string name="points_table">Tabella punti</string>
     <string name="predict_menstruation">Mestruazioni previste</string>
+    <string name="prefDefault_alerts_vibrateWhen">never</string>
+    <string name="prefDefault_alerts_vibrate_false">never</string>
+    <string name="prefDefault_alerts_vibrate_true">always</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrazione</string>
     <string name="pref_reminder_time">Orario promemoria</string>
     <string name="pref_title_alarm_remind">Promemoria sveglia</string>
@@ -791,6 +794,7 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="repeat_custom_prompt_daily">ogni %1$s</string>
     <string name="repeat_custom_prompt_sentence">L\'evento si ripeterà %1$s</string>
     <string name="repeat_custom_string_prefix">Personalizza</string>
+    <string name="repeat_custom_string_suffix">" (%1$s)"</string>
     <string name="repeat_end_label">Fine ripetizione</string>
     <string name="repeat_end_times_unit">" volte"</string>
     <string name="repeat_interval_dialog_title">Ogni %1$s</string>
@@ -806,6 +810,7 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="repeat_label_frequency">Frequenza</string>
     <string name="repeat_label_interval">Ogni</string>
     <string name="repeat_label_week">Settimana</string>
+    <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeats_label">Ripeti</string>
     <string name="response_maybe">Forse</string>
     <string name="response_no">No</string>
@@ -936,7 +941,7 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="tab_title_month">Mese</string>
     <string name="tab_title_week">Settimana</string>
     <string name="talk_back_month">Mese</string>
-    <string name="talk_back_read_date">La data corrente è %1$s,%2$s,</string>
+    <string name="talk_back_read_date">%1$s (%2$s secondo il calendario lunare).</string>
     <string name="talk_back_setting">Impostazioni</string>
     <string name="talk_back_tab_switch">Cambia tra le viste</string>
     <string name="talk_back_tab_switch_language">Seleziona la lingua del Calendario</string>

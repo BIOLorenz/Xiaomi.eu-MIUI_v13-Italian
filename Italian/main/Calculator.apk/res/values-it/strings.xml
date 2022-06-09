@@ -243,9 +243,9 @@
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">"h"</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ss</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_24hour">"H"</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_minute_second">"m:s"</string>
@@ -518,7 +518,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="network_confirm_content">Convertitore di valuta e Calcolatore mutuo devono accedere alla connessione internet per funzionare correttamente</string>
     <string name="network_confirm_title">Permessi richiesti</string>
     <string name="network_purpose">Benvenuti nella Calcolatrice! Calcolatrice consente di convertire valute, calcolare i rimborsi ipotecari e altro ancora.</string>
-    <string name="new_privacy_string"><Data>\"Benvenuto su Calcolatrice!&lt;br/&gt;Questa app contiene le seguenti caratteristiche:&lt;br/&gt;• Calcolatrice di base&lt;br/&gt;• Calcolatrice scientifica&lt;br/&gt;• Convertitore universale (es. valuta, unità di misura, ecc.)&lt;br/&gt;• Modelli di calcolo per prestiti, investimenti, IME e altro&lt;br/&gt;Calcolatrice deve raccogliere le informazioni personali necessarie per fornire i servizi di base. Puoi capire come gestiamo le informazioni che raccogliamo nella nostra &lt;a href= \"%1$s\"&gt;Informativa sulla Privacy&lt;/a&gt;. Leggi e accetta il nostro &lt;a href=\"%2$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%3$s\"&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare Calcolatrice. Puoi revocare il tuo consenso all\'Informativa sulla Privacy di Calcolatrice nelle Impostazioni in qualsiasi momento. Se non accetti la nostra Informativa sulla privacy, non potrai utilizzare alcune funzionalità di questa applicazione; tuttavia, la sua funzionalità di base sarà ancora a tua disposizione.</Data></string>
+    <string name="new_privacy_string"><Data>\"Benvenuto su Calcolatrice!&lt;br/&gt;Questa app contiene le seguenti funzioni:&lt;br/&gt;• Calcolatrice di base&lt;br/&gt;• Calcolatrice scientifica&lt;br/&gt;• Convertitore universale (es. valuta, unità di misura, ecc.&lt;br/&gt;• Modelli di calcolo per prestiti, investimenti, EMI, and more&lt;br/&gt;Puoi scoprire come gestiamo le informazioni che raccogliamo nel nostro &lt;a href=\"%1$s\"&gt;Informativa sulla Privacy&lt;/a&gt;. Leggi e accetta il nostro &lt;a href=\"%2$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%3$s\"&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare Calcolatrice. Puoi revocare il tuo consenso all\'Informativa sulla Privacy di Calcolatrice nelle Impostazioni in qualsiasi momento. Se non accetti la nostra Informativa sulla Privacy, non potrai utilizzare alcune funzionalità di questa applicazione; tuttavia, la sua funzionalità di base sarà ancora disponibile.\"</Data></string>
     <string name="night">PM</string>
     <string name="none">Nessuno</string>
     <string name="noon">PM</string>
@@ -676,6 +676,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="tax_total_insurance_provident_fund">Assicurazione e Fondo immobiliare</string>
     <string name="tax_unemployment">Disoccupato</string>
     <string name="tax_update_time_format">Dati anno %s</string>
+    <string name="tenure_year_month">%1$s e %2$s</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
     <string name="the_arbor_day">Giorno dei mestieri</string>
@@ -941,7 +942,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="unit_data_short_data_tb">TB</string>
     <string name="unit_data_short_length_km">Km</string>
     <string name="unit_data_short_length_lii">li</string>
-    <string name="unit_data_short_time_day">dd</string>
+    <string name="unit_data_short_time_day">d</string>
     <string name="unit_data_short_velocity_ftps">ft/s</string>
     <string name="unit_data_short_velocity_inps">in/s</string>
     <string name="unit_data_short_velocity_mileph">mi/h</string>
@@ -993,6 +994,8 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="xiaomi_calculator_remove_icon_title">Rimuovere \"Calcolatrice\" dalla schermata Home?</string>
     <string name="xiaomi_connect_download_manager_fail">"Connessione a Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni."</string>
     <string name="xiaomi_external_storage_unavailable">"Archivio non disponibile, verifica la scheda SD."</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s
 Size: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Nuova versione %1$s

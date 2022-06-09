@@ -1320,7 +1320,7 @@ Contatta il tuo provider di rete per richiedere un'altra SIM."</string>
     <string name="keyguard_try_fingerprint">Usa l\'impronta digitale per aprire</string>
     <string name="keyguard_unlock">Scorri verso l\'alto per sbloccare</string>
     <string name="keyguard_unlock_press">Premi per aprire</string>
-    <string name="keyguard_widget_12_hours_format">hh:mm</string>
+    <string name="keyguard_widget_12_hours_format">h:mm</string>
     <string name="keywords_adb_wireless">ADB, debug, sviluppatori</string>
     <string name="keywords_alarms_and_reminders">pianificazione, sveglia, promemoria, orologio</string>
     <string name="kg_enter_confirm_pin_hint">Conferma il PIN</string>
@@ -1749,7 +1749,7 @@ Se hai domande, contatta %2$s."</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
-    <string name="mtrl_picker_text_input_day_abbr">dd</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla mod. di inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>
@@ -1976,9 +1976,13 @@ Se hai domande, contatta %2$s."</string>
     <string name="private_dns_mode_provider">DNS Hostname provider privato</string>
     <string name="private_dns_mode_provider_failure">"Impossibile connettersi"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
+    <string name="process_kernel_label">Sistema operativo Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
     <string name="profile_owned_footer">Il profilo potrebbe essere monitorato</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
+    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="qs_alarm_tile_no_alarm">Nessuna sveglia</string>
     <string name="qs_bill_message_balance">%1$s %2$s rimanenti</string>
     <string name="qs_control_big_tile_state_closed">Spenta</string>
@@ -2377,7 +2381,7 @@ essere monitorata"</string>
     <string name="status_bar_clock_date_format_12">E d MMMM</string>
     <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm E, d MMM aa</string>
-    <string name="status_bar_clock_date_weekday_format">EEE d MMM</string>
+    <string name="status_bar_clock_date_weekday_format">EEEdMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEE d MMM</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
@@ -2386,6 +2390,7 @@ d MMM"</string>
     <string name="status_bar_ethernet">LAN</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Imposta metodi di input</string>
     <string name="status_bar_latest_events_title">Notifiche</string>
+    <string name="status_bar_network_name_separator">-</string>
     <string name="status_bar_no_notifications_title">Nessuna notifica</string>
     <string name="status_bar_notification_app_settings_title">%s impostazioni</string>
     <string name="status_bar_notification_inspect_item_title">Impostazioni di notifica</string>
@@ -2424,7 +2429,7 @@ d MMM"</string>
     <string name="switch_bar_on">Attivata</string>
     <string name="switch_system_user">Apri Primo Spazio</string>
     <string name="symbol_colon">:</string>
-    <string name="system_ui_aod_date_pattern">eeedMMM</string>
+    <string name="system_ui_aod_date_pattern">dMMMEEE</string>
     <string name="system_ui_tuner">Messa a punto UI di Sistema</string>
     <string name="tap_again">Tocca di nuovo</string>
     <string name="tap_to_sign_up">Tocca per iscriverti</string>
@@ -2494,6 +2499,7 @@ Il tuo telefono potrebbe diventare troppo caldo se:
     <string name="tile_unavailable">Non disponibile</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="time_unit_just_now">Un momento fa</string>
+    <string name="tip_close_flares">"Non riceverai notifiche sul comportamento delle app durante questa sessione"</string>
     <string name="title_convert_fbe">Converti a file basato su crittografia</string>
     <string name="title_usb_accessory">Accessorio USB</string>
     <string name="today">Oggi</string>

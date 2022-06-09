@@ -233,6 +233,7 @@
     <string name="incomingmessage">Messaggio in arrivo</string>
     <string name="internal_livetalk_enable">Uso del pacchetto ricarica per le chiamate nazionali</string>
     <string name="international_livetalk_enable">Uso del pacchetto ricarica per le chiamate internazionali</string>
+    <string name="kb_reset_toast">Reimposta tastiera con successo</string>
     <string name="key_btn_ok">OK</string>
     <string name="key_btn_space">Spazio</string>
     <string name="keyboard_connect_failed">"Impossibile riconoscere la tastiera. Ricollegala."</string>
@@ -390,6 +391,7 @@
     <string name="resolver_offical_recommend">Ufficiale</string>
     <string name="resolver_other_method">Altre opzioni</string>
     <string name="resolver_recommend_options_tag">Opzioni consigliate</string>
+    <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
     <string name="resource_select">Seleziona</string>
     <string name="reveries">Inversione (stereo)</string>
     <string name="robot">Robot</string>
@@ -493,6 +495,7 @@
     <string name="stop_operate_camera_frequently">"Stai aprendo la fotocamera frontale troppo spesso."</string>
     <string name="stylus_pen_mask_screenshot">Tocca lo schermo per fare uno screenshot</string>
     <string name="stylus_pen_mask_text">Tocca lo schermo per iniziare a scrivere</string>
+    <string name="subinfo_default_name">SIM %d</string>
     <string name="sunlight_notification_content">Regola la luminosità automaticamente per una forte luce ambientale</string>
     <string name="sunlight_notification_title">Attiva la mod. diurna</string>
     <string name="sunrise">Alba</string>

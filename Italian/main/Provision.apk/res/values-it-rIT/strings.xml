@@ -391,11 +391,15 @@ Disattivare gli annunci personalizzati?"</string>
     <string name="other_settings_ad_enable_summary">Suggerisci pubblicità personalizzate basate sulle tue abitudini</string>
     <string name="other_settings_auto_update">Aggiorna automaticamente</string>
     <string name="other_settings_auto_update_summary">MIUI sceglierà il tempo di attesa per scaricare ed installare gli aggiornamenti.</string>
+    <string name="other_settings_auto_update_summary_v1">Consenti a MIUI di selezionare il momento migliore per scaricare e installare gli aggiornamenti. Il dispositivo verrà riavviato automaticamente per applicare le modifiche.</string>
     <string name="other_settings_enhanced_lockscreen">Sfondi Carousel</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Sguardo per Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Informativa sulla Privacy</string>
     <string name="other_settings_enhanced_lockscreen_summary">Ricevi ogni giorno immagini e storie selezionate, direttamente sulla schermata di blocco. Accetta i Termini e Condizioni.</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Termini e Condizioni</string>
+    <string name="other_settings_get_apps">Aggiorna automaticamente le app</string>
+    <string name="other_settings_get_apps_summary">"Aggiorna il sistema e le app partner di terze parti tramite GetApps per poter utilizzare le loro ultime funzionalità.
+È possibile disattivare gli aggiornamenti automatici in GetApps &gt; Impostazioni &gt; Aggiornamenti automatici."</string>
     <string name="other_settings_location">Piattaforma</string>
     <string name="other_settings_location_summary">Consenti alle applicazioni di utilizzare la tua posizione</string>
     <string name="other_settings_quality_service">Permessi MIUI Daemon</string>

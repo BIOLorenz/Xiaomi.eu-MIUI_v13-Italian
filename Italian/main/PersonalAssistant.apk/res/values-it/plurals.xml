@@ -68,6 +68,62 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
+    <plurals name="pa_accessibility_olympic_bronze_medal_count">
+        <item quantity="other">%d medaglie di bronzo</item>
+        <item quantity="one">%d medaglia di bronzo</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_gold_medal_count">
+        <item quantity="other">%d medaglie d\'oro</item>
+        <item quantity="one">%d medaglia d\'oro</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_medal_count">
+        <item quantity="other">%d medaglie totali</item>
+        <item quantity="one">%d medaglia totale</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_rank">
+        <item quantity="other">Posizione %d</item>
+        <item quantity="one">Posizione %d</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_silver_medal_count">
+        <item quantity="other">%d medaglie d\'argento</item>
+        <item quantity="one">%d medaglia d\'argento</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
+        <item quantity="other">Negozio widget. Elenco app. %d elementi nella lista delle app.</item>
+        <item quantity="one">Negozio widget. Elenco app. %d elemento nella lista delle app.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_3">
+        <item quantity="other">Numero %d nella lista.</item>
+        <item quantity="one">Numero %d nella lista.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
+        <item quantity="other">L\'elemento contiene %d widget. Tocca due volte per aprire la descrizione del widget.</item>
+        <item quantity="one">L\'elemento contiene %d widget. Tocca due volte per aprire la descrizione del widget.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
+        <item quantity="other">Negozio widget. Elenco app. %d elementi nella lista.</item>
+        <item quantity="one">Negozio widget. Elenco app. %d elemento nella lista.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_3">
+        <item quantity="other">Numero %d nella lista.</item>
+        <item quantity="one">Numero %d nella lista.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
+        <item quantity="other">L\'elemento contiene %d widget. Tocca due volte per aprire la descrizione del widget.</item>
+        <item quantity="one">L\'elemento contiene %d widget. Tocca due volte per aprire la descrizione del widget.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_1">
+        <item quantity="other">Negozio widget. Elenco app. %d elementi nella lista.</item>
+        <item quantity="one">Negozio widget. Elenco app. %d elemento nella lista.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_3">
+        <item quantity="other">Numero %d nella lista.</item>
+        <item quantity="one">Numero %d nella lista.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_4">
+        <item quantity="other">L\'elemento contiene %d widget. Tocca due volte per aprire la descrizione del widget.</item>
+        <item quantity="one">L\'elemento contiene %d widget. Tocca due volte per aprire la descrizione del widget.</item>
+    </plurals>
     <plurals name="pa_base_time_hour_ago">
         <item quantity="other">%d ore fa</item>
         <item quantity="one">%d ora fa</item>
@@ -76,6 +132,18 @@
         <item quantity="other">%d min fa</item>
         <item quantity="one">%d min fa</item>
     </plurals>
+    <plurals name="pa_edit_text_limit">
+        <item quantity="other">Inserisci fino a %1$d caratteri</item>
+        <item quantity="one">Inserisci fino a %1$d carattere</item>
+    </plurals>
+    <plurals name="pa_edit_text_min_length">
+        <item quantity="other">Almeno %1$d caratteri</item>
+        <item quantity="one">Almeno %1$d carattere</item>
+    </plurals>
+    <plurals name="pa_express_content_title_1">
+        <item quantity="other">%d pacchi sono in arrivo</item>
+        <item quantity="one">%d pacco è in arrivo</item>
+    </plurals>
     <plurals name="pa_express_history_dialog_delete_message">
         <item quantity="other">Eliminare %s elementi?</item>
         <item quantity="one">Eliminare %s elemento?</item>
@@ -83,5 +151,17 @@
     <plurals name="pa_express_history_menu_select_num">
         <item quantity="other">%s elementi selezionati</item>
         <item quantity="one">%s elemento selezionato</item>
+    </plurals>
+    <plurals name="pa_express_settings_title_2">
+        <item quantity="other">"Hai aggiunto %d numeri di telefono"</item>
+        <item quantity="one">"Hai aggiunto %d numero di telefono"</item>
+    </plurals>
+    <plurals name="pa_picker_app_list_widget_count">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="pa_stock_display_list_label">
+        <item quantity="other">%1$d società sul widget</item>
+        <item quantity="one">%1$d società sul widget</item>
     </plurals>
 </resources>
