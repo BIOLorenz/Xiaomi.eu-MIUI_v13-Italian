@@ -30,7 +30,6 @@
     <string name="about_lasted_version">Non ci sono nuove versioni</string>
     <string name="account_add_other_sub_des">Altri account</string>
     <string name="account_add_title">Seleziona servizio email</string>
-    <string name="account_cache_provider">Fornitore Cache Account</string>
     <string name="account_change">Cambia account</string>
     <string name="account_child_dialog_neg_text">Esci</string>
     <string name="account_child_dialog_pos_text">Il guardiano è d\'accordo</string>
@@ -228,7 +227,6 @@ path prefix"</string>
     <string name="app_name">E-Mail</string>
     <string name="app_uninstall_content">"Posta è un'applicazione di sistema. Non sarai in grado di gestire i tuoi account email, inviare e ricevere e-mail o sincronizzare gli eventi dopo aver disinstallato l'app."</string>
     <string name="app_uninstall_title">Disinstallare \"Posta\"?</string>
-    <string name="application_mime_type">application/email-ls</string>
     <string name="appraise_des">Lavoriamo duramente allo sviluppo dei prodotti, solo per soddisfarti. Supportaci lasciando un commento.</string>
     <string name="appraise_good">Sì</string>
     <string name="appraise_ignore">"Valutazione temporanea"</string>
@@ -291,9 +289,7 @@ path prefix"</string>
     <string name="b_contacts_remove_tips">Rimuovere questo indirizzo dalla lista dei blocchi?</string>
     <string name="back">Indietro</string>
     <string name="bank_card_detail">Dettagli carta di credito</string>
-    <string name="bank_card_list_card_num_fmt">****%s</string>
     <string name="bcc">Ccn</string>
-    <string name="bcc_heading">"Ccn: "</string>
     <string name="bill_center_setting">Impostazioni di addebito</string>
     <string name="bill_center_setting_head">Importa le informazioni da questi account</string>
     <string name="bill_cycle_text">Ciclo di addebito</string>
@@ -323,7 +319,6 @@ path prefix"</string>
     <string name="cancel_pop3_attchemt_downloading">"L'annullamento di allegati in download non è disponibile per gli account di tipo POP3."</string>
     <string name="cant_move_or_change_labels">"Impossibile spostare perché la selezione contiene account multipli."</string>
     <string name="cc">Cc</string>
-    <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
     <string name="cc_bcc">Cc/Ccn</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="certificate_add_failed">"Impossibile aggiungere il certificato \"%s\""</string>
@@ -431,7 +426,6 @@ path prefix"</string>
     <string name="close">Chiudi</string>
     <string name="close_custom_folder">Nascondi sottocartelle</string>
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
-    <string name="colon">:</string>
     <string name="command_139_mail_open_pop3_imap">KQ</string>
     <string name="compose">Scrivi</string>
     <string name="compose_add_attachment_permission_denied">"Impossibile inoltrare l'email. Permessi per accedere alla memoria esterna richiesti."</string>
@@ -500,7 +494,6 @@ path prefix"</string>
     <string name="conversation_cert_info_tips">Questa email è stata firmata con un certificato affidabile</string>
     <string name="conversation_cert_info_title">Firmato</string>
     <string name="conversation_cert_trust">Fidati</string>
-    <string name="conversation_content_provider">Provider Contenuto conversazione</string>
     <string name="conversation_detail_hide">Nascondi</string>
     <string name="conversation_detail_show">Dettagli</string>
     <string name="conversation_folder_moved">Spostato in %1$s</string>
@@ -613,8 +606,6 @@ path prefix"</string>
     <string name="earthly_branches_yin">Yin</string>
     <string name="earthly_branches_you">You</string>
     <string name="earthly_branches_zi">Zi</string>
-    <string name="eas_hotmail_email">hotmail.com</string>
-    <string name="eas_outlook_email">outlook.com</string>
     <string name="edit_quick_response_dialog">Risposte rapide</string>
     <string name="edit_signature">Modifica firma</string>
     <string name="editor_max_length_limit_hint">Il messaggio inserito è troppo lungo</string>
@@ -817,7 +808,6 @@ path prefix"</string>
     <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>
     <string name="forward_download_failed_ticker">"Impossibile inoltrare uno o più allegati."</string>
     <string name="forward_download_failed_title">Allegato non inoltrato</string>
-    <string name="forward_subject_label">I:</string>
     <string name="free_period_text">Periodo di prova gratuito</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
@@ -970,14 +960,6 @@ Ciao, la password dell'applicazione è attivata? Se attiva, vai al sito ufficial
     <string name="mailbox_name_display_starred">Speciali</string>
     <string name="mailbox_name_display_trash">Cestino</string>
     <string name="mailbox_name_display_unread">Non letta</string>
-    <string name="mailbox_name_server_all_unread">Non letta</string>
-    <string name="mailbox_name_server_drafts">Bozze</string>
-    <string name="mailbox_name_server_inbox">In arrivo</string>
-    <string name="mailbox_name_server_junk">Indesiderata</string>
-    <string name="mailbox_name_server_outbox">In Uscita</string>
-    <string name="mailbox_name_server_sent">Inviato</string>
-    <string name="mailbox_name_server_starred">Speciali</string>
-    <string name="mailbox_name_server_trash">Cestino</string>
     <string name="mailbox_setting_preference_sync_summary_close">Sync: Spenta</string>
     <string name="mailbox_setting_preference_sync_summary_open">Sync: Accesa</string>
     <string name="mailbox_settings_activity_title">Impostazioni di sincronizzazione</string>
@@ -1468,7 +1450,6 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="reply_add_bodycontent">Aggiungere un messaggio di risposta rapida al contenuto?</string>
     <string name="reply_all">Rispondi a tutti</string>
     <string name="reply_attribution">%2$s ha scritto su %1$s:</string>
-    <string name="reply_subject_label">Re:</string>
     <string name="report_phishing">Segnala come phishing</string>
     <string name="report_spam">Segnala spam</string>
     <string name="request_copy_db_to_disk">L\'app Email richiede che il tuo database venga esportato in file</string>
@@ -1621,8 +1602,6 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="special_text_3">Ha scritto:</string>
     <string name="special_text_4">Ha scritto:</string>
     <string name="special_text_5">ha scritto:</string>
-    <string name="special_text_colon_en">:</string>
-    <string name="special_text_colon_zh">：</string>
     <string name="special_text_sender_en">mittente</string>
     <string name="str_select_all">Seleziona tutto</string>
     <string name="str_select_none">Deseleziona tutto</string>
