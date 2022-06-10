@@ -405,13 +405,9 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="common_name">Nome comune:</string>
     <string name="condition_provider_service_binding_label">Provider condizioni</string>
     <string name="conference_call">Audioconferenza</string>
-    <string name="config_UsbDeviceConnectionHandling_component">\@null</string>
-    <string name="config_activityRecognitionHardwarePackageName">\@null</string>
     <string name="config_bodyFontFamily">sans-serif</string>
     <string name="config_bodyFontFamilyMedium">sans-serif-medium</string>
     <string name="config_default_dns_server">1.1.1.1</string>
-    <string name="config_geofenceProviderPackageName">\@null</string>
-    <string name="config_iccHotswapPromptForRestartDialogComponent">\@null</string>
     <string name="config_icon_mask">M96.4286 62.2772C96.4286 72.1118 96.4286 77.029 94.7547 82.3225C92.6512 88.1016 88.0988 92.654 82.3196 94.7576C77.6553 96.2326 73.278 96.4076 65.575 96.4284H50H34.425C26.722 96.4076 22.3446 96.2326 17.6803 94.7576C11.9012 92.654 7.34879 88.1016 5.24522 82.3225C3.57141 77.029 3.57141 72.1118 3.57141 62.2772V49.9999V37.7225C3.57141 27.888 3.57141 22.9707 5.24522 17.6772C7.34879 11.8981 11.9012 7.34569 17.6803 5.24212C22.3446 3.76712 26.722 3.59212 34.425 3.57129H50H65.575C73.278 3.59212 77.6553 3.76712 82.3196 5.24212C88.0988 7.34569 92.6512 11.8981 94.7547 17.6772C96.4286 22.9707 96.4286 27.888 96.4286 37.7225V49.9999V62.2772Z</string>
     <string name="config_secondaryHomePackage">com.android.launcher3</string>
     <string name="config_systemGallery">com.android.gallery3d</string>
@@ -883,7 +879,6 @@ Visita \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Rimuovi</string>
     <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">Sblocco scheda SIM…</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Hai digitato la tua password %1$d volte in modo errato. 
 
 Riprova tra %2$d secondi."</string>
@@ -1853,9 +1848,6 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="ssl_certificate">Certificato di sicurezza</string>
     <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
     <string name="status_bar_airplane">aereo</string>
-    <string name="status_bar_bluetooth">bluetooth</string>
-    <string name="status_bar_managed_profile">ime</string>
-    <string name="status_bar_mute">silenzioso</string>
     <string name="status_communication_speaker_summary">Una chiamata in vivavoce è in corso. L\'audio continuerà ad essere riprodotto attraverso l\'altoparlante quando le cuffie sono collegate.</string>
     <string name="status_communication_summary">Una chiamata è in corso. È possibile regolare solo il volume delle chiamate.</string>
     <string name="stk_cc_ss_to_dial">Richiesta SS modificata in chiamata normale</string>
@@ -2079,7 +2071,6 @@ Vuoi chiuderla?"</string>
     <string name="zen_mode_feature_name">Non disturbare</string>
     <string name="zen_mode_forever">Fino alla disattivazione</string>
     <string name="zen_mode_forever_dnd">Fino alla disattivazione di Non disturbare</string>
-    <string name="zen_mode_rule_name_combination">%1$s/%2$s</string>
     <string name="zen_mode_until">Fino a %1$s</string>
     <string name="zen_mode_until_next_day">Fino alle %1$s</string>
     <string name="zen_upgrade_notification_content">"Tocca per controllare le notifiche bloccate."</string>
