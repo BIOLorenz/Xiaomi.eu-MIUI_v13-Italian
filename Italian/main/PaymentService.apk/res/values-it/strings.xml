@@ -292,6 +292,7 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_change_security_lock">Altri blocco schermo</string>
     <string name="mibi_check_giftcard">Mostra coupon</string>
     <string name="mibi_click_retry">%1$s, tocca per riprovare</string>
+    <string name="mibi_colon">": "</string>
     <string name="mibi_cta_agreement_checkbox_description">Si prega di leggere e accettare %1$s e %2$s</string>
     <string name="mibi_cta_agreement_tips">Si prega di accettare i termini e l\'uso.</string>
     <string name="mibi_cta_description">"Benvenuto in Mi Coin, questa applicazione fornisce funzioni come la ricarica Mi Coin e la visualizzazione di certificati regalo. Elaboreremo le tue informazioni rilevanti come richiesto dalle leggi e dai regolamenti. Qui ti ricordiamo solennemente:
@@ -346,6 +347,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_error_common_summary">Errore di sistema. Riprova più tardi.</string>
     <string name="mibi_error_deduct">"Impossibile attivare il protocollo di pagamento automatico"</string>
     <string name="mibi_error_expired_summary">Il tuo ordine è scaduto</string>
+    <string name="mibi_error_frozen_service_num">400-100-3399</string>
     <string name="mibi_error_frozen_summary">Il tuo account è stato congelato, si prega di contattar eil nostro centro di assistenza clienti.</string>
     <string name="mibi_error_has_bought_summary">Hai già acquistato questo prodotto.</string>
     <string name="mibi_error_illegal_order_summary">Errore ordine. Riprova più tardi</string>

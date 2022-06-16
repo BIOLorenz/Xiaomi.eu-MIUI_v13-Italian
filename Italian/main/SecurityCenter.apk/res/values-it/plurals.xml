@@ -252,6 +252,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Disinstalla %2$d giochi (incluso %1$s)</item>
         <item quantity="one">Disinstalla %2$d gioco (incluso %1$s)</item>
     </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">Registra automaticamente i momenti chiave e genera video con i momenti salienti della sessione. Puoi scegliere di salvarli definitivamente dopo ogni sessione di gioco. I video non salvati verranno eliminati automaticamente dopo %1$d giorni.</item>
+        <item quantity="one">Registra automaticamente i momenti chiave e genera video con i momenti salienti della sessione. Puoi scegliere di salvarli definitivamente dopo ogni sessione di gioco. I video non salvati verranno eliminati automaticamente dopo %1$d giorno.</item>
+    </plurals>
     <plurals name="gb_game_video_ai_record_finish_tips">
         <item quantity="other">Salvate %d registrazioni IA su Game Turbo</item>
         <item quantity="one">Salavat %d registrazione IA su Game Turbo</item>

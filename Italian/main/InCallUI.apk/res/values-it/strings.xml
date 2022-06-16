@@ -433,6 +433,7 @@
     <string name="pause_prompt_no">No</string>
     <string name="pause_prompt_yes">Sì</string>
     <string name="payphone">Telefono a gettoni</string>
+    <string name="phone_info_divider">" | "</string>
     <string name="picking_participant">Recupero informazioni di contatto…</string>
     <string name="private_num">Numero privato</string>
     <string name="prompt_no_volte_when_failed">"Il servizio VoLTE non è disponibile."</string>
@@ -463,6 +464,7 @@ Tocca \"%1$s\" e quindi seleziona \"%2$s\"."</string>
     <string name="select_audio_dialog_title">Scegli la mod. di risposta</string>
     <string name="select_one_sim_title">Puoi utilizzare solo la SIM %1$d</string>
     <string name="select_one_sim_title_for_heduohao">Puoi usare solo la SIM %1$d Sub %2$d</string>
+    <string name="select_other_sim_card_dial">Usa SIM %1$d</string>
     <string name="select_sim_hint">"Impossibile utilizzare la SIM %2$d mentre la SIM %1$d è in uso."</string>
     <string name="select_sim_hint_for_heduohao">"Impossibile usarne un'altra, mentre la SIM %1$d Sub %2$d è in uso."</string>
     <string name="select_voice_call_sim">Scegli SIM</string>

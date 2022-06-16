@@ -500,6 +500,10 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
         <item quantity="other">%d app possono mostrare le notifiche</item>
         <item quantity="one">%d app può mostrare le notifiche</item>
     </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Dopo %d minuti</item>
+        <item quantity="one">Dopo %d minuto</item>
+    </plurals>
     <plurals name="string_bits_per_sample">
         <item quantity="other">%d bit/campione</item>
         <item quantity="one">%d bit/campione</item>

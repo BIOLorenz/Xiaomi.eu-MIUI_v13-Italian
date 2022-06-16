@@ -1247,6 +1247,7 @@
     <string name="custom_define_permission_desc_android.permission.READ_SMS">Per utilizzare la blocklist e riconoscere i messaggi dal tuo operatore</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">Per utilizzare la lista blocchi e inviare messaggi di calibrazione al tuo operatore</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Per eliminare i messaggi dalla lista blocchi</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Per fornire funzionalità rilevanti per la tua posizione in Centro Allerte MIUI, SOS di Emergenza, Risparmio Batteria App, scanner di sicurezza dei pagamenti e servizio di localizzazione approssimativo</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Per eliminare il cestino ed eseguire scansioni antivirus</string>
     <string name="customize_limit_pkg">%s (personalizzato)</string>
     <string name="customizer_mode_user_define_name">Le mie regole</string>
@@ -1448,6 +1449,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
     <string name="edit_new_task_name">Nome</string>
     <string name="edit_phone_num">Modifica numero SIM</string>
     <string name="eew_privacy_revoke_title">Ritira il consenso all\'Informativa sulla Privacy di Avvisi Terremoto</string>
+    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty_app">Nessuna app</string>
     <string name="empty_title_auto_start_list">Nessuna app in avvio automatico</string>
@@ -1711,7 +1713,9 @@ terremoti"</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
     <string name="exo_player_time_seperate">/</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -2166,6 +2170,7 @@ ma aumenta anche il consumo di energia e permette al dispositivo di surriscaldar
     <string name="gb_shoulder_guide_tips1">Apri gli strumenti e configura i grilletti pop-up</string>
     <string name="gb_shoulder_guide_title1">Azione</string>
     <string name="gb_shoulder_guide_title2">Sequenza</string>
+    <string name="gb_shoulder_key">Attivazione popup</string>
     <string name="gb_shoulder_key_add_show_btn">Mostra pulsanti virtuali durante le partite</string>
     <string name="gb_shoulder_key_add_tips">Sposta [L] e [R] in qualsiasi posizione e utilizzali tramite i grilletti pop-up</string>
     <string name="gb_shoulder_key_btn_cancel">Annulla</string>
@@ -3233,6 +3238,7 @@ Il tuo dispositivo è %s più veloce ora."</string>
     <string name="pc_fast_charge_notifi_action_text_on">Velocizza</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Imposta il livello della batteria per i promemoria</string>
     <string name="pc_fast_charge_notifi_summary">Ricarica fino al %s più veloce del solito…</string>
+    <string name="pc_fast_charge_notifi_summary_on">La velocità di ricarica viene aumentata quando lo schermo è spento. Il dispositivo si riscalderà.</string>
     <string name="pc_fast_charge_notifi_switch_summary">Notifica la velocità di ricarica quando il caricabatterie %dW fornito è collegato e la batteria è al di sotto del livello impostato</string>
     <string name="pc_fast_charge_notifi_switch_title">Notifica l\'incremento</string>
     <string name="pc_fast_charge_notifi_title">%dW in carica</string>
@@ -3448,6 +3454,11 @@ Il tuo dispositivo è %s più veloce ora."</string>
     <string name="power_center_dialog_msg_top">Quando il risparmio energetico è attivo, MIUI attuerà le seguenti ottimizzazioni:</string>
     <string name="power_center_hints_scan_danger_result">Puoi correggere i problemi di batteria ora</string>
     <string name="power_center_list_item_auto_brightness">Regola automaticamente la luminosità dello schermo</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">°C</string>
     <string name="power_center_list_item_close_bluetooth">Disattiva Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Impostazioni avanzate</string>
     <string name="power_center_list_item_haptic_feedback">Disattiva la Vibrazione al tocco</string>
@@ -4109,6 +4120,7 @@ Ritirare il consenso?"</string>
     <string name="privacy_using_record">Registrare audio</string>
     <string name="privacyapp_number_masked_text">Il contenuto delle notifiche è nascosto</string>
     <string name="privacyapp_number_unmasked_text">Il contenuto delle notifiche può essere nascosto</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Server Multimediale</string>
     <string name="process_vpnsdkmanager_label">Turbo videogiochi</string>
     <string name="promotion">AD</string>
@@ -4353,8 +4365,11 @@ Ritirare il consenso?"</string>
     <string name="signal_exception_title">Test forza segnale</string>
     <string name="signed_rule">Regolamento</string>
     <string name="signed_rule_one">1.Registrati in 10, 20, o 28 giorni di seguito ogni mese per ottenere un Incremento Xunyou rispettivamente per 1, 2, o 3 giorni.</string>
+    <string name="signed_rule_one_new">%1$d. Accedi %2$d, %3$d, o %4$d giorni di fila ogni mese per ottenere un potenziamento Xunyou per %5$d, %6$do %7$d giorni rispettivamente.</string>
     <string name="signed_rule_three">"3.I giorni di registrazione verranno annullati all'inizio di ogni mese. I rimanenti non verranno resi disponibili."</string>
+    <string name="signed_rule_three_new">"%1$d. I giorni in cui si effettua l'accesso vengono reimpostati all' inizio di ogni mese. I giorni rimanenti non vengono rinnovati."</string>
     <string name="signed_rule_two">2.Potrai ottenere un solo Incremento Xunyou al mese.</string>
+    <string name="signed_rule_two_new">%d. Puoi ottenere solo 1 aumento Xunyou al mese.</string>
     <string name="sim_car_absent__tip">Conferma il blocco schermo per disattivare la Mod. Smarrito</string>
     <string name="sim_car_absent_intercept_action">Conferma blocco schermo (%d)</string>
     <string name="sim_car_absent_intercept_action_last">Conferma blocco schermo</string>
@@ -4403,6 +4418,7 @@ Ritirare il consenso?"</string>
     <string name="sim_lock_other_setting_title">Impostazioni PIN</string>
     <string name="sim_lock_pin_confirm">OK</string>
     <string name="sim_lock_pin_dialog_confirm">Continua</string>
+    <string name="sim_lock_pin_dialog_message">"Hai inserito più volte un PIN errato. Ora ci sono solo %d rimanenti. Se inserisci un altro PIN errato, la SIM verrà bloccata. Continuare comunque?"</string>
     <string name="sim_lock_pin_dialog_title">Ultimo tentativo</string>
     <string name="sim_lock_pin_hint">Inserisci il PIN della SIM</string>
     <string name="sim_lock_pin_message" formatted="false">"Se non hai impostato un PIN per la tua scheda SIM, prova il PIN predefinito del tuo operatore (%s): %d."</string>
@@ -5249,6 +5265,7 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="title_flow_rank">Utilizzo dati rete cellulare</string>
     <string name="title_flow_verify">Confronto</string>
     <string name="title_flow_verify_failed">"Impossibile regolare per 5 giorni consecutivi"</string>
+    <string name="title_flow_verify_failed_new">"Impossibile regolare per %d giorni di fila"</string>
     <string name="title_garbage_clean">La dimensione della cache delle app è di %s</string>
     <string name="title_garbage_less">La cache dell\'app è piccola</string>
     <string name="title_garbage_lib">Aggiornamenti automatici</string>
@@ -5537,6 +5554,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="vb_video_effects_settings_stereo">Volume</string>
     <string name="vb_video_effects_some_headphone">Supportato da modelli di auricolari selezionati</string>
     <string name="vb_video_effects_spatial">Traccia movimento della testa</string>
+    <string name="vb_video_effects_spatial_summary">"Regola suono immersivo basato sul movimento della testa
+*Supportato solo su modelli di auricolari da gioco"</string>
     <string name="vb_video_effects_srs_premium_sound">Suono</string>
     <string name="vb_video_super_division">Upscale</string>
     <string name="vb_video_super_division_desc">"La risoluzione upscala automaticamente quando è ≤720p.

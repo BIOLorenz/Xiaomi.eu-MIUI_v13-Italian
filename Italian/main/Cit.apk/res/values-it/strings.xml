@@ -73,12 +73,14 @@
     <string name="cancel">Annulla</string>
     <string name="charger_test_end">"
 Test caricabatterie terminato, prego scollega il caricabatterie"</string>
+    <string name="cit_DP_check_title">DP</string>
     <string name="cit_OTG_plug_check_summary">Durante il test collega il dispositivo all\'adattatore OTG USB, e quest\'ultimo ad altri dispositivi</string>
     <string name="cit_OTG_plug_check_title">OTG</string>
     <string name="cit_OTG_waiting_in">Collega un dispositivo USB OTG</string>
     <string name="cit_OTG_waiting_in_charge">Collega adattatore OTG USB ora</string>
     <string name="cit_OTG_waiting_out">Scollega il dispositivo USB OTG</string>
     <string name="cit_OTG_waiting_out_end">Collegare il dispositivo USB_OTG, termina test</string>
+    <string name="cit_USB3_check_title">USB3.0</string>
     <string name="cit_abnormal_reboot_summary">Attendere...Lettura dati di stabilità su questo dispositivo.</string>
     <string name="cit_abnormal_reboot_title">Dati stabilità dispositivo</string>
     <string name="cit_ac_charger_in">Ricarica via AC</string>
@@ -474,6 +476,7 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
     <string name="cit_tool_check_opt">sicuro?</string>
     <string name="cit_tool_check_opt_with_reboot">si riavvierà, sicuro?</string>
     <string name="cit_tool_current_modem_test_mode">Mod. Test Attuale:</string>
+    <string name="cit_tool_current_size">Dimensioni Attuali</string>
     <string name="cit_tool_drx_only">DRX</string>
     <string name="cit_tool_exit_modem_mbn">Ripristina a MBN automatico</string>
     <string name="cit_tool_getting_expired">Sta scadendo!</string>
@@ -691,6 +694,7 @@ Test fallito!"</string>
     <string name="mic_volume_height_tip">Test volume mic. Riuscito</string>
     <string name="mic_volume_low_tip">Test volume mic. non superato. Prego aumenta il tono della voce durante la registrazione</string>
     <string name="motor_calibration">Calibrazione Motore</string>
+    <string name="mtb_tool_modem_user_panel">Pannello Utente</string>
     <string name="nfc_disable_tip">Prego abilita la funzionalità NFC</string>
     <string name="nfc_not_available">NFC non disponibile</string>
     <string name="no_vibrator">Nessun motore di vibrazione</string>

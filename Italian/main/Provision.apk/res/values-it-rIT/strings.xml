@@ -611,6 +611,7 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="sim_card_detection_sb_esim">Attiva eSIM</string>
     <string name="sim_card_detection_sb_nonactivated">Non attivo</string>
     <string name="sim_card_do_not_select_dial_card">Seleziona la SIM quando telefoni</string>
+    <string name="sim_card_network_card">SIM Dati %d</string>
     <string name="sim_dectection_next">Continua</string>
     <string name="sim_redetection">Controlla di nuovo</string>
     <string name="sim_scard_detecting_check_mobile_not_available">"La tua scheda SIM non può connettersi ad una rete operatore valida. Assicurati di avere fondi sufficienti sul tuo saldo e prova a connetterti nuovamente."</string>
