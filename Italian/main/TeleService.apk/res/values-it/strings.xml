@@ -441,8 +441,6 @@ Selezione"</string>
     <string name="close_profile">Chiudi</string>
     <string name="close_volte">Disattiva VoLTE</string>
     <string name="config_default_data_sim">Impostazioni</string>
-    <string name="config_simUnlockUiClass">\@null</string>
-    <string name="config_simUnlockUiPackage">\@null</string>
     <string name="confirmPinLabel">Conferma il nuovo PIN</string>
     <string name="confirm_enable_oem_unlock_text">AVVISO. Le funzioni di protezione del dispositivo non funzionano su questo dispositivo se questa impostazione è attiva.</string>
     <string name="confirm_enable_oem_unlock_title">Consentire lo sblocco OEM?</string>
@@ -514,7 +512,6 @@ Selezione"</string>
     <string name="default_preference_summary_domain_address">&lt;Non impostato&gt;</string>
     <string name="default_preference_summary_password">&lt;Non impostato&gt;</string>
     <string name="default_preference_summary_username">&lt;Non impostato&gt;</string>
-    <string name="default_transport">UDP</string>
     <string name="delete">Elimina</string>
     <string name="delete_blob_confirmation_text">Eliminare i dati condivisi?</string>
     <string name="delete_blob_text">Elimina dati condivisi</string>
@@ -1128,7 +1125,6 @@ Selezione"</string>
     <string name="other_settings_categorys">Funzionalità aggiuntive</string>
     <string name="overlay_display_devices_title">Simula display secondari</string>
     <string name="overseas_roaming_setting">Roaming dati</string>
-    <string name="password">Password</string>
     <string name="password_changed">Password modificata</string>
     <string name="password_title">Password</string>
     <string name="password_toggle_content_description">Mostra password</string>
@@ -1164,7 +1160,6 @@ Il tuo telefono verrà bloccato automaticamente dopo un altro tentativo fallito"
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Overlay schermo che mostra i dati touch correnti</string>
     <string name="police_type_description">Polizia</string>
-    <string name="port">Porta</string>
     <string name="port_title">Numero porta</string>
     <string name="power_charging_duration">%1$s - %2$s rimanenti fino al completamento</string>
     <string name="power_charging_limited">%1$s - Ricarica temporaneamente limitata</string>
@@ -1267,12 +1262,8 @@ Il tuo telefono verrà bloccato automaticamente dopo un altro tentativo fallito"
     <string name="private_dns_mode_provider_failure">"Connessione fallita"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci il nome host del provider DNS</string>
     <string name="private_num">Numero privato</string>
-    <string name="process_kernel_label">Sistema operativo Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Spegni e riaccendi il dispositivo</string>
     <string name="profile_info_settings_title">Informazioni profilo</string>
-    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-    <string name="proxy_hostname_hint">proxy.example.com</string>
-    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="pstn_phone">Chiamata cellulare</string>
     <string name="puk2_label">Inserisci codice PUK2</string>
     <string name="puk_label">Inserisci codice PUK</string>
@@ -1395,7 +1386,6 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="send_button">Invia</string>
     <string name="send_keepalive_title">Invia keep-alive</string>
     <string name="sensor_answer_title">Solleva per rispondere</string>
-    <string name="set_primary">SetPrimary</string>
     <string name="set_smsc_address_timeout">Connessione scaduta</string>
     <string name="set_smsc_address_title">Imposta il numero del centro SMS</string>
     <string name="settings_label">Impostazioni di rete</string>
@@ -1602,7 +1592,6 @@ La tua SIM sarà bloccata dopo un altro tentativo fallito."</string>
     <string name="transcode_settings_title">Impostazioni transcodifica multimediale</string>
     <string name="transcode_user_control">Sovrascrivi transcodifica predefinita</string>
     <string name="transition_animation_scale_title">Scala animazione transizione</string>
-    <string name="transport">Protocollo</string>
     <string name="transport_title">Tipo di trasporto</string>
     <string name="trigger_carrier_provisioning">Attiva provisioning operatore</string>
     <string name="tts_default_lang_summary">Imposta la voce specifica della lingua per il testo parlato</string>
