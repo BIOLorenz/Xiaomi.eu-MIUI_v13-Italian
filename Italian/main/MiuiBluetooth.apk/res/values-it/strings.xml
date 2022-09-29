@@ -24,6 +24,7 @@
     <string name="abc_toolbar_collapse_description">Riduci</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="am">AM</string>
     <string name="app_name">Bluetooth MIUI</string>
     <string name="audio_relay_default_device_name">Altoparlante Mi IA</string>
     <string name="ble_device_address">Dispositivi smart MAC bluetooth</string>
@@ -230,7 +231,7 @@ Controlla le impostazioni per i dettagli."</string>
     <string name="fast_connect_new_feture_title">"Novità"</string>
     <string name="fast_connect_nzbt_reset">Tieni premuto il pulsante in alto per %1$s secondi mentre si spegne</string>
     <string name="fast_connect_reset_common">Esegui il reset del dispositivo, per poter eseguire l\'accoppiamento</string>
-    <string name="fast_connect_same_account_content">I dispositivi Bluetooth possono essere sincronizzati con il tuo Mi Account e connessi senza bisogno di associarli su altri dispositivi.</string>
+    <string name="fast_connect_same_account_content">I dispositivi Bluetooth possono essere sincronizzati con il tuo account Xiaomi e collegati senza accoppiarsi su altri dispositivi.</string>
     <string name="fast_connect_same_accout_devices_connecting">Connessione tramite Xiaomi Cloud…</string>
     <string name="fast_connect_same_accout_devices_title">"Hai collegato %1$s ad altri dispositivi"</string>
     <string name="fast_connect_same_accout_ok">Ok</string>
@@ -280,7 +281,9 @@ Protocollo di connessione più veloce."</string>
     <string name="get_target_info">Ottieni info</string>
     <string name="goto_package">Apri %1$s</string>
     <string name="headset_battery_fw_failed">Carica il dispositivo</string>
+    <string name="headset_battery_low">Batteria bassa. Carica gli auricolari adesso.</string>
     <string name="headset_connect_device">Connetti il dispositivo</string>
+    <string name="headset_connect_timeout">Connessione scaduta. Riavvia da capo.</string>
     <string name="headset_device_check_failed">"Impossibile verificare gli aggiornamenti"</string>
     <string name="headset_device_donot_move">Mantieni il dispositivo vicino</string>
     <string name="headset_device_enter_upgrade_failed">"Impossibile iniziare l'aggiornamento"</string>
@@ -310,6 +313,7 @@ Protocollo di connessione più veloce."</string>
     <string name="headset_loss_notify_summary">Sembra che almeno uno dei tuoi auricolari non sia nella custodia. Cercalo in giro!</string>
     <string name="headset_loss_notify_summary1">"Sembra che i tuoi auricolari non siano nella custodia. Rimettili a posto per caricarli."</string>
     <string name="headset_loss_notify_title">Avviso auricolare mancante</string>
+    <string name="headset_not_in_case">Mettere entrambi gli auricolari nel caso e ricominciare da capo</string>
     <string name="headset_read_fw_state">"Impossibile ottenere info sugli aggiornamenti"</string>
     <string name="headset_update_failed">"Impossibile aggiornare"</string>
     <string name="headset_update_ok">Fatto</string>
@@ -374,6 +378,8 @@ Protocollo di connessione più veloce."</string>
     <string name="midnight">Notte</string>
     <string name="miheadset_notification_Box">Custodia</string>
     <string name="miheadset_notification_Disconnect">Disconnetti</string>
+    <string name="miheadset_notification_LeftEar">L</string>
+    <string name="miheadset_notification_RightEar">R</string>
     <string name="mihome_app_download">Installa ora</string>
     <string name="mihome_app_update">Aggiorna ora</string>
     <string name="mihome_download_tips">Installa l\'app Mi Home, accedi e tieni il telefono vicino al dispositivo.</string>
@@ -408,6 +414,9 @@ Protocollo di connessione più veloce."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
+    <string name="module_feature_assets">asset</string>
+    <string name="module_java">java</string>
+    <string name="module_native">nativo</string>
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -483,6 +492,7 @@ Protocollo di connessione più veloce."</string>
     <string name="plugin_update_notification_summary">Attiva e disattiva il Bluetooth per completare l\'aggiornamento dei plugin Bluetooth</string>
     <string name="plugin_update_notification_title">Riavvia il Bluetooth</string>
     <string name="plugin_update_success">Aggiornamento plugin Bluetooth riuscito.</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="progress_scanning">Ricerca…</string>
@@ -522,6 +532,7 @@ Protocollo di connessione più veloce."</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="some_app_taking">(%1$s sta già utilizzando questa funzionalità)</string>
     <string name="start_speech">Avvia Discorso</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_speech">Interrompi Discorso</string>
     <string name="stylus_firmware_failed_summary">Attivare i servizi di localizzazione e riavviare il Bluetooth. Dopo di che, riattaccare la penna e riprovare.</string>
     <string name="stylus_firmware_failed_title">"Impossibile aggiornare il firmware"</string>
@@ -531,6 +542,7 @@ Protocollo di connessione più veloce."</string>
     <string name="stylus_firmware_update_summary">Aggiornamento firmware penna…</string>
     <string name="stylus_firmware_update_title">Firmware Penna</string>
     <string name="stylus_ota_check_update">Aggiorna</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

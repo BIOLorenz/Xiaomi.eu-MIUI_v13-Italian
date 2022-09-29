@@ -46,6 +46,7 @@
     <string name="ai_button_single_press_desc">Attivazione Mi IA</string>
     <string name="ai_button_title">A proposito del pulsante IA</string>
     <string name="album_introduction">Galleria ti permette di gestire, ottimizzare e modificare foto e video sul tuo dispositivo e di sincronizzarli con Xiaomi Cloud.</string>
+    <string name="am">AM</string>
     <string name="app_name">Introduzione</string>
     <string name="application_package_introduction">Questa app consente di installare applicazioni di terze parti, scansionarle prima dell\'installazione e fornire consigli dopo l\'installazione.</string>
     <string name="application_permissions">Autorizzazioni app</string>
@@ -131,7 +132,6 @@
     <string name="clock_introduction">È possibile utilizzare questa app per visualizzare l\'Ora, così come impostare Conti alla Rovescia (Timer), come Cronometro, impostare Sveglie e altro ancora.</string>
     <string name="close">Chiudi</string>
     <string name="close_location_service_setting">Puoi scegliere di disattivare l\'accesso alla posizione in Impostazioni &gt; Impostazioni aggiuntive &gt; Privacy o limitare i permessi per le singole applicazioni in Sicurezza.</string>
-    <string name="cloud_service_discount">Sconti piano di archiviazione</string>
     <string name="cm_terms_content">"Per migliorare i servizi forniti, il tuo gestore potrebbe caricare i tuoi dati personali e informazioni su questo dispositivo sui suoi server tramite rete Wi-Fi o connessione dati mobile. Queste informazioni verranno usati solo per scopi statistici al fine di migliorare la qualità dei servizi e fornire altri contenuti personalizzati. Queste informazioni non verranno utilizzate per identificarti e non verranno divulgate a terze parti\""</string>
     <string name="cm_terms_title">Regolamento Operatore Rete Mobile</string>
     <string name="compass_introduction">È possibile utilizzare questa app per la navigazione e per vedere coordinate attuali, pressione atmosferica e altitudine.</string>
@@ -147,6 +147,7 @@
     <string name="cookies_content_two">"Decidi se desideri che i nostri fornitori di contenuti di terze parti di fiducia utilizzino i cookie per personalizzare consigli e annunci di contenuti in base ai tuoi interessi."</string>
     <string name="cookies_title">Contenuti e cookie personalizzati</string>
     <string name="copy">Copia</string>
+    <string name="create_shortcut">Collegamento Home</string>
     <string name="data_traffic_enable_dialog_title">"Se non sei connesso al Wi-Fi, il tuo dispositivo utilizzerà i dati. L'utilizzo dei dati potrebbe generare costi aggiuntivi."</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
@@ -193,7 +194,6 @@
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
     <string name="evening">Pomeriggio</string>
-    <string name="exclusive_member_merchandise">Merce esclusiva</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="fast_application_introduction">Il Framework App Rapide consente di creare e fornire servizi in App Rapide.</string>
     <string name="fast_pairing_introduction">Mi Link consente di connettersi ai dispositivi Bluetooth nelle vicinanze. Per essere in grado di trovare dispositivi nelle vicinanze, consentire l\'accesso a internet a Mi Link.</string>
@@ -278,11 +278,10 @@
     <string name="locale_picker_title">Scegli il paese</string>
     <string name="location_U">U+ GPSnWPS</string>
     <string name="location_content">Ai sensi della legge, gli operatori possono ottenere le informazioni sulla posizionedei dispositivi mobili per soddisfare i requisiti delle agenzie di soccorso di emergenza (vigili del fuoco e polizia) che perseguono scopi di sicurezza e soccorso di emergenza.</string>
-    <string name="location_introduction">I servizi basati sulla posizione trovano prodotti e servizi più vicini a te.</string>
+    <string name="location_introduction">I servizi di localizzazione utilizzano il posizionamento per fornire servizi specifici di localizzazione.</string>
+    <string name="location_introduction_qcom">I servizi di localizzazione utilizzano il posizionamento per fornire servizi specifici di localizzazione. Quando i servizi di localizzazione sono utilizzati dal dispositivo, il modulo QCC si connetterà alla rete per velocizzare il processo di posizionamento.</string>
     <string name="location_location">Le agenzie di soccorso possono ottenere la tua posizione attuale su richiesta</string>
     <string name="lockscreen_introduction">Il Carosello Sfondo ti permette di ricevere nuove immagini per la schermata di blocco ogni giorno.</string>
-    <string name="member_exclusive_medal">Badge di iscrizione</string>
-    <string name="membership_rights_tip">Accedi al tuo Mi Account per ottenere vantaggi esclusivi</string>
     <string name="message_introduction">È possibile utilizzare questa app per inviare e ricevere SMS.</string>
     <string name="mi_account_introduction">Mi Account consente di registrarsi, accedere e gestire gli account di sistema.</string>
     <string name="midnight">Notte</string>
@@ -518,6 +517,7 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="permission_write_device_store">Salvare gli elementi nella memoria del dispositivo</string>
     <string name="permission_write_device_store_summary">Per cachare i file sorgente di configurazione scaricati.</string>
     <string name="permission_xunlei_introduction">Per accedere e gestire gli account di sistema in modo da fornire i servizi Xunlei</string>
+    <string name="pm">PM</string>
     <string name="poco_agree_terms_other">(Inclusi l\'Informativa sulla Privacy ed l\'Accordo Utente di POCO Launcher)</string>
     <string name="poco_launcher_privacy_policy">Informativa sulla privacy di POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Accordo utente di POCO Launcher</string>
@@ -610,6 +610,7 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="sim_card_detection_mobile_not_available">"La scheda SIM non può connettersi alla rete"</string>
     <string name="sim_card_detection_sb_esim">Attiva eSIM</string>
     <string name="sim_card_detection_sb_nonactivated">Non attivo</string>
+    <string name="sim_card_dial_card">SIM %d per le chiamate</string>
     <string name="sim_card_do_not_select_dial_card">Seleziona la SIM quando telefoni</string>
     <string name="sim_card_network_card">SIM Dati %d</string>
     <string name="sim_dectection_next">Continua</string>
@@ -645,6 +646,8 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="start_up_slogan">Solo tua</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_not_set">Non impostato</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
@@ -653,6 +656,7 @@ Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; 
     <string name="systemdesktop_introduction">Il Plugin servizi schermata Home fornisce funzionalità di base come schermata Home, interfaccia utente di sistema e screenshot.</string>
     <string name="term_condition_detail">"Ottieni ogni giorno immagini straordinarie e storie emozionanti sulla tua schermata di blocco. Questa funzionalità non utilizzerà i tuoi dati per la personalizzazione senza il tuo consenso. Leggi e accetta l'&lt;a href =%1$s&gt;Informativa sulla privacy&lt;/a&gt; e l'&lt;a href =%2$s&gt;Accordo utente&lt;/a&gt; del fornitore di contenuti di terze parti prima di utilizzare questa funzionalità."</string>
     <string name="terms_of_label_period">". "</string>
+    <string name="terms_of_label_separator">", "</string>
     <string name="terms_of_use">Termini e condizioni</string>
     <string name="terms_of_use_label_MSA">MSA</string>
     <string name="terms_of_use_label_Mistore">, plugin di sistema Mi Store</string>
@@ -756,7 +760,6 @@ Devi accettare l'Informativa sulla privacy della Tastiera Mint prima di utilizza
     <string name="title_set_fingerprint">Blocco schermo</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
-    <string name="trade_in">Permuta</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
@@ -783,9 +786,6 @@ Devi accettare l'Informativa sulla privacy della Tastiera Mint prima di utilizza
     <string name="wednesday_shortest">Mer</string>
     <string name="welcome">Benvenuto</string>
     <string name="withdraw_consent">In caso di revoca del consenso, i servizi di Carosello Sfondi verranno disattivati.</string>
-    <string name="xiaomi_game_discounts">Promozioni di gioco</string>
-    <string name="xiaomi_membership_rights">Abbonamento Xiaomi Cloud</string>
-    <string name="xiaomi_video_discount">Offerte Mi Video</string>
     <string name="xunlei_company_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/network/%s</string>
     <string name="xunlei_privacy_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/%s/?theme=light</string>
     <string name="yesterday">Ieri</string>

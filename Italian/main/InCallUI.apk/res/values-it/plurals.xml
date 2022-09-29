@@ -44,6 +44,46 @@
         <item quantity="other">Chiusura tra %1$s sec…</item>
         <item quantity="one">Chiusura tra %1$s sec…</item>
     </plurals>
+    <plurals name="call_log_day_in">
+        <item quantity="other">Questo numero ti ha chiamato %1$s giorni fa</item>
+        <item quantity="one">Questo numero ti ha chiamato %1$s giorno fa</item>
+    </plurals>
+    <plurals name="call_log_day_out">
+        <item quantity="other">Hai chiamato questo numero %1$s giorni fa</item>
+        <item quantity="one">Hai chiamato questo numero %1$s giorno fa</item>
+    </plurals>
+    <plurals name="call_log_hour_in">
+        <item quantity="other">Questo numero ti ha chiamato %1$s ore fa</item>
+        <item quantity="one">Questo numero ti ha chiamato %1$s ore fa</item>
+    </plurals>
+    <plurals name="call_log_hour_out">
+        <item quantity="other">Hai chiamato questo numero %1$s ore fa</item>
+        <item quantity="one">Hai chiamato questo numero %1$s ore fa</item>
+    </plurals>
+    <plurals name="call_log_minute_in">
+        <item quantity="other">Questo numero ti ha chiamato %1$s minuti fa</item>
+        <item quantity="one">Questo numero ti ha chiamato %1$s min fa</item>
+    </plurals>
+    <plurals name="call_log_minute_out">
+        <item quantity="other">Hai chiamato questo numero %1$s minuti fa</item>
+        <item quantity="one">Hai chiamato questo numero %1$s min fa</item>
+    </plurals>
+    <plurals name="call_log_month_in">
+        <item quantity="other">Questo numero ti ha chiamato %1$s mesi fa</item>
+        <item quantity="one">Questo numero ti ha chiamato %1$s mese fa</item>
+    </plurals>
+    <plurals name="call_log_month_out">
+        <item quantity="other">Hai chiamato questo numero %1$s mesi fa</item>
+        <item quantity="one">Hai chiamato questo numero %1$s mese fa</item>
+    </plurals>
+    <plurals name="call_log_year_in">
+        <item quantity="other">Questo numero ti ha chiamato %1$s anni fa</item>
+        <item quantity="one">Questo numero ti ha chiamato %1$s anno fa</item>
+    </plurals>
+    <plurals name="call_log_year_out">
+        <item quantity="other">Hai chiamato questo numero %1$s anni fa</item>
+        <item quantity="one">Hai chiamato questo numero %1$s anno fa</item>
+    </plurals>
     <plurals name="call_recording_notification_complete">
         <item quantity="other">%d chiamate registrate.</item>
         <item quantity="one">%d chiamata registrata.</item>

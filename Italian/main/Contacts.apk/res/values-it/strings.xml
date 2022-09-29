@@ -43,7 +43,7 @@
     <string name="add_field">Aggiungi un altro campo</string>
     <string name="add_field_toast">Nessun altro campo da aggiungere.</string>
     <string name="add_new_account">Aggiungi nuovo account</string>
-    <string name="add_xiaomi_account_dialog_btn">Usa Mi Account</string>
+    <string name="add_xiaomi_account_dialog_btn">Usa Account Xiaomi</string>
     <string name="add_xiaomi_account_dialog_msg">Usa il tuo Mi Account per sincronizzare ed eseguire il backup dei tuoi contatti tra vari dispositivi.</string>
     <string name="add_xiaomi_account_dialog_title">Scegli account</string>
     <string name="afternoon">Pomeriggio</string>
@@ -52,6 +52,7 @@
     <string name="aggregation_suggestion_join_dialog_message">Unire il contatto corrente al contatto selezionato?</string>
     <string name="ai_calllog_call_record_menu">Registrazione chiamate IA</string>
     <string name="all_list_empty">Nessun contatto</string>
+    <string name="am">AM</string>
     <string name="antispam_mark_my_contribution">Mostra ad altri utenti che ho segnalato questo numero</string>
     <string name="attach_photo_dialog_title">Foto del contatto</string>
     <string name="audio_chat">Chat vocale</string>
@@ -70,6 +71,7 @@
     <string name="bh_adjusting">Calibrazione…</string>
     <string name="bh_app_name">Servizi Operatore Mi</string>
     <string name="bh_app_name_short">Servizi Operatore</string>
+    <string name="bh_b">B</string>
     <string name="bh_back">Indietro</string>
     <string name="bh_bill_balance">Saldo</string>
     <string name="bh_bill_charge">Ricarica il saldo</string>
@@ -139,6 +141,7 @@
     <string name="bh_login_to_cancellation">Per essere in grado di annullare i servizi, accedere.</string>
     <string name="bh_login_to_withdrawal">Per poter revocare il consenso, accedere.</string>
     <string name="bh_mb">MB</string>
+    <string name="bh_minute">m</string>
     <string name="bh_misim_recharge">Ricarica</string>
     <string name="bh_mm">Telefono Mi</string>
     <string name="bh_more_recommend">Più consigli</string>
@@ -240,6 +243,7 @@
     <string name="bh_withdrawal_of_consent_long">Revoca autorizzazione...</string>
     <string name="bh_withdrawal_of_consent_result">"Se continui, revocherai il tuo consenso all'Informativa sulla Privacy dei Servizi Mi Carrier. Smetteremo di raccogliere e utilizzare le tue informazioni personali ed elimineremo la cronologia degli ordini in modo permanente. Assicurati che tutte le tue transazioni siano completate prima di revocare il consenso."</string>
     <string name="bh_wrong_number_hint">Inserisci un numero di telefono valido</string>
+    <string name="bh_yuan">CNY</string>
     <string name="bind_simcard_default">SIM predefinita per le chiamate</string>
     <string name="bind_simcard_menu">Imposta SIM predefinita per le chiamate</string>
     <string name="bind_simcard_no_dual">"Doppia SIM non trovata"</string>
@@ -247,7 +251,6 @@
     <string name="bind_simcard_title">SIM predefinita per le chiamate</string>
     <string name="bluetooth_connection_failed_toast">Connessione Bluetooth interrotta</string>
     <string name="blurbJoinContactDataWith">Scegli il contatto che desideri unire a %s:</string>
-    <string name="btn_call_fuhao_txt">Sub</string>
     <string name="btn_split_contact">Separa</string>
     <string name="button_cancel_scan">Interrompi</string>
     <string name="button_scan">Esegui di nuovo la scansione</string>
@@ -353,6 +356,7 @@
     <string name="callrecordview_menu_show_missed">Chiamate perse</string>
     <string name="callrecordview_menu_show_sim">%s chiamate</string>
     <string name="callrecordview_menu_show_stranger">Chiamate dai numeri sconosciuti</string>
+    <string name="callrecordview_menu_xiaoaiphone">Assistente Chiamata Mi AI</string>
     <string name="cancel">Annulla</string>
     <string name="cancel_confirmation_dialog_message">Annullare le modifiche?</string>
     <string name="cancel_confirmation_dialog_title">Annulla</string>
@@ -456,6 +460,7 @@
     <string name="composer_not_initialized">"Il compositore di vCard non si è avviato correttamente."</string>
     <string name="conference_call_disable_tip">"Impossibile effettuare chiamate. Assicurati che il tuo dispositivo sia connesso ad una rete 4G con supporto VoLTE."</string>
     <string name="config_export_file_extension">vcf</string>
+    <string name="config_export_vcard_type">v30_generic</string>
     <string name="confirm_call_log_dial_summary">Chiedi conferma prima di comporre dal registro chiamate per evitare chiamate accidentali.</string>
     <string name="confirm_call_log_dial_title">Conferma prima di comporre dal registro chiamate</string>
     <string name="confirm_delete_contact_all_call_logs">"Eliminare cronologia %s?"</string>
@@ -567,7 +572,6 @@ Mi Roaming deve connettersi a Internet e accedere alle informazioni sulla posizi
     <string name="description_image_button_eight">otto</string>
     <string name="description_image_button_five">cinque</string>
     <string name="description_image_button_four">quattro</string>
-    <string name="description_image_button_fuhao_named_dial">Sotto chiamata</string>
     <string name="description_image_button_nine">nove</string>
     <string name="description_image_button_one">uno</string>
     <string name="description_image_button_plus">Maggiore</string>
@@ -785,11 +789,6 @@ Motivo: \"%s\""</string>
     <string name="heavenly_stems_wu">Wu</string>
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
-    <string name="heduohao_fuhao_call_menu_title">Componi su %d</string>
-    <string name="heduohao_fuhao_order">Sub%d</string>
-    <string name="heduohao_label">HeDuoHao</string>
-    <string name="heduohao_main_call_menu_title">Componi su principale</string>
-    <string name="heduohao_popup_txt">Sub%d</string>
     <string name="hide_app_description_content">"Contatti è un'applicazione di sistema. Sarai ancora in grado di utilizzarli tramite l'app Telefono dopo aver rimosso il collegamento dalla schermata Home."</string>
     <string name="hide_app_description_title">Rimuovere \"Contatti\" dalla schermata Home?</string>
     <string name="hint_findContacts">Trova contatti</string>
@@ -825,7 +824,7 @@ Motivo: \"%s\""</string>
     <string name="import_to_xiaomi_account_confirm">Importa</string>
     <string name="import_to_xiaomi_account_progress_finish">Importazione completata</string>
     <string name="import_to_xiaomi_account_progress_message">Importazione…</string>
-    <string name="import_to_xiaomi_account_title">Vuoi importare i seguenti contatti sul tuo Mi Account?</string>
+    <string name="import_to_xiaomi_account_title">Importa su account Xiaomi</string>
     <string name="import_vcard_dialog_message">Importare vCard?</string>
     <string name="importing_sim_contacts_miui">Importazione contatti dalla SIM…</string>
     <string name="importing_sim_contacts_miui_prepare">Preparazione per l\'eliminazione…</string>
@@ -834,6 +833,11 @@ Motivo: \"%s\""</string>
     <string name="importing_vcard_finished_title">Importazione vCard %s terminata</string>
     <string name="insertContactDescription">Crea contatto</string>
     <string name="invalidContactMessage">"Contatto inesistente"</string>
+    <string name="invisible_mode_dialog_cancel">Annulla</string>
+    <string name="invisible_mode_dialog_to_close">Disattiva</string>
+    <string name="invisible_mode_title">"Sei in incognito"</string>
+    <string name="invisible_mode_unable_connect_camera">Disattivare la modalità Incognito per poter utilizzare la fotocamera. Disattivare ora?</string>
+    <string name="invisible_mode_unable_get_location">Disattivare la modalità Incognito per poter utilizzare i servizi di localizzazione e importare i contatti da altri dispositivi tramite Bluetooth. Disattivare ora?</string>
     <string name="item_offical">Ufficiale</string>
     <string name="keep_local">"Non sincronizzare"</string>
     <string name="keep_local_btn">"Usa la memoria interna del dispositivo\""</string>
@@ -1065,6 +1069,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="permission_retry_setting">Impostazioni</string>
     <string name="permission_write_external_storage_desc">Per salvare i dati dell\'app</string>
     <string name="phoneLabelsGroup">Telefono</string>
+    <string name="phone_info_divider">" | "</string>
     <string name="phone_number_too_long_toast">Numero troppo lungo</string>
     <string name="phone_primary">Primario</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>
@@ -1080,6 +1085,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="picker_postal_title">Scegli un codice postale</string>
     <string name="picker_recent_list_empty">Nessun contatto recente</string>
     <string name="pkgLabel">Contatti e tastierino</string>
+    <string name="pm">PM</string>
     <string name="postalLabelsGroup">Indirizzo</string>
     <string name="postal_address">Indirizzo</string>
     <string name="postal_city">Città</string>
@@ -1087,6 +1093,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="postal_postcode">Codice postale</string>
     <string name="postal_region">Provincia</string>
     <string name="postal_street">Via</string>
+    <string name="pound">\#</string>
     <string name="pref_key_photo_word_title">Foto per tutti</string>
     <string name="pref_key_rebuild_t9_index_message">Ricostruisci i dati dell\'indice per risolvere problemi con la ricerca</string>
     <string name="pref_key_rebuild_t9_index_title">Ricostruzione indice</string>
@@ -1096,9 +1103,9 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="pref_key_sim_manage">Gestione SIM</string>
     <string name="pref_key_sim_manage1">Configura SIM 1</string>
     <string name="pref_key_sim_manage2">Configura SIM 2</string>
-    <string name="pref_summary_import_from_account">Trasferisci contatti da Google o Exchange al tuo Mi Account</string>
+    <string name="pref_summary_import_from_account">Trasferisci contatti da account Google e Exchange al mio account Xiaomi</string>
     <string name="pref_title_account_import">Importa contatti</string>
-    <string name="pref_title_import_from_account">Vuoi importare i seguenti contatti sul tuo Mi Account?</string>
+    <string name="pref_title_import_from_account">Importa su account Xiaomi</string>
     <string name="preference_contacts">Contatti</string>
     <string name="preference_contacts_filter">Configura liste contatti</string>
     <string name="preference_contacts_more">Organizza contatti</string>
@@ -1132,6 +1139,9 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="preference_smart_group_title">Gruppi intelligenti</string>
     <string name="preference_tone_title">Toni</string>
     <string name="preference_yellowpage_function_setting">Impostazioni pagine gialle</string>
+    <string name="presentation_payphone">Telefono a gettoni</string>
+    <string name="presentation_private">Numero privato</string>
+    <string name="presentation_unknown">Numero sconosciuto</string>
     <string name="previous">Indietro</string>
     <string name="privacy_password_message1">La password di protezione privacy funziona per le app, foto, note e cartelle nascoste.</string>
     <string name="privacy_password_message2">Usa la password di protezione Privacy. Funziona per foto, note e cartelle nascoste.</string>
@@ -1174,6 +1184,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="private_num">Numero privato</string>
     <string name="profileSavedErrorToast">"Impossibile salvare le modifiche del mio profilo"</string>
     <string name="profileSavedToast">Il mio profilo è salvato</string>
+    <string name="profile_binded_numbers">%s</string>
     <string name="profile_delete_toast">Profilo eliminato correttamente</string>
     <string name="profile_name">Il mio profilo locale</string>
     <string name="profile_name_photo">Foto</string>
@@ -1207,6 +1218,7 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="remove_duplicate">"MIUI ti aiuterà a trovare ed unire i contatti duplicati.
 
 Tocca l'icona Unisci in basso per iniziare."</string>
+    <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE;android.permission.CALL_PHONE;android.permission.POST_NOTIFICATIONS</string>
     <string name="residual_time_description">%1$sgiorno%2$sora</string>
     <string name="residual_time_description2">%1$d o</string>
     <string name="residual_time_description3">%1$d m</string>
@@ -1372,6 +1384,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="starred_contacts">Preferiti</string>
     <string name="status_available">Disponibile</string>
     <string name="status_away">Assente</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Occupato</string>
     <string name="strequentList">Preferiti</string>
     <string name="success_message_import_from_account">Contato importato</string>
@@ -1495,6 +1508,7 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="video_chat">Chat video</string>
     <string name="viewContactDesription">Mostra contatto</string>
     <string name="viewContactTitle">Dettagli contatto</string>
+    <string name="view_more_call_logs">Mostra altro</string>
     <string name="view_updates_from_group">Visualizza aggiornamenti</string>
     <string name="voicemail">Segreteria</string>
     <string name="websiteLabelsGroup">Sito web</string>
@@ -1511,4 +1525,5 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="yellowpage_search_the_yellowpage">Cerca nella cartella</string>
     <string name="yesterday">Ieri</string>
     <string name="zero_items_selected">Seleziona elementi</string>
+    <string name="zero_letter">+</string>
 </resources>

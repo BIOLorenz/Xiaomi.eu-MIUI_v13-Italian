@@ -30,11 +30,13 @@
     <string name="ai_mode_auto">Auto</string>
     <string name="ai_mode_manual">Manuale</string>
     <string name="ai_mode_subtitles">Sottotitoli</string>
+    <string name="am">AM</string>
     <string name="antifraud_center">Piattaforma di allarme antifrode</string>
     <string name="antifraud_center_incoming_prompt">"Non perdetevi le chiamate dalla piattaforma ufficiale di avvertimento antifrode"</string>
     <string name="antispam_local_marked">Segnalato localmente</string>
     <string name="antispam_notification_title">Numero sconosciuto</string>
     <string name="antispam_provider">Identificato da %s</string>
+    <string name="app_name">blur</string>
     <string name="bluetooth_permission_content">I permessi di sistema sono stati aggiornati. Consenti a questa app di accedere ai nomi dei tuoi dispositivi Bluetooth per poterli visualizzare.</string>
     <string name="bluetooth_permission_grant_immediately">Consenti</string>
     <string name="bluetooth_permission_later">Non ora</string>
@@ -68,6 +70,8 @@
     <string name="call_button_tools_text">Funzioni</string>
     <string name="call_contacts_deny_permission_msg">"Hai limitato i permessi di lettura dei contatti, impossibile mostrare le informazioni del contatto."</string>
     <string name="call_description_recording">Registrazione…</string>
+    <string name="call_log_short_in">Questo numero ti ha appena chiamato</string>
+    <string name="call_log_short_out">Hai appena chiamato questo numero</string>
     <string name="call_not_support_high_frequency_click">"Non premere il tasto troppo di frequente"</string>
     <string name="call_progress_info_call_forwarding">Questa chiamata è stata inoltrata</string>
     <string name="call_progress_info_call_rejected">L\'altra persona è occupata. Richiamala più tardi.</string>
@@ -95,6 +99,10 @@
     <string name="call_recording_notification_title_error">"Non è stato possibile registrare la chiamata"</string>
     <string name="caller_info_name_delimiter">" o "</string>
     <string name="caller_manage_header">Audioconferenza %s</string>
+    <string name="camera_on">L\'altra persona vuole attivare la fotocamera.</string>
+    <string name="camera_on_agree">Consenti</string>
+    <string name="camera_on_refuse">"Non consentire"</string>
+    <string name="camera_on_title">Fotocamera</string>
     <string name="can_not_use">"Impossibile utilizzare"</string>
     <string name="cancel">Annulla</string>
     <string name="card_title_answering">Risposta</string>
@@ -226,14 +234,28 @@
     <string name="description_target_answer">Scorri in alto per rispondere</string>
     <string name="dialpad_abc">ABC</string>
     <string name="dialpad_def">DEF</string>
+    <string name="dialpad_eight">8</string>
+    <string name="dialpad_five">5</string>
+    <string name="dialpad_four">4</string>
     <string name="dialpad_ghi">GHI</string>
     <string name="dialpad_jkl">JKL</string>
     <string name="dialpad_mno">MNO</string>
+    <string name="dialpad_nine">9</string>
+    <string name="dialpad_one">1</string>
+    <string name="dialpad_pound">\#</string>
     <string name="dialpad_pqrs">PQRS</string>
+    <string name="dialpad_seven">7</string>
+    <string name="dialpad_six">6</string>
     <string name="dialpad_star">*</string>
+    <string name="dialpad_three">3</string>
     <string name="dialpad_tuv">TUV</string>
+    <string name="dialpad_two">2</string>
     <string name="dialpad_wxyz">WXYZ</string>
+    <string name="dialpad_zero">0</string>
     <string name="do_not_support_video_calls_by_remote">"Le videochiamate non sono supportate dall'altro dispositivo"</string>
+    <string name="dsda_answer_call_prompt">Accettando questa chiamata, terminerà quella in corso.</string>
+    <string name="dsda_not_incall_sim_mo_fail_desc">"Impossibile utilizzare la SIM %1$d per le chiamate in corso. L'ambiente di rete attuale non supporta la funzionalità dual SIM."</string>
+    <string name="dsda_swap_call_prompt">"Se continui, verrai passato a una chiamata vocale."</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -395,6 +417,7 @@
     <string name="morning">Mattina</string>
     <string name="msim_select_default_last">Usato di recente</string>
     <string name="msim_select_default_time_left">(%d sec)</string>
+    <string name="multi_call_manager_other_calls">Altre chiamate (%1$d)</string>
     <string name="night">Sera</string>
     <string name="noon">Mezzogiorno</string>
     <string name="notification_action_accept">Accetta</string>
@@ -422,6 +445,10 @@
     <string name="onscreen_change_to_video">Videochiamata</string>
     <string name="onscreen_change_to_voice">Chiamata vocale</string>
     <string name="onscreen_close_preview_camera">Chiudi</string>
+    <string name="onscreen_collapsed">Riduci</string>
+    <string name="onscreen_collapsed_dialpad">Mostra tastierino</string>
+    <string name="onscreen_expand">Altro</string>
+    <string name="onscreen_expand_dialpad">Nascondi tastierino</string>
     <string name="onscreen_hold_text">In attesa</string>
     <string name="onscreen_merge_calls_text">Unisci chiamate</string>
     <string name="onscreen_message_text">SMS</string>
@@ -433,7 +460,9 @@
     <string name="pause_prompt_no">No</string>
     <string name="pause_prompt_yes">Sì</string>
     <string name="payphone">Telefono a gettoni</string>
+    <string name="phone_info_divider">" | "</string>
     <string name="picking_participant">Recupero informazioni di contatto…</string>
+    <string name="pm">PM</string>
     <string name="private_num">Numero privato</string>
     <string name="prompt_no_volte_when_failed">"Il servizio VoLTE non è disponibile."</string>
     <string name="relay_cal_from_device_name">Da: %1$s</string>
@@ -445,6 +474,7 @@
     <string name="relay_network_error">Errore rete</string>
     <string name="relay_network_error_msg">"Non è possibile effettuare chiamate su questo dispositivo a causa di un errore di rete. Torna al telefono."</string>
     <string name="remind_unlock_message">Il tuo dispositivo è stato bloccato. \"%s\" sarà di nuovo disponibile dopo lo sblocco del dispositivo. Sbloccare adesso?</string>
+    <string name="required_permissions">android.permission.READ_CONTACTS;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.BLUETOOTH_CONNECT;android.permission.READ_CALL_LOG</string>
     <string name="respond_via_sms_custom_message">Messaggio personalizzato…</string>
     <string name="saf_permission_content">"Le autorizzazioni di sistema sono state aggiornate. Per poter registrare le chiamate, concedi prima la tua autorizzazione.
 
@@ -459,6 +489,11 @@ Tocca \"%1$s\" e quindi seleziona \"%2$s\"."</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
+    <string name="screen_share">Assistenza remota</string>
+    <string name="screen_share_agree">Consenti</string>
+    <string name="screen_share_connecting">Connessione…</string>
+    <string name="screen_share_message">Permetti all\'altra persona di visualizzare lo schermo in tempo reale?</string>
+    <string name="screen_share_refuse">Annulla</string>
     <string name="search_menu_title">Cerca</string>
     <string name="select_audio_dialog_title">Scegli la mod. di risposta</string>
     <string name="select_one_sim_title">Puoi utilizzare solo la SIM %1$d</string>
@@ -500,6 +535,7 @@ Tocca \"%1$s\" e quindi seleziona \"%2$s\"."</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="speakerphone_tip">Piega il dispositivo per utilizzare l\'auricolare o altoparlante</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -571,5 +607,6 @@ Tocca \"%1$s\" e quindi seleziona \"%2$s\"."</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
     <string name="wifi_call">Chiamata VoWiFi</string>
+    <string name="xiaoai_assistant">Assistente Chiamata Mi AI</string>
     <string name="yesterday">Ieri</string>
 </resources>

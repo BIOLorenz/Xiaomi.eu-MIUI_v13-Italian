@@ -35,8 +35,35 @@
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
+    <string name="access_denied_info">Troppi tentativi. Attendi e riprova.</string>
     <string name="account_and_cloud">Account</string>
+    <string name="account_crop_user_avatar">Ritaglia foto</string>
+    <string name="account_empty_user_name">Inserisci il nome utente del tuo Mi Account</string>
+    <string name="account_error_all_space_user_name">"\"Il nome utente non può contenere  spazi"</string>
+    <string name="account_error_invalid_user_name">"Il nome utente non può contenere: &lt;, &gt;, o /"</string>
+    <string name="account_error_longer_user_name">"Il nome utente non può essere più lungo di 20 caratteri"</string>
+    <string name="account_error_shorter_user_name">Il nome deve essere più lungo di 2 caratteri</string>
+    <string name="account_error_user_birthday">Il compleanno inserito non è valido</string>
+    <string name="account_error_user_name">Soprannome non valido. Provarne uno diverso.</string>
+    <string name="account_invalid_user_avatar">Foto non valida</string>
+    <string name="account_limit_update_birthday">"Impossibile aggiornare il compleanno in questo momento"</string>
     <string name="account_logout">Disconetti</string>
+    <string name="account_no_set">Nessuno</string>
+    <string name="account_none_bind_info">Nessuno</string>
+    <string name="account_none_user_name">Nessuno</string>
+    <string name="account_secure_info_pref_title">Info account</string>
+    <string name="account_security_info_pref_title">Info di sicurezza</string>
+    <string name="account_user_avatar">Foto profilo</string>
+    <string name="account_user_avatar_from_album">Galleria</string>
+    <string name="account_user_avatar_from_camera">Fotocamera</string>
+    <string name="account_user_base_info">Info di base</string>
+    <string name="account_user_details">Info personali</string>
+    <string name="account_user_email">Recupera email</string>
+    <string name="account_user_gender">Genere</string>
+    <string name="account_user_id">ID Mi Account</string>
+    <string name="account_user_name">Soprannome</string>
+    <string name="account_user_name_dialog_title">Inserisci username</string>
+    <string name="account_user_phone">Numero di telefono di recupero</string>
     <string name="action_item_add">Aggiungi</string>
     <string name="action_item_add_song">Aggiungi</string>
     <string name="action_item_add_to_current_playlist">Playlist attuale</string>
@@ -55,6 +82,8 @@
     <string name="action_item_share">Condividi</string>
     <string name="action_settings">Impostazioni</string>
     <string name="actionbar_button_up_description">Indietro</string>
+    <string name="activate_email_notice">Assicurati di attivare il tuo account entro 24 ore</string>
+    <string name="activity_not_found_notice">"Impossibile trovare l'app"</string>
     <string name="ad_close">Chiudi</string>
     <string name="ad_data_exception">Eccezione dati AD!</string>
     <string name="ad_recommend">Suggerimenti AD</string>
@@ -64,6 +93,7 @@
     <string name="add_to_last_of_playlist">Aggiungi alla fine della playlist.</string>
     <string name="add_to_playlist">Aggiungi alla coda</string>
     <string name="add_to_playlist_successful">Aggiunto con successo</string>
+    <string name="add_to_trust_device">Questo device è affidabile</string>
     <string name="added_next_play">Aggiunto alla prossima riproduzione</string>
     <string name="afternoon">PM</string>
     <string name="agreement_desc">Accordo utente (obbligatorio)</string>
@@ -85,19 +115,28 @@
     <string name="already_download_btn">Download in corso…</string>
     <string name="already_favorited">Già nei Preferiti</string>
     <string name="always_use_metered">Utilizza sempre i dati</string>
+    <string name="am">AM</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_description_content">"Musica è un'applicazione di sistema che contiene un lettore audio e consente di gestire i file audio. Sarai ancora in grado di riprodurre file audio dopo aver rimosso il collegamento della schermata iniziale."</string>
     <string name="app_description_title">Rimuovere \"Musica\" dalla schermata Home?</string>
+    <string name="app_disable_description_content">Mi Music è un\'app di sistema. Se la disattivi, questo potrebbe influenzare l\'utilizzo di altre applicazioni. Disabilitare comunque?</string>
+    <string name="app_disable_description_title">Disattivare l\'app di sistema?</string>
     <string name="app_label">Download</string>
+    <string name="app_name">MarketDeveloper</string>
     <string name="app_permission_confirm">Ok</string>
     <string name="app_permission_optional">可选权限</string>
     <string name="app_permission_require">必要权限</string>
     <string name="app_permission_use_desc">Permessi</string>
     <string name="app_permission_use_group_account">Account</string>
-    <string name="app_permission_use_group_account_desc">Per il recupero di info su Mi Account</string>
+    <string name="app_permission_use_group_account_desc">Per ottenere informazioni sull\'account Xiaomi</string>
     <string name="app_permission_use_group_phone">Telefono</string>
     <string name="app_permission_use_group_phone_desc">Per i servizi Google Pushs</string>
     <string name="app_permission_use_group_storage">Archiviazione</string>
     <string name="app_permission_use_group_storage_desc">Per la ricerca e la riprodizione di brani salvati sul dispositivo</string>
+    <string name="apply_for_the_following_permissions">Questa app richiede i seguenti permessi:</string>
+    <string name="apply_permissions_greater_than_pie">Puoi concedere questa autorizzazione in Impostazioni &gt; Applicazioni &gt; Autorizzazioni &gt; Autorizzazioni &gt; File e media &gt; Musica.</string>
+    <string name="apply_permissions_less_than_pie">Puoi concedere questa autorizzazione in Impostazioni &gt; Applicazioni &gt; Autorizzazioni &gt; Autorizzazioni &gt; Accesso e modifica dei file sulla memoria interna &gt; Musica.</string>
+    <string name="apply_permissions_tips_content">Consenti a questa app di accedere ai file per scoprire la musica sul tuo dispositivo.</string>
     <string name="artist">Artisti</string>
     <string name="artist_area_all">Tutto</string>
     <string name="artist_area_china">Cina</string>
@@ -114,6 +153,7 @@
     <string name="audio_ad_countdown">Salta annuncio tra %ss</string>
     <string name="audio_ad_pass">Salta annuncio</string>
     <string name="audio_picker_title">Scegli un brano</string>
+    <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo.</string>
     <string name="auto_recommend">Auto (consigliato)</string>
     <string name="auto_sound_quality">Auto</string>
     <string name="auto_update">Aggiorna automaticamente</string>
@@ -142,7 +182,9 @@
     <string name="cancel">Annulla</string>
     <string name="cancel_running_download">Annulla</string>
     <string name="cannot_download_to_sdcard_hint">"Impossibile scaricare gli elementi sulla scheda SD a causa di restrizioni del copyright. Gli elementi saranno scaricati nella memoria interna."</string>
+    <string name="change_activate_email">Cambia indirizzo email</string>
     <string name="change_download_quality">Modifica qualità download</string>
+    <string name="change_password">Cambia password</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
@@ -222,6 +264,9 @@
     <string name="choose_download_quality">Seleziona la qualità dei download</string>
     <string name="choose_music_lang_pref">Lingue preferite per le canzoni</string>
     <string name="choose_stream_quality">Seleziona la qualità dello streaming</string>
+    <string name="clause_content_first">In base ai requisiti di legge, Mi Music ha bisogno del tuo consenso per fornirti i servizi pertinenti.</string>
+    <string name="clause_content_second">"Proteggeremo le tue informazioni personali in conformità agli standard di sicurezza del settore."</string>
+    <string name="clause_content_third">Puoi revocare il tuo consenso in qualsiasi momento nelle Impostazioni.</string>
     <string name="clear_text_end_icon_content_description">Cancella testo</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="click_and_watch_video_tip">Tocca per riprodurre il video musicale</string>
@@ -229,6 +274,7 @@
     <string name="click_to_shuffle">Riproduzione casuale</string>
     <string name="close">Chiudi</string>
     <string name="close_music_time">"Tempo rimanente: "</string>
+    <string name="collect_diagnosis_log">Raccogli logs</string>
     <string name="columbus_ad_flag_text">Annuncio</string>
     <string name="columbus_player_close_desc">Perderai il premio</string>
     <string name="columbus_player_close_resume">RIPRENDI IL VIDEO</string>
@@ -240,6 +286,8 @@
     <string name="columbus_player_speed_video">Salta Il VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Salta</string>
+    <string name="com.crashlytics.android.build_id">cd77b148b2d042b99f50c8639d162e49</string>
+    <string name="com.miapm.build_id">be30b4f65c0e42f1a9ae4594571a1229</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Attiva</string>
     <string name="common_google_play_services_enable_text">"%1$s non funzionerà se non attiverai i servizi di Google Play."</string>
@@ -260,10 +308,13 @@
     <string name="common_signin_button_text">Accedi</string>
     <string name="common_signin_button_text_long">Accedi con Google</string>
     <string name="confirm">OK</string>
+    <string name="confirm_activate_email">Verificato</string>
     <string name="confirm_exit">Salvare i cambiamenti?</string>
     <string name="connect_now">Connetti</string>
     <string name="connecting_apk">Connessione…</string>
+    <string name="content_country_key">content_country</string>
     <string name="content_failed_to_load">"Impossibile caricare il contenuto"</string>
+    <string name="content_language_key">content_language</string>
     <string name="copy">Copia</string>
     <string name="count_format">%2$1.1fK</string>
     <string name="count_format_float">%2$1.1fK</string>
@@ -274,6 +325,7 @@
     <string name="create_playlist_input_hint">Inserisci il nome della playlist</string>
     <string name="current_album">Album attuale</string>
     <string name="current_lyric">Testi attuali</string>
+    <string name="current_service_key">servizio</string>
     <string name="current_version">Versione</string>
     <string name="daily_recommendation">Mix giornaliero</string>
     <string name="dark_mode">Mod. scura</string>
@@ -283,6 +335,7 @@
     <string name="date_format_str">dd-MM-yyyy</string>
     <string name="date_picker_lunar">Calendario Lunare</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
+    <string name="default_localization_key">sistema</string>
     <string name="delete">Elimina</string>
     <string name="delete_download">Elimina</string>
     <string name="delete_file_as_well">Elimina anche il file locale</string>
@@ -303,6 +356,10 @@
     <string name="develop_mode">Mod. sviluppatore</string>
     <string name="device_connected">Connesso</string>
     <string name="device_not_connected">Non connesso</string>
+    <string name="diagnosis_log_send_failed">"Impossibile inviare i log. Riprova."</string>
+    <string name="diagnosis_log_sent_format">"Log inviati con successo.
+ID:%s
+Invia questo codice al supervisore."</string>
     <string name="dialog_cannot_resume">"Download interrotto. Non può essere ripreso."</string>
     <string name="dialog_clear_history">Cancellare l\'elenco delle canzoni riprodotte di recente?</string>
     <string name="dialog_confirm_delete_checkbox_message">Elimina anche i file locali</string>
@@ -354,6 +411,7 @@
     <string name="discover_more_music">Scopri altre canzoni</string>
     <string name="do_not_remind_this_version">"Non ricordarmi di questa versione"</string>
     <string name="do_not_support_google_voice_search">"Ricerca Vocale Google non è supportata sul tuo dispositivo."</string>
+    <string name="doing_query_account">Controllo info account…</string>
     <string name="download">Scarica</string>
     <string name="download_added_to_list">Aggiunto alla lista download</string>
     <string name="download_apk_desktop_installing">Installazione</string>
@@ -390,7 +448,10 @@
     <string name="download_method">Scarica</string>
     <string name="download_no_application_title">"Impossibile aprire il file"</string>
     <string name="download_paused_in_power_save_mode">Il dispositivo è in Mod. Risparmio Energetico, download in pausa</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Download in corso…</string>
+    <string name="download_progress">%d%%</string>
+    <string name="download_progress_detail" formatted="false">%.1fM/%.1fM</string>
     <string name="download_quality">Qualità download</string>
     <string name="download_quality_summary">Impostazioni aggiuntive per i brani scaricati</string>
     <string name="download_queued">In coda</string>
@@ -429,7 +490,10 @@
     <string name="downloading_empty">Vuoto</string>
     <string name="downloading_pause_apk">Pausa...Continua a scaricare nella barra delle notifiche o sul desktop</string>
     <string name="due_date">In Data: %s</string>
+    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatlong_with">%2$02d:%5$02d.%6$02d</string>
+    <string name="durationformatshort">%2$d:%5$02d</string>
+    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="early_morning">AM</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -450,6 +514,7 @@
     <string name="enjoy_hungama_pro">Goditi Hungama PRO</string>
     <string name="enroll_in">Iscriviti</string>
     <string name="enter_garbage_clean">Pulisci memoria interna.</string>
+    <string name="entertainment">Intrattenimento</string>
     <string name="eq_auto">Personalizza</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_classical">Classica</string>
@@ -470,26 +535,40 @@
     <string name="equalizer">Equalizzatore</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">AC</string>
+    <string name="error_dup_binded_email">Questa email è già associata ad un altro MI account.</string>
     <string name="error_icon_content_description">Errore</string>
+    <string name="error_invalid_bind_address">Questo indirizzo email non è valido.</string>
     <string name="error_message_no_internet_connection">Impossibile connettersi a Internet. Controlla la connessione Internet e riprova.</string>
     <string name="error_message_something_went_wrong">Qualcosa è andato storto, riprova.</string>
     <string name="error_not_support">Non supportato</string>
     <string name="evening">PM</string>
+    <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro MI account.</string>
+    <string name="exo_controls_cc_disabled_description">Abilita sottotitoli</string>
+    <string name="exo_controls_cc_enabled_description">Disabilita sottotitoli</string>
+    <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
     <string name="exo_controls_fastforward_description">Avanti veloce</string>
-    <string name="exo_controls_fullscreen_description">Mod. a schermo intero</string>
+    <string name="exo_controls_fullscreen_enter_description">Attiva schermo intero</string>
+    <string name="exo_controls_fullscreen_exit_description">Disattiva schermo intero</string>
     <string name="exo_controls_hide">Nascondi i controlli di riproduzione</string>
-    <string name="exo_controls_next_description">Prossima traccia</string>
+    <string name="exo_controls_next_description">Successivo</string>
+    <string name="exo_controls_overflow_hide_description">Nascondi impostazioni aggiuntive</string>
+    <string name="exo_controls_overflow_show_description">Mostra impostazioni aggiuntive</string>
     <string name="exo_controls_pause_description">Pausa</string>
     <string name="exo_controls_play_description">Riproduci</string>
-    <string name="exo_controls_previous_description">Traccia precedente</string>
+    <string name="exo_controls_playback_speed">Velocità</string>
+    <string name="exo_controls_playback_speed_normal">Normale</string>
+    <string name="exo_controls_previous_description">Indietro</string>
     <string name="exo_controls_repeat_all_description">Ripeti tutto</string>
     <string name="exo_controls_repeat_off_description">Non ripetere</string>
     <string name="exo_controls_repeat_one_description">Ripeti una volta</string>
     <string name="exo_controls_rewind_description">Riavvolgi</string>
+    <string name="exo_controls_seek_bar_description">Avanzamento riproduzione</string>
+    <string name="exo_controls_settings_description">Impostazioni</string>
     <string name="exo_controls_show">Mostra controlli di riproduzione</string>
     <string name="exo_controls_shuffle_off_description">Casuale Spento</string>
     <string name="exo_controls_shuffle_on_description">Riproduzione Casuale</string>
     <string name="exo_controls_stop_description">Interrompi</string>
+    <string name="exo_controls_time_placeholder">00:00:00</string>
     <string name="exo_controls_vr_description">Mod. VR</string>
     <string name="exo_download_completed">Download completato</string>
     <string name="exo_download_description">Scarica</string>
@@ -497,10 +576,13 @@
     <string name="exo_download_failed">Download non riuscito</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_media_action_repeat_all_description">Ripeti tutto</string>
     <string name="exo_media_action_repeat_off_description">Non ripetere</string>
     <string name="exo_media_action_repeat_one_description">Ripeti una volta</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -518,6 +600,8 @@
     <string name="expand_button_title">Avanzate</string>
     <string name="expired">Scaduto</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a tendina</string>
+    <string name="facebook_login_btn_content_description">Accedi con Facebook</string>
+    <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="facebook_not_installed">Installa prima Facebook.</string>
     <string name="fail_to_fetch_payment_page_url">"Impossibile ottenere info pagamento"</string>
     <string name="fail_to_play">"Impossibile riprodurre"</string>
@@ -526,7 +610,7 @@
     <string name="failed_to_connect_hint">Controlla le tue impostazioni di rete e prova di nuovo</string>
     <string name="failed_to_connect_text">"Impossibile connettersi alla rete"</string>
     <string name="fans">Follower</string>
-    <string name="fav_login_msg">Accedi al tuo Mi Account per scaricare canzoni</string>
+    <string name="fav_login_msg">Accedi al tuo account Xiaomi per scaricare le canzoni</string>
     <string name="favorite_canceled">Rimosso dai Preferiti</string>
     <string name="favorite_playlist">Preferiti</string>
     <string name="favorite_singer">Artisti preferiti</string>
@@ -537,6 +621,7 @@
     <string name="fcm_fallback_notification_channel_label">Altre</string>
     <string name="feed_back">Segnalazione</string>
     <string name="feedback_send_email_body_extra_info">Non cancellare le seguenti informazioni. Ci aiuteranno a individuare il problema.</string>
+    <string name="file_and_media_permissions_for_display">Accesso ai file: per la scansione, la visualizzazione e la riproduzione di file locali</string>
     <string name="file_not_found">"File inesistente"</string>
     <string name="filter_by_MP4">Mostra cartelle con file MP4</string>
     <string name="filter_by_duration">Per durata</string>
@@ -594,6 +679,7 @@
     <string name="fmt_weekday_timezone">zW</string>
     <string name="follow">Segui</string>
     <string name="followed">Stai seguendo</string>
+    <string name="for_diagnosis_usage_only">I log sono utilizzati solo per la diagnostica.</string>
     <string name="format_not_support">"Formato non valido, impossibile salvare."</string>
     <string name="format_unsupported_or_corrupted">"Formato non supportato o file corrotto"</string>
     <string name="fragment_title_artist_album">Album</string>
@@ -605,14 +691,20 @@
     <string name="get_more_favorite_content_after_login">Accedi per scoprire più canzoni e video.</string>
     <string name="get_one_day_vip">Hai ottenuto %d giorni di VIP!</string>
     <string name="get_one_hour_vip">Hai ottenuto %d ore di VIP!</string>
+    <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
     <string name="get_vip">Diventa VIP</string>
+    <string name="getverifycode_seconde">s</string>
+    <string name="go_agree">OK</string>
     <string name="google_account_login">Accedi con Google</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
+    <string name="google_login_btn_content_description">Accedi con Google</string>
     <string name="goto_local_search">Cerca nel dispositivo</string>
     <string name="goto_online_search">Cerca online</string>
     <string name="gps_prompt_context">Scaricare con rete mobile?</string>
     <string name="gps_prompt_title">Suggerimenti</string>
     <string name="handle_later">Non adesso</string>
     <string name="hd_quality_audio">Qualità audio HD</string>
+    <string name="header_help">Guida</string>
     <string name="headset_and_audio_effect_category">Effetti</string>
     <string name="headset_and_audio_effect_summary">Auricolari ed equalizzatore</string>
     <string name="headset_and_audio_effect_title">Effetti</string>
@@ -641,6 +733,7 @@
     <string name="home_tab_recommend">Online</string>
     <string name="home_tab_search">Cerca</string>
     <string name="home_tab_yandex">Yandex.Music</string>
+    <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama">Hungama</string>
     <string name="hungama_batch_download_alert_summary">Solo i membri PRO possono scaricare più brani. Acquistare un abbonamento PRO ora?</string>
     <string name="hungama_batch_download_alert_summary_toast">Compra un abbonamento per scaricare l\'intera playlist.</string>
@@ -663,6 +756,7 @@
     <string name="hungama_subscribe_title">Abbonamento PRO</string>
     <string name="i_know">OK</string>
     <string name="icon_content_description">Icona di dialogo</string>
+    <string name="id_namespace">hungama</string>
     <string name="imported">Importato</string>
     <string name="impunity_declaration_content">Dovrai leggere e concordare con il nostro &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Accordo utente&lt;/a&gt; e la nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Informativa sulla Privacy&lt;/a&gt; prima di utilizzare il prodotto.</string>
     <string name="impunity_declaration_ignore">"Non mostrare più"</string>
@@ -672,6 +766,7 @@
     <string name="impunity_declaration_summary">Mostra l\'avviso delle Condizioni d\'uso di Baidu Online Music Service ad ogni apertura</string>
     <string name="impunity_declaration_title">Condizioni d\'uso</string>
     <string name="in_searching_please_wait">Ricerca…</string>
+    <string name="include_sensitive_extra">falso</string>
     <string name="individuation_card_login_button">Accedi</string>
     <string name="individuation_card_login_message">"Accedi per trovare altre canzoni che amerai"</string>
     <string name="individuation_card_title">Per te</string>
@@ -687,6 +782,7 @@
     <string name="info_product">Dispositivo:</string>
     <string name="info_system">Sistema:</string>
     <string name="info_system_version">Versione di sistema:</string>
+    <string name="input_email_address_notice">"Useremo questa email per verificare il tuo account"</string>
     <string name="input_hint_prefix">Inserisci %1$s</string>
     <string name="installing_apk">Installazione…</string>
     <string name="insufficient_space">"Spazio insufficiente sulla memoria interna"</string>
@@ -696,7 +792,7 @@
     <string name="is_scanning_support_online">"Scansione, 
 attendere o selezionare Musica Online."</string>
     <string name="item_view_role_description">Tocca</string>
-    <string name="joox_account_bind_mi_account">Aggiungi Mi Account</string>
+    <string name="joox_account_bind_mi_account">Aggiungi Account Xiaomi</string>
     <string name="joox_account_cancel_login">Annulla</string>
     <string name="joox_account_continue_login">Accedi</string>
     <string name="joox_account_fans_center">Centro Fan</string>
@@ -753,12 +849,21 @@ attendere o selezionare Musica Online."</string>
     <string name="language_preference_desc">Seleziona le tue lingue preferite per ricevere consigli più pertinenti</string>
     <string name="languages">Lingue</string>
     <string name="latest_song">Riproduci cronologia (%d).</string>
+    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_isOpenSource">vero</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API SQLite Android basate su SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher per Android</string>
+    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
+    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
+    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="like">Mi piace</string>
     <string name="list_item_play_all_tracks">Riproduci tutti i brani</string>
     <string name="listen_anywhere">Ascolta ovunque</string>
     <string name="load_shuffle">Caricamento…</string>
     <string name="loadercontainer_loading">Attendi…</string>
-    <string name="loading">Caricamento</string>
+    <string name="loading">Attendi…</string>
     <string name="loading_hint">Attendi…</string>
     <string name="loading_reached_the_bottom">"Per ora è tutto."</string>
     <string name="loading_text">Attendi…</string>
@@ -769,12 +874,21 @@ attendere o selezionare Musica Online."</string>
     <string name="local_page_artist_more">Altri lavori di %s</string>
     <string name="local_page_playlist">Playlist</string>
     <string name="local_page_song_download_history">Download</string>
+    <string name="login_by_local_phone_long_text">Accedi ora</string>
+    <string name="login_by_local_phone_short_text">Accedi</string>
     <string name="login_instantly">Accedi</string>
-    <string name="login_mi_account_and_gain_more_rights">Accedi con il tuo Mi Account per accedere a più funzionalità.</string>
+    <string name="login_mi_account_and_gain_more_rights">Accedi con il tuo account Xiaomi per accedere ad altre funzionalità.</string>
+    <string name="login_other">Cambia Mi Account</string>
+    <string name="login_out_tip">"Impossibile uscire per ora. Puoi cancellare tutti i dati dell'app."</string>
+    <string name="login_register_by_local_phone_long_text">Crea account</string>
+    <string name="login_with_sns">Altri modo per accedere</string>
+    <string name="logout_account">Disconetti</string>
     <string name="long_press_to_select_lyric">Premi e tieni premuto per selezionare il file dei testi locali</string>
+    <string name="lots_of_songs_for_free">Ascolta milioni di canzoni gratis</string>
     <string name="low_sound_quality">Bassa</string>
     <string name="lrc_search_failed">"Testi non trovati"</string>
     <string name="lrc_searching">Ricerca…</string>
+    <string name="ludo_tab_guide">Scopri le nostre nuove sale musicali</string>
     <string name="lyric_is_empty">Testo vuoto o non disponibile.</string>
     <string name="lyric_label">Testo</string>
     <string name="lyric_open_other_connect">Scarica testi utilizzando la connessione dati cellulare</string>
@@ -784,6 +898,11 @@ attendere o selezionare Musica Online."</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
     <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_plain_regular">sans-serif</string>
+    <string name="m3_sys_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0,05, 0, 0,133333, 0,06, 0,166666, 0,4 C 0,208333, 0,82, 0,25, 1, 1)</string>
+    <string name="m3_sys_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard">path(M 0,0 C 0,05, 0, 0,133333, 0,06, 0,166666, 0,4 C 0,208333, 0,82, 0,25, 1, 1)</string>
     <string name="m3_sys_typescale_body_large_font">sans-serif</string>
     <string name="m3_sys_typescale_body_medium_font">sans-serif</string>
     <string name="m3_sys_typescale_body_small_font">sans-serif</string>
@@ -805,13 +924,21 @@ attendere o selezionare Musica Online."</string>
     <string name="material_hour_suffix">"%1$s in punto"</string>
     <string name="material_minute_selection">Seleziona i minuti</string>
     <string name="material_minute_suffix">%1$s minuti</string>
+    <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="material_motion_easing_emphasized">path(M 0,0 C 0,05, 0, 0,133333, 0,06, 0,166666, 0,4 C 0,208333, 0,82, 0,25, 1, 1)</string>
+    <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
+    <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Passa alla mod. orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
     <string name="material_timepicker_text_input_mode_description">Passa alla mod. di inserimento testo per inserire l\'ora.</string>
+    <string name="max_sleep_time">%d</string>
     <string name="menu_title_pause_all">Tutto in pausa</string>
     <string name="menu_title_resume_all">Riprendi tutti</string>
     <string name="message_delete_playlist">Eliminare la playlist %s?</string>
@@ -834,6 +961,8 @@ attendere o selezionare Musica Online."</string>
     <string name="midnight">AM</string>
     <string name="milink_unavaliable_please_update">"Mi Link non disponibile. È necessario aggiornare MIUI."</string>
     <string name="millions_songs">Milioni di canzoni</string>
+    <string name="min_sleep_time">%d</string>
+    <string name="mishop_login_other">Altro Account</string>
     <string name="missing_title">Sconosciuto</string>
     <string name="miuishare_account_login_ok">Accedi</string>
     <string name="miuishare_no_network">"Nessuna rete disponibile"</string>
@@ -859,6 +988,7 @@ attendere o selezionare Musica Online."</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_indexer_collect">Raccolte</string>
     <string name="miuix_indexer_selected">Selezionato %s</string>
+    <string name="miuix_progress_percent" formatted="false">%s, %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -883,6 +1013,7 @@ attendere o selezionare Musica Online."</string>
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
+    <string name="monitor_app_name">zeus-monitor-crash</string>
     <string name="month_april">Aprile</string>
     <string name="month_april_short">Apr</string>
     <string name="month_april_shortest">Apr</string>
@@ -946,6 +1077,7 @@ attendere o selezionare Musica Online."</string>
     <string name="mtrl_picker_out_of_range">Intervallo non valido: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data di inizio – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data di fine</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Seleziona un intervallo di date</string>
     <string name="mtrl_picker_range_header_unselected">Data di inizio – Data di fine</string>
     <string name="mtrl_picker_save">Salva</string>
@@ -953,6 +1085,7 @@ attendere o selezionare Musica Online."</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a mod. inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa a mod. inserimento testo</string>
@@ -967,7 +1100,7 @@ attendere o selezionare Musica Online."</string>
     <string name="music_settings">Musica</string>
     <string name="mv_metered_play_summary">"Non mostrare avvisi sull'utilizzo dei dati"</string>
     <string name="mv_metered_play_title">Riproduci video online utilizzando i dati</string>
-    <string name="my_account">Account</string>
+    <string name="my_account">Account Xiaomi</string>
     <string name="my_music_empty">Playlist vuota</string>
     <string name="my_music_empty_goto_online">Nessun brano trovato</string>
     <string name="my_playlist_add_song">Aggiungi brani</string>
@@ -978,12 +1111,15 @@ attendere o selezionare Musica Online."</string>
     <string name="nav_app_bar_open_drawer_description">Apri menù di navigazione</string>
     <string name="network_disable">"Impossibile connettersi alla rete"</string>
     <string name="network_error_and_retry">"Impossibile collegare, tocca per provare di nuovo"</string>
+    <string name="network_error_info">Si è verificato un errore di rete. Controlla le impostazioni di rete e riprova.</string>
     <string name="network_request_error">"Impossibile connettersi alla rete"</string>
     <string name="network_settings_error">"Impossibile connettersi alla rete"</string>
+    <string name="network_timeout_info">"Impossibile connettersi alla rete. Riprova."</string>
     <string name="network_traffic">Utilizzo dati</string>
     <string name="next_time">Non adesso</string>
     <string name="next_to_play">A seguire</string>
     <string name="night">PM</string>
+    <string name="no_account">Accesso non eseguito</string>
     <string name="no_album_info">Nessuna informazione sull\'album</string>
     <string name="no_artist_info">Nessuna informazione sull\'artista</string>
     <string name="no_downloads">Nessun download</string>
@@ -1071,9 +1207,105 @@ attendere o selezionare Musica Online."</string>
     <string name="only_pro_can_choose_hd_sound_quality">L\'audio HD è disponibile solo per i membri PRO</string>
     <string name="open_online_service">Devi attivare i servizi online per poter utilizzare questa funzionalità. Attivare adesso?</string>
     <string name="open_service">Attiva</string>
+    <string name="open_settings">Impostazioni</string>
     <string name="operation_done_close">Chiudi</string>
     <string name="other_song_in_album">Altri brani nello stesso Album.</string>
+    <string name="partner_id">3041</string>
     <string name="party">Festa</string>
+    <string name="passport_access_denied">Accesso negato</string>
+    <string name="passport_account_name">"Account: %1$s"</string>
+    <string name="passport_area_code_title">Codice regionale</string>
+    <string name="passport_bad_authentication">Nome utente o password non validi</string>
+    <string name="passport_can_not_recevie_verify_code">"Non hai ricevuto un codice?"</string>
+    <string name="passport_checking_account">Controlla la password…</string>
+    <string name="passport_clear_input">Cancella contenuto inserito</string>
+    <string name="passport_copy_link">Copia URL link</string>
+    <string name="passport_copy_to_clipboard_successful">Copiato con successo</string>
+    <string name="passport_country_area_china">CN</string>
+    <string name="passport_country_code_china">+39</string>
+    <string name="passport_dialog_captcha_title">Codice</string>
+    <string name="passport_dialog_doing_login">Accesso…</string>
+    <string name="passport_dialog_doing_register">Creazione account…</string>
+    <string name="passport_dialog_is_my_account">Sì</string>
+    <string name="passport_dialog_is_your_mi_account">Questo è il tuo account Xiaomi?</string>
+    <string name="passport_dialog_loading">Attendi…</string>
+    <string name="passport_dialog_nick_name_prefix">Soprannome: %s</string>
+    <string name="passport_dialog_phone_number_prefix">Numero di telefono: %s</string>
+    <string name="passport_dialog_register_other">"No, ne creerò uno"</string>
+    <string name="passport_email">Indirizzo email</string>
+    <string name="passport_empty_password">"La password non può essere vuota"</string>
+    <string name="passport_error_auth_fail">Sessione scaduta, accedi di nuovo.</string>
+    <string name="passport_error_device_id">"Impossibile ottenere l'ID del dispositivo"</string>
+    <string name="passport_error_dynamic_token_error">Il codice di verifica non è corretto</string>
+    <string name="passport_error_email">L\'indirizzo email inserito non è valido</string>
+    <string name="passport_error_empty_email">Inserisci il tuo indirizzo email</string>
+    <string name="passport_error_empty_password">Inserisci la password</string>
+    <string name="passport_error_empty_pwd">"La password non può essere vuota"</string>
+    <string name="passport_error_empty_user_id">Inserisci il tuo nome utente</string>
+    <string name="passport_error_length_limit">Il testo inserito è troppo lungo</string>
+    <string name="passport_error_network">"Impossibile connettersi alla rete"</string>
+    <string name="passport_error_no_password_user">"Non hai ancora impostato la password. Accedi con SMS"</string>
+    <string name="passport_error_phone">Numero di telefono non valido</string>
+    <string name="passport_error_server">Errore Server</string>
+    <string name="passport_error_sms_limit">Troppi codici di verifica sono stati inviati a questo numero. Riprova più tardi.</string>
+    <string name="passport_error_ticket_invalid">Questo codice non è corretto</string>
+    <string name="passport_error_timeout_network_error">La richiesta è scaduta</string>
+    <string name="passport_error_token_expired">Codice scaduto. Riprova.</string>
+    <string name="passport_error_unknow_error">Si è verificato un errore</string>
+    <string name="passport_error_unknow_host_network_error">"Impossibile connettersi alla rete"</string>
+    <string name="passport_error_unknow_network_error">Siamo spiacenti, si è verificato un errore di rete</string>
+    <string name="passport_error_unknown">Errore sconosciuto</string>
+    <string name="passport_error_user_agreement">Prima accetti il nostro Accordo Utente</string>
+    <string name="passport_error_user_name">Il nome utente immesso non è valido</string>
+    <string name="passport_error_user_password">"Le password non corrispondono"</string>
+    <string name="passport_get_login_type_next">Successivo</string>
+    <string name="passport_header_back">Indietro</string>
+    <string name="passport_identification_expired">Codice di verifica scaduto. Ricomincia da capo.</string>
+    <string name="passport_input_captcha_hint">Inserisci codice</string>
+    <string name="passport_input_password_hint">Inserisci password</string>
+    <string name="passport_input_phone_number_hint">Inserisci il tuo numero di telefono</string>
+    <string name="passport_input_verify_code">Inserisci il codice di verifica</string>
+    <string name="passport_input_voice_captcha_hint"> Inserisci il codice di verifica vocale</string>
+    <string name="passport_input_voice_hint">Inserisci il codice vocale</string>
+    <string name="passport_mi_account_first_title">"Creeremo automaticamente un account se utilizzi il numero di telefono per la prima volta."</string>
+    <string name="passport_mi_account_title">Accedi con l\'account Xiaomi</string>
+    <string name="passport_network_error">Si è verificato un errore di rete.</string>
+    <string name="passport_network_error_hint">Controllare l\'URL e riprovare, o copiare l\'URL e aprirlo nel browser.</string>
+    <string name="passport_next">Successivo</string>
+    <string name="passport_page_load_failed">"Impossibile aprire la pagina"</string>
+    <string name="passport_password_login_btn">Accedi</string>
+    <string name="passport_password_not_show">"Non mostrare la password"</string>
+    <string name="passport_password_req_notice">La password deve avere una lunghezza di 8-16 caratteri e includere sia numeri che lettere (maiuscole e minuscole).</string>
+    <string name="passport_password_show">Mostra password</string>
+    <string name="passport_querying_phone_info">Richiesta informazioni telefono utente…</string>
+    <string name="passport_quick_login_title">Inserisci la password</string>
+    <string name="passport_reging">Creazione account…</string>
+    <string name="passport_register_restricted">Troppi account sono stati associati a questo numero, provane un altro</string>
+    <string name="passport_relogin_notice">Devi accedere di nuovo</string>
+    <string name="passport_resend_ticket">Reinvia codice</string>
+    <string name="passport_retry">Riprova</string>
+    <string name="passport_send_sms_to">Codice inviato a %1$s</string>
+    <string name="passport_send_too_many_code">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
+    <string name="passport_sending_vcode">Invio codice…</string>
+    <string name="passport_set_password">Imposta password</string>
+    <string name="passport_set_password_no_phone_msg">Aggiungi il numero di telefono per proteggere il tuo account.</string>
+    <string name="passport_talkback_image_captcha">Codice di verifica con immagine</string>
+    <string name="passport_talkback_switch_image_captcha">Passa al codice di verifica con immagine</string>
+    <string name="passport_talkback_switch_voice_captcha">Passa al codice di verifica vocale</string>
+    <string name="passport_talkback_voice_captcha">Riproduci codice vocale</string>
+    <string name="passport_ticket_send_by_second">Invia tra %d</string>
+    <string name="passport_to_forget_password">Password dimenticata?</string>
+    <string name="passport_to_password_login">Accedi con password</string>
+    <string name="passport_to_verify_code_login">Accedi via SMS</string>
+    <string name="passport_unknow_host_network_error">Controlla le tue impostazioni di rete e prova di nuovo</string>
+    <string name="passport_user_id_hint">Email/numero di telefono/ID account Xiaomi</string>
+    <string name="passport_user_id_intro">Accedi con %1$s</string>
+    <string name="passport_user_password_hint">Password</string>
+    <string name="passport_wechat_not_install">Installa prima WeChat</string>
+    <string name="passport_wrong_captcha">Il captcha inserito non è corretto</string>
+    <string name="passport_wrong_phone_number_format">Il formato del numero inserito non è valido</string>
+    <string name="passport_wrong_vcode">Il captcha inserito non è corretto</string>
+    <string name="passport_wrong_voice">Il captcha inserito non è corretto</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="paused_by_app">Pausa</string>
     <string name="paused_in_power_save_mode">In pausa in mod. risparmio energetico</string>
@@ -1085,6 +1317,7 @@ attendere o selezionare Musica Online."</string>
     <string name="pay_now">Paga desso</string>
     <string name="payment_success_message">Grazie! Il tuo pagamento è stato elaborato correttamente. Goditi i servizi PRO.</string>
     <string name="payment_success_title">Congratulazioni!</string>
+    <string name="peertube_selected_instance_key">peertube_selected_instance</string>
     <string name="pending_apk">In attesa...</string>
     <string name="permission_declaration_message">Concedi accesso alla memoria in Sicurezza &gt; Permessi &gt; Permessi &gt; Memoria &gt; Musica per poter usare Musica normalmente.</string>
     <string name="permission_declaration_negative_text">Più tardi</string>
@@ -1092,6 +1325,8 @@ attendere o selezionare Musica Online."</string>
     <string name="permission_declaration_title">Concedi accesso</string>
     <string name="permission_open">Consenti</string>
     <string name="permission_required">Permessi richiesti</string>
+    <string name="phone_auto_login_register_with_local_number">Crea account</string>
+    <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
     <string name="pick_favorite_song">Preferiti</string>
     <string name="pick_local_song">File locali</string>
     <string name="pick_recent_song">Riprodotte di recente</string>
@@ -1114,10 +1349,13 @@ attendere o selezionare Musica Online."</string>
     <string name="playlist_type_album">Album</string>
     <string name="playlist_type_artist">Artista</string>
     <string name="playlist_type_billboard">Classifiche</string>
+    <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_my">La mia playlist</string>
     <string name="playlist_type_recommend">Playlist in evidenza</string>
+    <string name="please_agree_protocal">Si prega di accettare il protocollo</string>
     <string name="please_download_first">Prima scarica il file.</string>
     <string name="please_select_song">Prima seleziona un brano</string>
+    <string name="pm">PM</string>
     <string name="power_save_mode_dialog_msg">Il dispositivo è in Mod. Energetico. Avviare il download adesso?</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="preset_music_playlist">Playlist Mi Music</string>
@@ -1129,6 +1367,7 @@ attendere o selezionare Musica Online."</string>
     <string name="privacy_authorize_revoking">Revoca autorizzazione…</string>
     <string name="privacy_desc">Informativa Privacy (obbligatorio)</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=it</string>
     <string name="privacy_request_desc"><Data>\"Musica Mi deve raccogliere le informazioni personali necessarie per fornirti servizi di streaming online. Puoi capire come gestiamo le informazioni raccolte nella nostra &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Puoi revocare il tuo consenso su Musica Mi nelle Impostazioni in qualsiasi momento.
 Leggi e accetta il nostro &lt;a href=\"%2$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare Musica Mi.
 Se non accetti di utilizzare i servizi di cui sopra, non potrai utilizzare alcune funzionalità di questa app; tuttavia, la sua funzionalità di base sarà ancora a disposizione.</Data></string>
@@ -1138,19 +1377,31 @@ Se non accetti di utilizzare i servizi di cui sopra, non potrai utilizzare alcun
     <string name="privacy_request_subtitle_offline">Benvenuto in Mi Music! Questa app fornisce un lettore locale per i file audio.</string>
     <string name="privacy_request_title">Termini e condizioni</string>
     <string name="pro_member">Utente PRO</string>
+    <string name="progressbar_title">Verifica falle di sicurezza…</string>
     <string name="project_device">Dispositivo Mi</string>
     <string name="prompt_grant_write_settings_permission">Consenti modifica delle impostazioni di sistema</string>
+    <string name="protocal_dialog_confirm">Accetto</string>
+    <string name="protocal_dialog_title">Attenzione</string>
     <string name="pulluprefreshrecyclerview_loading_error">"Caricamento non riuscito"</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Caricamento riuscito</string>
     <string name="pulluprefreshrecyclerview_loading_running">Caricamento…</string>
+    <string name="qq_login_btn_content_description">Accedi con QQ</string>
+    <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="queue_is_empty">La coda di riproduzione è vuota.</string>
+    <string name="read_and_agree_hungama_protocol"><Data>\"Ho letto e accettato l\' &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Hungama Privacy Policy&lt;/a&gt;&lt;/font&gt;\"</Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>\"Ho letto e accettato l\'informativa sulla privacy &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;JOOX&lt;/a&gt;&lt;/font&gt;\"</Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>\"Ho letto e accettato Xiaomi &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Accordo utente&lt;/a&gt;&lt;/font&gt; e &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;&lt;/font&gt;\"</Data></string>
+    <string name="read_and_agree_protocol">Leggi e accetti il nostro Contratto Utente e l\'Informativa sulla Privacy prima di continuare.</string>
     <string name="ready_to_play">A seguire</string>
+    <string name="recaptcha_cookies_key">recaptcha_cookies_key</string>
     <string name="recently_played">Riprodotte di recente</string>
     <string name="recently_played_songs">Recenti</string>
     <string name="recommend_artist_title">Artista Consigliato</string>
     <string name="recommend_songs_when_playing_audio_files">Ottieni consigli sulle canzoni mentre ascolti musica</string>
     <string name="recommended_file_size_download_in_mobile">Utilizzare %s di dati su rete cellulare per scaricare questo file?</string>
     <string name="recommended_no_file_size_download_in_mobile">Utilizzare la rete dati cellulare per scaricare questo file?</string>
+    <string name="register_by_local_phone_long_text">Crea account</string>
+    <string name="register_by_local_phone_short_text">Crea account</string>
     <string name="remove">Rimuovi</string>
     <string name="remove_download">Rimuovi</string>
     <string name="remove_user_privacy_dialog_message">Dopo la revoca dell\'autorizzazione, Mi Music interromperà la raccolta dei dati e tutti i dati correlati saranno eliminati dai server. Questo potrebbe rendere Mi Music praticamente inutilizzabile. Revocare l\'autorizzazione?</string>
@@ -1160,10 +1411,21 @@ Se non accetti di utilizzare i servizi di cui sopra, non potrai utilizzare alcun
 E gioiscine"</string>
     <string name="repeat_all_notif">Ripeti tutti i brani.</string>
     <string name="repeat_current_notif">Ripeti questo brano.</string>
+    <string name="request_agree">Consenti</string>
+    <string name="request_camera_permission_message">"Proteggeremo le tue informazioni personali in conformità alle leggi e ai regolamenti pertinenti. Questa app ha bisogno dei seguenti permessi per funzionare normalmente:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso della fotocamera (per impostare la foto del tuo profilo)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Se non accetti tali permessi, non sarai in grado di utilizzare alcune funzioni di questa app; tuttavia, la sua funzionalità di base sarà ancora disponibile. È sempre possibile limitare le autorizzazioni o revocare l'autorizzazione nelle Impostazioni."</string>
+    <string name="request_cancel">Annulla</string>
+    <string name="request_error_invalid_token">"Autenticazione non riuscita"</string>
+    <string name="request_error_network">Si è verificato un errore di rete. Controlla le impostazioni di rete e riprova.</string>
+    <string name="request_error_unknown">Si è verificato un errore di sistema. Riprova.</string>
+    <string name="request_gallery_permission_message">Consenti l\'accesso alla Galleria:&lt;br /&gt;Per impostare le foto profilo</string>
     <string name="request_overlay_permission_desc">Permetti a Mi Music di mostrare le finestre fluttuanti per poter usare questa funzione.</string>
     <string name="request_privacy_permission_title">Leggi e accetta i termini e le condizioni sottostanti per accedere a tutti i nostri servizi.</string>
     <string name="request_share_info">Attendi…</string>
     <string name="request_subscription_status">Attendi…</string>
+    <string name="resend_active_email">Invia di nuovo</string>
+    <string name="resend_email_reach_limit_message">"Hai richiesto troppe email di verifica. Assicurati che l'email di verifica non sia nella cartella Spam."</string>
+    <string name="resend_email_reach_limit_title">Troppi tentativi</string>
+    <string name="resend_email_success">Inviato correttamente</string>
     <string name="restart_immediate">Riavvia adesso</string>
     <string name="retry">Riprova</string>
     <string name="retry_after_network_available">"Impossibile connettersi alla rete. Controlla la tua connessioni dati e riprova."</string>
@@ -1183,6 +1445,7 @@ E gioiscine"</string>
     <string name="s5">Crea un evento del calendario</string>
     <string name="s6">Consentire annuncio per creare un evento nel calendario?</string>
     <string name="s7">Test Annuncio</string>
+    <string name="same_new_and_old_pwd">"Non può essere identica alla password attuale"</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
@@ -1222,8 +1485,11 @@ E gioiscine"</string>
     <string name="select_three_languages">Puoi selezionare fino a %d lingue</string>
     <string name="selected_count">Selezionati %1$d di %2$d</string>
     <string name="send">Invia</string>
+    <string name="send_diagnosis_log">Invia log</string>
+    <string name="send_email_activate_message">E-mail di verifica inviata con successo</string>
     <string name="send_to_title">Invia a (%1$s)</string>
     <string name="service_and_settings">Servizio e impostazioni</string>
+    <string name="service_error">Errore Server</string>
     <string name="set_as_alarm_clock_ringtone">Sveglia</string>
     <string name="set_as_ring">Suoneria</string>
     <string name="set_online_home_subtitle">Apri consigli online quando l\'app viene avviata</string>
@@ -1257,11 +1523,15 @@ E gioiscine"</string>
     <string name="similar_songs">Brani simili</string>
     <string name="similar_videos">Video simili</string>
     <string name="skip">Salta</string>
+    <string name="skip_query_account">Salta</string>
     <string name="sleep_mode">Timer</string>
     <string name="sleep_mode_canceled">Timer spegnimento annullato</string>
     <string name="sleep_mode_summary">Termina la riproduzione dopo un certo periodo</string>
     <string name="sleep_mode_title">Timer</string>
     <string name="sliding_pro_center">Centro PRO</string>
+    <string name="sns_access_token_expired_warning">Sessione scaduta. Effettua nuovamente l\'accesso per ricollegare questo account.</string>
+    <string name="sns_bind_limit">Troppi tentativi. Prova ad accedere in altri modi.</string>
+    <string name="sns_sign_in">Altri modo per accedere</string>
     <string name="solar_term_autumn_begins">Inizio dell\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Sereno e luminoso</string>
@@ -1305,17 +1575,21 @@ E gioiscine"</string>
     <string name="start_to_download">Download in corso…</string>
     <string name="start_to_play">Riproduci</string>
     <string name="start_update">Installazione nuova versione…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Spazio per app clonate</string>
     <string name="storage_internal">Memoria interna</string>
     <string name="storage_sd_card">Scheda SD</string>
+    <string name="storage_space_permissions_for_display">Accesso all\'archiviazione del dispositivo: per la scansione, la visualizzazione e la riproduzione di file locali</string>
     <string name="storage_usb">Archivio USB</string>
     <string name="streamloadingtext">Connessione a %s</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_command_mode">Attiva per entrare in Mod. Comando</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="supplementary_songs">Canzoni aggiuntive</string>
     <string name="switch_success">Trasferimento riuscito</string>
+    <string name="system_error_info">Il sistema è occupato. Aspetta un minuto o due e riprova.</string>
     <string name="tab_album">Album</string>
     <string name="tab_album_list">Album</string>
     <string name="tab_artist">Artisti</string>
@@ -1349,8 +1623,14 @@ E gioiscine"</string>
     <string name="talkback_pre">Brano precedente</string>
     <string name="talkback_search">Cerca</string>
     <string name="talkback_show_navigation_draw">Mostra drawer</string>
+    <string name="task_card_button_exchange">Rinnova</string>
+    <string name="task_card_message_received_successfully">"Hai completato i compiti di oggi. Riscatta le tue monete ora!"</string>
+    <string name="task_card_title_received_successfully">Richiesto con successo</string>
+    <string name="telephone_permissions_for_push">Autorizzazioni di chiamata: per fornire servizi di notifica push di Google</string>
+    <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>
     <string name="terms_of_service">Condizioni d\'uso</string>
     <string name="test_mode">Mod. di test</string>
+    <string name="text_separator">|</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
     <string name="the_arbor_day">Giorno dei mestieri</string>
@@ -1407,7 +1687,7 @@ E gioiscine"</string>
     <string name="toast_cant_collect_mine_playlist">"Impossibile aggiungere le tue playlist ai preferiti"</string>
     <string name="toast_cant_commit_without_title">Inserisci il titolo della canzone</string>
     <string name="toast_download_error_by_count_limit">Hai raggiunto il limite dei download per questo mese.</string>
-    <string name="toast_download_error_by_not_login">Accedi al Mi Account e prova di nuovo.</string>
+    <string name="toast_download_error_by_not_login">Accedi all\'account Xiaomi e riprova.</string>
     <string name="toast_download_error_by_vip_required">Effettua l\'iscrizione a Premium per scaricare questo brano.</string>
     <string name="toast_download_in_process">Download in corso</string>
     <string name="toast_favorite_has_been_added">Aggiunto con successo alla playlist</string>
@@ -1440,12 +1720,23 @@ E gioiscine"</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="ucrop_crop">Ritaglia</string>
+    <string name="ucrop_error_input_data_is_absent">È necessario specificare sia l\'Uri in ingresso che quello in uscita</string>
+    <string name="ucrop_label_edit_photo">Modifica la foto</string>
+    <string name="ucrop_label_original">Originale</string>
+    <string name="ucrop_menu_crop">Ritaglia</string>
+    <string name="ucrop_mutate_exception_hint">Pertanto, sovrascrivi risorsa colore (ucrop_color_toolbar_widget) nella tua app per farlo funzionare su dispositivi pre-L</string>
+    <string name="ucrop_rotate">Ruotare</string>
+    <string name="ucrop_scale">Scala</string>
     <string name="ultra_high_quality">Migliore</string>
     <string name="unknown_album_name">Album sconosciuto</string>
     <string name="unknown_artist_name">Artista sconosciuto</string>
+    <string name="unknown_error_info">Errore sconosciuto</string>
     <string name="unlimited_downloads">Download illimitati</string>
     <string name="unlimited_offline_songs">Canzoni offline illimitate</string>
     <string name="unlimited_skips">Skip illimitati</string>
+    <string name="update_email_address_dialog_message">Devi verificare la tua identità prima di aggiornare l\'email di recupero.</string>
+    <string name="update_email_address_dialog_title">Aggiorna email di recupero</string>
     <string name="update_now">Aggiorna adesso</string>
     <string name="upgrade_music">Aggiorna Musica</string>
     <string name="upgrade_music_message">Pacchetto pronto. Riavvia per aggiornare.</string>
@@ -1455,10 +1746,25 @@ E gioiscine"</string>
     <string name="upload_favorite_setting_title">Sincronizza brani</string>
     <string name="upload_playlist_to_hungama_negative_text">"Non sincronizzare"</string>
     <string name="upload_playlist_to_hungama_positive_text">Sincronizza</string>
-    <string name="upload_playlist_to_hungama_title">Sincronizza le canzoni online su Hungama per poterle ascoltare su altri dispositivi dove usi il tuo Mi Account.</string>
+    <string name="upload_playlist_to_hungama_title">Sincronizza canzoni online per Hungama per poterle accedere su altri dispositivi dove usi il tuo account Xiaomi.</string>
     <string name="upload_playlist_to_hungama_toast">Le canzoni online saranno sincronizzate con Hungama</string>
     <string name="user_agreement">Accordo utente</string>
+    <string name="user_agreement_hint_3rd_app"><Data>\"Ho letto e accettato &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; e &lt;a href=%3$s&gt;Accordo utente di Mi Account&lt;/a&gt; e &lt;a href=%4$s&gt;Informativa sulla privacy&lt;/a&gt;.</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>\"Ho letto e accettato &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt;, Mi Account\'s &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, così come &lt;a href=%5$s&gt;Termini e condizioni dei servizi di verifica della Cina Mobile&lt;/a&gt;.</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>\"Ho letto e accettato &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt;, Mi Account\'s &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, così come &lt;a href=%5$s&gt;Termini e condizioni dei servizi di verifica dell\'account eSurfing&lt;/a&gt;.</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>\"Ho letto e accettato &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt;, Mi Account\'s &lt;a href=%3$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, così come &lt;a href=%5$s&gt;Termini e condizioni dei servizi di verifica Cina Unicom&lt;/a&gt;.</Data></string>
+    <string name="user_agreement_hint_default"><Data>\"Ho letto e accettato il &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e l\' &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt;di Mi Account.\"</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Leggere e accettare il &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy.&lt;/a&gt;</Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>\"Ho letto e accettato il &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy.&lt;/a&gt; Il primo login creerà automaticamente un account Xiaomi\"</Data></string>
+    <string name="user_agreement_hint_first_login">"Creeremo automaticamente un account se utilizzi il numero di telefono per la prima volta."</string>
+    <string name="user_agreement_hint_with_mobile"><Data>\"Ho letto e accettato il &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy di Mi Account&lt;/a&gt;, così come &lt;a href=%3$s&gt;Termini e condizioni dei servizi di verifica di Cina Mobile&lt;/a&gt;.</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>\"Ho letto e accettato il &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy di Mi Account&lt;/a&gt;, oltre a &lt;a href=%3$s&gt;Termini e condizioni dei servizi di verifica dell\'account eSurfing&lt;/a&gt;.</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>\"Ho letto e accettato il &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy di Mi Account&lt;/a&gt;, così come &lt;a href=%3$s&gt;Termini e condizioni dei servizi di verifica di Cina Unicom&lt;/a&gt;.</Data></string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=it</string>
+    <string name="user_avatar_update_title">Aggiorna immagine profilo</string>
+    <string name="user_avatar_uploading">Attendi…</string>
     <string name="user_experience_program_open">A causa delle restrizioni sul copyright, è necessario iscriversi al programma di esperienza utente per essere in grado di riprodurre canzoni scaricate. Puoi farlo in Impostazioni &gt; Password &amp; Sicurezza &gt; Privacy &gt; Iscriviti al Programma Esperienza Utenti.</string>
+    <string name="user_name_phone_number">Numero di telefono</string>
     <string name="user_playlist_plaza">Playlist</string>
     <string name="user_privacy_dialog_negative_text">Annulla</string>
     <string name="user_privacy_dialog_positive_count_down_text">Revoca (%ss)</string>
@@ -1483,6 +1789,9 @@ E gioiscine"</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="weibo_login_btn_content_description">Accedi con Weibo</string>
+    <string name="weixin_login_btn_content_description">Accedi con WeChat</string>
+    <string name="welcome_to_entertainment">Scopri la nuova funzione Intrattenimento per i giochi musicali e altro ancora</string>
     <string name="widget_small_text_separator">-</string>
     <string name="wifi_required_body" formatted="false">"Devi utilizzare la rete Wi-Fi per scaricare %s file. 
 
@@ -1495,8 +1804,11 @@ Size: %2$s"</string>
 Dimensione : %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">Aggiornamento %1$s !</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spazio insufficientee, controlla la scheda SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yesterday">Ieri</string>
     <string name="you_can_switch_mode_in_settings">E\' possibile passare da una mod. all\'altra dalle impostazioni</string>
     <string name="you_may_like">Potrebbe piacerti anche</string>
     <string name="youtube_play_history">Cronologia riproduzioni</string>
+    <string name="youtube_restricted_mode_enabled">youtube_restrictted_mode_enabled</string>
 </resources>

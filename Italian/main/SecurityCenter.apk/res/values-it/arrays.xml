@@ -13,6 +13,22 @@
         <item>Infrasettimanale</item>
         <item>Personalizza</item>
     </string-array>
+    <string-array name="always_enabled_app_list">
+        <item>com.android.providers.applications</item>
+        <item>com.android.providers.calendar</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.jeejen.family.miui</item>
+        <item>com.android.providers.drm</item>
+        <item>com.android.providers.media</item>
+        <item>com.android.providers.telephony</item>
+        <item>com.android.providers.userdictionary</item>
+        <item>com.miui.providers.userbook</item>
+        <item>com.miui.providers.weather</item>
+        <item>com.miui.yellowpage</item>
+        <item>com.miui</item>
+        <item>com.google.android.packageinstaller</item>
+        <item>com.miui.core</item>
+    </string-array>
     <string-array name="app_behavior_type_menu">
         <item>Tutti i dati</item>
         <item>Avvio automatico</item>
@@ -53,14 +69,14 @@
     </string-array>
     <string-array name="daily_brand">
         <item>Personalizza</item>
-        <item>Carta Mi Fan</item>
+        <item>Xiaomi Fan card</item>
         <item>Carta Xiao Tiansheng</item>
         <item>Carta Tencent King</item>
     </string-array>
     <string-array name="daily_rent_card_brands">
         <item>Personalizza</item>
         <item>Telefono Mi</item>
-        <item>Carta Mi Fan</item>
+        <item>Xiaomi Fan card</item>
         <item>Carta Tianshen</item>
         <item>Carta Tencent</item>
     </string-array>
@@ -102,6 +118,25 @@
         <item>"Sarai in grado di monitorare e registrare il contenuto dello schermo da remoto."</item>
         <item>Sarà possibile accedere alle informazioni dettagliate sul dispositivo.</item>
     </string-array>
+    <string-array name="default_bubble_apps">
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.alibaba.android.rimet</item>
+        <item>com.tencent.wemeet.app</item>
+        <item>com.tencent.wework</item>
+        <item>com.ss.android.lark</item>
+        <item>com.ss.android.lark.kami</item>
+        <item>com.tencent.tim</item>
+        <item>com.xiaomi.channel</item>
+        <item>com.immomo.momo</item>
+        <item>com.tencent.qqlite</item>
+        <item>com.p1.mobile.putong</item>
+        <item>com.android.mms</item>
+        <item>com.microsoft.office.outlook</item>
+        <item>com.tencent.androidqqmail</item>
+        <item>com.android.email</item>
+        <item>com.lbe.security.miui</item>
+    </string-array>
     <string-array name="ew_emergency_blood_type_arrays">
         <item>A</item>
         <item>B</item>
@@ -111,6 +146,15 @@
     <string-array name="ew_emergency_organ_donation_arrays">
         <item>Sì</item>
         <item>No</item>
+    </string-array>
+    <string-array name="exo_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>@string/exo_controls_playback_speed_normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
     </string-array>
     <string-array name="gb_adv_touch_custom_level">
         <item>Più basso</item>

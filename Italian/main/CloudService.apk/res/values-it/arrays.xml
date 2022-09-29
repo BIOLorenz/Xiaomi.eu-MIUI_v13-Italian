@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="korea_permission_group_tags">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </string-array>
     <string-array name="korea_permission_groups_descriptions">
         <item>Per identificare gli elementi sincronizzati</item>
         <item>Per sincronizzare i messaggi</item>

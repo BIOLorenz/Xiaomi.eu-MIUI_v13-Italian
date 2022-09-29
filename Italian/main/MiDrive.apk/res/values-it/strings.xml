@@ -33,6 +33,7 @@
     <string name="ai_ppt_to_pdf_view_all">Mostra tutto</string>
     <string name="ai_recommend_pdf">Convertito in PDF</string>
     <string name="album">Galleria</string>
+    <string name="am">AM</string>
     <string name="app_function">Archiviazione, anteprima, download di file e altro ancora</string>
     <string name="app_is_running">App in esecuzione…</string>
     <string name="app_name">Mi Drive</string>
@@ -42,6 +43,15 @@
     <string name="btn_recall_text_ok_timer">Revoca</string>
     <string name="camera">Fotocamera</string>
     <string name="cancel">Annulla</string>
+    <string name="cancel_mi_drive">Annulla servizi</string>
+    <string name="cancel_mi_drive_alert_description">"Cancella tutti gli elementi da Mi Drive per poter annullare i servizi. Segui questi passaggi per cancellare gli elementi:&lt;br /&gt;1. Nella pagina iniziale di Mi Drive, premi e tieni premuto un elemento per far apparire il pulsante \"Seleziona tutto\". Usa questo pulsante per selezionare fino a 200 file alla volta ed eliminarli.&lt;br /&gt;2. Una volta che hai eliminato tutti gli elementi, cancella tutti i file dagli elementi eliminati di recente."</string>
+    <string name="cancel_mi_drive_alert_reminder_card_summary">"1. Si consiglia di eseguire il backup dei tuoi articoli prima di eliminarli. Per farlo, visita i.mi.com, fai clic su Mi Drive e scarica i tuoi articoli su un computer.&lt;br /&gt;2. Si prega di notare che gli elementi cancellati dai tuoi articoli eliminati di recente non possono essere recuperati in seguito."</string>
+    <string name="cancel_mi_drive_confirm_button">Annulla servizi</string>
+    <string name="cancel_mi_drive_confirm_description">"Se continui, annullerai i servizi Mi Drive. Smetteremo di raccogliere i tuoi dati personali, e le informazioni personali già raccolte e conservate saranno cancellate entro il termine specificato conformemente alle disposizioni legislative e regolamentari applicabili, salvo altrimenti disposto."</string>
+    <string name="cancel_mi_drive_confirm_hint">"L'annullamento dei servizi Mi Drive non influirà sull'utilizzo di altri prodotti e servizi Xiaomi. Se vuoi eliminare il tuo account Xiaomi, puoi farlo &lt;font color=#0097FF&gt;&lt;a href=%1$s&gt;qui&lt;/a&gt;&lt;/font&gt;."</string>
+    <string name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424&gt;I seguenti elementi verranno eliminati definitivamente dopo la cancellazione dei servizi:&lt;/font&gt;&lt;br /&gt;1. Tutti gli elementi su Mi Drive, inclusi, ma non limitati a documenti, file privati, e elementi cancellati.&lt;br /&gt;2. Autorizzazioni, impostazioni e altri contenuti memorizzati nella cache.&lt;br /&gt;3. La cronologia di caricamento e download di Mi Drive.</string>
+    <string name="cancel_mi_drive_success">Servizi cancellati</string>
+    <string name="cancel_mi_drive_title">Annulla servizi</string>
     <string name="category_document">Documenti</string>
     <string name="category_document_title">Documenti</string>
     <string name="category_file">File</string>
@@ -257,6 +267,7 @@
     <string name="file_info_modified">"Ultima modifica: "</string>
     <string name="file_info_size">"Dimensione: "</string>
     <string name="file_is_downloaded">Elemento già scaricato</string>
+    <string name="file_list_item_desc">%1$s | %2$s</string>
     <string name="file_no_file_desc">Nessun contenuto.</string>
     <string name="file_no_file_sub_desc">Tocca il + per caricare i file.</string>
     <string name="file_picker_loading">Attendi…</string>
@@ -269,6 +280,7 @@
     <string name="file_sort_modify_time">Ordina per data ultima modifica</string>
     <string name="file_sort_name">Ordina per nome</string>
     <string name="file_sort_size">Ordina per dimensione</string>
+    <string name="file_status_text">%1$s | %2$s</string>
     <string name="file_upload_dialog_cancel">Annulla</string>
     <string name="file_upload_dialog_title">Aggiungi</string>
     <string name="fmt_chinese_date">dd/MM</string>
@@ -341,6 +353,7 @@
     <string name="load_metered_network_dialog_ok">Carica</string>
     <string name="load_metered_network_dialog_title">Utilizzo dati rete mobile</string>
     <string name="loading">Attendi…</string>
+    <string name="marketSdkVersion">3.2.12</string>
     <string name="member_menu_vipname_free">Gratis</string>
     <string name="member_menu_vipname_mega">Mega</string>
     <string name="member_menu_vipname_premium">Premium</string>
@@ -476,7 +489,9 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="pause_download">Pausa</string>
     <string name="pause_upload">Pausa</string>
     <string name="permission_account_desc">Accedi a tutti gli account memorizzati su questo dispositivo</string>
+    <string name="permission_account_desc_pad">Accedere agli account memorizzati sul dispositivo</string>
     <string name="permission_account_title">Account</string>
+    <string name="permission_account_title_pad">Accesso agli account</string>
     <string name="permission_accpeted">Concesso</string>
     <string name="permission_camera_desc">Scattare foto e realizzare video</string>
     <string name="permission_camera_title">Fotocamera</string>
@@ -484,7 +499,9 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="permission_phone_desc">Accesso al numero di telefono e allo stato del devices</string>
     <string name="permission_phone_title">Info dispositivo</string>
     <string name="permission_storage_desc">Accedi e salva foto e file su questo dispositivo</string>
+    <string name="permission_storage_desc_pad">Accedi a foto e file sul dispositivo</string>
     <string name="permission_storage_title">Archiviazione</string>
+    <string name="permission_storage_title_pad">Accesso alla memoria</string>
     <string name="picker_bottom_btn_text">Carica</string>
     <string name="picker_bottom_text_desc">"Carica su "</string>
     <string name="picker_permission_failed">"Impossibile concedere il permesso. Questa funzionalità non funzionerà senza di esso."</string>
@@ -492,6 +509,7 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="play_metered_network_dialog_desc">"Il tuo dispositivo non è connesso al Wi-Fi. Riprodurre utilizzando i dati?"</string>
     <string name="play_metered_network_dialog_ok">Riproduci</string>
     <string name="play_metered_network_dialog_title">Utilizzo dati rete mobile</string>
+    <string name="pm">PM</string>
     <string name="ppt_to_pdf">Convertito in PDF</string>
     <string name="pre_permission_management">Dettagli permessi</string>
     <string name="pre_privacy_policy">Informativa sulla Privacy</string>
@@ -500,8 +518,16 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="preview">Anteprima</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
+    <string name="privacy_recall_alert_description">"Cancella tutti gli articoli da Mi Drive per poter ritirare il consenso. Segui questi passaggi per cancellare gli articoli:&lt;br /&gt;1. Nella pagina iniziale di Mi Drive, premi e tieni premuto un elemento per far apparire il pulsante \"Seleziona tutto\". Usa questo pulsante per selezionare fino a 200 file alla volta ed eliminarli.&lt;br /&gt;2. Una volta che hai eliminato tutti gli elementi, cancella tutti i file dagli elementi eliminati di recente."</string>
+    <string name="privacy_recall_alert_reminder_card_summary">"1. Si consiglia di eseguire il backup dei tuoi articoli prima di eliminarli. Per farlo, visita i.mi.com, fai clic su Mi Drive e scarica i tuoi articoli su un computer.&lt;br /&gt;2. Si prega di notare che gli elementi cancellati dai tuoi articoli eliminati di recente non possono essere recuperati in seguito."</string>
+    <string name="privacy_recall_confirm_button">Ritira il consenso</string>
+    <string name="privacy_recall_confirm_description">"Se continui, ritirerai il tuo consenso alla Privacy Policy di Mi Drive. Smetteremo di raccogliere i tuoi dati personali, e le informazioni personali già raccolte e conservate saranno cancellate entro il termine specificato conformemente alle disposizioni legislative e regolamentari applicabili, salvo altrimenti disposto."</string>
+    <string name="privacy_recall_confirm_reminder_card_summary">&lt;font color=#F22424&gt;I seguenti elementi saranno eliminati definitivamente dopo la revoca del consenso:&lt;/font&gt;&lt;br /&gt;1. Tutti gli elementi su Mi Drive, inclusi, ma non limitati a documenti, file privati, e elementi cancellati.&lt;br /&gt;2. Autorizzazioni, impostazioni e altri contenuti memorizzati nella cache.&lt;br /&gt;3. La cronologia di caricamento e download di Mi Drive.</string>
     <string name="privacy_recall_dialog_msg">"Se continui, ritirerai il tuo consenso alla Politica sulla privacy di Mi Drive. Le informazioni personali già raccolte e conservate saranno cancellate entro un determinato periodo conformemente alle disposizioni legislative e regolamentari applicabili, salvo altrimenti disposto. Dato che Mi Drive fornisce i suoi servizi sulla base della raccolta delle informazioni personali necessarie, il ritiro del consenso sarà considerato come rifiuto di accettare i servizi Mi Drive. Ritirare il consenso?"</string>
     <string name="privacy_recall_dialog_title">Revoca autorizzazione...</string>
+    <string name="privacy_recall_success">Consenso ritirato con successo</string>
+    <string name="privacy_recall_title">Revoca autorizzazione...</string>
+    <string name="privacy_recalling">Revoca del consenso…</string>
     <string name="privacy_update_dialog_msg">L\'Informativa sulla privacy di Mi Drive è stata aggiornata:&lt;br/&gt;%1$s&lt;br/&gt;Leggi e accetta la nuova versione dell\'&lt;a href=%2$s&gt;&lt;u&gt;Informativa sulla privacy&lt;/u&gt;&lt;/a&gt; prima di continuare.</string>
     <string name="privacy_update_dialog_title">Informativa sulla privacy aggiornata</string>
     <string name="privacy_user_notice_dialog_exit_btn_text">Esci</string>
@@ -512,6 +538,8 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="private_empty_sub_desc">Prova a spostare i file qui o caricali direttamente.</string>
     <string name="private_folder_name">File privati</string>
     <string name="ptp_ai_recommend_empty_page">Nessun PDF generato automaticamente</string>
+    <string name="query_quota_exception">Si è verificato un errore del server. Aspetta e prova di nuovo.</string>
+    <string name="query_quota_searching">Attendi…</string>
     <string name="recent_file">Recenti</string>
     <string name="recent_jump_to_privacy_fail_notice">Questo file è privato. Torna alla pagina iniziale e tira in basso per visualizzarlo.</string>
     <string name="refresh_label_pull_to_refresh">Tira in giù per aggiornare</string>
@@ -519,6 +547,7 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="refresh_label_refreshing">Aggiornamento…</string>
     <string name="refresh_label_release_to_refresh">Lascia per aggiornare</string>
     <string name="release_enter_private">Rilascia per visualizzare i file privati</string>
+    <string name="reminder_card_title">Attenzione</string>
     <string name="remove_success">Rimozione completata</string>
     <string name="rename_ext_confirm_dialog_desc">Cambiare il formato potrebbe rendere il file inutilizzabile</string>
     <string name="rename_file_select_error">"Impossibile rinominare più oggetti"</string>
@@ -527,6 +556,7 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="request_permission_content">Mi Drive deve accedere agli account su questo dispositivo per poter utilizzare il tuo Mi Account per accedere. Il permesso di accedere e salvare i file sul tuo dispositivo permetterà a Mi Drive di visualizzare in anteprima, caricare, scaricare e sincronizzare gli elementi.</string>
     <string name="request_permission_content_with_phone_state">Per essere in grado di accedere con Mi Account, visualizzare, caricare, scaricare e sincronizzare i file, e controllare gli aggiornamenti, Mi Drive richiede le autorizzazioni per accedere ai tuoi account, foto, file e IMEI.</string>
     <string name="request_permission_title">Permessi richiesti</string>
+    <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
     <string name="root_page_name">La mia unità</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
@@ -581,6 +611,7 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="speed_unit_mb">%s MB/s</string>
     <string name="start_download">Avvio download…</string>
     <string name="start_upload">Inizio caricamento…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stay_tuned">Resta Collegato</string>
     <string name="stay_tuned_sub_desc">Questo servizio è attualmente disponibile solo in Cina</string>
     <string name="storage_internal">Memoria interna</string>
@@ -595,6 +626,7 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="storage_unit_kb">%s KB</string>
     <string name="storage_unit_mb">%s MB</string>
     <string name="storage_usb">Dispositivo USB</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -658,6 +690,8 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
     <string name="transfer_done">Fatto</string>
+    <string name="transfer_done_file_count">%1$s (%2$s)</string>
+    <string name="transfer_file_count">%1$s (%2$s)</string>
     <string name="transfer_progress_text">%1$s/%2$s</string>
     <string name="transport_end_button">Modifica</string>
     <string name="transport_title">Trasferimenti</string>

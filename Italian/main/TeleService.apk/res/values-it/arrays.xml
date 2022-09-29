@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="absent_num">
+        <item>NUMERO ASSENTE</item>
+        <item>ABSENTNUMBER</item>
+    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animazione disattivata</item>
         <item>Scala animazione 0,5x</item>
@@ -161,6 +165,11 @@
         <item>Logcat</item>
         <item>Systrace (grafica)</item>
         <item>Stack di chiamate su glGetError</item>
+    </string-array>
+    <string-array name="enhanced_4g_lte_mode_title_variant">
+        <item>@string/enhanced_4g_lte_mode_title</item>
+        <item>Chiamata Avanzata</item>
+        <item>Chiamata 4G</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Non utilizzare mai la verifica HDCP</item>

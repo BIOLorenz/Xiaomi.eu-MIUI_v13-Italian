@@ -28,12 +28,15 @@
     <string name="action_mode_select_all">Seleziona tutto</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="ad_download">Scarica</string>
+    <string name="add_one">(1)</string>
     <string name="add_private">Rendi i file privati</string>
     <string name="add_private_files">Aggiungi file</string>
+    <string name="add_to_widget">Aggiungi al widget</string>
     <string name="added_category">Aggiunto</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="aggree_desc">Consentire a questa applicazione di connettersi a Internet e concedere le autorizzazioni obbligatorie elencate sopra.</string>
     <string name="agree">Accetto</string>
+    <string name="am">AM</string>
     <string name="app_all_purpose">Benvenuti in Gestore File! È possibile utilizzare questa applicazione per gestire i file memorizzati sul dispositivo. </string>
     <string name="app_all_purpose_pad">Benvenuti in Gestore File! È possibile utilizzare questa applicazione per gestire i file memorizzati sul dispositivo. </string>
     <string name="app_function">Gestisci i file sul tuo dispositivo</string>
@@ -177,6 +180,7 @@
     <string name="click_to_switch_volume_pad">Tocca qui per cambiare tra memoria interna e scheda SD</string>
     <string name="clock_in">Controllo…</string>
     <string name="close">Chiudi</string>
+    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
     <string name="compress_fail">"Compressione fallita, destinazione già esistente"</string>
     <string name="compress_fail_unknown">"Impossibile comprimere. Memoria piena o errore sconosciuto."</string>
     <string name="compress_message">Comprimi in…</string>
@@ -222,11 +226,13 @@
     <string name="delete_folder">\u0020Eliminare questa cartella?</string>
     <string name="des_hide_pwd">Nascondi password</string>
     <string name="des_show_pwd">Mostra password</string>
+    <string name="dialog_keep_choice">Ricorda la mia scelta</string>
     <string name="dialog_select_type">Seleziona tipo</string>
     <string name="dialog_type_audio">Audio</string>
     <string name="dialog_type_image">Immagini</string>
     <string name="dialog_type_text">Documenti</string>
     <string name="dialog_type_video">Video</string>
+    <string name="directory_info_divider">"  |  "</string>
     <string name="disk_available">Disponibile:</string>
     <string name="disk_total">Totale:</string>
     <string name="display_setting">Elementi visualizzati</string>
@@ -367,6 +373,7 @@
     <string name="gbk_title">GBK</string>
     <string name="gigabyteShort">GB</string>
     <string name="go_ahead">Apri</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBOhWk2NDbCBnkgtZ7mT4wgmwJvsAFo13Y</string>
     <string name="grid_mode">Griglia</string>
     <string name="group_title">%2$s da %1$s</string>
     <string name="group_title_extra_new">Nuovo</string>
@@ -408,6 +415,8 @@
     <string name="item_view_role_description">Tocca</string>
     <string name="just_now">Un momento fa</string>
     <string name="kilobyteShort">KB</string>
+    <string name="lack_perm_msg">File Manager richiede i seguenti permessi per funzionare normalmente: &lt;b&gt;%s&lt;/b&gt;</string>
+    <string name="lack_perm_title">Permessi richiesti</string>
     <string name="launcher_icon_add_description">Aggiungi collegamento sulla Home</string>
     <string name="launcher_icon_remove_description_content">"File Manager è un'app di sistema. Non sarai in grado di gestire i file sul tuo dispositivo dopo aver rimosso il collegamento dalla schermata Home."</string>
     <string name="launcher_icon_remove_description_title">Rimuovere \"File Manager\" dalla schermata Home?</string>
@@ -418,6 +427,9 @@
     <string name="local_image">Immagini</string>
     <string name="local_music">Audio</string>
     <string name="local_video">Video</string>
+    <string name="main_button_continue">Impostazioni</string>
+    <string name="main_button_ok">OK</string>
+    <string name="main_button_quit">Annulla</string>
     <string name="make_private">Rendi privata</string>
     <string name="make_private_msg_1">Rendere questo file privato?</string>
     <string name="make_private_msg_2">Rendere privati questi file?</string>
@@ -439,6 +451,7 @@
     <string name="menu_new_display_open">Apri in una nuova finestra</string>
     <string name="menu_pc_open">Apri nel computer</string>
     <string name="menu_set_wallpaper">Imposta come sfondo</string>
+    <string name="message_request_manage_external_storage_perm">File Manager ha bisogno del permesso di accedere ai file per essere in grado di gestire i file sul tuo dispositivo. Puoi concedere questa autorizzazione nelle Impostazioni.</string>
     <string name="mi_router_label">Gateway</string>
     <string name="mi_share">Mi Share</string>
     <string name="midnight">Notte</string>
@@ -569,6 +582,7 @@
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a mod. inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa a mod. inserimento testo</string>
@@ -644,6 +658,7 @@
     <string name="partial_encrypt_success">"Impossibile rendere privati alcuni file. Riprova."</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="path_name_email">E-mail</string>
+    <string name="perm_manage_external_storage">Accedere a tutti i file</string>
     <string name="permission_denial">"Impossibile accedere ai file. Consenti ad Explorer di accedere ai file nelle impostazioni."</string>
     <string name="permission_description">Dettagli permessi</string>
     <string name="permission_required">"Impossibile accedere ai file. Concedi ad Explorer di accedere ai file nelle impostazioni."</string>
@@ -665,6 +680,7 @@
     <string name="pick_file">Seleziona file</string>
     <string name="pick_folder">Seleziona cartella</string>
     <string name="pkgname_zsxq">Pianeta della conoscenza</string>
+    <string name="pm">PM</string>
     <string name="port_range">La porta deve essere compresa nell\'intervallo 1024–65535</string>
     <string name="pref_permission_allowed">Concesso</string>
     <string name="pref_permission_manage_key_storage">Accedi a foto e file sul dispositivo</string>
@@ -745,6 +761,7 @@
     <string name="set_pattern">Aggiorna la password</string>
     <string name="set_pattern_btn">Imposta</string>
     <string name="set_pattern_msg">Imposta di nuovo la tua password. La password di protezione della privacy funziona anche per foto, messaggi e note.</string>
+    <string name="sign_percent">%</string>
     <string name="size_lv1">Minore di %d KB</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
@@ -787,6 +804,7 @@
     <string name="start_doc">Documenti</string>
     <string name="start_phone">File</string>
     <string name="start_server">Avvia</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stay_awake_summary">"Mantiene lo schermo attivo durante l'utilizzo di FTP"</string>
     <string name="stay_awake_title">Mantieni attivo</string>
     <string name="stop_server">Interrompi</string>
@@ -856,9 +874,11 @@
     <string name="thursday_shortest">Gio</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="tip">Attenzione</string>
+    <string name="tips_add_to_widget">Puoi aggiungere fino a %d file a questo widget. Se aggiungi altri file, quelli precedentemente aggiunti saranno sostituiti.</string>
     <string name="title_app_tags">Applicazioni</string>
     <string name="title_expire_video">Per scadere</string>
     <string name="title_recent">Recenti</string>
+    <string name="title_request_manage_external_storage_perm">Permessi richiesti</string>
     <string name="title_select_volume">Seleziona cartella</string>
     <string name="to_open">Impostazioni</string>
     <string name="to_setting">Impostazioni</string>
@@ -899,6 +919,16 @@
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="widget_add_files">Aggiungi file</string>
+    <string name="widget_added_fail_content">%1$s è già nella schermata Home</string>
+    <string name="widget_added_fail_tips">"Impossibile aggiungere"</string>
+    <string name="widget_added_success_content">Aggiunto %1$s alla schermata Home</string>
+    <string name="widget_added_success_tips">Aggiunto con successo</string>
+    <string name="widget_choose_document_please">Seleziona documento</string>
+    <string name="widget_choose_file">Tocca per aggiungere file</string>
+    <string name="widget_choose_fragment_title">Seleziona il tipo di file</string>
+    <string name="widget_finish">Fatto</string>
+    <string name="widget_name">File visti di recente</string>
     <string name="wifi_state">Stato Wi-Fi</string>
     <string name="withdraw">Revoca</string>
     <string name="withdraw_consent">Revoca autorizzazione...</string>

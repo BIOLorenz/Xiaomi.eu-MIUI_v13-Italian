@@ -28,13 +28,18 @@
     <string name="alarm_close">Scorri verso l\'alto per spegnere</string>
     <string name="alarm_later">Sospendi</string>
     <string name="align_type">Allineamento</string>
+    <string name="am">AM</string>
     <string name="aod_component">Always-on display</string>
+    <string name="aod_dual_togother">HH:mm</string>
+    <string name="aod_hours_12">hh</string>
+    <string name="aod_hours_24">HH</string>
     <string name="aod_lock_screen_date">EEE dd/MM</string>
     <string name="aod_lock_screen_date_signature">dd/MM</string>
     <string name="aod_lock_screen_date_v">"EEE
 dd/MM"</string>
     <string name="aod_show_date_and_time">Ora</string>
     <string name="aod_signature_12">hh:mm aa</string>
+    <string name="aod_signature_horizontal_12">hh:mm</string>
     <string name="app_name">Schermo posteriore</string>
     <string name="apply">Applica</string>
     <string name="apply_succeed">Applicato correttamente</string>
@@ -219,12 +224,15 @@ dd/MM"</string>
     <string name="material_minute_suffix">%1$s minuti</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
+    <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Passa alla mod. orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
     <string name="material_timepicker_text_input_mode_description">Passa alla mod. di inserimento testo per inserire l\'ora.</string>
     <string name="midnight">Notte</string>
+    <string name="miplay_service_timeout_toast">连接超时,请稍后重试</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -306,6 +314,7 @@ dd/MM"</string>
     <string name="mtrl_picker_out_of_range">Fuori dall\'intervallo: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data di inizio – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data di fine</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Seleziona Intervallo</string>
     <string name="mtrl_picker_range_header_unselected">Data di inizio – Data di fine</string>
     <string name="mtrl_picker_save">Salva</string>
@@ -313,6 +322,8 @@ dd/MM"</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla mod. di inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>
@@ -330,6 +341,7 @@ dd/MM"</string>
     <string name="page_time_format_string">dd/MM/yyyy</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="please_input_signature">Inserisci firma</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="rapid_charge_mode_tip">Carica rapida</string>
     <string name="saturday">Sabato</string>
@@ -337,6 +349,7 @@ dd/MM"</string>
     <string name="saturday_shortest">Sab</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send">Invia</string>
+    <string name="service_name">MiplayAudio</string>
     <string name="small_display_style">Schermo posteriore</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
@@ -363,7 +376,8 @@ dd/MM"</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="sps_cancel">Tieni premuto per uscire</string>
-    <string name="step_to_image_community">Trova altro su Mi Community</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="step_to_image_community">Trova altro su Xiaomi Community</string>
     <string name="subscreen_brightness">Luminosità</string>
     <string name="subscreen_could_edit_pic">Trascina le immagini per scalare, tieni premuto per eliminare</string>
     <string name="subscreen_other">Altro</string>
@@ -385,6 +399,7 @@ dd/MM"</string>
     <string name="subscreen_switch_title">Usa il display posteriore</string>
     <string name="subscreen_title">Schermo posteriore</string>
     <string name="subscreen_wakeup_title">Tocca due volte per riattivare</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

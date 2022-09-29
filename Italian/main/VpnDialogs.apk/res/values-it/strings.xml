@@ -28,6 +28,8 @@
     <string name="always_on_disconnected_message_lockdown">"%1$s è impostato per rimanere connesso per tutto il tempo, ma in questo momento non può connettersi. NOn avrai una connessione disonibile finché la VPN non si connetterà di nuovo."</string>
     <string name="always_on_disconnected_message_settings_link">Modifica impostazioni VPN</string>
     <string name="always_on_disconnected_title">"Impossibile collegarsi alla VPN always-on"</string>
+    <string name="am">AM</string>
+    <string name="app_name">blur</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -243,6 +245,7 @@
     <string name="night">Sera</string>
     <string name="noon">Mezzogiorno</string>
     <string name="open_app">Apri app</string>
+    <string name="pm">PM</string>
     <string name="prompt">Richiesta connessione</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
@@ -274,6 +277,7 @@
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

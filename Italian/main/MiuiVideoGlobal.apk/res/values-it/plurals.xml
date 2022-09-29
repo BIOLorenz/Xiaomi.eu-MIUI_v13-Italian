@@ -40,6 +40,10 @@
         <item quantity="other">Vedi %d risposte</item>
         <item quantity="one">Vedi %d risposta</item>
     </plurals>
+    <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">%s stelle selezionate</item>
+        <item quantity="one">%s stella selezionata</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Ritorno alla home page tra %1$d secondi…</item>
         <item quantity="one">Ritorno alla home page tra %1$d secondo…</item>
@@ -64,9 +68,79 @@
         <item quantity="other">tra %d minuti</item>
         <item quantity="one">tra 1 minuto</item>
     </plurals>
+    <plurals name="incentive_dialog_congratulation_get_credits_title">
+        <item quantity="other">"Hai guadagnato %d punti!"</item>
+        <item quantity="one">"Hai guadagnato %d punto!"</item>
+    </plurals>
+    <plurals name="incentive_dialog_credits">
+        <item quantity="other">%d punti</item>
+        <item quantity="one">%d punto</item>
+    </plurals>
+    <plurals name="incentive_dialog_login_and_get_credits_message">
+        <item quantity="other">Accedi per richiedere e guadagnare %d punti extra</item>
+        <item quantity="one">Accedi per richiedere e guadagnare %d punti extra</item>
+    </plurals>
+    <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d secondi</item>
+        <item quantity="one">%d secondo</item>
+    </plurals>
+    <plurals name="incentive_guide_all_time_tip">
+        <item quantity="other">Guarda %d minuti in totale per guadagnare punti! Completa l\'attività ora?</item>
+        <item quantity="one">Guarda il totale di %d minuti per guadagnare punti! Completa l\'attività ora?</item>
+    </plurals>
+    <plurals name="incentive_guide_coins_tip">
+        <item quantity="other">"Hai %d punti da richiedere
+Disponibile solo oggi"</item>
+        <item quantity="one">"Hai %d punti da richiedere
+Disponibile solo oggi"</item>
+    </plurals>
+    <plurals name="incentive_guide_current_time_tip">
+        <item quantity="other">"Hai guardato %d minuti oggi"</item>
+        <item quantity="one">"Hai guardato %d minuti oggi"</item>
+    </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">Condiviso con successo. Hai guadagnato %d punti.</item>
+        <item quantity="one">Condiviso con successo. Hai guadagnato %d punto.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">Iscritto con successo. Hai guadagnato %d punti.</item>
+        <item quantity="one">Iscritto con successo. Hai guadagnato %d punto.</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_begin">
+        <item quantity="other">Guadagna %d punti!</item>
+        <item quantity="one">Guadagna %d punto!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_finish">
+        <item quantity="other">"Attività di oggi completate! Hai guadagnato %d punti."</item>
+        <item quantity="one">"Le attività di oggi sono completate! Hai guadagnato %d punti."</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_of_one">
+        <item quantity="other">Hai guardato %1$1ds e guadagnato %2$2d punti!</item>
+        <item quantity="one">Hai guardato %1$1ds e guadagnato %2$2d punto!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip1">
+        <item quantity="other">Guarda un video casuale per guadagnare %d punti</item>
+        <item quantity="one">Guarda un video casuale per guadagnare %d punti</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip2">
+        <item quantity="other">Guarda %1$1d secondi di un video per guadagnare %2$2d punti</item>
+        <item quantity="one">Guarda %1$1d secondi di un video per guadagnare %2$2d punti</item>
+    </plurals>
+    <plurals name="incentive_toast_share_success">
+        <item quantity="other">Hai guadagnato %d punti. Continua a condividere per guadagnare di più.</item>
+        <item quantity="one">Guadagnato %d punto. Continua a condividere per guadagnare di più.</item>
+    </plurals>
+    <plurals name="incentive_toast_subscribe_success">
+        <item quantity="other">Hai guadagnato %d punti. Continua a iscriverti per guadagnare di più.</item>
+        <item quantity="one">Guadagnato %d punto. Continua a iscriverti per guadagnare di più.</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Proprio adesso</item>
         <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d cartelle</item>
@@ -116,6 +190,14 @@
         <item quantity="other">%d nuove notifiche</item>
         <item quantity="one">%d nuova notifica</item>
     </plurals>
+    <plurals name="new_incentive_toast_share_success">
+        <item quantity="other">"Condiviso con successo. Hai guadagnato %d punti. Reclama nel Centro Punti"</item>
+        <item quantity="one">"Condiviso con successo. Hai guadagnato %d punti. Reclama nel Centro Punti"</item>
+    </plurals>
+    <plurals name="new_incentive_toast_subscribe_success">
+        <item quantity="other">"Iscritto con successo. Hai guadagnato %d punti. Reclama nel centro punti."</item>
+        <item quantity="one">"Iscritto con successo. Hai guadagnato %d punti. Reclama nel centro punti."</item>
+    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Il tuo contenuto contiene elementi (%1$s) che violano gli standard della nostra comunità. Il tuo account è sospeso per %2$d giorni fino al %3$s.</item>
         <item quantity="one">Il tuo contenuto contiene elementi (%1$s) che violano gli standard della nostra comunità. Il tuo account è sospeso per %2$d giorno fino al %3$s.</item>
@@ -135,6 +217,10 @@
     <plurals name="plus_edit_top_titletext">
         <item quantity="other">%s elementi selezionati</item>
         <item quantity="one">%s elemento selezionato</item>
+    </plurals>
+    <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">Eliminare definitivamente %s file ora?</item>
+        <item quantity="one">Eliminare permanentemente il file %s ora?</item>
     </plurals>
     <plurals name="plus_player_subtitle_online_size">
         <item quantity="other">Dimensione file: %.2fKB</item>

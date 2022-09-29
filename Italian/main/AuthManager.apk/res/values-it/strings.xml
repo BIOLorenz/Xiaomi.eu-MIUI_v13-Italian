@@ -10,7 +10,7 @@
     <string name="HIPS_Perm_Access_Gallery">Accesso alla Galleria</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Consente a questa app di accedere agli elementi nella tua Galleria</string>
     <string name="HIPS_Perm_AudioRecorder">Registra audio</string>
-    <string name="HIPS_Perm_AudioRecorder_Desc">Registrare audio e chiamate</string>
+    <string name="HIPS_Perm_AudioRecorder_Desc">accesso diretto al microfono per registrare audio</string>
     <string name="HIPS_Perm_AutoStart">Esecuzione automatica all\'avvio</string>
     <string name="HIPS_Perm_AutoStart_Desc">Esegui automaticamente all\'avvio</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Connettività Bluetooth</string>
@@ -27,7 +27,7 @@
     <string name="HIPS_Perm_Contact_Desc">Modificare e cancellare contatti</string>
     <string name="HIPS_Perm_External_Storage">Accesso e modifica file nella memoria interna</string>
     <string name="HIPS_Perm_External_Storage_Desc">"Aggiungere ed eliminare file nella memoria interna"</string>
-    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Registrazione audio ed effettuare chiamate</string>
+    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">accesso diretto al microfono per registrare audio</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Avvio automatico delle app in background</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">Accesso agli eventi del calendario</string>
     <string name="HIPS_Perm_Intl_group_desc_call_log">Accesso e modifica della cronologia delle chiamate</string>
@@ -47,6 +47,7 @@
     <string name="HIPS_Perm_Location_Desc">Localizzare il dispositivo tramite la rete o il GPS</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Connettiti ai dispositivi vicini</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Trova e connettiti ai dispositivi nelle vicinanze</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Scopri e connettiti ai dispositivi nelle vicinanze tramite Bluetooth e Wi-Fi</string>
     <string name="HIPS_Perm_PhoneID">ID Telefono</string>
     <string name="HIPS_Perm_PhoneID_Desc">Visualizza l\'ID del tuo telefono, compresi IMEI, IMSI, etc</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Accesso al numero di telefono e allo stato del devices</string>
@@ -154,6 +155,7 @@
     <string name="blur_location_is_on_tip">%1$s rileva una posizione approssimativa. Continuare a usarla invece di una posizione precisa?</string>
     <string name="blur_location_now_tip">Il servizio di localizzazione è abilitato</string>
     <string name="blur_location_title">Posizione approssimativa</string>
+    <string name="carwith_grant_permission_tips_when_lock">Sblocca prima il telefono</string>
     <string name="cetus_invisible_mode_notice_audio">"Sei in mod. incognito. Non puoi usare il microfono."</string>
     <string name="cetus_invisible_mode_notice_camera">"Sei in mod. incognito. Non puoi usare la fotocamera ora."</string>
     <string name="cetus_invisible_mode_notice_location">"Sei in mod. incognito. Non puoi usare i servizi di localizzazione."</string>
@@ -411,6 +413,7 @@
     <string name="ok">OK</string>
     <string name="perm_action_allow">Consenti</string>
     <string name="perm_action_deny">Non consentire mai</string>
+    <string name="perm_educate_post_notification">Le notifiche possono essere accompagnate da suoni e vibrazioni come appaiono nella barra delle notifiche e sulle icone della schermata Home. È possibile modificare le preferenze di notifica in Impostazioni.</string>
     <string name="perm_manager_suggest_operation">Gestione permessi</string>
     <string name="perm_manager_suggest_title">Gestire i permessi?</string>
     <string name="perm_modem_location">Accedi alla tua posizione</string>
@@ -421,14 +424,15 @@
     <string name="permdesc_get_account">Consentire a %1$s di accedere a tutti gli account memorizzati su questo dispositivo?</string>
     <string name="permdesc_location">Consentire a %1$s di accedere alle info sulla posizione?</string>
     <string name="permdesc_location_background">Consentire a %1$s di accedere alle info sulla posizione in background?</string>
-    <string name="permdesc_microphone">Consentire a %1$s di utilizzare il microfono per registrare audio e effettuare chiamate?</string>
+    <string name="permdesc_microphone">Consentire a %1$s di utilizzare il microfono per registrare l\'audio?</string>
     <string name="permdesc_nearby_devices">Consentire a %1$s di scansionare e connettersi ai dispositivi nelle vicinanze?</string>
     <string name="permdesc_process_outgoing_call">Consentire a %1$s di rispondere e terminare le chiamate?</string>
     <string name="permdesc_read_calendar">Consentire a %1$s di accedere e modificare gli eventi del calendario?</string>
     <string name="permdesc_read_call_log">Consentire a %1$s di accedere alla cronologia chiamate?</string>
     <string name="permdesc_read_contacts">Consentire a %1$s di accedere ai contatti?</string>
     <string name="permdesc_read_mms">Consentire a %1$s di leggere messaggi multimediali?</string>
-    <string name="permdesc_read_phone_state">Consentire a %1$s di accedere allo stato del dispositivo e alle informazioni della rete mobile?</string>
+    <string name="permdesc_read_phone_numbers">Consentire a %1$s di leggere i numeri di telefono su questo dispositivo?</string>
+    <string name="permdesc_read_phone_state">Consentire a %1$s di accedere allo stato del dispositivo e alle informazioni sulla rete mobile?</string>
     <string name="permdesc_read_sms">Consentire a %1$s di leggere o inviare messaggi testuali e multimediali?</string>
     <string name="permdesc_read_storage">Consentire a %1$s di accedere a file e foto su questo dispositivo?</string>
     <string name="permdesc_recognition">Consentire a %1$s di accedere alle informazioni sulle tue attività?</string>
@@ -444,6 +448,12 @@
     <string name="permgroupdesc_camera">Consentire a %1$s di scattare foto e registrare video?</string>
     <string name="permgroupdesc_contacts">Consentire a %1$s di accedere ai contatti?</string>
     <string name="permgroupdesc_location">Consentire a %1$s di accedere alle info sulla posizione?</string>
+    <string name="permgroupdesc_microphone">Consentire a %1$s di registrare l\'audio?</string>
+    <string name="permgroupdesc_phone">Consentire a %1$s di effettuare chiamate e accedere alle informazioni sul dispositivo?</string>
+    <string name="permgroupdesc_recognition">Consentire a %1$s di accedere ai dati di salute e attività?</string>
+    <string name="permgroupdesc_sensors">Consentire a %1$s di accedere ai dati del sensore del corpo?</string>
+    <string name="permgroupdesc_sms">Consentire a %1$s di leggere o inviare SMS?</string>
+    <string name="permgroupdesc_storage">Consentire a %1$s di accedere e salvare file e foto sul tuo dispositivo?</string>
     <string name="permission_group_title_charges_related">Costi</string>
     <string name="permission_group_title_media_related">Multimedia</string>
     <string name="permission_group_title_privacy_related">Privacy</string>
@@ -455,6 +465,7 @@
     <string name="permission_warning_template_ask">Concedere a %1$s i seguenti permessi?</string>
     <string name="permisson_reject_notice_toast_text2">"non hai il permesso per %1$s."</string>
     <string name="pp_privacy_lab_operator_introduction">Attenzione</string>
+    <string name="precise_location_title">Posizione precisa</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="real_location_off">Il servizio di localizzazione è abilitato</string>
     <string name="real_location_on">Posizione reale: Disattiva</string>

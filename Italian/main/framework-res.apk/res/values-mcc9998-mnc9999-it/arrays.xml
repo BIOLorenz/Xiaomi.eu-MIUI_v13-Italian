@@ -6,12 +6,14 @@
         <item>Español (América)</item>
         <item>Português (Brasil)</item>
         <item>اردو (بھارت )</item>
+        <item>اردو (بھارت،مغربی ہندسے)</item>
         <item>اردو (پاکستان )</item>
+        <item>اردو (پاکستان،توسیع شدہ عربی ہندی ہندسے)</item>
         <item>বাংলা (ভারত)</item>
         <item>नेपाली (भारत)</item>
         <item>العربية</item>
-        <item>فارسی</item>
         <item>العربية ( الأرقام الغربية )</item>
+        <item>فارسی</item>
         <item>فارسی ( ارقام غربی )</item>
     </string-array>
 </resources>

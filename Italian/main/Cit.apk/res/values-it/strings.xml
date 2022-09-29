@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="AudioDisplay">0</string>
     <string name="AudioOnOff">\u0009Audio On/Off</string>
     <string name="AudioStatus">\u0009\u0009Stato audio</string>
     <string name="CloudControl">CloudControl</string>
     <string name="CurrentDsi">\u0009\u0009DsiAttuale</string>
+    <string name="CurrentDsiDisplay">0</string>
+    <string name="GPIODisplay">0</string>
     <string name="GPIO_Status">\u0009\u0009GPIO_Stato</string>
+    <string name="HotspotDisplay">0</string>
     <string name="HotspotStatus">\u0009\u0009HotspotStato</string>
     <string name="SAR">SAR</string>
     <string name="SAROnOff">\u0009SAR On/Off</string>
+    <string name="Sensor1Display">0</string>
     <string name="Sensor1_Status">\u0009\u0009Sensor1_Stato</string>
+    <string name="Sensor2Display">0</string>
     <string name="Sensor2_Status">\u0009\u0009Sensor2_Stato</string>
     <string name="SetDsi">\u0009SetDsi</string>
     <string name="abc_action_bar_home_description">Vai alla Home</string>
@@ -73,14 +79,45 @@
     <string name="cancel">Annulla</string>
     <string name="charger_test_end">"
 Test caricabatterie terminato, prego scollega il caricabatterie"</string>
+    <string name="cit_DP_check_summary">Le linee DP devono essere collegate durante il processo di prova</string>
     <string name="cit_DP_check_title">DP</string>
+    <string name="cit_DP_in_start_test">Inserire la linea DP per avviare il test</string>
+    <string name="cit_DP_plug_err">"Test fallito 
+ Non è stato ottenuto il valore"</string>
+    <string name="cit_DP_plug_fail">"Test fallito 
+ Questa linea non è DP, sostituisci la linea per effettuare il test"</string>
+    <string name="cit_DP_plug_out_err">"Test fail
+Non è stato ottenuto il valore"</string>
+    <string name="cit_DP_plug_out_fail">"È stata rilevata una connessione danneggiata
+Test fallito
+"</string>
+    <string name="cit_DP_plug_out_pass">"È stata rilevata una connessione danneggiata
+Test Pass"</string>
+    <string name="cit_DP_plug_pass">Viene rilevata la linea DP collegata, si prega di osservare se la proiezione dello schermo è riuscita e fare clic sul pulsante corrispondente</string>
+    <string name="cit_DP_plug_re_plugin">Test DP completato, vedere se lo schermo è riuscito e fare clic sul pulsante corrispondente</string>
     <string name="cit_OTG_plug_check_summary">Durante il test collega il dispositivo all\'adattatore OTG USB, e quest\'ultimo ad altri dispositivi</string>
     <string name="cit_OTG_plug_check_title">OTG</string>
     <string name="cit_OTG_waiting_in">Collega un dispositivo USB OTG</string>
     <string name="cit_OTG_waiting_in_charge">Collega adattatore OTG USB ora</string>
     <string name="cit_OTG_waiting_out">Scollega il dispositivo USB OTG</string>
     <string name="cit_OTG_waiting_out_end">Collegare il dispositivo USB_OTG, termina test</string>
+    <string name="cit_USB3_OTG_error_condition">"È stato rilevato un inserimento del dispositivo OTG, ma non è stato possibile ottenere le informazioni del dispositivo 
+ Test fallito"</string>
+    <string name="cit_USB3_check_summary">I dispositivi USB3.0-supportano devono essere inseriti durante il test</string>
     <string name="cit_USB3_check_title">USB3.0</string>
+    <string name="cit_USB3_error_condition">"È stata rilevata l'inserimento del dispositivo, ma non è stato possibile ottenere informazioni sul dispositivo 
+ Test fallito"</string>
+    <string name="cit_USB3_in_need_plugout">Dispositivo USB collegato rilevato, estrarre per avviare il test</string>
+    <string name="cit_USB3_in_start_test">Inserisci i dispositivi abilitati per USB3.0 e avvia il test</string>
+    <string name="cit_USB3_plug_err">Non ha letto il valore corretto, si prega di contattare lo sviluppo per vedere il motivo</string>
+    <string name="cit_USB3_plug_fail">Il dispositivo di test non supporta USB3.0 e il test non è riuscito</string>
+    <string name="cit_USB3_plug_out_test_err">"Il dispositivo ha tirato fuori, test fallito
+Non ha ottenuto il valore corretto, si prega di contattare lo studente di ricerca e sviluppo per scoprire il motivo"</string>
+    <string name="cit_USB3_plug_out_test_fail">"Il dispositivo ha tirato fuori, test non funziona
+Si consiglia di riprovare l'apparecchiatura di sostituzione"</string>
+    <string name="cit_USB3_plug_out_test_pass">Il dispositivo ha tirato fuori, passa di prova</string>
+    <string name="cit_USB3_plug_pass">USB3.0 pass, si prega di estrarre i dispositivi</string>
+    <string name="cit_USB3_plug_re_plugin">"Il test USB3.0 è terminato, non ripetere il test"</string>
     <string name="cit_abnormal_reboot_summary">Attendere...Lettura dati di stabilità su questo dispositivo.</string>
     <string name="cit_abnormal_reboot_title">Dati stabilità dispositivo</string>
     <string name="cit_ac_charger_in">Ricarica via AC</string>
@@ -105,6 +142,9 @@ Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string
     <string name="cit_audio_cali_summary">Calibrazione Altoparlante</string>
     <string name="cit_audio_cali_test_summary">Prima di calibrare l\'altoparlante, assicurarsi che non ci sia nulla in riproduzione</string>
     <string name="cit_audio_cali_title">Test calibrazione Altoparlante</string>
+    <string name="cit_audio_hw_check_summary">Verifica Hardware Audio</string>
+    <string name="cit_audio_hw_check_tips">Prova In Esecuzione</string>
+    <string name="cit_audio_hw_check_title">Verifica Hardware Audio</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Test da Microfono princ. a Ricevitore</string>
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Test feedback del microfono principale alla capsula auricolare.
 
@@ -144,17 +184,17 @@ Tenere il telefono come se si stesse facendo una chiamata, parlare con il microf
     <string name="cit_calibration_finish">Scrittura dati di calibrazione completata</string>
     <string name="cit_calibration_pass">Calibrazione riuscita</string>
     <string name="cit_camera_cali_title">Calibrazione della fotocamera</string>
-    <string name="cit_camera_check_summary">"Istruzioni per il test:
+    <string name="cit_camera_check_summary">"Istruzioni di prova:
 
-1. Tocca il pulsante della Fotocamera di seguito per avviare la fotocamera frontale
-2. Tocca il pulsante di scatto
-3. Tocca l'icona a forma di spunta. Il sistema salverà la foto automaticamente
-4. La foto che hai scattato dovrebbe comparire di seguito. Tocca \"Elimina\" per completare questo test"</string>
+1.Tocca il pulsante Fotocamera qui sotto per inserire l'interfaccia di anteprima della videocamera
+2.Tocca il pulsante otturatore
+3. il sistema salverà automaticamente la foto dopo la cattura
+4.La foto scattata deve essere visualizzata sullo schermo, Tocca Passa per completare il test."</string>
     <string name="cit_camera_deleted">Foto eliminata</string>
     <string name="cit_camera_deleted_failed">Eliminazione foto fallita</string>
     <string name="cit_camera_flash_adjust">Regola il flash</string>
     <string name="cit_camera_otp_download_title">Test download OTP fotocamera</string>
-    <string name="cit_camera_rearsub">Prove sub-camera posteriore in corso, attendere prego....</string>
+    <string name="cit_camera_rearsub">Sub camera test in corso, attendere prego....</string>
     <string name="cit_camerasfr_test">Analisi immagine, attendere....</string>
     <string name="cit_capture_fail">Impossibile scattare una foto</string>
     <string name="cit_charge_usb_dcp">Ricarica: USB_DCP</string>
@@ -179,6 +219,8 @@ al dispositivo ed alla presa a muro"</string>
     <string name="cit_diag_signal_summary">Copia i file di log stabilità segnale su sdcard</string>
     <string name="cit_diag_wait">Attendere prego... Copia in corso</string>
     <string name="cit_dial_emergencycall">Componi il 112</string>
+    <string name="cit_digital_hall_sensor_cali_summary">Si prega di mantenere il dispositivo chiuso per la calibrazione</string>
+    <string name="cit_digital_hall_sensor_cali_title">Digital Hall Calibration Test</string>
     <string name="cit_digital_hall_sensor_check_summary">Valore angolare mostrato sotto</string>
     <string name="cit_digital_hall_sensor_check_title">Test Hall</string>
     <string name="cit_display_check_summary">Verifica che il file .bmp richiesto sia sulla scheda SD. Verifica che i colori siano omogenei su tutto lo schermo. Assicurarti che non ci siano punti luminosi irregolari e macchie scure.</string>
@@ -307,6 +349,7 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
     <string name="cit_sim_state_puk_required">PUK richiesto</string>
     <string name="cit_sim_state_ready">Scheda SIM pronta</string>
     <string name="cit_sim_state_unkown">Sconosciuto</string>
+    <string name="cit_soft_light_check_title">Luce soffusa</string>
     <string name="cit_soft_torch_first">Il primo flash soft</string>
     <string name="cit_soft_torch_second">Il secondo flash soft</string>
     <string name="cit_start_calibration">Calibra</string>
@@ -481,6 +524,8 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
     <string name="cit_tool_exit_modem_mbn">Ripristina a MBN automatico</string>
     <string name="cit_tool_getting_expired">Sta scadendo!</string>
     <string name="cit_tool_getting_wait">Elaborazione! Aspetta</string>
+    <string name="cit_tool_gps_path_loss_test_request_location">richiedi posizione</string>
+    <string name="cit_tool_gps_path_loss_title">Gnss pathloss test tool</string>
     <string name="cit_tool_mbn_default_notfiy">MBN predefinito</string>
     <string name="cit_tool_mbn_no_default_notfiy">Nessun MBN predefinito</string>
     <string name="cit_tool_mbn_opt_help">"Istruzioni sull'operazione:
@@ -541,7 +586,10 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
     <string name="cit_tool_switch_autosms">Attiva/Disattiva Reg. Auto SMS</string>
     <string name="cit_tool_to_fetching">per recuperare</string>
     <string name="cit_tool_wlan">Test Wi-Fi</string>
+    <string name="cit_tool_wlan_chain_1">1</string>
     <string name="cit_tool_wlan_chain_1_2">1+2</string>
+    <string name="cit_tool_wlan_chain_2">2</string>
+    <string name="cit_tool_wlan_circular_capture">Cattura Circolarmente</string>
     <string name="cit_tool_wlan_clear">cancella</string>
     <string name="cit_tool_wlan_exit">Esci</string>
     <string name="cit_tool_wlan_export">Esporta</string>
@@ -581,6 +629,7 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
     <string name="cit_tool_wlan_tx_st">Tx: ST</string>
     <string name="cit_tool_wlan_tx_st_chan">canale:</string>
     <string name="cit_tool_wlan_txrx_chain_selection">Seleziona antenna</string>
+    <string name="cit_tool_wlan_update_ap_list">Aggiorna Lista AP</string>
     <string name="cit_top_left_speaker_test">Test altoparlante superiore sinistro</string>
     <string name="cit_top_right_speaker_test">Prova altoparlante superiore destro</string>
     <string name="cit_torch">Flash</string>
@@ -641,6 +690,7 @@ Prego clicca il pulsante corretto in base alle diverse tipologie di vibrazione"<
     <string name="cit_wifi_state_refresh">Aggiorna</string>
     <string name="cit_x_tele_camera_check_title">Fotocamera Super Tele</string>
     <string name="close_third_color_led">disattiva il led a tre colori</string>
+    <string name="cold_light_title">Luce fredda</string>
     <string name="continue_vibrator">Vibrazione continua</string>
     <string name="current_angle">Angolo Attuale:</string>
     <string name="dispaly_sar_sensor_values">Visualizza tutti i valori del sensore attuale</string>
@@ -766,7 +816,9 @@ Dopo aver terminato con successo la calibrazione, verifica le emissioni del tele
     <string name="search_menu_title">Cerca</string>
     <string name="set_dsi_tips">Imposta DSI</string>
     <string name="slave_battery_authentic">Batteria Secondaria Autentica</string>
+    <string name="soft_light_title">Luce soffusa</string>
     <string name="speak_from_mic">Parla nel microfono, l\'altoparlante riprodurrà il suono. Assicurati che il suono venga riprodotto.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="successfully_obtained_permission">Rilevamento controllo cloud riuscito, la funzione ha effetto</string>
     <string name="temperature">Temperatura</string>
     <string name="test_back_mic">Mic. posteriore</string>
@@ -796,4 +848,5 @@ Clicca sul pulsante appropriato in base al numero che ascolterai"</string>
     <string name="verify">Verifica</string>
     <string name="vibrator_change">Seleziona mod. di vibrazione</string>
     <string name="waiting">Attendere 4 sec.</string>
+    <string name="warm_light_title">Luce calda</string>
 </resources>

@@ -53,6 +53,35 @@
         <item>\#</item>
         <item>∅</item>
     </string-array>
+    <string-array name="alphabet_chars2">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="calendar_remind_string_array">
         <item>Stanotte</item>
         <item>domani</item>
@@ -91,6 +120,51 @@
         <item>Nome utente o password non validi</item>
         <item>in blacklist, per favore cambia la tua rete o accedi a https://mail.sohu.com per configurare la lista esclusioni il client ip</item>
         <item>java.net.UnknownHostException: Impossibile risolvere l\'host</item>
+        <item>client disabilitato, si prega di cambiare stato sul sito https://mail.sohu.com</item>
+        <item>nessuna password iniziale, effettua il login https://mail.sohu.com per generare la password del client</item>
+    </string-array>
+    <string-array name="error_message_respond_revert">
+        <item>@string/error_message_respond_revert_01</item>
+        <item>@string/error_message_respond_revert_02</item>
+        <item>@string/error_message_respond_revert_02</item>
+        <item>@string/error_message_respond_revert_02</item>
+        <item>@string/error_message_respond_revert_02</item>
+        <item>@string/error_message_respond_revert_03</item>
+        <item>@string/error_message_respond_revert_04</item>
+        <item>@string/error_message_respond_revert_04</item>
+        <item>@string/error_message_respond_revert_05</item>
+        <item>@string/error_message_respond_revert_06</item>
+        <item>@string/error_message_respond_revert_06</item>
+        <item>@string/error_message_respond_revert_07</item>
+        <item>@string/error_message_respond_revert_08</item>
+        <item>@string/error_message_respond_revert_09</item>
+        <item>@string/error_message_respond_revert_10</item>
+        <item>@string/error_message_respond_revert_11</item>
+        <item>@string/error_message_respond_revert_12</item>
+        <item>@string/error_message_respond_revert_14</item>
+        <item>@string/error_message_respond_revert_15</item>
+        <item>@string/error_message_respond_revert_16</item>
+        <item>@string/error_message_respond_revert_17</item>
+        <item>@string/error_message_respond_revert_18</item>
+        <item>@string/error_message_respond_revert_19</item>
+        <item>@string/error_message_respond_revert_20</item>
+        <item>@string/error_message_respond_revert_21</item>
+        <item>@string/error_message_respond_revert_22</item>
+        <item>@string/error_message_respond_revert_23</item>
+        <item>@string/error_message_respond_revert_24</item>
+        <item>@string/error_message_respond_revert_25</item>
+        <item>@string/error_message_respond_revert_26</item>
+        <item>@string/error_message_respond_revert_27</item>
+    </string-array>
+    <string-array name="folder_junk_name_array">
+        <item>@string/folder_junk_name_en1</item>
+        <item>@string/folder_junk_name_en2</item>
+        <item>@string/folder_junk_name_en3</item>
+        <item>@string/folder_junk_name_en4</item>
+        <item>@string/folder_junk_name_en5</item>
+        <item>@string/folder_junk_name_cn0</item>
+        <item>@string/folder_junk_name_cn1</item>
+        <item>@string/folder_junk_name_cn2</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Testo molto piccolo</item>
@@ -138,6 +212,12 @@
         <item>più recente</item>
         <item>più vecchio</item>
         <item>list</item>
+    </string-array>
+    <string-array name="prefValues_restart_detail_conversation">
+        <item>1</item>
+        <item>5</item>
+        <item>15</item>
+        <item>30</item>
     </string-array>
     <string-array name="sign_in_dialog_item">
         <item>Accesso al protocollo imap di Outlook oauth</item>

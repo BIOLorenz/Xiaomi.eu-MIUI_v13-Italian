@@ -25,7 +25,12 @@
     <string name="account_other">Altro</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="am">AM</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="app_ver_code">1</string>
+    <string name="app_ver_name">1.0</string>
     <string name="audio_record_des">Per trasmettere l\'audio dal tuo dispositivo a monitor esterni</string>
+    <string name="cast_image_des">Tutorial di Casting</string>
     <string name="casting_tips">Trasmissione in corso…</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -215,7 +220,9 @@ Visualizza la guida se hai problemi di connessione."</string>
     <string name="global_privacy_main">"Proietta gli elementi dallo schermo del telefono su un monitor esterno più grande."</string>
     <string name="global_privacy_negative">"Non accetto"</string>
     <string name="global_privacy_positive">Accetto</string>
+    <string name="global_privacy_screencast">Durante la registrazione o la fusione, il servizio che fornisce questa funzione può catturare tutte le informazioni sensibili visualizzate sullo schermo o riprodotte dal dispositivo, comprese informazioni sensibili come audio, password, informazioni sui pagamenti, foto e messaggi.</string>
     <string name="global_privacy_tip"><Data>Abbiamo bisogno di raccogliere le informazioni personali necessarie per fornirti i servizi di base e ottimizzare il processo di proiezione. Puoi imparare come gestiamo le informazioni che raccogliamo nella nostra &lt;a href=%1$s&gt;Informativa sulla privacy&lt;/a&gt;. Puoi revocare il tuo consenso nelle Impostazioni in qualsiasi momento.</Data></string>
+    <string name="google_crash_reporting_api_key">AIzaSyCT3cdzuEQqqpgj9d6LhTMnwZdDnFFJRVU</string>
     <string name="hang_up">Proietta con schermo spento</string>
     <string name="hang_up_alert_dialog_content">Continua la proiezione quando lo schermo del dispositivo è spento. Questa funzione riduce il consumo di energia. Premi il pulsante Accensione per riattivare lo schermo.</string>
     <string name="hang_up_alert_dialog_neg">Annulla</string>
@@ -413,6 +420,7 @@ Se devi attivare Miracast, premi il pulsante [MENU] e seleziona Le mie app &gt; 
     <string name="path_setting_cast_help">Connessione e Condivisione/Trasmissione/Aiuto</string>
     <string name="permission_allowed">Concesso</string>
     <string name="permission_uballowed">Non concesso</string>
+    <string name="pm">PM</string>
     <string name="pre_privacy_setting_title">Privacy</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_agree">Accetto</string>
@@ -430,6 +438,8 @@ Se devi attivare Miracast, premi il pulsante [MENU] e seleziona Le mie app &gt; 
     <string name="privacy_permission_nfc_desc">使用NFC关联您要投屏的设备</string>
     <string name="privacy_permission_optional">可选权限</string>
     <string name="privacy_permission_optional_desc">"用于附加功能，将在您使用相关功能时向您申请"</string>
+    <string name="privacy_permission_screencast">Accesso alle informazioni sullo schermo</string>
+    <string name="privacy_permission_screencast_desc">Durante la registrazione o la fusione, il servizio che fornisce questa funzione può catturare tutte le informazioni sensibili visualizzate sullo schermo o riprodotte dal dispositivo, comprese informazioni sensibili come audio, password, informazioni sui pagamenti, foto e messaggi</string>
     <string name="privacy_permission_wlan">开启/关闭WLAN</string>
     <string name="privacy_permission_wlan_china">开启/关闭WLAN</string>
     <string name="privacy_permission_wlan_desc">使用蓝牙扫描附近可投屏的设备</string>
@@ -525,6 +535,8 @@ Leggi e accetta il nostro &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a hr
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="status_bar_in_casting">Trasmissione in corso…</string>
     <string name="status_bar_in_casting_long">Tocca per vedere altre funzionalità di proiezione</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

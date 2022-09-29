@@ -129,6 +129,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="battery_info_status_full">Carica</string>
     <string name="battery_info_status_not_charging">Collegato alla corrente. Impossibile caricare al momento</string>
     <string name="battery_info_status_unknown">Sconosciuta</string>
+    <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="blob_expires_text">Scadenza: %s</string>
     <string name="blob_id_text">ID dati condivisi: %d</string>
     <string name="blood_type">Gruppo sanguigno</string>
@@ -272,6 +273,7 @@ Selezione"</string>
     <string name="convert_to_file_encryption_done">Crittografia su base file già eseguita</string>
     <string name="convert_to_file_encryption_enabled">Converti…</string>
     <string name="copy">Copia</string>
+    <string name="count_down_unit">s</string>
     <string name="creating_new_user_dialog_message">Creazione nuovo utente…</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalìa (rosso-verde)</string>
     <string name="daltonizer_mode_disabled">Disattivato</string>
@@ -279,6 +281,7 @@ Selezione"</string>
     <string name="daltonizer_mode_protanomaly">Protanomalìa (rosso-verde)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalìa (blu-giallo)</string>
     <string name="daltonizer_type_overridden">Valore sostituito da %1$s</string>
+    <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+</string>
     <string name="data_connection_3g">3G</string>
     <string name="data_connection_4g">4G</string>
@@ -413,9 +416,11 @@ Chiunque può leggere queste informazioni dalla schermata di blocco e chiamare i
     <string name="material_minute_suffix">%1$s minuti</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
+    <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Passa alla mod. orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
     <string name="material_timepicker_text_input_mode_description">Passa alla mod. di inserimento testo per inserire l\'ora.</string>
     <string name="media_category">Contenuti multimediali</string>
@@ -476,6 +481,7 @@ Chiunque può leggere queste informazioni dalla schermata di blocco e chiamare i
     <string name="mtrl_picker_out_of_range">Fuori dall\'intervallo: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data di inizio – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data di fine</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Seleziona Intervallo</string>
     <string name="mtrl_picker_range_header_unselected">Data di inizio – Data di fine</string>
     <string name="mtrl_picker_save">Salva</string>
@@ -483,6 +489,7 @@ Chiunque può leggere queste informazioni dalla schermata di blocco e chiamare i
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla mod. di inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>
@@ -514,6 +521,7 @@ Chiunque può leggere queste informazioni dalla schermata di blocco e chiamare i
     <string name="picture_color_mode_desc">Usa sRGB</string>
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Overlay schermo che mostra i dati touch correnti</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s rimanenti fino al completamento</string>
     <string name="power_charging_limited">%1$s - Ricarica temporaneamente limitata</string>
     <string name="power_discharge_by">Ora stimata esaurimento batteria: %1$s circa (%2$s)</string>
@@ -611,6 +619,7 @@ Chiunque può leggere queste informazioni dalla schermata di blocco e chiamare i
     <string name="speed_label_very_fast">Molto veloce</string>
     <string name="speed_label_very_slow">Molto lenta</string>
     <string name="standby_bucket_summary">Stato di standby dell\'app:  %s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_unavailable">Non disponibile</string>
     <string name="storage_category">Archiviazione</string>
     <string name="strict_mode">Attiva StrictMode</string>
@@ -756,6 +765,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri."</string>
     <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_limited_connection">Connessione limitata</string>
     <string name="wifi_metered_label">A consumo</string>
+    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_no_internet">Nessun accesso a Internet</string>
     <string name="wifi_no_internet_no_reconnect">"Non verrà eseguita la connessione automatica"</string>
     <string name="wifi_not_in_range">Fuori portata</string>

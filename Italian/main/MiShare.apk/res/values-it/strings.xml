@@ -25,6 +25,7 @@
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="agree_desc">Concedi i permessi obbligatori elencati sopra.</string>
+    <string name="am">AM</string>
     <string name="app_name">MiShare</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
@@ -162,10 +163,19 @@
     <string name="eras_bc">DC</string>
     <string name="error_ap_in_use">"Impossibile inviare file ad altri dispositivi quando l'hotspot è attivo"</string>
     <string name="error_ap_or_screen_already_hosting">"Impossibile inviare oggetti ad altri dispositivi durante la proiezione o l'utilizzo di hotspot portatili."</string>
-    <string name="error_device_lost">Sembra che l\'altro dispositivo sia fuori portata. Attendi un minuto o due e riprova.</string>
+    <string name="error_ble_connect_failure">"Il dispositivo di ricezione non è riuscito a connettersi al Bluetooth. Assicurati che lo schermo sia acceso."</string>
+    <string name="error_ble_connect_timeout">"Impossibile connettersi al Bluetooth. Riconnettersi al Bluetooth su entrambi i dispositivi e riprovare."</string>
+    <string name="error_device_lost">"Sembra che l'altro dispositivo non stia rispondendo. Attendi un minuto o due e riprova."</string>
     <string name="error_has_occurred">Si è verificato un errore</string>
     <string name="error_mirror_working">"Impossibile condividere gli elementi durante la condivisione dello schermo"</string>
-    <string name="error_msg_network_error">Si è verificato un errore di rete. Riprova.</string>
+    <string name="error_msg_network_error">"Impossibile connettersi alla rete. Controlla le connessioni Wi-Fi e Bluetooth di entrambi i dispositivi."</string>
+    <string name="error_msg_network_error_china">"Impossibile connettersi alla rete. Controlla le connessioni Wi-Fi e Bluetooth di entrambi i dispositivi."</string>
+    <string name="error_msg_wlan_error">"Impossibile connettersi. Riconnettersi al Wi-Fi e riprovare."</string>
+    <string name="error_msg_wlan_error_china">"Impossibile connettersi. Riconnettersi al Wi-Fi e riprovare."</string>
+    <string name="error_p2p_create_group_failure">"Impossibile connettersi. Riconnetti al Wi-Fi su entrambi i dispositivi e riprova."</string>
+    <string name="error_p2p_create_group_failure_china">"Impossibile connettersi. Riconnetti al Wi-Fi su entrambi i dispositivi e riprova."</string>
+    <string name="error_p2p_recv_connect_timeout">"Impossibile connettersi. Riconnetti al Wi-Fi su entrambi i dispositivi e riprova."</string>
+    <string name="error_p2p_recv_connect_timeout_china">"Impossibile connettersi. Riconnetti al Wi-Fi su entrambi i dispositivi e riprova."</string>
     <string name="error_permission_denied">Per poter utilizzare questa funzione, concedi a Mi Share tutti i permessi richiesti nelle Impostazioni.</string>
     <string name="error_receive_file_cannot_read">"Impossibile ricevere il file"</string>
     <string name="error_receive_file_changed">"Impossibile ricevere. L'elemento è stato modificato."</string>
@@ -183,7 +193,7 @@
     <string name="error_send_file_no_enough_space">"Impossibile inviare. Non c'è abbastanza spazio sull'altro dispositivo."</string>
     <string name="error_send_file_not_found">"Impossibile trovare il file. Riprova."</string>
     <string name="error_send_file_service_disabled">Trasferimento annullato</string>
-    <string name="error_send_transfer_error">"Impossibile trasferire gli elementi. Riprova."</string>
+    <string name="error_send_transfer_error">"Impossibile inviare gli elementi. Attendi un minuto o due e riprova."</string>
     <string name="error_send_transfer_pc_error">Trasferimento scaduto. Aggiorna l\'app di condivisione file sul tuo computer e riprova.</string>
     <string name="error_slave_wifi_in_use">"Mi Share non funziona quando il Wi-Fi Doppio è attivo. Disattiva il Wi-Fi Doppio nelle impostazioni e riprova."</string>
     <string name="error_slave_wifi_in_use_china">"Mi Share non funziona quando il Wi-Fi Doppio è attivo. Disattiva il Wi-Fi Doppio nelle impostazioni e riprova."</string>
@@ -367,6 +377,7 @@ Questa funzionalità è supportata da OPPO, vivo, realme e altri produttori di s
     <string name="month_september_shortest">Set</string>
     <string name="more">Altro</string>
     <string name="morning">Mattina</string>
+    <string name="multi_file_name">%1$s, %2$s</string>
     <string name="name_with_ellipsize">%1$s … %2$s</string>
     <string name="nearby_share">Condivisione nelle vicinanze</string>
     <string name="night">Sera</string>
@@ -387,6 +398,7 @@ Questa funzionalità è supportata da OPPO, vivo, realme e altri produttori di s
     <string name="pc_redmi_device_model_name">Portatile Redmi</string>
     <string name="pc_xiaomi_device_model_name">Portatile Xiaomi</string>
     <string name="permission_denied_hint">Concedi i permessi necessari per poter utilizzare Mi Share</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="progress_ratio">%1$d%%</string>
     <string name="purpose">"Benvenuto su Mi Share! Puoi usare questa app per trasferire file tra dispositivi. Proteggiamo i tuoi dati personali in conformità con le leggi, i regolamenti e le politiche pertinenti.
@@ -433,6 +445,7 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="redmi_note_9_pro_max">Redmi Note 9 Pro Max</string>
     <string name="redmi_note_9s">Redmi Note 9S</string>
     <string name="refuse_file">Rifiuta</string>
+    <string name="required_permissions">android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.BLUETOOTH_CONNECT;android.permission.BLUETOOTH_ADVERTISE;android.permission.BLUETOOTH_SCAN</string>
     <string name="retry_task">Invia nuovamente</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
@@ -486,9 +499,11 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="start_advertise">RENDI VISIBILE</string>
     <string name="start_receive_much_files_from_pc">Ricezione di più di 200 file da %1$s…</string>
     <string name="start_scan">INIZIA SCANSIONE</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_advertise">RENDI INVISIBILE</string>
     <string name="stop_scan">FERMA SCANSIONE</string>
     <string name="success_receive_much_file_from_pc">Ricevuti più di 200 file da %1$s. Tocca per vederli.</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -542,6 +557,8 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="tile_state_inactive">Spenta</string>
     <string name="tile_state_unavailable">Non disponibile</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
+    <string name="tips_p2p_support_use5g">Per ottenere risultati ottimali, utilizzare una rete Wi-Fi a 5 GHz.</string>
+    <string name="tips_p2p_support_use5g_china">Per ottenere risultati ottimali, utilizzare una rete Wi-Fi a 5 GHz.</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="to_feedback">Segnala</string>
     <string name="today">Oggi</string>
@@ -576,7 +593,8 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="vivo">Vivo</string>
     <string name="vivo_phone">Vivo</string>
     <string name="wait_receive_file">In attesa della ricezione…</string>
-    <string name="wait_remote_receive_tips">In attesa…</string>
+    <string name="wait_remote_receive_tips">"Assicurati che gli schermi di entrambi i dispositivi siano accesi e che il Wi-Fi e il Bluetooth siano attivati."</string>
+    <string name="wait_remote_receive_tips_china">"Assicurati che gli schermi di entrambi i dispositivi siano accesi e che il Wi-Fi e il Bluetooth siano attivati."</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>

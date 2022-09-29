@@ -24,11 +24,12 @@
     <string name="abc_toolbar_collapse_description">Riduci</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="am">AM</string>
     <string name="app_name">Registrazione schermo</string>
     <string name="app_notification_channel_record_complete">Notifica quando termini una registrazione</string>
     <string name="app_notification_info">La Registrazione Schermo sta operando in background</string>
-    <string name="app_notification_record_complete">"Registrazione dello schermo salvata in Galleria
-Tocca per visualizzarla"</string>
+    <string name="app_notification_record_saved">"Registrazione salvata con successo
+Tocca per visualizzare"</string>
     <string name="app_notification_title">Registrazione schermo</string>
     <string name="auto_stop_title">Video salvato con successo!</string>
     <string name="battery_not_allowed_warning">"Impossibile registrare quando la batteria è inferiore a %1$s. Assicurati che la batteria sia almeno al %2$s."</string>
@@ -204,6 +205,7 @@ Tocca per visualizzarla"</string>
     <string name="hint_volume_down">Volume -</string>
     <string name="hint_volume_up">Volume +</string>
     <string name="home_title_none">Seleziona elementi</string>
+    <string name="invisible_mode_error_tip">"Sei incognito. Impossibile registrare l'audio."</string>
     <string name="is_checked">Selezionato</string>
     <string name="is_go_home">Torna a Registrazione schermo</string>
     <string name="is_go_home_summary">"Apri la pagina iniziale di Registrazione schermo dopo aver interrotto la registrazione"</string>
@@ -298,6 +300,7 @@ Tocca per visualizzarla"</string>
     <string name="permission_intro_microphone">Per registrare suoni quando il microfono è impostato come fonte audio</string>
     <string name="permission_intro_storage">Per salvare le registrazioni dello schermo</string>
     <string name="permission_microphone_desc">Utilizza il microfono come sorgente audio per le registrazioni dello schermo</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_settings">Privacy</string>
     <string name="quit_recording">Uscito da Registrazione schermo</string>
@@ -358,12 +361,14 @@ Tocca per visualizzarla"</string>
     <string name="sound_source_summary_without_system_sounds">Utilizza il microfono o silenzia il suono</string>
     <string name="start">Avvia</string>
     <string name="start_recording">Avvia registrazione</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_by_second_space">Cambiando l\'utente si fermerà la registrazione schermo</string>
     <string name="stop_record_while_locking">Termina quando bloccato</string>
     <string name="stop_record_while_locking_summary">Termina e salva la registrazione quando il dispositivo è bloccato</string>
     <string name="stop_recording">Interrompi registrazione</string>
     <string name="storage_location">Archiviazione</string>
     <string name="storage_location_summary">Seleziona la tua opzione di memorizzazione preferita</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -411,6 +416,7 @@ Tocca per visualizzarla"</string>
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
+    <string name="timer_format">%s</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
     <string name="tuesday">Martedì</string>

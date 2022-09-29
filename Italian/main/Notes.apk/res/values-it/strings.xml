@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="APPID_client1">3100</string>
     <string name="abc_action_bar_home_description">Vai alla Home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
@@ -22,6 +23,7 @@
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
+    <string name="access_denied_info">Troppi tentativi. Attendi e riprova.</string>
     <string name="action_collapse">Nascondi</string>
     <string name="action_expand">Mostra altro</string>
     <string name="action_folder_description">Visualizza cartelle</string>
@@ -51,6 +53,7 @@
     <string name="alert_title_restore">Ripristina nota</string>
     <string name="all_folder_name">Tutte le note</string>
     <string name="all_terms">%1$s e %2$s</string>
+    <string name="am">AM</string>
     <string name="app_name">Note</string>
     <string name="app_notification_info">Le note sono attive in background</string>
     <string name="app_widget">Note</string>
@@ -155,6 +158,7 @@
     <string name="cloud_trash_bin_title">Elimina le note su Mi Cloud</string>
     <string name="confirm_cancel">"Non accetto"</string>
     <string name="confirm_ok">Accetto</string>
+    <string name="content_preview_ratio">1:1</string>
     <string name="continuous_default_hint">Copia testo, salva immagini e screenshot come estratti</string>
     <string name="continuous_new_excerpt_title">Nuovo estratto</string>
     <string name="copy">Copia</string>
@@ -198,6 +202,7 @@
     <string name="dlg_hide_message">Sto nascondendo…</string>
     <string name="dlg_info_creating_message">Creazione messaggio…</string>
     <string name="dlg_info_save_to_gallery_message">Salvataggio immagine nella galleria…</string>
+    <string name="dlg_info_save_to_local_message">Salvataggio…</string>
     <string name="dlg_message_password_reset">"La password per le note nascoste verrà sostituita dalla password di protezione privacy, la quale funziona con le app, foto, e cartelle nascoste"</string>
     <string name="dlg_message_set_password">La password di protezione privacy funziona con le app, foto, e cartelle nascoste</string>
     <string name="dlg_message_use_privacy_password">Usa la password di protezione privacy. La password di protezione privacy funziona con le app, foto, e cartelle nascoste</string>
@@ -379,6 +384,15 @@
     <string name="info_note_enter_desktop">Nota inserita sulla Home</string>
     <string name="item_view_role_description">Tab</string>
     <string name="last_excerpt_unfinish_hint">L\'ultimo estratto è incompleto</string>
+    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_isOpenSource">vero</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API SQLite Android basate su SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher per Android</string>
+    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
+    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
+    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="loading_text">Attendi…</string>
     <string name="login_sync">Accedi e sincronizza</string>
     <string name="lunar_day">Lunare %1$s</string>
@@ -389,11 +403,18 @@
     <string name="material_hour_suffix">"%1$s in punto"</string>
     <string name="material_minute_selection">Seleziona i minuti</string>
     <string name="material_minute_suffix">%1$s minuti</string>
+    <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="material_motion_easing_emphasized">path(M 0,0 C 0,05, 0, 0,133333, 0,06, 0,166666, 0,4 C 0,208333, 0,82, 0,25, 1, 1)</string>
+    <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
+    <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Passa alla mod. orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
     <string name="material_timepicker_text_input_mode_description">Passa alla mod. di inserimento testo per inserire l\'ora.</string>
     <string name="menu_add_audio_description">Aggiungi nota audio</string>
@@ -580,6 +601,7 @@
     <string name="mtrl_picker_out_of_range">Fuori dall\'intervallo: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data di inizio – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data di fine</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Seleziona Intervallo</string>
     <string name="mtrl_picker_range_header_unselected">Data di inizio – Data di fine</string>
     <string name="mtrl_picker_save">Salva</string>
@@ -587,10 +609,13 @@
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla mod. di inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
+    <string name="network_error_info">Si è verificato un errore di rete. Controlla le impostazioni di rete e riprova.</string>
+    <string name="network_timeout_info">"Impossibile connettersi alla rete. Riprova."</string>
     <string name="new_app_name">Note Mi</string>
     <string name="new_audio_create_cancel_talkback_des">Annullato</string>
     <string name="new_audio_create_done_talkback_des">Creato</string>
@@ -621,11 +646,14 @@
     <string name="note_mindnote_entrance_hint_newversion">"Inizia a digitare "</string>
     <string name="note_mindnote_entrance_icon_text">Crea una mappa mentale</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Crea una mappa mentale</string>
+    <string name="note_mindnote_not_support_in_phone_model">"Impossibile modificare le mappe mentali su questo dispositivo"</string>
     <string name="note_module_name">Note</string>
     <string name="note_not_text_stub">Nessun testo</string>
     <string name="note_sort_way">Ordinamento note</string>
+    <string name="note_write_hint">Inizia a scrivere</string>
     <string name="notealert_enter">Controlla</string>
     <string name="notealert_ok">Rifiuta</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">"Note è un'app di sistema. Non potrai utilizzare questa app dopo averla disinstallata."</string>
     <string name="notes_description_title">Disinstallare Note?</string>
     <string name="notification_content_add_todo_from_other_app">Hai aggiunto una nuova attività. Tocca per vederla.</string>
@@ -688,12 +716,15 @@
     <string name="permission_phone_state_desc">Per l\'interruzione della registrazione delle note vocali durante le chiamate</string>
     <string name="permission_read_contact_desc">Associazione delle note create durante le chiamate con i relativi contatti</string>
     <string name="permission_storage_desc">Per salvare le note come immagini</string>
+    <string name="permission_storage_desc_new_v12">Per aggiungere immagini alle note e salvare le note come immagini</string>
+    <string name="permission_storage_desc_pad_new_v12">Per aggiungere immagini alle note e salvare le note come immagini</string>
     <string name="permission_storage_desc_pad_v12">Per aggiungere immagini alle note e salvare le note come immagini</string>
     <string name="permission_storage_desc_v12">Per aggiungere immagini alle note e salvare le note come immagini</string>
     <string name="permission_xiaoai_desc"><Data>Mi IA raccoglierà le registrazioni vocali e l\'ID del dispositivo per trascrivere audio e creare note vocali. Ulteriori informazioni sulla &lt;a href=\"%1$s\"&gt;Informativa sulla Privacy Mi IA&lt;/a&gt;.</Data></string>
     <string name="permission_xiaoai_desc_new"><Data>Al fine di fornire servizi di trascrizione vocale, Mi AI necessita di raccogliere input audio e l\'ID del dispositivo, che viene generato in modo casuale. Leggi e accetta le nostre &lt;a href=\"%1$s\"&gt;Dichiarazione sulla condivisione dei dati di terze parti di Note&lt;/a&gt; prima di continuare. Puoi saperne di più leggendo l\'Informativa sulla privacy di Mi AI &lt;a href=\"%2$s\"&gt;&lt;/a&gt;.</Data></string>
     <string name="permission_xiaoai_title">Trascrizione</string>
     <string name="permlab_accessNote">Accedi alle note</string>
+    <string name="pm">PM</string>
     <string name="pref_category_title_quick_func">Funzionalità rapide</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Non chiedere conferme quando si eliminano note con una gesture</string>
     <string name="pref_desc_todo_float_mode">Scorri dal bordo dello schermo per aprire la finestra attività</string>
@@ -724,8 +755,10 @@
     <string name="privacy_note_content_empty">Nessun contenuto.</string>
     <string name="private_entry_available">Rilascia per aprire la cartella privata</string>
     <string name="private_entry_default">Scorri verso il basso per aprire la cartella privata</string>
+    <string name="progressbar_title">Verifica falle di sicurezza…</string>
     <string name="quick_note_link_default_text">URL</string>
     <string name="quick_note_new_user_guide">Le note rapide consentono di creare note ed estratti</string>
+    <string name="recognition_failure">识别失败</string>
     <string name="recover_notes_hint">Rilevati dati anomali nella nota, prova a recuperarla su <b>i.mi.com</b></string>
     <string name="redo">Ripristina</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Attendi fino a che la nota non sarà stata caricata e riprova.</string>
@@ -746,11 +779,14 @@
     <string name="repeat_mode_set_item_none">Mai</string>
     <string name="repeat_mode_set_item_normal_workday">da lunedì a venerdì</string>
     <string name="repeat_mode_set_item_week">Ogni settimana (%s)</string>
+    <string name="repeat_mode_set_item_week_detail">%s</string>
     <string name="repeat_mode_set_item_year">Ogni anno (%s)</string>
+    <string name="repeat_mode_set_item_year_detail">%s</string>
     <string name="repeat_mode_set_item_year_detail_day">dd MMM</string>
     <string name="repeat_mode_set_title">Ripeti</string>
     <string name="repeat_mode_week">Ogni settimana</string>
     <string name="repeat_mode_year">Ogni anno</string>
+    <string name="required_permissions">;</string>
     <string name="rich_text_bold_description">Grassetto</string>
     <string name="rich_text_bulleted_list_description">Casella</string>
     <string name="rich_text_center_description">Centro</string>
@@ -773,6 +809,9 @@
     <string name="save_to_gallery_failure_message">"Impossibile salvare"</string>
     <string name="save_to_gallery_icon_name">Salva in Galleria</string>
     <string name="save_to_gallery_success_message">Salvato con successo</string>
+    <string name="save_to_local_failure_message">"Impossibile salvare"</string>
+    <string name="save_to_local_icon_name">Salva</string>
+    <string name="save_to_local_success_message">Salvato con successo</string>
     <string name="search">Note</string>
     <string name="search_hint">Cerca note</string>
     <string name="search_keyword_notes">Note;Memo</string>
@@ -799,6 +838,7 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="snippet_audio_stub">Nota Vocale</string>
     <string name="snippet_image_stub">Nota con immagine</string>
@@ -842,6 +882,8 @@
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="splash_note">Penna</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -854,6 +896,7 @@
     <string name="sync_note_folder">%1$s e %2$s</string>
     <string name="sync_note_todo">%1$s e %2$s</string>
     <string name="sync_tips">Tocca per sincronizzare le note con Mi Cloud.</string>
+    <string name="system_error_info">Il sistema è occupato. Aspetta un minuto o due e riprova.</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
     <string name="the_arbor_day">Giorno dei mestieri</string>
@@ -986,6 +1029,7 @@ Consenti di registrare audio."</string>
     <string name="todo_notify_alarm_title">Promemoria attività</string>
     <string name="todo_schedule_time_expired">" (Scaduto)"</string>
     <string name="todo_schedule_time_for_picker_hm">H mm</string>
+    <string name="todo_schedule_time_hm">HH:mm</string>
     <string name="todo_schedule_time_md">dd/MM</string>
     <string name="todo_schedule_time_mdhm">dd/MM HH:mm</string>
     <string name="todo_schedule_time_repeat_day">, ogni giorno</string>
@@ -1026,6 +1070,7 @@ Consenti di registrare audio."</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="unclassfied_folder_name">Non categorizzato</string>
     <string name="undo">Annulla</string>
+    <string name="unknown_error_info">Errore sconosciuto</string>
     <string name="unknown_source">Fonte sconosciuta</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>

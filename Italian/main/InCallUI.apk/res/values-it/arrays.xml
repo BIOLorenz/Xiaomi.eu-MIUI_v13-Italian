@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="config_simCardPickNotUseCountDownDevices">
-        <item>thor</item>
-        <item>zizhan</item>
-        <item>unicorn</item>
-        <item>mayfly</item>
+    <string-array name="absent_num">
+        <item>NUMERO ASSENTE</item>
+        <item>ABSENTNUMBER</item>
     </string-array>
 </resources>

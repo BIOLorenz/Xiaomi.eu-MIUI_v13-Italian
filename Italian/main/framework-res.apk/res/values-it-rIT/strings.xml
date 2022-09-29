@@ -202,6 +202,7 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="accessibility_system_action_screenshot_label">Screenshot</string>
     <string name="accessibility_uncheck_legacy_item_warning">Il servizio %s è stato disattivato</string>
     <string name="action_bar_home_description">Vai alla home page</string>
+    <string name="action_bar_home_description_format">%1$s, %2$s</string>
     <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="action_bar_up_description">Vai in alto</string>
     <string name="action_menu_overflow_description">Altre opzioni</string>
@@ -274,6 +275,8 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="app_upgrading_toast">Upgrade dell\'app %1$s…</string>
     <string name="as_app_forced_to_restricted_bucket">%1$s è stato inserito nel bucket RESTRICTED</string>
     <string name="autofill">Compilazione automatica</string>
+    <string name="autofill_address_summary_name_format">$1$2$3</string>
+    <string name="autofill_address_summary_separator">", "</string>
     <string name="autofill_address_type_same_as_re">uguale a</string>
     <string name="autofill_address_type_use_my_re">utilizza il mio</string>
     <string name="autofill_area">Area</string>
@@ -354,6 +357,7 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="bugreport_option_interactive_title">Rapporto interattivo</string>
     <string name="bugreport_screenshot_failure_toast">Impossibile acquisire screenshot con segnalazione di bug</string>
     <string name="bugreport_screenshot_success_toast">Screenshot con segnalazione di bug effettuato correttamente</string>
+    <string name="bugreport_status" formatted="false">%s (%s)</string>
     <string name="bugreport_title">Segnalazione di bug</string>
     <string name="byteShort">B</string>
     <string name="call_notification_answer_action">Scorri in alto per rispondere</string>
@@ -405,12 +409,18 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="common_name">Nome comune:</string>
     <string name="condition_provider_service_binding_label">Provider condizioni</string>
     <string name="conference_call">Audioconferenza</string>
+    <string name="config_UsbDeviceConnectionHandling_component">\@null</string>
+    <string name="config_activityRecognitionHardwarePackageName">\@null</string>
     <string name="config_bodyFontFamily">sans-serif</string>
     <string name="config_bodyFontFamilyMedium">sans-serif-medium</string>
+    <string name="config_defaultListenerAccessPackages">com.miui.securitycenter:com.miui.notification:com.xiaomi.barrage:com.mi.android.globallauncher:com.miui.home</string>
     <string name="config_default_dns_server">1.1.1.1</string>
+    <string name="config_geofenceProviderPackageName">\@null</string>
+    <string name="config_iccHotswapPromptForRestartDialogComponent">\@null</string>
     <string name="config_icon_mask">M96.4286 62.2772C96.4286 72.1118 96.4286 77.029 94.7547 82.3225C92.6512 88.1016 88.0988 92.654 82.3196 94.7576C77.6553 96.2326 73.278 96.4076 65.575 96.4284H50H34.425C26.722 96.4076 22.3446 96.2326 17.6803 94.7576C11.9012 92.654 7.34879 88.1016 5.24522 82.3225C3.57141 77.029 3.57141 72.1118 3.57141 62.2772V49.9999V37.7225C3.57141 27.888 3.57141 22.9707 5.24522 17.6772C7.34879 11.8981 11.9012 7.34569 17.6803 5.24212C22.3446 3.76712 26.722 3.59212 34.425 3.57129H50H65.575C73.278 3.59212 77.6553 3.76712 82.3196 5.24212C88.0988 7.34569 92.6512 11.8981 94.7547 17.6772C96.4286 22.9707 96.4286 27.888 96.4286 37.7225V49.9999V62.2772Z</string>
+    <string name="config_rawContactsLocalAccountName">predefinito</string>
     <string name="config_secondaryHomePackage">com.android.launcher3</string>
-    <string name="config_systemGallery">com.android.gallery3d</string>
+    <string name="config_systemGallery">com.android.fileexplorer</string>
     <string name="confirm_battery_saver">OK</string>
     <string name="console_running_notification_message">Ci sono conseguenze sulle prestazioni. Per disattivare, seleziona il bootloader.</string>
     <string name="console_running_notification_title">Console seriale attivata</string>
@@ -429,6 +439,7 @@ Puoi associare questa scorciatoia a un'altra funzionalità in Impostazioni &gt; 
     <string name="country_selection_title">Area geografica preferita</string>
     <string name="create_contact_using">"Crea contatto
 utilizzando %s"</string>
+    <string name="crossSimFormat_spn">%s</string>
     <string name="crossSimFormat_spn_cross_sim_calling">Chiamata di backup %s</string>
     <string name="cut">Taglia</string>
     <string name="data_saver_description">Per contribuire a ridurre l\'utilizzo dei dati, la funzione Risparmio dati impedisce ad alcune app di inviare o ricevere dati in background. Un\'app in uso può accedere ai dati, ma potrebbe farlo con meno frequenza. Esempio: le immagini non vengono visualizzate finché non le tocchi.</string>
@@ -465,6 +476,7 @@ utilizzando %s"</string>
     <string name="date_time_set">Imposta</string>
     <string name="day">giorno</string>
     <string name="days">giorni</string>
+    <string name="db_wal_sync_mode">NORMALE</string>
     <string name="decline">Rifiuto</string>
     <string name="decline_remote_bugreport_action">RIFIUTO</string>
     <string name="defaultVoiceMailAlphaTag">Segreteria</string>
@@ -639,12 +651,14 @@ Per eventuali domande, contatta l'amministratore della tua organizzazione."</str
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Codice funzione completo.</string>
     <string name="fcError">Problema di connessione o codice funzione non valido.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Trova</string>
     <string name="find_next">Trova successivo</string>
     <string name="find_on_page">Trova nella pagina</string>
     <string name="find_previous">Trova precedente</string>
     <string name="fingerprint_acquired_already_enrolled">Prova un\'altra impronta</string>
     <string name="fingerprint_acquired_imager_dirty">Il sensore di impronte è sporco. Puliscilo e riprova.</string>
+    <string name="fingerprint_acquired_immobile">Cambia leggermente la posizione del dito ogni volta</string>
     <string name="fingerprint_acquired_insufficient">"Impossibile elaborare l'impronta. Riprova."</string>
     <string name="fingerprint_acquired_partial">Rilevata impronta parziale. Riprova.</string>
     <string name="fingerprint_acquired_too_bright">Troppo chiaro</string>
@@ -694,6 +708,7 @@ Per eventuali domande, contatta l'amministratore della tua organizzazione."</str
     <string name="force_close">OK</string>
     <string name="foreground_service_app_in_background">L\'app %1$s sta consumando la batteria</string>
     <string name="foreground_service_apps_in_background">%1$d app stanno consumando la batteria</string>
+    <string name="foreground_service_multiple_separator">%1$s, %2$s</string>
     <string name="foreground_service_tap_for_details">Tocca per conoscere i dettagli sull\'utilizzo dei dati e della batteria</string>
     <string name="forward_intent_to_owner">"Stai utilizzando l'app al di fuori del tuo profilo di lavoro"</string>
     <string name="forward_intent_to_work">"Stai utilizzando l'app nel tuo profilo di lavoro"</string>
@@ -880,6 +895,7 @@ Visita \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Rimuovi</string>
     <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">Sblocco scheda SIM…</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Hai digitato la tua password %1$d volte in modo errato. 
 
 Riprova tra %2$d secondi."</string>
@@ -1072,6 +1088,7 @@ Riprova tra %2$d secondi."</string>
     <string name="mediasize_japanese_jis_exec">JIS Exec</string>
     <string name="mediasize_japanese_kahu">Kahu</string>
     <string name="mediasize_japanese_kaku2">Kaku2</string>
+    <string name="mediasize_japanese_l">L</string>
     <string name="mediasize_japanese_oufuku">Oufuku</string>
     <string name="mediasize_japanese_you4">You4</string>
     <string name="mediasize_na_ansi_c">ANSI C</string>
@@ -1133,6 +1150,7 @@ Riprova tra %2$d secondi."</string>
     <string name="miniresolver_open_in_work">Aprire %s nel profilo di lavoro?</string>
     <string name="miniresolver_use_personal_browser">Usa browser personale</string>
     <string name="miniresolver_use_work_browser">Usa browser di lavoro</string>
+    <string name="minute">min</string>
     <string name="minute_picker_description">Dispositivo di scorrimento circolare per i minuti</string>
     <string name="minutes">min</string>
     <string name="mismatchPin">"I PIN inseriti non corrispondono."</string>
@@ -1237,6 +1255,7 @@ Le notifiche avanzate possono accedere al contenuto delle notifiche, comprese le
     <string name="notification_history_title_placeholder">Notifica app personalizzata</string>
     <string name="notification_inbox_ellipsis">…</string>
     <string name="notification_listener_binding_label">Listener di notifica</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_phishing_alert_content_description">Allarme phishing</string>
     <string name="notification_ranker_binding_label">Servizio di classificazione delle notifiche</string>
     <string name="notification_reply_button_accessibility">Rispondi</string>
@@ -1650,6 +1669,7 @@ per l'account %s."</string>
     <string name="profile_encrypted_message">Tocca per sbloc. prof. di lav.</string>
     <string name="profile_encrypted_title">Alcune funzionalità sono limitate</string>
     <string name="progress_erasing">Cancellazione archivio condiviso…</string>
+    <string name="prohibit_manual_network_selection_in_gobal_mode">falso</string>
     <string name="quick_contacts_not_available">Nessuna applicazione trovata per la visualizzazione di questo contatto.</string>
     <string name="radial_numbers_typeface">sans-serif</string>
     <string name="reason_service_unavailable">Servizio di stampa non attivo</string>
@@ -1681,6 +1701,7 @@ per l'account %s."</string>
     <string name="relationTypeRelative">Parente</string>
     <string name="relationTypeSister">Sorella</string>
     <string name="relationTypeSpouse">Coniuge</string>
+    <string name="relative_time">%1$s, %2$s</string>
     <string name="replace">Sostituisci…</string>
     <string name="report">Segnala</string>
     <string name="reset">Reimposta</string>
@@ -1825,6 +1846,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="sipAddressTypeOther">Altro</string>
     <string name="sipAddressTypeWork">Lavoro</string>
     <string name="skip_button_label">Ignora</string>
+    <string name="slice_more_content">+ %1$d</string>
     <string name="slices_permission_request">L\'app %1$s vuole mostrare porzioni dell\'app %2$s</string>
     <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; sta inviando molti SMS. Vuoi consentire all\'applicazione di continuare a inviare messaggi?</string>
     <string name="sms_control_no">Rifiuta</string>
@@ -1849,6 +1871,37 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="ssl_certificate">Certificato di sicurezza</string>
     <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
     <string name="status_bar_airplane">aereo</string>
+    <string name="status_bar_alarm_clock">alarm_clock</string>
+    <string name="status_bar_battery">batteria</string>
+    <string name="status_bar_bluetooth">bluetooth</string>
+    <string name="status_bar_camera">fotocamera</string>
+    <string name="status_bar_cast">cast</string>
+    <string name="status_bar_cdma_eri">cdma_eri</string>
+    <string name="status_bar_clock">orologio</string>
+    <string name="status_bar_data_connection">connessione_dati</string>
+    <string name="status_bar_ethernet">ethernet</string>
+    <string name="status_bar_headset">cuffie</string>
+    <string name="status_bar_hotspot">hotspot</string>
+    <string name="status_bar_ime">ime</string>
+    <string name="status_bar_location">posizione</string>
+    <string name="status_bar_managed_profile">ime</string>
+    <string name="status_bar_microphone">microfono</string>
+    <string name="status_bar_mobile">mobile</string>
+    <string name="status_bar_mute">silenzioso</string>
+    <string name="status_bar_nfc">nfc</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_phone_evdo_signal">phone_evdo_signal</string>
+    <string name="status_bar_phone_signal">telefono_segnale</string>
+    <string name="status_bar_rotate">ruota</string>
+    <string name="status_bar_secure">sicuro</string>
+    <string name="status_bar_speakerphone">altoparlante</string>
+    <string name="status_bar_sync_active">sync_active</string>
+    <string name="status_bar_sync_failing">sinc_failente</string>
+    <string name="status_bar_tty">tty</string>
+    <string name="status_bar_volume">volume</string>
+    <string name="status_bar_vpn">vpn</string>
+    <string name="status_bar_wifi">wifi</string>
+    <string name="status_bar_zen">zen</string>
     <string name="status_communication_speaker_summary">Una chiamata in vivavoce è in corso. L\'audio continuerà ad essere riprodotto attraverso l\'altoparlante quando le cuffie sono collegate.</string>
     <string name="status_communication_summary">Una chiamata è in corso. È possibile regolare solo il volume delle chiamate.</string>
     <string name="stk_cc_ss_to_dial">Richiesta SS modificata in chiamata normale</string>
@@ -1898,6 +1951,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="time_picker_increment_set_pm_button">Imposta PM</string>
     <string name="time_picker_input_error">Inserisci un orario valido</string>
     <string name="time_picker_minute_label">minuto</string>
+    <string name="time_picker_mode">orologio</string>
     <string name="time_picker_prompt_label">Digita l\'ora</string>
     <string name="time_picker_radial_mode_description">Passa alla mod. orologio per inserire l\'ora.</string>
     <string name="time_picker_text_input_mode_description">Passa alla mod. di immissione testo per inserire l\'ora.</string>
@@ -2003,6 +2057,7 @@ Vuoi chiuderla?"</string>
     <string name="week">settimana</string>
     <string name="weeks">settimane</string>
     <string name="wfcRegErrorTitle">Impossibile impostare le chiamate Wi‑Fi</string>
+    <string name="wfcSpnFormat_spn">%s</string>
     <string name="wfcSpnFormat_spn_vowifi">VoWifi %s</string>
     <string name="wfcSpnFormat_spn_wifi">Wi-Fi %s</string>
     <string name="wfcSpnFormat_spn_wifi_calling">Chiamate Wi-Fi %s</string>
@@ -2072,6 +2127,7 @@ Vuoi chiuderla?"</string>
     <string name="zen_mode_feature_name">Non disturbare</string>
     <string name="zen_mode_forever">Fino alla disattivazione</string>
     <string name="zen_mode_forever_dnd">Fino alla disattivazione di Non disturbare</string>
+    <string name="zen_mode_rule_name_combination">%1$s/%2$s</string>
     <string name="zen_mode_until">Fino a %1$s</string>
     <string name="zen_mode_until_next_day">Fino alle %1$s</string>
     <string name="zen_upgrade_notification_content">"Tocca per controllare le notifiche bloccate."</string>

@@ -50,6 +50,10 @@ Vuoi uscire ora?"</item>
         <item quantity="other">"L'azione selezionata non è disponibile in modalità Solo chiamate di emergenza. Il telefono rimarrà in questa modalità per %s minuti. Desideri uscire ora?"</item>
         <item quantity="one">"L'azione selezionata non è disponibile in modalità Solo chiamate di emergenza. Il telefono rimarrà in questa modalità per %s minuto. Desideri uscire ora?"</item>
     </plurals>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">ritardo: %s secondi</item>
+        <item quantity="one">ritardo: %d secondo</item>
+    </plurals>
     <plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">Puoi aggiungere fino a %s persone, seleziona di nuovo.</item>
         <item quantity="one">Puoi aggiungere %s persona, seleziona di nuovo.</item>

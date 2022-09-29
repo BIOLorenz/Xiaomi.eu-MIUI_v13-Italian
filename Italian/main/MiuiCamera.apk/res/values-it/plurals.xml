@@ -64,6 +64,14 @@
         <item quantity="other">&lt;Data&gt;Dispositivo surriscaldato.&lt;br&gt;L\'app verrà chiusa in &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d sec&lt;/b&gt;&lt;/font&gt;. Il progresso corrente è stato salvato automaticamente.&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;Dispositivo surriscaldato.&lt;br&gt;L\'app verrà chiusa in &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d sec&lt;/b&gt;&lt;/font&gt;. Il progresso corrente è stato salvato automaticamente.&lt;/Data&gt;</item>
     </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d sec</item>
+        <item quantity="one">%1$d sec</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>

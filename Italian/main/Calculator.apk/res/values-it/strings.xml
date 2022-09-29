@@ -33,6 +33,7 @@
     <string name="age_label_total_summary">Riassunto</string>
     <string name="age_label_weeks">Settimane</string>
     <string name="allow">Accetto</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="angle">grad</string>
     <string name="app_name">Calcolatrice</string>
     <string name="app_notification_info">La Calcolatrice è in esecuzione in background</string>
@@ -994,6 +995,8 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="xiaomi_calculator_remove_icon_title">Rimuovere \"Calcolatrice\" dalla schermata Home?</string>
     <string name="xiaomi_connect_download_manager_fail">"Connessione a Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni."</string>
     <string name="xiaomi_external_storage_unavailable">"Archivio non disponibile, verifica la scheda SD."</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s
 Size: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Nuova versione %1$s

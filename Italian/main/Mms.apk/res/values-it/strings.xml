@@ -62,6 +62,7 @@ aggiunti alla lista blocchi"</string>
     <string name="allow">OK</string>
     <string name="allow_network_hint">Attiva \"Aggiorna informazioni automaticamente\" o verifica la connessione di rete</string>
     <string name="already_updated">Aggiornato</string>
+    <string name="am">AM</string>
     <string name="app_label">Messaggi</string>
     <string name="app_name">Dispositivi</string>
     <string name="application_list_title">Mini app</string>
@@ -107,6 +108,7 @@ aggiunti alla lista blocchi"</string>
     <string name="bookmark_empty">Nessun modello</string>
     <string name="bookmark_list_title">Preferiti</string>
     <string name="button_close">Chiudi</string>
+    <string name="button_copy">Copia</string>
     <string name="button_emoji_creature">Emoji animale</string>
     <string name="button_emoji_lifestyle">Emoji stile di vita</string>
     <string name="button_emoji_smiley">Emoji volto</string>
@@ -333,6 +335,8 @@ aggiunti alla lista blocchi"</string>
     <string name="done">Fatto</string>
     <string name="download">Scarica</string>
     <string name="download_later">"Download attualmente non disponibile. Riprova più tardi."</string>
+    <string name="download_miui_calendar_detail">Scaricare il calendario per poter aggiungere eventi e promemoria del calendario. Aprire GetApps ora?</string>
+    <string name="download_miui_calendar_title">Scarica Calendario</string>
     <string name="downloading">In download</string>
     <string name="downloading_file_can_not_play">Attendi fino alla fine del download</string>
     <string name="draft">Bozza</string>
@@ -404,6 +408,7 @@ aggiunti alla lista blocchi"</string>
     <string name="file_size">Dimensione:</string>
     <string name="file_title">Nome:</string>
     <string name="file_width_height">Dimensione:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -529,6 +534,7 @@ aggiunti alla lista blocchi"</string>
     <string name="loading_mms">Attendi…</string>
     <string name="manage_permission_app_label">Permessi gestione dispositivo</string>
     <string name="mark_number_by_own_dialog_subtitle">Contrassegnato come %1$s</string>
+    <string name="marketSdkVersion">3.2.18</string>
     <string name="me">Io</string>
     <string name="menu_add_black">Blocca questo numero</string>
     <string name="menu_add_contact">Aggiungi a contatti esistenti</string>
@@ -778,6 +784,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="not_prepare_for_send">Nessun messaggio da inviare</string>
     <string name="not_set">Non impostato</string>
     <string name="not_support_audio_forward">"Impossibile inoltrare messaggi vocali"</string>
+    <string name="notes_not_found">Prima installa Note</string>
     <string name="notification_ad_content">Hai ricevuto un messaggio promozionale da %s</string>
     <string name="notification_add_todo">Ricordamelo</string>
     <string name="notification_add_todo_content">Codice di ritiro: %s</string>
@@ -820,6 +827,10 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="pick_too_many_recipients">Troppi destinatari</string>
     <string name="play">Riproduci</string>
     <string name="playing_failed">"Impossibile riprodurre"</string>
+    <string name="pm">PM</string>
+    <string name="prefDefault_vibrateWhen">never</string>
+    <string name="prefDefault_vibrate_false">never</string>
+    <string name="prefDefault_vibrate_true">always</string>
     <string name="pref_advanced_settings_title">Altre impostazioni</string>
     <string name="pref_allow_network_access_summary">Attiva per ricevere le ultime informazioni sulla consegna ed altri servizi.</string>
     <string name="pref_cell_broadcast">Trasmissioni cella</string>
@@ -864,6 +875,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="pref_summary_send_delivery_reports">Invia rapporto di consegna per i messaggi ricevuti</string>
     <string name="pref_summary_switch_aim_card">Visualizza messaggi contenenti video, immagini e formattazione complessa come schede</string>
     <string name="pref_summary_voice_report">Attiva per la lettura dei messaggi ad alta voce quando vengono ricevuti. Premere il pulsante Volume giù o Ferma per interrompere la riproduzione.</string>
+    <string name="pref_summary_voice_report_disable">Installare Mi AI Speech Engine per poter utilizzare questa funzione</string>
     <string name="pref_summary_wake_up_screen">Attiva lo schermo alla ricezione di un nuovo SMS</string>
     <string name="pref_switch_sdk_setting">Cambia servizio provider smart SMS</string>
     <string name="pref_system_title">Sistema</string>
@@ -1111,6 +1123,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="received_at_time">Ricevuto alle: %1s</string>
     <string name="received_label">"Ricevuto: "</string>
     <string name="recent_label">Contatti recenti</string>
+    <string name="recipient_editor_count_format">%d</string>
     <string name="recipient_label">"Destinatario: "</string>
     <string name="recipients_contain_sub_sim_number">"Sembra che ci sia un numero secondario SIM tra i destinatari. Invia questo messaggio usando la SIM secondaria."</string>
     <string name="recipients_over_size">Troppi destinatari.</string>
@@ -1220,6 +1233,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="send_signature_confirm_dialog_title">Invia messaggio</string>
     <string name="send_sms">Invia messaggio</string>
     <string name="send_to">A:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Inviato alle: %1s</string>
     <string name="sent_label">"Inviato: "</string>
     <string name="service_abandon_alert">Attenzione</string>
@@ -1248,6 +1262,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="sim_full_body">Elimina alcuni messaggi SIM per fare spazio.</string>
     <string name="sim_full_title">SIM piena</string>
     <string name="sim_manage_messages_title">Messaggi su SIM</string>
+    <string name="sim_not_support_mms">"Questa scheda SIM non supporta MMS"</string>
     <string name="sim_view">Mostra</string>
     <string name="slide_number">Diapositiva %d</string>
     <string name="slide_show_part">Parte %1$d/%2$d</string>
@@ -1274,6 +1289,8 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="sms_report_dialog_title">Riprova</string>
     <string name="sms_report_failed">"Impossibile inviare segnalazione"</string>
     <string name="sms_report_success">Segnalazione inviata</string>
+    <string name="snippet_audio">[Audio]</string>
+    <string name="snippet_picture">[Image]</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
@@ -1298,13 +1315,16 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="soundrecorder_not_found">Installa prima il Registratore</string>
     <string name="sp_category_all">Messaggi di tutti i servizi</string>
     <string name="sp_category_bank">Messaggi dei servizi bancari</string>
+    <string name="sp_category_title_prefix">%s</string>
     <string name="sp_conversation_title">Notifiche</string>
     <string name="sp_mark_as_read_menu_title">Segna come letto</string>
     <string name="sp_msg_entry">Servizi</string>
     <string name="sqlite_disk_full">Database o disco pieno</string>
     <string name="sqlite_low_memory">Memoria insufficiente</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_failed">Fallito</string>
     <string name="status_label">"Stato: "</string>
     <string name="status_pending">In attesa</string>
@@ -1314,6 +1334,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="status_unread">Non letta</string>
     <string name="stick">Fissa</string>
     <string name="stick_conversation">Evidenzia la conversazione attuale</string>
+    <string name="sticked">Bloccato con successo</string>
     <string name="sticked_conversation">La conversazione attuale è già evidenziata</string>
     <string name="storage_dialog_attachments">Allegato MMS:</string>
     <string name="storage_dialog_available_space">Spazio disponibile:</string>
@@ -1333,6 +1354,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="subject_label">"Soggetto: "</string>
     <string name="subscribe">Iscriviti</string>
     <string name="success_login">Accesso effettuato</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_pref_cm_smart_sms">Modelli schede, numeri di servizio  SMS ed altro.</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
@@ -1503,6 +1525,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="unknown_sender">Mittente sconosciuto</string>
     <string name="unstick">Non fissare più</string>
     <string name="unstick_conversation">Non evidenziare la conversazione attuale</string>
+    <string name="unsticked">Sbloccato con successo</string>
     <string name="unsticked_conversation">La conversazione attuale è già non evidenziata</string>
     <string name="unsubscribe">Annulla iscrizione</string>
     <string name="unsupported_media_format">Formato %1$s non supportato.</string>
@@ -1520,6 +1543,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="user_term">Accordo utente</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
+    <string name="verification_code_icon_name">V</string>
     <string name="verification_code_list_title">Codici di verifica</string>
     <string name="verification_code_safety_warning">"Non divulgare questi codici ad altre persone"</string>
     <string name="view">Mostra</string>

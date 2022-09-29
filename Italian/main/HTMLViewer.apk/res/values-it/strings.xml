@@ -26,7 +26,9 @@
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="ad_service">Servizio AD</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="am">AM</string>
     <string name="app_label">Visualizzatore HTML</string>
+    <string name="app_name">blur</string>
     <string name="app_name_which_call">Applicazione: %s</string>
     <string name="app_version_which_call">Versione applicazione: %s</string>
     <string name="autoconnect">Connetti automaticamente</string>
@@ -251,6 +253,7 @@ visita %s"</string>
     <string name="open_wifi_connect_summary">Tocca per vedere i dettagli.</string>
     <string name="open_wifi_connect_title">Collegato a %1$s</string>
     <string name="permdesc_accessDrm">Permetti all\'app di accedere a contenuti protetti con DRM.</string>
+    <string name="pm">PM</string>
     <string name="poco_launcher_privacy_policy">Informativa sulla privacy di POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Accordo utente di POCO Launcher</string>
     <string name="poco_privacy_policy">Informativa sulla Privacy di POCO Launcher e Accordo utente di POCO Launcher</string>
@@ -304,6 +307,7 @@ visita %s"</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="ssl_error_untrusted">"Il certificato non è emesso da un'autorità di certificazione attendibile. Utilizzarlo comunque?"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

@@ -31,6 +31,7 @@
     <string name="notification_sound_default">Suoneria notifiche predefinita</string>
     <string name="ringtone_default">Suoneria predefinita</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="unable_to_add_ringtone">Impossibile aggiungere una suoneria personalizzata</string>
     <string name="unable_to_delete_ringtone">Impossibile eliminare la suoneria personalizzata</string>
 </resources>

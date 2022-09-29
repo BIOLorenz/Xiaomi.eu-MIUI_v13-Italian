@@ -14,6 +14,7 @@
     <string name="open">Naviga</string>
     <string name="query">Ricerca</string>
     <string name="select">Scegli</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="translate">Traduci</string>
     <string name="translation_more">Altro</string>
     <string name="translation_query_error">"Impossibile trovare risultati"</string>

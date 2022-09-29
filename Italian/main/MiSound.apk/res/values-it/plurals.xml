@@ -72,4 +72,8 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
+    <plurals name="rename_error_longer_effect_name">
+        <item quantity="other">Puoi inserire fino a %d caratteri qui</item>
+        <item quantity="one">Puoi inserire fino a %d carattere qui</item>
+    </plurals>
 </resources>

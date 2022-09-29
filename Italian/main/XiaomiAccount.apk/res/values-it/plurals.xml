@@ -40,6 +40,10 @@
         <item quantity="other">Trovati %d risultati</item>
         <item quantity="one">Trovato %d risultato</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d persone</item>
+        <item quantity="one">%d persona</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>

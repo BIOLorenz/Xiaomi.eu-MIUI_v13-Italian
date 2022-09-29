@@ -88,4 +88,8 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
+    <plurals name="word_limit_prompt">
+        <item quantity="other">%d caratteri oltre il limite</item>
+        <item quantity="one">%d carattere oltre il limite</item>
+    </plurals>
 </resources>

@@ -106,6 +106,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="alert_redirect_outgoing_call_timeout">"La chiamata non può essere effettuata da %1$s. Prova ad usare un'altra app di inoltro della chiamata o contatta lo sviluppatore per aiuto."</string>
     <string name="allow_mock_location">Permettere false localizzazioni?</string>
     <string name="allow_mock_location_summary">Permettere false localizzazioni?</string>
+    <string name="am">AM</string>
     <string name="animator_duration_scale_title">Scala durata animatore</string>
     <string name="answer_incoming_call">Scorri in alto per rispondere</string>
     <string name="answering_ends_other_call">Rispondere terminerà %1$s tua chiamata</string>
@@ -117,6 +118,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="anti_fraud_notification_msg">Rispondi a questa chiamata per evitare frodi nelle telecomunicazioni</string>
     <string name="anti_fraud_notification_title">Avviso antifrode</string>
     <string name="apn_settings_not_available">Le impostazioni dei Nomi di Punti di Accesso (APN) non sono disponibili per questo utente</string>
+    <string name="app_name">blur</string>
     <string name="app_process_limit_title">Limitatore processi in background</string>
     <string name="available_via_carrier">Disponibile tramite %1$s</string>
     <string name="available_via_passpoint">Disponibile tramite %1$s</string>
@@ -128,6 +130,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="battery_info_status_full">Piena</string>
     <string name="battery_info_status_not_charging">Non in carica</string>
     <string name="battery_info_status_unknown">Sconosciuto</string>
+    <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="blob_expires_text">Scade alle %s</string>
     <string name="blob_id_text">ID dati condivisi: %d</string>
     <string name="block_button">Blocca</string>
@@ -237,6 +240,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="bugreport_in_power">Collegamento segnalazione bug</string>
     <string name="bugreport_in_power_summary">Mostra il pulsante per generare una segnalazione bug nel power menù</string>
     <string name="button_convert_fbe">Pulisci e converti…</string>
+    <string name="cache_db_name">app_icons.db</string>
     <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
     <string name="cached_apps_freezer_disabled">Disabilitato</string>
     <string name="cached_apps_freezer_enabled">Attivato</string>
@@ -361,6 +365,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="daltonizer_mode_protanomaly">Protonomalia (rosso-verde)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalia (blu-giallo)</string>
     <string name="daltonizer_type_overridden">Sovrascritto da %1$s</string>
+    <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+</string>
     <string name="data_connection_3g">3G</string>
     <string name="data_connection_4g">4G</string>
@@ -498,6 +503,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="force_resizable_activities_summary">Rendi tutte le attività multi finestra ridimensionabili, indipendentemente dai loro valori di manifest.</string>
     <string name="force_rtl_layout_all_locales">Forza direzione disposizione RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Forza direzione disposizione ad RTL per tutte le località</string>
+    <string name="fraud_toast_message">È possibile gestire l\'inoltro delle chiamate in Impostazioni</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
@@ -559,11 +565,18 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="material_hour_suffix">"%1$s in punto"</string>
     <string name="material_minute_selection">Seleziona i minuti</string>
     <string name="material_minute_suffix">%1$s minuti</string>
+    <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="material_motion_easing_emphasized">path(M 0,0 C 0,05, 0, 0,133333, 0,06, 0,166666, 0,4 C 0,208333, 0,82, 0,25, 1, 1)</string>
+    <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
+    <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Passa alla mod. orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
     <string name="material_timepicker_text_input_mode_description">Passa alla mod. di inserimento testo per inserire l\'ora.</string>
     <string name="media_category">Media</string>
@@ -689,6 +702,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="mtrl_picker_out_of_range">Fuori dall\'intervallo: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data di inizio – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data di fine</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Seleziona Intervallo</string>
     <string name="mtrl_picker_range_header_unselected">Data di inizio – Data di fine</string>
     <string name="mtrl_picker_save">Salva</string>
@@ -696,6 +710,8 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla mod. di inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>
@@ -721,6 +737,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="notification_disconnectedCall_body">La chiamata a %s è stata chiusa a causa di una chiamata di emergenza in corso.</string>
     <string name="notification_disconnectedCall_generic_body">La tua chiamata è stata chiusa a causa di una chiamata di emergenza in corso.</string>
     <string name="notification_disconnectedCall_title">Chiamata chiusa</string>
+    <string name="notification_disconnectedDialing_message">Impossibile piazzare una chiamata come un\'altra chiamata in uscita è già in chiamata.</string>
     <string name="notification_incallservice_not_responding_body">La tua chiamata ha usato l\'app del telefono di fabbrica</string>
     <string name="notification_incallservice_not_responding_title">%s ha smesso di rispondere</string>
     <string name="notification_incoming_call">%1$s chiamata da %2$s</string>
@@ -733,6 +750,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="notification_missedCallsMsg">%s chiamate perse</string>
     <string name="notification_missedCallsTitle">Chiamate perse</string>
     <string name="notification_missedWorkCallTitle">Chiamata lavoro persa</string>
+    <string name="number_tag_divider">" | "</string>
     <string name="oem_unlock_enable">Sblocco OEM</string>
     <string name="oem_unlock_enable_summary">Permetti lo sblocco del bootloader</string>
     <string name="okay">OK</string>
@@ -761,8 +779,10 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="phone_strings_emergency_call_made_dialog_title_txt">Chiamata di emergenza effettuata</string>
     <string name="picture_color_mode">Mod. colore immagine</string>
     <string name="picture_color_mode_desc">Usa sRGB</string>
+    <string name="pm">PM</string>
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s rimanenti fino al completamento</string>
     <string name="power_charging_limited">%1$s - Ricarica temporaneamente limitata</string>
     <string name="power_discharge_by">Dovrebbe durare circa fino al %1$s (%2$s)</string>
@@ -781,6 +801,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="power_remaining_less_than_duration_only">Meno di %1$s rimanente</string>
     <string name="power_remaining_more_than_subtext">Più di %1$s rimanente (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Più di %1$s rimanente</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_suggestion_battery_run_out">La batteria potrebbe esaurirsi tra %1$s</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="preference_summary_default_combination">%1$s/%2$s</string>
@@ -790,8 +811,13 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="private_dns_mode_provider">DNS Hostname provider privato</string>
     <string name="private_dns_mode_provider_failure">"Connessione fallita"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
+    <string name="process_kernel_label">Sistema operativo Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
+    <string name="proxy_port_hint">8080</string>
+    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="remaining_length_format">%1$s rimanenti</string>
     <string name="respond_via_sms_canned_response_1">"Ora non posso parlare. Che succede?"</string>
     <string name="respond_via_sms_canned_response_2">"Richiamo io al più presto"</string>
@@ -859,6 +885,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="show_screen_updates_summary">Fai lampeggiare l\'intera superficie della finestra quando essa si aggiorna</string>
     <string name="show_touches">Mostra pressioni</string>
     <string name="show_touches_summary">Mostra feedback visuali per pressioni</string>
+    <string name="sim_slot_mappings_json">{\"sim-slot-mappings\":[{\"devices\":[\"diting\",\"ziyi\"],\"esim-slot-ids\":[1],\"psim-slot-ids\":[0]}]}</string>
     <string name="simulate_color_space">Simula lo spazio del colore</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
@@ -891,10 +918,12 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="speed_label_very_fast">Molto veloce</string>
     <string name="speed_label_very_slow">Molto lento</string>
     <string name="standby_bucket_summary">Stato standby app: %s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_unavailable">Non disponibile</string>
     <string name="storage_category">Archiviazione</string>
     <string name="strict_mode">Mod. restrizione attivata</string>
     <string name="strict_mode_summary">Fai lampeggiare lo schermo quando un\'applicazione esegue un\'operazione lunga sul thread principale</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -1061,6 +1090,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wapi_cert_manage_summary">Aggiungi o elimina il certificato WAPI</string>
     <string name="wapi_cert_manage_title">Gestione certificato WAPI</string>
     <string name="wapi_cert_roaming">Connessione…</string>
+    <string name="wapi_no">no</string>
     <string name="wapi_no_vaild_cert">Nessun certificato disponibile, installare adesso?</string>
     <string name="wapi_password_hex_format_add">Il numero di caratteri esadecimali non può essere dispari</string>
     <string name="wapi_password_is_empty">Il campo password non può essere lasciato vuoto</string>
@@ -1099,6 +1129,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_ip_address_hint">192.168.1.125</string>
     <string name="wifi_limited_connection">Connessione limitata</string>
     <string name="wifi_metered_label">Misurato</string>
+    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_no_internet">Nessun accesso internet.</string>
     <string name="wifi_no_internet_no_reconnect">"Nessun accesso internet rilevato, la riconnessione non avverrà automaticamente."</string>
     <string name="wifi_not_in_range">Fuori portata</string>
@@ -1218,6 +1249,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="zen_alarm_warning">"Non sentirai la tua prossima sveglia %1$s"</string>
     <string name="zen_alarm_warning_indef">"Non sentirai la tua prossima sveglia %1$s a meno che non venga disattivata prima di allora"</string>
     <string name="zen_interruption_level_priority">Solo priorità</string>
+    <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_duration_always_prompt_title">Chiedi sempre</string>
     <string name="zen_mode_duration_settings_title">Durata</string>
     <string name="zen_mode_enable_dialog_turn_on">Attiva</string>

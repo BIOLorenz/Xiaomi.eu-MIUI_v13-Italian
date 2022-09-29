@@ -240,6 +240,18 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d SMS</item>
         <item quantity="one">%d SMS</item>
     </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">La tua iscrizione a Game Turbo scadrà tra %d giorni.</item>
+        <item quantity="one">La tua iscrizione a Game Turbo scadrà tra %d giorno.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">La tua iscrizione a Game Turbo scadrà tra %d giorni. Rinnova ora per godersi il gioco senza soluzione di continuità.</item>
+        <item quantity="one">La tua iscrizione a Game Turbo scadrà tra %d giorni. Rinnova ora per godersi il gioco senza soluzione di continuità.</item>
+    </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d persone stanno giocando</item>
         <item quantity="one">%1$d persona sta giocando</item>
@@ -472,9 +484,13 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">Inserisci almeno %d caratteri</item>
         <item quantity="one">Inserisci almeno %d carattere</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">%d d rimanenti prima del termine della sessione a velocità di rete accelerata. Rinnova la sessione per evitare rallentamenti nella velocità di rete.</item>
-        <item quantity="one">%d d rimanente prima del termine della sessione a velocità di rete accelerata. Rinnova la sessione per evitare rallentamenti nella velocità di rete</item>
+        <item quantity="other">La tua sessione di potenziamento della velocità di rete terminerà tra %d giorni. Potresti iniziare a sperimentare ritardi di rete. Rinnova la sessione ora?</item>
+        <item quantity="one">La tua sessione di potenziamento della velocità di rete terminerà tra %d giorno. Potresti iniziare a sperimentare ritardi di rete. Rinnova la sessione ora?</item>
     </plurals>
     <plurals name="network_restrict_count">
         <item quantity="other">"L'accesso alla rete è limitato per %d app"</item>
@@ -539,6 +555,10 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
     <plurals name="om_locked_apps_title">
         <item quantity="other">%d app bloccate</item>
         <item quantity="one">%d app bloccata</item>
+    </plurals>
+    <plurals name="optimize_result_button_add_score">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d sapp tanno consumando la batteria</item>
@@ -611,6 +631,14 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
     <plurals name="power_20s_shutdown">
         <item quantity="other">Il tuo dispositivo sarà spento tra %d secondi</item>
         <item quantity="one">Il tuo dispositivo sarà spento tra %d secondo</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ore</item>
+        <item quantity="one">%s ora</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
     </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">volte</item>
@@ -687,6 +715,14 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
     <plurals name="power_main_battery_last_minute">
         <item quantity="other">%s minuti rimanenti</item>
         <item quantity="one">%s minuto rimanente</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s minuti dello schermo rimanenti</item>
+        <item quantity="one">%s min del tempo rimanente dello schermo</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Attiva per aggiungere %s minuti di tempo dello schermo</item>
+        <item quantity="one">Attiva per aggiungere %s min di tempo schermo</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Ho capito (%ds)</item>

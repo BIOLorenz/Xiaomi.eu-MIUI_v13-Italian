@@ -114,6 +114,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="battery_info_status_full">Piena</string>
     <string name="battery_info_status_not_charging">Non in carica</string>
     <string name="battery_info_status_unknown">Sconosciuto</string>
+    <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="blob_expires_text">Scade alle %s</string>
     <string name="blob_id_text">ID dati condivisi: %d</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Connesso ad audio media</string>
@@ -213,6 +214,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="bugreport_in_power">Collegamento segnalazione bug</string>
     <string name="bugreport_in_power_summary">Mostra il pulsante per generare una segnalazione bug nel power menù</string>
     <string name="button_convert_fbe">Pulisci e converti…</string>
+    <string name="cache_db_name">app_icons.db</string>
     <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
     <string name="cached_apps_freezer_disabled">Disabilitato</string>
     <string name="cached_apps_freezer_enabled">Attivato</string>
@@ -256,6 +258,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="daltonizer_mode_protanomaly">Protonomalia (rosso-verde)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalia (blu-giallo)</string>
     <string name="daltonizer_type_overridden">Sovrascritto da %1$s</string>
+    <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+</string>
     <string name="data_connection_3g">3G</string>
     <string name="data_connection_4g">4G</string>
@@ -289,6 +292,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="default_buffer_size">16384</string>
     <string name="default_categories">Predefinita</string>
     <string name="default_categories_restored">Categorie predefinite ripristinate</string>
+    <string name="default_long_trace_duration">30</string>
     <string name="delete_blob_confirmation_text">Sei sicuro di voler eliminare questi dati condivisi?</string>
     <string name="delete_blob_text">Elimina dati condivisi</string>
     <string name="dev_logpersist_clear_warning_message">Quando non monitoriamo più con il log persistente, chiediamo di eliminare i dati del log sul tuo dispositivo.</string>
@@ -370,6 +374,8 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="keywords_alarms_and_reminders">pianificazione, sveglia, promemoria, orologio</string>
     <string name="launch_defaults_none">Nessuna impostazione predefinita</string>
     <string name="launch_defaults_some">Alcune impostazioni predefinite</string>
+    <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
+    <string name="lb_control_display_rewind_multiplier">%1$dX</string>
     <string name="lb_guidedaction_continue_title">Continua</string>
     <string name="lb_guidedaction_finish_title">Termina</string>
     <string name="lb_media_player_error">Codice di errore MediaPlayer %1$d extra %2$d</string>
@@ -423,11 +429,18 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="material_hour_suffix">"%1$s in punto"</string>
     <string name="material_minute_selection">Seleziona i minuti</string>
     <string name="material_minute_suffix">%1$s minuti</string>
+    <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="material_motion_easing_emphasized">path(M 0,0 C 0,05, 0, 0,133333, 0,06, 0,166666, 0,4 C 0,208333, 0,82, 0,25, 1, 1)</string>
+    <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
+    <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Passa alla mod. orologio per inserire l\'ora.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Imposta ora</string>
     <string name="material_timepicker_text_input_mode_description">Passa alla mod. di inserimento testo per inserire l\'ora.</string>
     <string name="max_long_trace_duration">Durata massima traccia lunga</string>
@@ -485,6 +498,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="mtrl_picker_out_of_range">Fuori dall\'intervallo: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data di inizio – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data di fine</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Seleziona Intervallo</string>
     <string name="mtrl_picker_range_header_unselected">Data di inizio – Data di fine</string>
     <string name="mtrl_picker_save">Salva</string>
@@ -492,6 +506,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla mod. di inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>
@@ -517,6 +532,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="picture_color_mode_desc">Usa sRGB</string>
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s rimanenti fino al completamento</string>
     <string name="power_charging_limited">%1$s - Ricarica temporaneamente limitata</string>
     <string name="power_discharge_by">Dovrebbe durare circa fino al %1$s (%2$s)</string>
@@ -535,6 +551,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="power_remaining_less_than_duration_only">Meno di %1$s rimanente</string>
     <string name="power_remaining_more_than_subtext">Più di %1$s rimanente (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Più di %1$s rimanente</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_suggestion_battery_run_out">La batteria potrebbe esaurirsi tra %1$s</string>
     <string name="pref_key_tags">current_tags_2</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
@@ -619,6 +636,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="speed_label_very_slow">Molto lento</string>
     <string name="standby_bucket_summary">Stato standby app: %s</string>
     <string name="start_new_trace">Avvia nuova traccia</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_unavailable">Non disponibile</string>
     <string name="stop_on_bugreport">Interrompi tracciamento per segnalazioni di bug</string>
     <string name="stop_on_bugreport_summary">Consente di interrompere le registrazioni di traccia attive quando viene iniziata una segnalazione di bug</string>
@@ -626,6 +644,7 @@ Se questa autorizzazione viene disattivata, le sveglie esistenti e gli eventi ba
     <string name="storage_category">Archiviazione</string>
     <string name="strict_mode">Mod. restrizione attivata</string>
     <string name="strict_mode_summary">Fai lampeggiare lo schermo quando un\'applicazione esegue un\'operazione lunga sul thread principale</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="system_trace_sensitive_data">Le Tracce di Sistema possono includere dati sensibili di sistema e app (come l\'utilizzo dell\'app). Condividere solo tracce di sistema con persone e applicazioni di cui ti fidi.</string>
     <string name="system_traces_storage_title">Tracce di sistema</string>
     <string name="system_tracing">Acquisizione di Sistema</string>
@@ -740,6 +759,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wapi_cert_manage_summary">Aggiungi o elimina il certificato WAPI</string>
     <string name="wapi_cert_manage_title">Gestione certificato WAPI</string>
     <string name="wapi_cert_roaming">Connessione…</string>
+    <string name="wapi_no">no</string>
     <string name="wapi_no_vaild_cert">Nessun certificato disponibile, installare adesso?</string>
     <string name="wapi_password_hex_format_add">Il numero di caratteri esadecimali non può essere dispari</string>
     <string name="wapi_password_is_empty">Il campo password non può essere lasciato vuoto</string>
@@ -775,6 +795,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_ip_address_hint">192.168.1.125</string>
     <string name="wifi_limited_connection">Connessione limitata</string>
     <string name="wifi_metered_label">Misurato</string>
+    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_no_internet">Nessun accesso internet.</string>
     <string name="wifi_no_internet_no_reconnect">"Nessun accesso internet rilevato, la riconnessione non avverrà automaticamente."</string>
     <string name="wifi_not_in_range">Fuori portata</string>
@@ -893,6 +914,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="zen_alarm_warning">"Non sentirai la tua prossima sveglia %1$s"</string>
     <string name="zen_alarm_warning_indef">"Non sentirai la tua prossima sveglia %1$s a meno che non venga disattivata prima di allora"</string>
     <string name="zen_interruption_level_priority">Solo priorità</string>
+    <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_duration_always_prompt_title">Chiedi sempre</string>
     <string name="zen_mode_duration_settings_title">Durata</string>
     <string name="zen_mode_enable_dialog_turn_on">Attiva</string>

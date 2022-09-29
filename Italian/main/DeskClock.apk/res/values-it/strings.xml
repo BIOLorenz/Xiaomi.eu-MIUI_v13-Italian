@@ -60,14 +60,16 @@
     <string name="alarmclock_empty_text">Nessuna sveglia</string>
     <string name="alarmclock_silent_hint">Sveglia silenziata</string>
     <string name="alert">Suoneria</string>
-    <string name="alert_page_desc">Tieni premuto e scorri verso l\'alto per spegnere la sveglia</string>
+    <string name="alert_page_desc">Premere e tenere premuto quindi scorrere verso l\'alto per spegnere la sveglia</string>
     <string name="alert_ringtone">Suoneria sveglia</string>
     <string name="alert_vibrate_enable_summary">Vibra quando viene disattivata la sveglia</string>
     <string name="alert_volume">Volume suoneria</string>
     <string name="alert_volume_summary">Imposta il volume della suoneria per sveglie e timer</string>
     <string name="alert_xiaoai_ringtone_desc">Mi IA sta parlando…</string>
     <string name="already_exist">Questo timer esiste già</string>
+    <string name="am">AM</string>
     <string name="analog_gadget">Orologio</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">Orologio</string>
     <string name="auto_silence_never">Mai</string>
     <string name="auto_silence_summary">Imposta il tempo dopo il quale sveglie e timer saranno silenziati</string>
@@ -192,7 +194,7 @@
     <string name="common_timer_selector">Seleziona timer</string>
     <string name="confirm">Conferma</string>
     <string name="confirm_abort">Ignora</string>
-    <string name="confirm_remove_custom_ringtone">Se elimini questa suoneria, le sveglie e i timer che la usano riprodurranno la suoneria predefinita. Eliminarla?</string>
+    <string name="confirm_remove_custom_ringtone">Se elimini questa suoneria, le sveglie e i timer che la usano riprodurranno invece la suoneria predefinita. Eliminarla ora?</string>
     <string name="content_desc_keep_screen">Pulsante \"Mantieni schermo attivo\"</string>
     <string name="continue_operation">Continua</string>
     <string name="continue_step">Successivo</string>
@@ -203,6 +205,7 @@
     <string name="custom_ringtone_lost_permissions">"Impossibile accedere a questo suono."</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
+    <string name="day_concat">", "</string>
     <string name="default_alarm_alert">Imposta suoneria sveglia predefinita</string>
     <string name="default_alarm_title">Suoneria predefinita</string>
     <string name="default_label">Sveglia</string>
@@ -250,6 +253,7 @@
     <string name="edit_label">Modifica etichetta Sveglia</string>
     <string name="edit_systemtime">Modifica l\'orario di sistema</string>
     <string name="edit_systemtime_setting_summary">Data, ora e doppio orologio</string>
+    <string name="elapsed_time_format">+</string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
     <string name="evening">Pomeriggio</string>
@@ -360,6 +364,7 @@
     <string name="life_post_wake_up_item_acumu_day_title">Conteggio giorni</string>
     <string name="life_post_wake_up_item_percentage_title">Mi Fan dietro di te</string>
     <string name="life_post_wake_up_item_time_title">Orario di sveglia</string>
+    <string name="life_post_wake_up_percentage_sign">%</string>
     <string name="life_post_wake_up_percentage_title">Mi Fan dietro di te</string>
     <string name="life_post_wake_up_time_title">Orario di sveglia</string>
     <string name="life_post_weather_invalid">Impossibile recuperare informazioni meteo, tocca per riprovare</string>
@@ -375,6 +380,8 @@
     <string name="menu_item_sort_by_gmt_offset">Ordina per data</string>
     <string name="menu_item_sort_by_name">Ordina per nome</string>
     <string name="midnight">Notte</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -389,6 +396,8 @@
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -503,11 +512,13 @@
     <string name="other_category_title">Altro</string>
     <string name="other_settings">Altre impostazioni</string>
     <string name="pause">Pausa</string>
+    <string name="percentage_sign">%</string>
     <string name="permission_desc">Dettagli permessi</string>
     <string name="permission_granted">Concesso</string>
     <string name="permission_rejected">Non concesso</string>
     <string name="permission_related">Permessi</string>
     <string name="personal_recommend">Suggerimenti di contenuti personalizzati</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
     <string name="privacy_policy_title">Informativa sulla Privacy</string>
@@ -522,7 +533,13 @@
     <string name="remark_hint">Inserisci etichetta</string>
     <string name="remind_ringtone">Suoneria</string>
     <string name="repeat_count">Volte</string>
+    <string name="repeat_count_value_five">5</string>
+    <string name="repeat_count_value_one">1</string>
+    <string name="repeat_count_value_ten">10</string>
+    <string name="repeat_count_value_three">3</string>
+    <string name="repeat_count_value_two">2</string>
     <string name="repeat_type">Ripeti</string>
+    <string name="required_permissions">;</string>
     <string name="reset">Azzera</string>
     <string name="revert">Ripristina</string>
     <string name="ringtone_all">Tutte le suonerie</string>
@@ -598,6 +615,13 @@
     <string name="snooze_duration">Sospendi</string>
     <string name="snooze_duration_title">Sospendi</string>
     <string name="snooze_duration_value">Intervallo (minuti)</string>
+    <string name="snooze_duration_value_fifteen">15</string>
+    <string name="snooze_duration_value_five">5</string>
+    <string name="snooze_duration_value_one">1</string>
+    <string name="snooze_duration_value_ten">10</string>
+    <string name="snooze_duration_value_thirty">30</string>
+    <string name="snooze_duration_value_twenty">20</string>
+    <string name="snooze_duration_value_twenty_five">25</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
@@ -635,6 +659,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Nessun giro</string>
     <string name="stopwatch_reset_notification">Il cronometro è stato resettato</string>
     <string name="stopwatch_running_notification">Cronometro</string>
@@ -642,6 +667,7 @@
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Consenti a questa applicazione di connettersi ad internet per accedere a tutte le sue funzioni.</string>
     <string name="system_permission_main_purpose">Visualizzare l\'ora, impostare sveglie e timer, utilizzare il cronometro</string>
     <string name="system_permission_purpose">Creare sveglie settimanali e impostare suonerie personalizzate</string>
@@ -695,6 +721,7 @@
     <string name="time_picker_colon">:</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="time_settings">Impostazioni orologio</string>
+    <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Tocca per interrompere la suoneria</string>
     <string name="timer_alarm_dot_matrix_label">TIMER</string>
     <string name="timer_alert_alert_silenced">Timer interrotto dopo %1$s.</string>
@@ -722,6 +749,7 @@
     <string name="timer_desc_use_sleep">Sonnellino</string>
     <string name="timer_end_time">Il Timer si fermerà a %s</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
+    <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_got_it_new">Silenzia</string>
     <string name="timer_is_paused">Il timer è stato messo in pausa</string>
@@ -729,6 +757,9 @@
     <string name="timer_item_duration_display">%1$d Min %2$d Sec</string>
     <string name="timer_item_edit">Modifica</string>
     <string name="timer_item_label_hint">Etichetta</string>
+    <string name="timer_item_picker_hour">H</string>
+    <string name="timer_item_picker_minute">M</string>
+    <string name="timer_item_picker_second">S</string>
     <string name="timer_new_item">Aggiungi timer</string>
     <string name="timer_notify_text">Sospendi o disattiva.</string>
     <string name="timer_pause_timer">Timer in Pausa</string>
@@ -795,6 +826,7 @@
     <string name="worldclock_search_city">Seleziona città</string>
     <string name="worldclock_second_time">Ora a %s</string>
     <string name="worldclock_second_time_desc">"%s: "</string>
+    <string name="worldclock_second_time_new">%s</string>
     <string name="worldclock_title">Orologio</string>
     <string name="worldclock_world_time">Fusi orari</string>
     <string name="worldcolock_date_display_prefix">Attuale: </string>
@@ -805,6 +837,8 @@
     <string name="worldcolock_timezone_gap">%s O</string>
     <string name="worldcolock_timezone_local">Identico all\'ora locale</string>
     <string name="xiaoai_ringtone_title">Suonerie Mi IA</string>
+    <string name="xiaomi_deskclock_uninstall_description_content">"Orologio è un'app di sistema. Non potrai controllare l'ora, impostare sveglie o utilizzare altre funzionalità di Orologio dopo aver disinstallato l'app."</string>
+    <string name="xiaomi_deskclock_uninstall_description_title">Disinstallare Orologio?</string>
     <string name="yesterday">Ieri</string>
     <string name="your_sounds">I miei suoni</string>
 </resources>

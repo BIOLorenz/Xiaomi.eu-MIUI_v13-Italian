@@ -48,6 +48,7 @@
     <string name="all_text">Testo completo</string>
     <string name="already_ocr_result">Elementi selezionati automaticamente</string>
     <string name="always">Sempre</string>
+    <string name="am">AM</string>
     <string name="app_description_content">Scanner può scansionare codici QR, biglietti da visita, e documenti. Assicurati di poter fare ciò che ti occorre senza quest\'app prima di rimuoverla.</string>
     <string name="app_description_title">Info su Scanner</string>
     <string name="app_details">App:</string>
@@ -225,6 +226,7 @@
     <string name="crop_and_create">Ritaglio e creazione file Excel…</string>
     <string name="crop_cancel_description">Annulla</string>
     <string name="crop_done_description">Fatto</string>
+    <string name="crop_frame_you_box_selection_cannot_crop_this_picture">L\'area di selezione dovrebbe avere quattro lati</string>
     <string name="crop_frame_you_selected_cannot_crop_this_picture">Il quadrato di taglio non può essere concavo e l\'angolo massimo non può superare 140 gradi</string>
     <string name="crop_title_study">Ritaglia la foto</string>
     <string name="crop_title_translation">Seleziona il testo da tradurre</string>
@@ -308,9 +310,9 @@
     <string name="examples_form_guide">Come scansionare le tabelle</string>
     <string name="examples_text_guide">Come scansionare il testo</string>
     <string name="expand_button_title">Avanzate</string>
-    <string name="experience_new_feature_tips">"Accedi al tuo Mi Account per richiedere l\’accesso alla versione Beta. Sarete in grado di utilizzare la versione Beta dopo che avremo esaminato la vostra richiesta. La versione beta potrebbe contenere bug."</string>
+    <string name="experience_new_feature_tips">"Accedi al tuo account Xiaomi per richiedere i permessi per utilizzare la versione Beta. Potrai usare la versione beta dopo aver esaminato la tua applicazione. La versione beta potrebbe contenere bug."</string>
     <string name="experience_new_features">Versione beta</string>
-    <string name="experiential_version_of_the_prompt_content">Accedi al tuo Mi Account per accedere alla beta di Scanner. Accedi ora?</string>
+    <string name="experiential_version_of_the_prompt_content">Accedi al tuo account Xiaomi per accedere a Scanner Beta. Accedi ora?</string>
     <string name="express_no_empty">Inserisci prima il numero d\'ordine</string>
     <string name="failed_to_get_xiaomi_account">"Impossibile accedere"</string>
     <string name="fax">Fax</string>
@@ -373,6 +375,7 @@
     <string name="food_module_title_food">Calorie</string>
     <string name="form_demo_dialog_negative">Tocca per scansionare la tabella, quindi esportala come file Excel.</string>
     <string name="form_excel_save_sucess">File Excel salvato</string>
+    <string name="form_preview_title">Anteprima tabella Excel</string>
     <string name="form_recognition_crop_hint">Assicurati che gli angoli della tabella siano all\'interno dell\'area selezionata</string>
     <string name="format_error">Password non valida</string>
     <string name="friday">Venerdì</string>
@@ -461,6 +464,8 @@
     <string name="link_to_network">Connetti</string>
     <string name="local_ocr_recognition">Riconoscimento OCR locale</string>
     <string name="local_ocr_recognition_str">Passato a traduzione offline</string>
+    <string name="location_permission_message">Per connettersi al Wi-Fi</string>
+    <string name="location_permissions_text">Consenti l\'accesso alla posizione nelle impostazioni di utilizzare questa funzione.</string>
     <string name="logistics">Consegna rapida</string>
     <string name="logout_service">Ritira il consenso</string>
     <string name="low_version_tip">La versione della MIUI è troppo vecchia. Aggiorna la MIUI per usare Scanner.</string>
@@ -591,6 +596,8 @@
     <string name="not_identification_form">"Impossibile riconoscere la tabella. Selezionala di nuovo e riprova."</string>
     <string name="not_insert_contact">"Impossibile aggiungere contatto"</string>
     <string name="not_network">"Impossibile connettersi alla rete. Riprova."</string>
+    <string name="not_permissions_hint">Consenti l\'accesso alla fotocamera per poter utilizzare questa funzione.</string>
+    <string name="not_permissions_title">Permessi richiesti</string>
     <string name="not_recommend_access_web_url">Continua comunque</string>
     <string name="not_set">Non impostato</string>
     <string name="note">Nota:</string>
@@ -693,6 +700,7 @@
     <string name="plant_title">Scansiona la pianta che vuoi identificare</string>
     <string name="please_select_an_item">Seleziona elementi</string>
     <string name="please_try_again_later">Attendi un minuto o due e riprova</string>
+    <string name="pm">PM</string>
     <string name="pref_camera_focusmode_default">Immagine continua</string>
     <string name="pref_camera_jpeg_quality_fine">sottile</string>
     <string name="pref_camera_jpeg_quality_normal">normale</string>
@@ -754,6 +762,7 @@
     <string name="saveDone">Salvato con successo</string>
     <string name="save_as_PDF">Salva come PDF</string>
     <string name="save_as_picture">Salva come immagine</string>
+    <string name="save_documents_ui">Salvato in File Manager</string>
     <string name="save_excel_result_title">Salva</string>
     <string name="save_excel_title">Salva file Excel</string>
     <string name="save_fail">"Impossibile salvare"</string>
@@ -764,8 +773,8 @@
     <string name="scanHistory_close">Disattiva</string>
     <string name="scanHistory_isOpen">Mantenere la cronologia degli elementi scansionati?</string>
     <string name="scanHistory_open">Attiva</string>
-    <string name="scan_document_top_tip">Scansiona un documento fisico e crea un PDF</string>
-    <string name="scan_document_top_tip_second">Scansiona più documenti e crea un PDF</string>
+    <string name="scan_document_top_tip">Scansiona un documento cartaceo per creare un PDF</string>
+    <string name="scan_document_top_tip_second">Scansiona più elementi per creare un PDF</string>
     <string name="scan_form">Scansiona tabella</string>
     <string name="scan_form_top_tip">Scansiona, salva e modifica tabelle</string>
     <string name="scan_general_top_tip">Riconosci piante, persone e prodotti</string>
@@ -834,6 +843,7 @@
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="spaceIsLow_content">Spazio su memoria interna insufficiente. Liberane un pò.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_permissions_text">Permetti allo scanner di accedere alla memoria del dispositivo per poter utilizzare questa funzione.</string>
     <string name="store_feedback_prompt">Inserisci il tuo feedback</string>
     <string name="store_location_dialog">Questo servizio è fornito da Dianping. Tutte le foto scattate durante l\'utilizzo di questo servizio, incluse le relative informazioni sulla posizione, saranno condivise con Dianping al fine di ottenere le informazioni sui negozi.</string>
@@ -850,6 +860,7 @@
     <string name="study_vendor_info">Fornito da Zuoyebang</string>
     <string name="submitting">Invio…</string>
     <string name="suggested_submission_success">Feedback inviato correttamente</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -911,8 +922,8 @@
     <string name="to_date">Oggi</string>
     <string name="to_install_title">Questo codice QR ti reindirizza ad un\'app disinstallata. Scaricarla di nuovo?</string>
     <string name="to_pay">Completa il pagamento</string>
-    <string name="toast_net_2g">La rete è scadente. Si prega di cambiare la rete e riprovare</string>
-    <string name="toast_net_timeout">La richiesta è scaduta. Riprova più tardi</string>
+    <string name="toast_net_2g">"Impossibile connettersi alla rete. Cambia le reti e riprova."</string>
+    <string name="toast_net_timeout">La richiesta è scaduta. Attendi un minuto o due e riprova.</string>
     <string name="today">Oggi</string>
     <string name="toinstall">Scarica</string>
     <string name="tomorrow">domani</string>
@@ -1006,6 +1017,9 @@
     <string name="xiaoai_dialog">"Prova a dire quello che vuoi
 scansionare su Mi IA"</string>
     <string name="xiaoai_text">Piccolo pulsante adorabile</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Non ora</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>
     <string name="yesterday">Ieri</string>
     <string name="you_have_permission_to_download">Tocca per scaricare la versione Beta</string>
     <string name="you_id">"Il Tuo ID: "</string>

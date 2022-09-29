@@ -10,6 +10,7 @@ L'ID del dispositivo deve essere un IMEI o MAC valido. Senza l'ID del dispositiv
     <string name="explain_send_sms_permission_title">Verifica il tuo numero di telefono</string>
     <string name="pop_up_allow_notify_dialog">Consenti</string>
     <string name="pop_up_deny_notify_dialog">Nega</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sync_notification_title_format">Elemento in sincronizzazione: %1$s</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xmsf_activate_info">Attiva informazioni XMSF</string>

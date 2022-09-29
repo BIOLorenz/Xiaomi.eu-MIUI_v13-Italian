@@ -25,6 +25,7 @@
     <string name="account_or_password_incorrect">ID account o password errati</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="am">AM</string>
     <string name="antispam">Blacklist</string>
     <string name="app_name">Mi Mover</string>
     <string name="app_update_64_dialog_cancel">Non ora</string>
@@ -35,6 +36,12 @@
     <string name="apple_calendar">Eventi del calendario</string>
     <string name="apple_contacts">Contatti</string>
     <string name="apple_image">Foto</string>
+    <string name="apple_install_background_downloading">Scaricamento applicazioni in background…</string>
+    <string name="apple_install_get_data_faild">Si è verificato un errore</string>
+    <string name="apple_install_install_immediately_default">Installa</string>
+    <string name="apple_install_skip">Salta</string>
+    <string name="apple_install_sub_title">Le applicazioni selezionate saranno scaricate da GetApps</string>
+    <string name="apple_install_title">App dal tuo vecchio dispositivo</string>
     <string name="apple_video">Video</string>
     <string name="appname_app_data_suffix">%1$s dati app</string>
     <string name="apps_cannot_be_transfered_confirm_button">Avvia</string>
@@ -174,6 +181,7 @@ Visita https://appleid.apple.com/#!&amp;page=signin per disattivarlo"</string>
     <string name="cloud_service_check_dialog_message">Sembra che la sincronizzazione sia disattivata per Galleria e Contatti. Attiva la sincronizzazione per farli apparire su questo dispositivo.</string>
     <string name="cloud_service_check_dialog_positive_button">Attiva</string>
     <string name="cloud_service_check_dialog_title">Sincronizza Contatti e Galleria</string>
+    <string name="comma_seperator">", "</string>
     <string name="connect_icloud_fail">"Impossibile connettersi a iCloud"</string>
     <string name="connect_icloud_fail_tips">Assicurati che il tuo account iCloud sia stato attivato. In caso contrario, vai su icloud.com e segui le istruzioni per attivare il tuo account.</string>
     <string name="connect_wifi">E\' richiesta una rete Wi-Fi</string>
@@ -195,6 +203,7 @@ Visita https://appleid.apple.com/#!&amp;page=signin per disattivarlo"</string>
     <string name="data_read_white_permission_desc">Per trasferire elementi ad altri dispositivi</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
+    <string name="deselect_all">Deseleziona tutto</string>
     <string name="dialog_airplane_mode_button">Impostazioni</string>
     <string name="dialog_airplane_mode_content">"Mi Mover non può funzionare quando la mod. aereo è attiva. Disattivala nelle impostazioni."</string>
     <string name="dialog_airplane_mode_title">Disattiva la mod. aereo</string>
@@ -436,6 +445,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="main_sender_title">Vecchio</string>
     <string name="manual_connection_hint">Tocca \"Connetti manualmente\" sul tuo vecchio dispositivo.</string>
     <string name="manual_connection_title">connetti il vecchio dispositivo manualmente</string>
+    <string name="marketSdkVersion">3.2.12</string>
     <string name="message_request_manage_external_storage_perm">Mi Mover ha bisogno di accedere a tutti i file su questo dispositivo per poterli spostare dal vecchio dispositivo a uno nuovo.</string>
     <string name="message_request_package_stats_perm">Premi \"Continua\" per aprire le impostazioni e dare a Mi Mover le autorizzazioni necessarie.</string>
     <string name="midnight">Notte</string>
@@ -642,6 +652,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="permission_storage_title">Accesso e salvataggio di file e foto memorizzati sul tuo dispositivo</string>
     <string name="permission_wifi_summary">Per il trasferimento degli elementi al tuo nuovo dispositivo</string>
     <string name="permission_wifi_title">Attivare e disattivare WLAN</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
     <string name="prompt_before_transmission_message1_summary">Se si sceglie di trasferirli dal vecchio dispositivo, i dati delle app (compresa la cronologia delle chat) saranno sovrascritti.</string>
@@ -683,8 +694,9 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
 - Messaggi di testo
 - Archiviazione"</string>
     <string name="request_all_permission_title">Permessi richiesti</string>
-    <string name="restore_data_to_device_content">"I tuoi elementi sono stati sincronizzati con Xiaomi Cloud.
-Accedi al tuo Mi Account per ripristinarli."</string>
+    <string name="required_permissions">;</string>
+    <string name="restore_data_to_device_content">"I tuoi oggetti sono stati sincronizzati con Xiaomi Cloud.
+Accedi al tuo account Xiaomi per ripristinarli."</string>
     <string name="restore_data_to_device_title">Ripristina gli elementi su questo dispositivo</string>
     <string name="revoke">Ritira il consenso</string>
     <string name="revoke_agree">Revoca autorizzazione...</string>
@@ -716,6 +728,7 @@ Libera almeno %s."</string>
     <string name="scanner_wechat_overwrite_hit">A causa di restrizioni delle app di terze parti, cronologia chat e altri dati sul tuo nuovo dispositivo saranno sostituiti con quelli del vecchio dopo che il trasferimento è concluso.</string>
     <string name="search_menu_title">Cerca</string>
     <string name="searching_for_new_device">Ricerca di un nuovo dispositivo…</string>
+    <string name="select_all">Seleziona tutto</string>
     <string name="select_android_summary">Huawei, OPPO, vivo e altri</string>
     <string name="select_android_title">Android</string>
     <string name="select_apple_summary">iPhone</string>
@@ -740,7 +753,7 @@ Libera almeno %s."</string>
     <string name="sender_finish_title">trasferimento riuscito</string>
     <string name="sender_scanning_code">Posiziona l\'immagine nel riquadro</string>
     <string name="sender_scanning_connecting">Connessione al nuovo dispositivo…</string>
-    <string name="set_new_device_account">Sincronizza con Mi Account</string>
+    <string name="set_new_device_account">Sincronizza con l\'account Xiaomi</string>
     <string name="set_new_device_lock">Imposta blocco schermo</string>
     <string name="set_new_device_more">Altre impostazioni di sistema…</string>
     <string name="set_new_device_navigationbar">Imposta navigazione di sistema</string>
@@ -756,6 +769,7 @@ Libera almeno %s."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_transfer">Salta</string>
     <string name="skip_underline">Salta questo passaggio</string>
@@ -787,7 +801,9 @@ Libera almeno %s."</string>
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="succ_description">Fatto</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_open_wlan">为了保证迁移过程的稳定性，小米换机申请本权限，请您允许</string>
     <string name="summary_request_alert_window_prem">为了保证迁移过程的稳定性，小米换机申请本权限，请您允许</string>
     <string name="summary_request_write_settings_prem">Mi Mover ha bisogno di questo permesso per attivare il Wi-Fi e creare un hotspot per il trasferimento dei file.</string>

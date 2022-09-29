@@ -81,6 +81,7 @@ Nessun aggiornamento sarà disponibile per te!"</string>
     <string name="share_desc">La MIUI è stata aggiornata alla versione %1$s, controlla le novità: %2$s</string>
     <string name="share_title">Condividi con</string>
     <string name="stable">Stabile</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="version">Attualmente installato:</string>
     <string name="weekly">Settimanale</string>
     <string name="wifi_recommended">Nessuna connessione Wi-Fi per iniziare il download in modo sicuro!</string>

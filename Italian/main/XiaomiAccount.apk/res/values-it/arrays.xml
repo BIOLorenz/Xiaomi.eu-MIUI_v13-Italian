@@ -7,12 +7,12 @@
     <string-array name="settings_search_account_and_authority_global">
         <item>Account</item>
         <item>Aggiungi e gestisci account di terze parti</item>
-        <item>Account;SNS;Facebook;Google;Mi Account;Account</item>
+        <item>Accounts;SNS;Facebook;Google;Mi Account;Account;Xiaomi Account</item>
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Account</item>
         <item>Aggiungi e gestisci account di terze parti</item>
-        <item>Account;SNS;WeChat;QQ;Weibo;Mi Account;Account</item>
+        <item>Accounts;SNS;WeChat;QQ;Mi Account;Account;Xiaomi Account</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Cambia password</item>
@@ -52,7 +52,7 @@
     <string-array name="settings_search_security_phone_number">
         <item>Numero di telefono di recupero</item>
         <item>Aggiungi telefono di recupero</item>
-        <item>Recupero telefono;Aggiungi telefono;Mi Account;Account</item>
+        <item>Telefono di recupero;Aggiungi telefono;Mi Account;Account;Account Xiaomi</item>
     </string-array>
     <string-array name="settings_search_system_ad">
         <item>Pubblicità</item>

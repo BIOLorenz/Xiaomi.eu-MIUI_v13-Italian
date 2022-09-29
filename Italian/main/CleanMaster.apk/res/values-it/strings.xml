@@ -51,7 +51,9 @@
     <string name="ad_install_success_dialog_lunch">Apri</string>
     <string name="ad_install_success_dialog_title">%1$s installazioni completate. Aprire adesso?</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="am">AM</string>
     <string name="analying">Analisi in corso...</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="apk_status_damage">Corrotta</string>
     <string name="apk_status_duplicate">Duplicata</string>
     <string name="apk_status_install">Scaricati</string>
@@ -271,6 +273,7 @@
     <string name="columbus_player_speed_video">Salta Il VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Salta</string>
+    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
     <string name="common_google_play_services_enable_button">Attiva</string>
     <string name="common_google_play_services_enable_text">"%1$s non funzionerà se non attiverai i servizi di Google Play."</string>
     <string name="common_google_play_services_enable_title">Attiva i servizi di Google Play</string>
@@ -351,6 +354,7 @@
     <string name="deepclean_video_content">Elimina i video non necessari o già visti</string>
     <string name="deepclean_video_summary_empty">Sembra tutto OK</string>
     <string name="default_cache_type">Dati File</string>
+    <string name="default_web_client_id">150058839225-s58k8vkr0bf0mfjqlnuerm6a91h1r7ef.apps.googleusercontent.com</string>
     <string name="delete_confirm">Elimina</string>
     <string name="delete_confirm_msg">Eliminare questi file in modo permanente?</string>
     <string name="desc_image">immagine</string>
@@ -517,10 +521,15 @@
     <string name="global_wa_wrapper">Sfondi</string>
     <string name="go_to">Procedi</string>
     <string name="golbal_wa_backend_alert_dialog_btn">Apri</string>
+    <string name="google_api_key">AIzaSyD6s0NACwbSMWLXXSzcQ01ONWpktGWSVg8</string>
+    <string name="google_app_id">1:150058839225:android:abe7c366d0100605ccbf68</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD6s0NACwbSMWLXXSzcQ01ONWpktGWSVg8</string>
+    <string name="google_storage_bucket">cleaner-e8b97.appspot.com</string>
     <string name="goto_set">Imposta</string>
     <string name="gps_prompt_context">Scaricare con rete mobile?</string>
     <string name="gps_prompt_title">Suggerimenti</string>
     <string name="grabage_rank_title">Pulito oggi</string>
+    <string name="guide_dc_dialog_message_new">"C'è meno di %dGB di spazio di archiviazione libero. Questo potrebbe rallentare il tuo dispositivo. Esegui pulizia profonda per liberare spazio di archiviazione."</string>
     <string name="guide_dc_dialog_negative">Annulla</string>
     <string name="guide_dc_dialog_positive">OK</string>
     <string name="guide_dc_dialog_title">Memoria in esaurimento</string>
@@ -562,6 +571,7 @@
     <string name="hints_garbage_cleanup_result_safe">Sembra tutto OK</string>
     <string name="hints_garbage_handle_item_content">%1$d elementi，%2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Vuoto</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Utilizzata raramente</string>
     <string name="hints_installed_app_near">Usato di recente</string>
     <string name="hints_installed_app_never">Non utilizzata di recente</string>
@@ -611,6 +621,8 @@
     <string name="junk_tag_RF_DemoVideo_MIUI">Video di visualizzazione del telefono cellulare Xiaomi</string>
     <string name="junk_tag_RF_EmptyFolders">Cartelle vuote</string>
     <string name="junk_tag_RF_ImageThumbnails">Miniature Galleria</string>
+    <string name="junk_tag_big_file_mergedfile_desc_sygic">它是Sygic GPS下载的地图,&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
+    <string name="junk_tag_big_file_mergedfile_name_sygic">下载的地图(Sygic)</string>
     <string name="junk_tag_big_file_mergedfile_name_ucbrowser">Pagine salvate (UC browser)</string>
     <string name="junk_tag_big_file_mergedfile_name_vk">File vocali (VK Player)</string>
     <string name="junk_tag_big_file_mergedfile_name_yandex">Mappe scaricate (Yandex)</string>
@@ -647,6 +659,7 @@
     <string name="login_immediately">Accedi</string>
     <string name="long_click_dialog_summary">Tieni premuto per aggiungere eccezioni.</string>
     <string name="long_click_dialog_title">Avviso</string>
+    <string name="low_memory_clean_dialog_msg_new">Svuota prima almeno %dMB</string>
     <string name="low_memory_clean_dialog_ok_button">OK</string>
     <string name="low_memory_clean_dialog_title">Spazio libero insufficiente</string>
     <string name="low_memory_warning_dialog_cancel_button">Annulla</string>
@@ -698,6 +711,7 @@
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
+    <string name="monitor_app_name">zeus-monitor-crash</string>
     <string name="month_april">Aprile</string>
     <string name="month_april_short">Apr</string>
     <string name="month_april_shortest">Apr</string>
@@ -794,6 +808,7 @@
     <string name="notification_qq_clean_hint">Il cestino rallenta il dispositivo</string>
     <string name="notification_qq_clean_text">"Cancella cestino QQ"</string>
     <string name="notification_size_1.5_GB">%.1f</string>
+    <string name="notification_size_1_GB">%d</string>
     <string name="notification_summary_after_auto_cleanup">Pulito %s.</string>
     <string name="notification_uninstall_clean_hint">Svuota il cestino per liberare spazio</string>
     <string name="notification_uninstall_clean_text">Le app disinstallate lasciano dei file sul dispositivo</string>
@@ -837,6 +852,7 @@
     <string name="permission_dialog_storage_title">Permessi richiesti</string>
     <string name="petabyteShort">PB</string>
     <string name="phone_search">Ricerca Google</string>
+    <string name="pm">PM</string>
     <string name="positive_confirm">OK</string>
     <string name="powerful_acceleration">Deframmentazione</string>
     <string name="powerful_acceleration_after">Dopo</string>
@@ -882,7 +898,10 @@
     <string name="pref_title_manual_check_cleanup_db_update">Ricerca aggiornamenti</string>
     <string name="pref_title_open_optimizer_cloud_scan">Usa il motore di Pulizia online</string>
     <string name="pref_title_open_optimizer_memory_scan">Pulizia memoria</string>
+    <string name="preference_category_key_engine_settings">key_category_engine_settings</string>
+    <string name="preference_category_key_whatsapp_privacy">key_category_whatsapp_privacy</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="preference_key_wechat_garbage_clean_alert">key_wechat_clean_switch_state</string>
     <string name="privacy_app_desc">Account e password</string>
     <string name="privacy_app_desc_message">Account, password e messaggi</string>
     <string name="privacy_app_desc_search">Account, password e cronologia di ricerca</string>
@@ -976,6 +995,7 @@
     <string name="sponsored">Sponsorizzato</string>
     <string name="start_downloading_app">Avvio download: %1$s</string>
     <string name="start_install">Installa ora</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_delete_apk">Eliminare definitivamente gli APK selezionati?</string>
     <string name="summary_delete_cache">Alcune applicazioni potrebbero aver bisogno di questi file per funzionare correttamente.</string>
     <string name="summary_delete_large_file">Alcuni file di grosse dimensioni possono essere utili quando non si ha una connessione internet a disposizione (es: mappe, agende, etc.). Assicurati di non aver bisogno di questi file.</string>
@@ -1032,8 +1052,10 @@
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="tips_low_storage_dialog_cancel">Annulla</string>
     <string name="tips_low_storage_dialog_msg_qq">La cache di QQ ha raggiunto 3 GB. Questo può rallentare il dipositivo. Pulire la cache di QQ cache adesso?</string>
+    <string name="tips_low_storage_dialog_msg_qq_new">La dimensione della cache QQ ha raggiunto %dGB. Questo potrebbe rallentare il tuo dispositivo. Cancellare la cache QQ ora?</string>
     <string name="tips_low_storage_dialog_msg_storage">"Stai usando il 90% della memoria interna. Disinstalla le applicazioni meno utilizzate."</string>
     <string name="tips_low_storage_dialog_msg_storage_new">"Stai usando %s del tuo spazio di archiviazione. Disinstalla le applicazioni che non utilizzi."</string>
+    <string name="tips_low_storage_dialog_msg_wechat_new">La dimensione della cache di WeChat ha raggiunto %dGB. Questo potrebbe rallentare il tuo dispositivo. Eliminare la cache di WeChat ora?</string>
     <string name="tips_low_storage_dialog_ok">Cancella</string>
     <string name="tips_low_storage_dialog_ok_storage">Libera spazio</string>
     <string name="tips_low_storage_dialog_title">La memoria interna in uso è poca</string>

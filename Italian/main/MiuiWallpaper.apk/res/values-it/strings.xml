@@ -25,6 +25,7 @@
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="already_newest_version">La versione attuale è aggiornata</string>
+    <string name="am">AM</string>
     <string name="app_name">Sfondo</string>
     <string name="cancel_download">Download annullato</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
@@ -105,7 +106,9 @@
     <string name="download_button">Pulsante download</string>
     <string name="download_failed">"Impossibile scaricare"</string>
     <string name="early_morning">Mattina</string>
+    <string name="earth_id">terra</string>
     <string name="earth_summary">La Terra è la culla della civiltà umana</string>
+    <string name="earth_super_wallpaper_label">terra</string>
     <string name="earth_title">Casa</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -163,6 +166,7 @@
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="game_view_content_description">Vista di gioco</string>
+    <string name="geometry_id">geometria</string>
     <string name="geometry_summary">Forme, luci e colori</string>
     <string name="geometry_super_wallpaper_label">Geometria</string>
     <string name="geometry_title">Geometria</string>
@@ -177,6 +181,7 @@
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
     <string name="install_failed">"Impossibile installare"</string>
+    <string name="marketSdkVersion">3.2.9</string>
     <string name="mars_coordinate_latitude_0">73.287°E</string>
     <string name="mars_coordinate_latitude_1">323.483°E</string>
     <string name="mars_coordinate_latitude_2">340.780°E</string>
@@ -295,14 +300,18 @@ mm"</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_set">Non impostato</string>
     <string name="password_toggle_content_description">Mostra password</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
+    <string name="saturn_id">saturn</string>
     <string name="saturn_summary">Gli anelli di Saturno sono lo spettacolo più incredibile del Sistema Solare</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
     <string name="saturn_title">Anelli lontani</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send">Invia</string>
+    <string name="snowmountain_id">montagna di neve</string>
     <string name="snowmountain_summary">Pendii montuosi soleggiati del monte Siguniang</string>
     <string name="snowmountain_super_wallpaper_label">Cime innevate</string>
     <string name="snowmountain_title">Cime innevate</string>
@@ -330,6 +339,8 @@ mm"</string>
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

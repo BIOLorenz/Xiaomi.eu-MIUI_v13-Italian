@@ -25,6 +25,8 @@
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="agree">Accetto</string>
+    <string name="am">AM</string>
+    <string name="app_name">blur</string>
     <string name="cancel">Annulla</string>
     <string name="check_protocol_msg">Per utilizzare la mod. manutenzione fare clic qui accettare il </string>
     <string name="check_protocol_msg_detail">Prima di avviare la mod. riparazione, assicurati che i dati siano stati salvati, il servizio post-vendita non è responsabile di eventuali perdite di dati causate dal prodotto riparato.</string>
@@ -235,6 +237,7 @@
     <string name="open_maintenance_mode_msg">Per evitare la perdita di dati, si consiglia di inviarlo successivamente per la riparazione </string>
     <string name="open_maintenance_mode_msg_sub">backup dei dati</string>
     <string name="open_maintenance_mode_tips">Hai appena disattivato la mod. manutenzione e i dati si stanno eliminando, riprova più tardi</string>
+    <string name="pm">PM</string>
     <string name="reached_max_user">Numero massimo di utenti raggiunto</string>
     <string name="reboot_maintenance_mode">eliminazione della mod. di manutenzione completata, per le prestazioni del dispositivo, si prega di riavviare</string>
     <string name="reboot_msg">Attivando la mod. di manutenzione il dispositivo si riavvia automaticamente, si prega di confermare</string>
@@ -271,6 +274,7 @@
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

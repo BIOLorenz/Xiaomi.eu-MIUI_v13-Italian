@@ -41,8 +41,8 @@
         <item quantity="one">Eliminare %d download?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%1$d download eliminati con successo</item>
-        <item quantity="one">%1$d download eliminato con successo</item>
+        <item quantity="other">Eliminato %1$d download con successo</item>
+        <item quantity="one">Eliminato %1$d download con successo</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d giorni</item>

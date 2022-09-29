@@ -24,7 +24,9 @@
     <string name="abc_toolbar_collapse_description">Riduci</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="am">AM</string>
     <string name="app_name">Finestre fluttuanti</string>
+    <string name="bottom_bar_smallwindow_drag_text">Trascina qui per fissare</string>
     <string name="bottom_bar_smallwindow_text">Rilascia per fissare</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -150,6 +152,7 @@
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Trascina l\'angolo per minimizzare un\'app</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Trascina l\'angolo per minimizzare un\'app</string>
     <string name="freeform_guide_to_sidehide_summary">Trascina rapidamente la finestra dalla barra di azione al bordo dello schermo</string>
+    <string name="freeform_guide_to_sidehide_summary_pad">Trascina rapidamente l\'app sul lato dello schermo per nasconderla</string>
     <string name="freeform_guide_to_sidehide_title">Nascondere le finestre fluttuanti</string>
     <string name="freeform_slide_to_small_freeform">Minimizza una finestra fluttuante</string>
     <string name="freeform_slide_to_small_freeform_summary">Tieni premuta la barra di azione e trascina in un angolo</string>
@@ -158,6 +161,7 @@
     <string name="friday_shortest">Ven</string>
     <string name="fullscreen_slide_to_small_freeform">Minimizza un\'app</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Scorri dalla parte inferiore dello schermo verso l\'angolo in alto a destra</string>
+    <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Scorri dal basso verso il bordo superiore dello schermo</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -253,6 +257,7 @@
     <string name="night">Sera</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_set">Non impostato</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
@@ -283,6 +288,8 @@
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

@@ -83,6 +83,7 @@
         <item>unicorn</item>
         <item>mayfly</item>
         <item>dagu</item>
+        <item>ziyi</item>
     </string-array>
     <string-array name="device_use_cameraone">
         <item>jason</item>
@@ -121,6 +122,8 @@
         <item>fog</item>
         <item>wind</item>
         <item>rain</item>
+        <item>sunstone</item>
+        <item>moonstone</item>
     </string-array>
     <string-array name="device_use_resident_memory">
         <item>jason</item>
@@ -154,6 +157,11 @@
         <item>thunder</item>
         <item>evergo</item>
         <item>evergreen</item>
+        <item>viva</item>
+        <item>vida</item>
+        <item>fleur</item>
+        <item>miel</item>
+        <item>yunluo</item>
     </string-array>
     <string-array name="retry_connect_camera">
         <item>laurus</item>
@@ -170,5 +178,9 @@
         <item>lilac</item>
         <item>evergo</item>
         <item>evergreen</item>
+        <item>viva</item>
+        <item>vida</item>
+        <item>fleur</item>
+        <item>miel</item>
     </string-array>
 </resources>

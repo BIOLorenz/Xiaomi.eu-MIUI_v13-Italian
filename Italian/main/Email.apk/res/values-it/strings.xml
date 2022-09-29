@@ -30,6 +30,7 @@
     <string name="about_lasted_version">Non ci sono nuove versioni</string>
     <string name="account_add_other_sub_des">Altri account</string>
     <string name="account_add_title">Seleziona servizio email</string>
+    <string name="account_cache_provider">Fornitore Cache Account</string>
     <string name="account_change">Cambia account</string>
     <string name="account_child_dialog_neg_text">Esci</string>
     <string name="account_child_dialog_pos_text">Il guardiano è d\'accordo</string>
@@ -64,6 +65,9 @@ Per comprendere appieno i tuoi diritti come utente e i modi in cui trattiamo i t
     <string name="account_setting_message_body_load_head_only">Solo intestazione</string>
     <string name="account_setting_message_body_load_text">Solo corpo</string>
     <string name="account_settings_action">Impostazioni account</string>
+    <string name="account_settings_background_attachments_security">account_settings_background_attachments_security</string>
+    <string name="account_settings_background_attachments_security_summary">Controllare gli allegati contenenti i pacchetti di installazione per rischi di sicurezza</string>
+    <string name="account_settings_background_attachments_security_title">Controlla gli allegati per i rischi</string>
     <string name="account_settings_background_attachments_summary">Scarica allegati utilizzando il Wi-Fi</string>
     <string name="account_settings_background_attachments_summary_inter">Scarica allegati utilizzando il Wi-Fi</string>
     <string name="account_settings_background_attachments_title">Scarica gli allegati automaticamente</string>
@@ -223,10 +227,12 @@ path prefix"</string>
     <string name="allow_notify">Consenti notifiche</string>
     <string name="allread">Segna come già letto</string>
     <string name="always_bcc_myself">Mettimi sempre in Ccn nelle mail</string>
+    <string name="am">AM</string>
     <string name="app_loading">Caricamento…</string>
     <string name="app_name">E-Mail</string>
     <string name="app_uninstall_content">"Posta è un'applicazione di sistema. Non sarai in grado di gestire i tuoi account email, inviare e ricevere e-mail o sincronizzare gli eventi dopo aver disinstallato l'app."</string>
     <string name="app_uninstall_title">Disinstallare \"Posta\"?</string>
+    <string name="application_mime_type">application/email-ls</string>
     <string name="appraise_des">Lavoriamo duramente allo sviluppo dei prodotti, solo per soddisfarti. Supportaci lasciando un commento.</string>
     <string name="appraise_good">Sì</string>
     <string name="appraise_ignore">"Valutazione temporanea"</string>
@@ -271,6 +277,10 @@ path prefix"</string>
     <string name="attachment_unknown">File %s</string>
     <string name="attachment_video">Video</string>
     <string name="attachments_header">Allegati</string>
+    <string name="attachments_security_alert_install_message">Questo allegato è un pacchetto di installazione. Assicurati di avere fiducia nella sorgente prima di aprirla. Installare ora?</string>
+    <string name="attachments_security_alert_install_title">Attenzione</string>
+    <string name="attachments_security_alert_message">Questo messaggio contiene un pacchetto di installazione. Assicurati di fidarti della sorgente prima di aprirla.</string>
+    <string name="attachments_security_install">Installa</string>
     <string name="attendee_needed">Aggiungi almeno un invitato.</string>
     <string name="auto_advance_help_title">Dopo un\'eliminazione, mostra…</string>
     <string name="auto_advance_label">Avanzamento automatico</string>
@@ -289,7 +299,9 @@ path prefix"</string>
     <string name="b_contacts_remove_tips">Rimuovere questo indirizzo dalla lista dei blocchi?</string>
     <string name="back">Indietro</string>
     <string name="bank_card_detail">Dettagli carta di credito</string>
+    <string name="bank_card_list_card_num_fmt">****%s</string>
     <string name="bcc">Ccn</string>
+    <string name="bcc_heading">"Ccn: "</string>
     <string name="bill_center_setting">Impostazioni di addebito</string>
     <string name="bill_center_setting_head">Importa le informazioni da questi account</string>
     <string name="bill_cycle_text">Ciclo di addebito</string>
@@ -319,6 +331,7 @@ path prefix"</string>
     <string name="cancel_pop3_attchemt_downloading">"L'annullamento di allegati in download non è disponibile per gli account di tipo POP3."</string>
     <string name="cant_move_or_change_labels">"Impossibile spostare perché la selezione contiene account multipli."</string>
     <string name="cc">Cc</string>
+    <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
     <string name="cc_bcc">Cc/Ccn</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="certificate_add_failed">"Impossibile aggiungere il certificato \"%s\""</string>
@@ -425,7 +438,9 @@ path prefix"</string>
     <string name="click_to_reload">Tocca lo schermo per ricaricare</string>
     <string name="close">Chiudi</string>
     <string name="close_custom_folder">Nascondi sottocartelle</string>
+    <string name="close_tips">Chiudi promemoria</string>
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
+    <string name="colon">:</string>
     <string name="command_139_mail_open_pop3_imap">KQ</string>
     <string name="compose">Scrivi</string>
     <string name="compose_add_attachment_permission_denied">"Impossibile inoltrare l'email. Permessi per accedere alla memoria esterna richiesti."</string>
@@ -462,13 +477,13 @@ path prefix"</string>
     <string name="contact_edit_set_black_list_receive">Elimina tutte le email con questo destinatario</string>
     <string name="contact_edit_set_black_list_receive_summary">Elimina tutte le mail che contengono questo destinatario, anche nel campo Cc</string>
     <string name="contact_edit_set_black_list_title">Aggiungi alla blacklist</string>
-    <string name="contact_edit_set_phone_contact">Modifica contatti telefono</string>
-    <string name="contact_edit_title_phone_contact">Lista contatti telefono</string>
+    <string name="contact_edit_set_phone_contact">Modifica contatto di sistema</string>
+    <string name="contact_edit_title_phone_contact">Modifica contatto</string>
     <string name="contact_in_filter_title">Mittente</string>
     <string name="contact_list_add_btn">Aggiungi</string>
     <string name="contact_list_search_hint">Cerca contatti</string>
     <string name="contact_list_title">Contatti</string>
-    <string name="contact_permission_error">"Accesso ai contatti limitato"</string>
+    <string name="contact_permission_error">È richiesto l\'accesso ai contatti di sistema</string>
     <string name="contact_select">Seleziona contatti</string>
     <string name="contain_view_all_body">Visualizza e-mail completa</string>
     <string name="content_description">%1$s circa %2$s, %3$s su %4$s, %5$s</string>
@@ -494,6 +509,7 @@ path prefix"</string>
     <string name="conversation_cert_info_tips">Questa email è stata firmata con un certificato affidabile</string>
     <string name="conversation_cert_info_title">Firmato</string>
     <string name="conversation_cert_trust">Fidati</string>
+    <string name="conversation_content_provider">Provider Contenuto conversazione</string>
     <string name="conversation_detail_hide">Nascondi</string>
     <string name="conversation_detail_show">Dettagli</string>
     <string name="conversation_folder_moved">Spostato in %1$s</string>
@@ -532,10 +548,10 @@ path prefix"</string>
     <string name="default_opening_attchemnt_mode">Apri gli allegati usando l\'app predefinita</string>
     <string name="default_pop3">POP3</string>
     <string name="default_setup">IMPOSTAZIONI PREDEFINITE\u0020</string>
-    <string name="default_signature">Inviato tramite dispositivo Xiaomi</string>
+    <string name="default_signature">Inviato dal mio dispositivo Xiaomi</string>
     <string name="default_signature_2">Inviato dal mio %s</string>
-    <string name="default_signature_pad">Inviato dal mio Mi Pad</string>
-    <string name="default_signature_phone">Inviato tramite dispositivo Xiaomi</string>
+    <string name="default_signature_pad">Inviato dal mio dispositivo Mi</string>
+    <string name="default_signature_phone">Inviato dal mio dispositivo Mi</string>
     <string name="delete">Elimina</string>
     <string name="delete_contact_content">Eliminare adesso questo contatto?</string>
     <string name="delete_message_dialog_content">Vuoi eliminare questa email e bloccare il mittente?</string>
@@ -571,7 +587,7 @@ path prefix"</string>
     <string name="downlaod_cancel_confirm_download">Interrompi</string>
     <string name="downlaod_cancel_continue_download">"Annulla"</string>
     <string name="downlaod_confirm_download">Scarica</string>
-    <string name="downlaod_nonWifi_confirm_message">Il download consumerà traffico, confermare</string>
+    <string name="downlaod_nonWifi_confirm_message">Il download senza Wi-Fi può utilizzare dati mobili significativi. Scaricare comunque?</string>
     <string name="downlaod_nonWifi_confirm_title">Scaricare questo allegato?</string>
     <string name="download_before_sharing">" non è ancora stato scaricato, scaricalo prima di condividerlo!"</string>
     <string name="download_before_sharing2">"Alcuni degli elementi selezionati non sono stati scaricati. È necessario scaricarli."</string>
@@ -606,6 +622,8 @@ path prefix"</string>
     <string name="earthly_branches_yin">Yin</string>
     <string name="earthly_branches_you">You</string>
     <string name="earthly_branches_zi">Zi</string>
+    <string name="eas_hotmail_email">hotmail.com</string>
+    <string name="eas_outlook_email">outlook.com</string>
     <string name="edit_quick_response_dialog">Risposte rapide</string>
     <string name="edit_signature">Modifica firma</string>
     <string name="editor_max_length_limit_hint">Il messaggio inserito è troppo lungo</string>
@@ -665,7 +683,10 @@ path prefix"</string>
     <string name="error_message_respond_revert_07">"Impossibile verificare la tua identità. Usa un codice di verifica per accedere."</string>
     <string name="error_message_respond_revert_16">La password è scaduta. Aggiorna la password e accedi nuovamente.</string>
     <string name="error_message_respond_revert_21">Attiva POP3 e riprova.</string>
+    <string name="error_message_respond_revert_24">Il tuo indirizzo IP è stato bloccato. Contatta il servizio clienti di Sohu Mail per risolvere questo problema.</string>
     <string name="error_message_respond_revert_25">Controlla la tua connessione e riprova.</string>
+    <string name="error_message_respond_revert_26">Il tuo account è stato congelato. Accedi a Sohu Mail nel tuo browser per attivarlo.</string>
+    <string name="error_message_respond_revert_27">La password è scaduta. Accedi a Sohu Mail nel tuo browser per ottenere una password generata dal server.</string>
     <string name="evening">Pomeriggio</string>
     <string name="exception_cancel">"Questo evento è stato annullato per: %s"</string>
     <string name="exception_updated">I dettagli di questo evento sono stati modificati per: %s</string>
@@ -679,8 +700,8 @@ path prefix"</string>
     <string name="fail_get_email_message">Recupero messaggio fallito.</string>
     <string name="failed">"Impossibile caricare immagine"</string>
     <string name="failed_parse_eml_file">"Recupero email fallito, prova di nuovo"</string>
-    <string name="failed_read_write_calendar_permission">Mancata autorizzazione per l\'accesso al calendario</string>
-    <string name="failed_read_write_contacts_permission">Mancata autorizzazione per l\'accesso ai contatti</string>
+    <string name="failed_read_write_calendar_permission">I permessi del calendario sono obbligatori</string>
+    <string name="failed_read_write_contacts_permission">Consenti l\'accesso ai contatti per essere in grado di utilizzare questa funzione</string>
     <string name="fallback_menu_item_copy_link">Copia link</string>
     <string name="fallback_menu_item_open_in_browser">Apri nel browser</string>
     <string name="fallback_menu_item_share_link">Condividi link</string>
@@ -759,6 +780,7 @@ path prefix"</string>
     <string name="folder_junk_name_en2">Posta Indesiderata</string>
     <string name="folder_junk_name_en3">Posta Indesiderata</string>
     <string name="folder_junk_name_en4">Indesiderata</string>
+    <string name="folder_junk_name_en5">Posta indesiderata</string>
     <string name="folder_list_current_account">Account attuale</string>
     <string name="folder_list_display_all">Mostra tutte le cartelle</string>
     <string name="folder_list_display_only_import">Mostra solo le cartelle importanti</string>
@@ -808,6 +830,7 @@ path prefix"</string>
     <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>
     <string name="forward_download_failed_ticker">"Impossibile inoltrare uno o più allegati."</string>
     <string name="forward_download_failed_title">Allegato non inoltrato</string>
+    <string name="forward_subject_label">I:</string>
     <string name="free_period_text">Periodo di prova gratuito</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
@@ -863,12 +886,17 @@ path prefix"</string>
     <string name="hide_attachment">Nascondi allegato</string>
     <string name="hide_elided">▼ Nascondi testo citato</string>
     <string name="hide_password">Nascondi password</string>
+    <string name="how_to_login_icloud">Come accedere alla posta iCloud</string>
     <string name="http_auth_dialog_cancel">Annulla</string>
     <string name="http_auth_dialog_login">Accedi</string>
     <string name="http_auth_dialog_password">Password</string>
     <string name="http_auth_dialog_title">Inserisci le tue credenziali</string>
     <string name="http_auth_dialog_username">Nome utente</string>
+    <string name="icloud_login_tips">È possibile creare una password da utilizzare con la posta iCloud qui: iCloud.com</string>
+    <string name="icloud_login_tips_url_part">iCloud.com</string>
+    <string name="icloud_official_url">https://appleid.apple.com/</string>
     <string name="icon_content_description">Icona Dialogo</string>
+    <string name="icoud_login_pw_hint">Inserisci password</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">La password per il server di posta in entrata non è corretta</string>
@@ -916,6 +944,7 @@ path prefix"</string>
     <string name="login_des_exchange">Accedi a Exchange</string>
     <string name="login_des_gmail">Accedi a Gmail</string>
     <string name="login_des_hotmail">Accedi a Hotmail</string>
+    <string name="login_des_icloud">Accedi alla posta iCloud</string>
     <string name="login_des_mail_ru">Accedi a Mail.ru</string>
     <string name="login_des_office365">Accedi a Office 365</string>
     <string name="login_des_others">Accedi ad altri importanti client di servizi email</string>
@@ -960,6 +989,14 @@ Ciao, la password dell'applicazione è attivata? Se attiva, vai al sito ufficial
     <string name="mailbox_name_display_starred">Speciali</string>
     <string name="mailbox_name_display_trash">Cestino</string>
     <string name="mailbox_name_display_unread">Non letta</string>
+    <string name="mailbox_name_server_all_unread">Non letta</string>
+    <string name="mailbox_name_server_drafts">Bozze</string>
+    <string name="mailbox_name_server_inbox">In arrivo</string>
+    <string name="mailbox_name_server_junk">Indesiderata</string>
+    <string name="mailbox_name_server_outbox">In Uscita</string>
+    <string name="mailbox_name_server_sent">Inviato</string>
+    <string name="mailbox_name_server_starred">Speciali</string>
+    <string name="mailbox_name_server_trash">Cestino</string>
     <string name="mailbox_setting_preference_sync_summary_close">Sync: Spenta</string>
     <string name="mailbox_setting_preference_sync_summary_open">Sync: Accesa</string>
     <string name="mailbox_settings_activity_title">Impostazioni di sincronizzazione</string>
@@ -974,6 +1011,7 @@ Ciao, la password dell'applicazione è attivata? Se attiva, vai al sito ufficial
     <string name="mark_not_spam">Non spam</string>
     <string name="mark_read">Letta</string>
     <string name="mark_unread">Da leggere</string>
+    <string name="marketSdkVersion">3.2.19</string>
     <string name="material_slider_range_end">Fine intervallo,</string>
     <string name="material_slider_range_start">Inizio intervallo,</string>
     <string name="me_object_pronun">Io</string>
@@ -1030,6 +1068,7 @@ Ciao, la password dell'applicazione è attivata? Se attiva, vai al sito ufficial
     <string name="message_decode_error">"Si è verificato un errore durante la decodifica del messaggio."</string>
     <string name="message_discarded">Messaggio eliminato.</string>
     <string name="message_invite_accept">Sì</string>
+    <string name="message_invite_calendar_download_prompt">Scarica il calendario per poter utilizzare questa funzione</string>
     <string name="message_invite_calendar_view">Mostra nel calendario</string>
     <string name="message_invite_decline">No</string>
     <string name="message_invite_end_time">Orario di fine</string>
@@ -1074,6 +1113,11 @@ Ciao, la password dell'applicazione è attivata? Se attiva, vai al sito ufficial
     <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
+    <string name="miuix_search_action_mode_cancel">Annulla</string>
+    <string name="miuix_search_history_clear">Cancella cronologia di ricerca</string>
+    <string name="miuix_search_history_default_title">Cronologia di ricerca</string>
+    <string name="miuix_search_recommendation_default_title">Potresti essere interessato a</string>
+    <string name="miuix_search_recommendation_item_del_des">Elimina</string>
     <string name="modify_contact_address">"Modifica indirizzo email del contatto"</string>
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>
@@ -1144,6 +1188,7 @@ Ciao, la password dell'applicazione è attivata? Se attiva, vai al sito ufficial
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">d</string>
     <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla mod. di inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca per selezionare un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla mod. di inserimento testo</string>
@@ -1309,7 +1354,7 @@ Prova a passare ad un diverso account email."</string>
     <string name="permission_calendar_subtitle">Per sincronizzare gli eventi dall\'email al calendario</string>
     <string name="permission_calendar_title">Accedi e aggiungi eventi del calendario</string>
     <string name="permission_des_calendar">Viene utilizzato per sincronizzare le email con le informazioni di pianificazione nel calendario. Si consiglia di selezionare Consenti Sempre</string>
-    <string name="permission_des_contact">Utilizzato per sincronizzare i contatti di posta elettronica nella rubrica, si consiglia vivamente di selezionare Consenti Sempre</string>
+    <string name="permission_des_contact">Per sincronizzare i contatti email come contatti di sistema. Si consiglia di selezionare \"Consenti sempre\" per evitare interruzioni.</string>
     <string name="permission_des_external_storage">Utilizzato per comporre la posta e leggere i file locali per completare il processo di aggiunta e salvataggio degli allegati</string>
     <string name="permission_get_accounts_subtitle">Per accedere e gestire gli account di sistema</string>
     <string name="permission_phone_status_subtitle">Per l\'identificazione di dispositivi diversi</string>
@@ -1324,6 +1369,7 @@ Prova a passare ad un diverso account email."</string>
     <string name="pl_select_age">Perfavore seleziona un eta.</string>
     <string name="pls_parse_bill_discribe">"Analizza ricevute e viaggi nelle tue email
 perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
+    <string name="pm">PM</string>
     <string name="policy_app_blacklist">Revoca permessi app specifiche</string>
     <string name="policy_app_whitelist">Consenti app specifiche</string>
     <string name="policy_bluetooth_restricted">Limita utilizzo Bluetooth</string>
@@ -1347,9 +1393,10 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
     <string name="policy_require_smime">Richiede messaggi SMIME</string>
     <string name="policy_text_truncation">Restringi dimensione email testo</string>
     <string name="pop3_name">POP3</string>
+    <string name="prefDefault_autoAdvance">elenco</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="preference_eas_tips">Tocca Attiva per configurare il server email.</string>
-    <string name="preference_pop_tips">Gli allegati verranno scaricati inseme alle email come previsto dal protocollo POP3. Fai attenzione quando utilizzi la connessione dati mobile.</string>
+    <string name="preference_pop_tips">L\'allegato verrà scaricato con l\'email. Questo potrebbe utilizzare dati mobili significativi. Scarica comunque?</string>
     <string name="preferences_signature_dialog_title">Firma</string>
     <string name="preferences_signature_title">Firma</string>
     <string name="previous_action">Indietro</string>
@@ -1404,6 +1451,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
     <string name="quick_reply_dialog_title">Scegli</string>
     <string name="quick_reply_expend">Altro</string>
     <string name="quick_responses_empty_view">Nessuna risposta rapida</string>
+    <string name="quick_translation">Traduci</string>
     <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
     <string name="quote_divider_1">-------- Messaggio originale --------</string>
     <string name="quote_divider_11">----- Originale -----</string>
@@ -1450,6 +1498,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="reply_add_bodycontent">Aggiungere un messaggio di risposta rapida al contenuto?</string>
     <string name="reply_all">Rispondi a tutti</string>
     <string name="reply_attribution">%2$s ha scritto su %1$s:</string>
+    <string name="reply_subject_label">Re:</string>
     <string name="report_phishing">Segnala come phishing</string>
     <string name="report_spam">Segnala spam</string>
     <string name="request_copy_db_to_disk">L\'app Email richiede che il tuo database venga esportato in file</string>
@@ -1552,9 +1601,8 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="show_password">Mostra password</string>
     <string name="show_server_cet">Visualizza certificato</string>
     <string name="shrink">Riduci</string>
-    <string name="sign_in_dialog_office365">Office 365</string>
-    <string name="sign_in_dialog_outlook_enterprise">Outlook per le imprese (senza calendario)</string>
-    <string name="sign_in_dialog_outlook_exchange">EXCHANGE (con calendario)</string>
+    <string name="sign_in_dialog_office365">Office365 Personal Edition</string>
+    <string name="sign_in_dialog_outlook_enterprise">Office365 Exchange Enterprise Edition</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (senza calendario)</string>
     <string name="sign_in_graph_error">"È possibile accedere utilizzando i protocolli IMAP o EXCHANGE solo quando la vostra organizzazione non ha cambiato la configurazione generale del server. Se l'indirizzo del server è personalizzato dall'organizzazione o i relativi protocolli sono disabilitati, accedi utilizzando il nuovo protocollo di Microsoft."</string>
     <string name="sign_in_no_useful_provider_error">"Impossibile ottenere le configurazioni di protocollo da Microsoft. Usa un protocollo diverso o aggiorna il protocollo da Microsoft."</string>
@@ -1602,7 +1650,10 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="special_text_3">Ha scritto:</string>
     <string name="special_text_4">Ha scritto:</string>
     <string name="special_text_5">ha scritto:</string>
+    <string name="special_text_colon_en">:</string>
+    <string name="special_text_colon_zh">：</string>
     <string name="special_text_sender_en">mittente</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="str_select_all">Seleziona tutto</string>
     <string name="str_select_none">Deseleziona tutto</string>
     <string name="subject_hint">Oggetto</string>
@@ -1614,10 +1665,10 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="sunday_shortest">Dom</string>
     <string name="sync_calendra_fail_per_content">Tocca per consentire</string>
     <string name="sync_calendra_fail_per_title">"Impossibile sincronizzare gli eventi del calendario"</string>
-    <string name="sync_calendra_fail_permission">"Impossibile sincronizzare gli eventi del calendario. Consenti a WPS Mail di accedere al calendario."</string>
+    <string name="sync_calendra_fail_permission">Concedi i permessi del calendario in Impostazioni &gt; Permessi per poter sincronizzare gli eventi del calendario.</string>
     <string name="sync_contacts_fail_per_content">Concedi permessi contatti, tocca per concedere</string>
     <string name="sync_contacts_fail_per_title">"Sincronizzazione Contatti fallita"</string>
-    <string name="sync_contacts_req_per_ignored">Il contatto non è aperto e non può sincronizzare i contatti</string>
+    <string name="sync_contacts_req_per_ignored">Consenti a questa app di sincronizzare i contatti per poter utilizzare questa funzione</string>
     <string name="sync_question_feed">Segnala problemi di sincronizzazione</string>
     <string name="sync_upload_question">Segnalazione</string>
     <string name="syncing_wait_restart">Riprova</string>
@@ -1625,7 +1676,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
  impossibile caricare il messaggio</string>
     <string name="system_account_create_failed">"Impossibile creare l'account. Riprova."</string>
     <string name="system_root_path">Impostazioni di archiviazione interna</string>
-    <string name="system_security_open_error">Impossibile regolare il centro sicurezza. Aprii permessi nelle impostazioni del telefono</string>
+    <string name="system_security_open_error">Concedi i permessi nelle impostazioni per poter aprire la Sicurezza</string>
     <string name="system_setup_open_error">Impossibile richiamare la sincronizzazione, attiva il sistema \'imposta\' nella sincronizzazione account email</string>
     <string name="tap_to_configure">Tocca per configurare</string>
     <string name="tap_to_enable_sync">Tocca per attivare</string>
@@ -1685,16 +1736,16 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="toast_bar_open_gmail_synchronization">"Tocca per utilizzare un server proxy per Gmail"</string>
     <string name="toast_bar_send_fail_remind">"Impossibile inviare email. Salvata nella cartella \"Posta in uscita\"."</string>
     <string name="toast_bar_sync_failed_client_cert">"Impossibile sincronizzare a causa di un certificato mancante. Tocca per aggiungere nuovamente il certificato."</string>
-    <string name="toast_bar_sync_failed_mi_authority">Accedi per autorizzare il dispositivo</string>
+    <string name="toast_bar_sync_failed_mi_authority">"Questo dispositivo non è stato autorizzato. Controlla il tuo SMS per un messaggio di autorizzazione."</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">"Le informazioni di pianificazione e contatto non sono state sincronizzate in tempo reale, l'autorizzazione Contatti è impostata su consenti sempre"</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">I permessi per Calendario e Contatti cono disattivati. Calendario e Contatti non possono essere sincronizzati</string>
     <string name="toastbar_calendar_permission_switch_allow_only_using">"Mail non è riuscita a sincronizzarsi in tempo reale, impostare i permessi del calendario su Consenti Sempre"</string>
     <string name="toastbar_calendar_permission_switch_close">I permessi per il Calendario sono disattivati. Il Calendario non può essere sincronizzato</string>
     <string name="toastbar_contacts_permission_switch_allow_only_using">"Le informazioni sui contatti non sono sincronizzate in tempo reale, l'autorizzazione Contatti è impostata su Consenti Sempre"</string>
-    <string name="toastbar_contacts_permission_switch_close">I permessi per i Contatti sono disattivati. I Contatti non possono essere sincronizzati</string>
+    <string name="toastbar_contacts_permission_switch_close">Consenti l\'accesso ai contatti per essere in grado di aggiungerli come contatti di sistema</string>
     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">La sincronizzazione del Calendario e dei Contatti è disattivata. Calendario e Contatti non possono essere sincronizzati</string>
     <string name="toastbar_local_calendar_sync_switch_close">La sincronizzazione del Calendario è disattivata. Il Calendario non può essere sincronizzato</string>
-    <string name="toastbar_local_contacts_sync_swtich_close">La sincronizzazione dei Contatti è disattivata. I Contatti non possono essere sincronizzati</string>
+    <string name="toastbar_local_contacts_sync_swtich_close">Consenti a questa app di sincronizzare i contatti per poterli aggiungere come contatti di sistema</string>
     <string name="today">Oggi</string>
     <string name="today_text">Oggi</string>
     <string name="tomorrow">domani</string>
@@ -1723,6 +1774,8 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="trigger_before_hour">%d ora fa</string>
     <string name="trigger_before_minute">%d minuti fa</string>
     <string name="trigger_before_week">%d settimana fa</string>
+    <string name="trigger_compose_char">c</string>
+    <string name="trigger_y_char">y</string>
     <string name="try_exchange_login">Accedi con EXCHANGE</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>

@@ -51,13 +51,17 @@
     <string name="agenda_tomorrow">DOMANI, %1$s</string>
     <string name="agenda_view">Agenda</string>
     <string name="alarm_label">Rifiuta</string>
+    <string name="alarm_open_reminder">Attiva promemoria</string>
+    <string name="alarm_reminder_already">Promemoria attivo</string>
     <string name="alert_reminder_expired">Scaduto</string>
     <string name="alert_title">Notifiche calendario</string>
     <string name="all_events">Tutti gli eventi</string>
     <string name="all_records">Tutti i dati</string>
     <string name="already_num">Tempo da %s</string>
+    <string name="am">AM</string>
     <string name="anniversary_event_title">Anniversario: %1$s</string>
     <string name="anniversary_secondary_tag">Anniversario</string>
+    <string name="anti_aggression_day_tradition">反侵略日</string>
     <string name="app_label">Calendario</string>
     <string name="app_not_found">"Impossibile trovare l'app selezionata"</string>
     <string name="aqi_level">AQI %d</string>
@@ -88,6 +92,7 @@
     <string name="book_card_free">Gratis</string>
     <string name="button_record_menstruation">Registra</string>
     <string name="calendar_permission_desc">Gestione eventi</string>
+    <string name="calendar_privacy_policy">Informativa sulla Privacy</string>
     <string name="can_not_create_long_event">Contenuto troppo lungo</string>
     <string name="can_not_modify_allday_event">"Gli eventi che durano tutto il giorno non possono essere modificati"</string>
     <string name="can_not_modify_event">"Impossibile modificare"</string>
@@ -221,13 +226,14 @@
     <string name="countdown_notify_title">Promemoria: %1$s</string>
     <string name="countdown_secondary_tag">Conto alla rovescia</string>
     <string name="countdown_today">Oggi</string>
-    <string name="create_an_account_desc">"Il calendario funziona meglio con un Mi Account.
+    <string name="create_an_account_desc">"Il calendario funziona meglio con un account Xiaomi.
 
-• Accedi da qualsiasi browser.
-• Effettua il backup dei tuoi eventi in modo sicuro."</string>
+- Accedi da qualsiasi browser web.
+- Esegui il backup degli eventi in modo sicuro."</string>
     <string name="create_kundli">Crea Kundli</string>
     <string name="creating_event">Evento creato</string>
     <string name="creating_event_with_guest">Inviti spediti</string>
+    <string name="credit_currency">元</string>
     <string name="cricket_card_notification_off">"Non sarai avvisato prima della partita"</string>
     <string name="cricket_card_notification_on">"Riceverai una notifica prima della partita"</string>
     <string name="custom_date_year_format">dd, yyyy</string>
@@ -264,6 +270,7 @@
     <string name="date_view">Data</string>
     <string name="day">Giorno</string>
     <string name="day_view_new_event_hint">Nuovo evento</string>
+    <string name="default_reminder_later_time">Intervallo predefinito per \"Posticipa\"</string>
     <string name="default_reminder_mode">Promemoria</string>
     <string name="delete_menstruation_record_confirm">Eliminare questo elemento?</string>
     <string name="delete_recurring_event_title">Eliminare %s?</string>
@@ -273,6 +280,8 @@
     <string name="directory_searching_fmt">Ricerca %s…</string>
     <string name="discard_label">Annulla</string>
     <string name="does_not_repeat">Evento singolo</string>
+    <string name="double_seventh_day_tradition">七夕</string>
+    <string name="downloading">下载中</string>
     <string name="dropdown_delete_button_desc">Rimuovi %s dai destinatari</string>
     <string name="early_morning">Mattina</string>
     <string name="earthly_branches_chen">Chen</string>
@@ -306,8 +315,10 @@
     <string name="edit_event_label">Dettagli</string>
     <string name="edit_event_no_reminder_value">"Non ricordare"</string>
     <string name="edit_event_reminder_3_days_before">E ricordamelo %d giorni prima</string>
+    <string name="edit_event_reminder_3_days_before_time">Ricorda anche %d giorni prima</string>
     <string name="edit_event_reminder_summary">In quel giorno a %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">%2$d giorni prima e in quel giorno alle %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">%1$d giorni prima e %1$s il giorno stabilito</string>
     <string name="edit_event_reminder_text">Il %1$s ore %2$s</string>
     <string name="edit_event_reminder_time">Orario promemoria</string>
     <string name="edit_event_reminder_with_another_day_text">dal %1$s, al %2$s ore %3$s</string>
@@ -316,6 +327,14 @@
     <string name="edit_event_tab_birthday">Compleanno</string>
     <string name="edit_event_tab_countdown">Conto alla rovescia</string>
     <string name="edit_event_tab_event">Evento</string>
+    <string name="edit_event_title_create_agenda">Crea Evento</string>
+    <string name="edit_event_title_create_anniversary">Crea anniversario</string>
+    <string name="edit_event_title_create_birthday">Crea compleanno</string>
+    <string name="edit_event_title_create_countdown">Crea conto alla rovescia</string>
+    <string name="edit_event_title_edit_agenda">Modifica evento</string>
+    <string name="edit_event_title_edit_anniversary">Modifica anniversario</string>
+    <string name="edit_event_title_edit_birthday">Modifica compleanno</string>
+    <string name="edit_event_title_edit_countdown">Modifica conto alla rovescia</string>
     <string name="edit_event_to_label">A</string>
     <string name="edit_your_long_holidays">Modifica festività</string>
     <string name="ee_dd_short_month">EEE, dd MMM</string>
@@ -416,6 +435,10 @@
     <string name="global_joke_copy_toast_message">Testo copiato</string>
     <string name="global_joke_expand_text">Mostra altro</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
+    <string name="google_crash_reporting_api_key">AIzaSyA0g2Xam2MPAwxppFxueWZGT5kbVRKuQsQ</string>
+    <string name="grain_rain_tradition">谷雨</string>
+    <string name="great_cold_tradition">大寒</string>
+    <string name="great_heat_tradition">大暑</string>
     <string name="greeting_card_reminder_info_text">Ricevi notifiche giornaliere su saluti e festività</string>
     <string name="greeting_success_subtext">Le notifiche sono attive</string>
     <string name="greeting_success_text">Fatto</string>
@@ -457,6 +480,7 @@
     <string name="hint_description">Descrizione</string>
     <string name="hint_what">Nome evento</string>
     <string name="hint_where">Posizione</string>
+    <string name="hoar_frost_falls_tradition">霜降</string>
     <string name="holiday_card_title">In questo giorno</string>
     <string name="holiday_date">Data</string>
     <string name="holiday_date_title">Data festività</string>
@@ -488,6 +512,7 @@
     <string name="installing_email">Installazione…</string>
     <string name="international_womens_day">San Valentino</string>
     <string name="item_num_selected">%1$d selezionati</string>
+    <string name="jia_zi">甲子</string>
     <string name="language_change_confirmation">Modificato con successo. È possibile modificare la lingua nelle impostazioni del calendario.</string>
     <string name="launch_weather_comment">Tocca per informazioni sul meteo</string>
     <string name="life_card_electricity_bill_primary_no_account">电费缴费：</string>
@@ -495,10 +520,14 @@
     <string name="life_card_gas_bill_secondary">questi giorni</string>
     <string name="light_snow">Nevicate leggere</string>
     <string name="light_snow_tradition">Nevicate leggere</string>
+    <string name="limit_card_limit_desc">限行尾号</string>
     <string name="limit_notification_date_format">dd/MM (EE)</string>
     <string name="limit_today">questi giorni</string>
-    <string name="load_more_hint">Aggiorna gli eventi di %1$d</string>
+    <string name="load_more_events">Mostra %d eventi</string>
+    <string name="load_more_events_default">"Mostra gli eventi del prossimo anno"</string>
+    <string name="load_more_hint">Mostra %1$d eventi</string>
     <string name="loading">Attendi…</string>
+    <string name="loan">贷款还款</string>
     <string name="local_calendar_display_name">Calendario locale</string>
     <string name="local_owner_account_name">Account locale</string>
     <string name="long_date_format">EEEE, dd MMMM yyyy</string>
@@ -681,6 +710,7 @@
     <string name="no_internet_dialog_message">Impossibile collegarsi alla rete. Controlla le impostazioni e riprova.</string>
     <string name="no_internet_dialog_title">Si è verificato un errore</string>
     <string name="no_long_holidays">Nessun ponte per ora</string>
+    <string name="no_more_events">Nessun altro evento da mostrare</string>
     <string name="no_network">"Impossibile collegarsi alla rete.
 Controlla le impostazioni di rete e riprova."</string>
     <string name="no_network_btn">Riprova</string>
@@ -706,6 +736,7 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="notes_week_name_two">%1$s e %2$s</string>
     <string name="notes_weekly">Settimanale</string>
     <string name="notification_channel_name">Promemoria calendario</string>
+    <string name="numbers">%d</string>
     <string name="olympic_vs">VS</string>
     <string name="panchang_amanta">Amanta</string>
     <string name="panchang_amanta_month">Mese Amanta:</string>
@@ -735,44 +766,66 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="path_calendar_settings">Applicazioni di sistema/Calendario/Impostazioni</string>
     <string name="peace_day">Giornata della pace</string>
     <string name="peace_day_tradition">Giornata della pace</string>
+    <string name="permission_description">Dettagli permessi</string>
     <string name="picker_day">Giorno selezionato: %1$d. Scorri verticalmente per selezionare.</string>
     <string name="picker_month">Mese selezionato: %1$d. Scorri verticalmente per selezionare.</string>
     <string name="picker_year">Anno selezionato: %1$d. Scorri verticalmente per selezionare.</string>
     <string name="plain_short_month_format">MMM</string>
     <string name="plain_year_format">yyyy</string>
+    <string name="pm">PM</string>
     <string name="points_table">Tabella punti</string>
     <string name="predict_menstruation">Mestruazioni previste</string>
+    <string name="prefDefault_alerts_vibrateWhen">never</string>
+    <string name="prefDefault_alerts_vibrate_false">never</string>
+    <string name="prefDefault_alerts_vibrate_true">always</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrazione</string>
     <string name="pref_reminder_time">Orario promemoria</string>
     <string name="pref_title_alarm_remind">Promemoria sveglia</string>
     <string name="pref_title_no_remind">Nessun avviso</string>
     <string name="pref_title_notification_remind">Promemoria di notifica</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="preferences_additional_cal_default">0</string>
+    <string name="preferences_alarms_category_title">Promemoria sveglia</string>
+    <string name="preferences_alarms_sound">Suono</string>
+    <string name="preferences_alarms_vibrateWhen">Vibrazione</string>
     <string name="preferences_alerts_ringtone_title">Suono</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrazione</string>
     <string name="preferences_alerts_vibrate_title">Vibrazione e suoneria</string>
+    <string name="preferences_allow_remind">Consenti promemoria</string>
     <string name="preferences_default_allday_reminder_title">Orario promemoria per eventi giornalieri</string>
+    <string name="preferences_default_reminder_default_value">5</string>
     <string name="preferences_default_reminder_dialog">Orario promemoria</string>
     <string name="preferences_default_reminder_title">Orario promemoria</string>
     <string name="preferences_home_tz_title">Orario predefinito</string>
+    <string name="preferences_import_credit_repayment">信用卡还款</string>
     <string name="preferences_import_electricity_bill">电费缴费：</string>
     <string name="preferences_import_gas_bill">燃气缴费：</string>
+    <string name="preferences_import_loan">贷款账单</string>
     <string name="preferences_notification_ringtone_title">Suono</string>
+    <string name="preferences_popup_alert_smart_summary_new">Gli eventi a tempo sono eventi con una scadenza impostata</string>
+    <string name="preferences_popup_alert_title">Avviso pop-up</string>
     <string name="preferences_show_indic_date_title">Mostra calendario indiano</string>
     <string name="preferences_title">Calendario</string>
     <string name="preferences_use_home_tz_descrip">Mostra orario eventi con il fuso orario predefinito</string>
     <string name="preferences_use_home_tz_title">Usa orario predefinito</string>
+    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">Inizio settimana</string>
     <string name="preferences_week_start_day_title">Inizio settimana</string>
     <string name="prefsx_notify_sound_none">Silenzioso</string>
     <string name="premission_description_log">Per il salvataggio dei log</string>
     <string name="premission_description_ringtone">Per impostare suonerie</string>
+    <string name="privacy_and_permissions">Privacy e autorizzazioni</string>
     <string name="privacy_card_description">Accetta la nostra Informativa sulla privacy per accedere a tutte le funzionalità.</string>
     <string name="privacy_policy_dialog_agree">Accetto</string>
     <string name="privacy_policy_dialog_dont_agree">"Non accetto"</string>
     <string name="privacy_policy_dialog_message"><Data>\"Benvenuto in Calendario!&lt;br/&gt;Puoi utilizzare questa app per creare e gestire eventi, impostare promemoria e ricevere ulteriori informazioni specifiche per la tua posizione.&lt;br/&gt;Calendario deve raccogliere le informazioni personali necessarie per fornirti i servizi di base. Puoi capire come gestiamo le informazioni che raccogliamo nella nostra &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt;.&lt;br/&gt;Leggi e accetta il nostro &lt;a href=\"%2$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%3$s\"&gt;Informativa sulla privacy&lt;/a&gt; prima di usare il Calendario. Puoi revocare il tuo consenso all\'Informativa sulla privacy di Calendario in qualsiasi momento.&lt;br/&gt; Se non accetti la nostra Informativa sulla privacy, non sarai in grado di utilizzare alcune funzionalità di questa app; tuttavia, la sua funzionalità base sarà ancora disponibile.\"</Data></string>
     <string name="privacy_policy_dialog_title">Termini e condizioni</string>
     <string name="privacy_revoke_switch_text">Revoca autorizzazione...</string>
+    <string name="pull_refresh_events">Mostra %d eventi</string>
+    <string name="pull_refresh_events_default">"Mostra gli eventi dell'anno precedente"</string>
+    <string name="pull_refresh_progress_load_finish">Caricamento riuscito</string>
+    <string name="pull_refresh_progress_loading">Attendi…</string>
+    <string name="pull_refresh_progress_release_to_load">Rilascia per caricare</string>
     <string name="pull_to_refresh_hint">Trascina per aggiornare gli eventi di %1$d</string>
     <string name="receive_net_mock_success">Ricezione net mock completata</string>
     <string name="recorded_menstruation">Ciclo registrato</string>
@@ -790,6 +843,7 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="repeat_custom_activity_label">Personalizza</string>
     <string name="repeat_custom_prompt_daily">ogni %1$s</string>
     <string name="repeat_custom_prompt_sentence">L\'evento si ripeterà %1$s</string>
+    <string name="repeat_custom_prompt_splitter">", "</string>
     <string name="repeat_custom_string_prefix">Personalizza</string>
     <string name="repeat_custom_string_suffix">" (%1$s)"</string>
     <string name="repeat_end_label">Fine ripetizione</string>
@@ -828,6 +882,8 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="search_calendar">"Calendario;Agenda;Promemoria"</string>
     <string name="search_calendar_edit_event">Riunione;Promemoria;Agenda</string>
     <string name="search_calendar_settings">Calendario;Agenda;Promemoria</string>
+    <string name="search_events">Cerca eventi</string>
+    <string name="search_history">Cronologia di ricerca</string>
     <string name="search_menu_title">Cerca</string>
     <string name="second_saturday_holiday">Ogni secondo sabato è un giorno festivo</string>
     <string name="select_date">Vai alla data</string>
@@ -847,7 +903,9 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="setting_features_title">Impostazioni funzione</string>
     <string name="setting_holiday_display_desc">Schede vacanze posizionate nella homepage del calendario</string>
     <string name="setting_holiday_reminder">Promemoria vacanze</string>
+    <string name="setting_import_events">Importa eventi</string>
     <string name="setting_others">Aggiuntive</string>
+    <string name="setting_show_reject_agenda">Mostra eventi rifiutati</string>
     <string name="setting_title_about">Informazioni</string>
     <string name="setting_title_holiday_display">Mostra festività</string>
     <string name="setting_title_import_todo">Importa attività</string>
@@ -860,6 +918,8 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="share_image">Condividi</string>
     <string name="share_image_label">Condividi con</string>
     <string name="share_title">Condividi</string>
+    <string name="shift_card_edit_reminder">设置提醒</string>
+    <string name="shift_detail_time_not_start">未开始</string>
     <string name="short_date_format">dd MMM</string>
     <string name="show_day_view">Mostra giorno</string>
     <string name="show_indic_date_summary">Il calendario indiano è disponibile quando una delle lingue dell\'India è impostata come lingua di sistema</string>
@@ -873,6 +933,8 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="size_peta_byte">PB</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip">Salta</string>
+    <string name="slight_cold_tradition">小寒</string>
+    <string name="slight_heat_tradition">小暑</string>
     <string name="small_week_date_format">EEE dd/MM/yyyy</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
@@ -903,7 +965,9 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="spring_begins_tradition">Inizio primavera</string>
     <string name="start_date_calculate">Calcola</string>
     <string name="stats_title">Statistiche</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_num">Tempo a %s</string>
+    <string name="stopping_the_heat_tradition">&lt;unk&gt; &lt;unk&gt;</string>
     <string name="storage_permission_denied">Consenti prima l\'accesso alla memoria</string>
     <string name="stub_string">-</string>
     <string name="subscribe_card">Iscriviti adesso</string>
@@ -937,6 +1001,10 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="tab_title_day">Giorno</string>
     <string name="tab_title_month">Mese</string>
     <string name="tab_title_week">Settimana</string>
+    <string name="tab_view_day">Giorno</string>
+    <string name="tab_view_month">Mese</string>
+    <string name="tab_view_week">Settimana</string>
+    <string name="tab_view_year">Anno</string>
     <string name="talk_back_month">Mese</string>
     <string name="talk_back_read_date">%1$s (%2$s secondo il calendario lunare).</string>
     <string name="talk_back_setting">Impostazioni</string>
@@ -975,6 +1043,7 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="temp_in_celsius">%d℃</string>
     <string name="temp_in_fahrenheit">%d℉</string>
     <string name="template_announce_item_index">Evento %1$s di %2$s.</string>
+    <string name="text_year">年</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
     <string name="the_arbor_day">Giorno dei mestieri</string>
@@ -1003,6 +1072,7 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="the_night_of_sevens">Festival di Qixi</string>
     <string name="the_partys_day">Giorno della CPC</string>
     <string name="the_peace_day">Giorno della memoria</string>
+    <string name="the_rains_tradition">雨水</string>
     <string name="the_retrocession_day">Giorno della retrocessione</string>
     <string name="the_second_day">Secondo giorno del Capodanno Cinese</string>
     <string name="the_seventh_day">Settimo giorno del Capodanno Cinese</string>
@@ -1069,8 +1139,11 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="tw_childrens_day">Giornata dei figli</string>
+    <string name="tw_childrens_day_tradition">兒童節</string>
     <string name="tw_youth_day">Giornata della gioventù</string>
+    <string name="tw_youth_day_tradition">青年節</string>
     <string name="twelve_hour_time_format">hh:mm aa</string>
+    <string name="twenty_four_hour_time_format">HH:mm</string>
     <string name="two_selected_holiday">%1$s e %2$s sono giorni di riposo</string>
     <string name="unable_record_future_menstruation">"Impossibile registrare periodi futuri"</string>
     <string name="unsubscribe_card">Annulla iscrizione</string>
@@ -1085,6 +1158,8 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="valentines_day">San Valentino</string>
+    <string name="valentines_day_tradition">情人節</string>
+    <string name="vernal_equinox_tradition">春分</string>
     <string name="view_details">Vedi dettagli</string>
     <string name="view_event_calendar_label">Calendario:</string>
     <string name="view_event_organizer_label">Organizzatore:</string>
@@ -1099,6 +1174,7 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="week_number">Mostra il numero della settimana</string>
     <string name="weekly">Settimanale (ogni %s)</string>
     <string name="when_label">Quando</string>
+    <string name="white_dews_tradition">白露</string>
     <string name="widget_events">Prossimo evento</string>
     <string name="widget_get_weather_info">Ricevi info meteo &gt;</string>
     <string name="widget_no_events">Nessun evento</string>
@@ -1116,7 +1192,7 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="work_day_indication">:(</string>
     <string name="xiaomi_calendar_delete_description">Calendario è un\'app di sistema che consente di creare e gestire eventi. Alcune delle sue funzionalità saranno ancora disponibili dopo aver rimosso il collegamento dalla schermata home.</string>
     <string name="xiaomi_calendar_delete_title">Rimuovere \"Calendario\" dalla schermata Home?</string>
-    <string name="xiaomi_calendar_display_name">Calendario Mi</string>
+    <string name="xiaomi_calendar_display_name">Calendario Account Xiaomi</string>
     <string name="year">Anno</string>
     <string name="yearly">Annuale (%s)</string>
     <string name="yearly_plain">Annuale</string>

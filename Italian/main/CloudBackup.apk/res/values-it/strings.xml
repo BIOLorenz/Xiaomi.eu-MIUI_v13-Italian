@@ -26,6 +26,7 @@
     <string name="access_denied_info">Troppi tentativi. Attendi e riprova.</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="am">AM</string>
     <string name="app_is_running">App in esecuzione…</string>
     <string name="app_name">Backup cloud</string>
     <string name="arrange_restore_order">Riorganizzazione app…</string>
@@ -53,6 +54,7 @@
     <string name="backup_failed_reason_network_error">Controlla le tue impostazioni di rete e prova di nuovo</string>
     <string name="backup_finished_notification_content">Backup eseguito per app schermate Home, impostazione di sistema, etc.</string>
     <string name="backup_now">Esegui backup adesso</string>
+    <string name="backup_progress_percent_unit">%</string>
     <string name="backup_remind_buy_cloud_space">Aggiorna il piano di archiviazione cloud</string>
     <string name="backup_remind_clean_disk_space">Libera memoria</string>
     <string name="backup_remind_cloud_space_cost">Dimensione backup: %s</string>
@@ -194,7 +196,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="cloud_back_up_opening">Attendi…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Aggiorna</string>
     <string name="cloud_back_up_subscribe_vip_discription">Ottini più memoria, backup giornalieri ed altro.</string>
-    <string name="cloud_back_up_subscribe_vip_title">Aggiorna Mi Account</string>
+    <string name="cloud_back_up_subscribe_vip_title">Aggiorna L\'Account Xiaomi</string>
     <string name="cloud_back_up_task">Backup in corso</string>
     <string name="cloud_backup">Backup Mi Cloud</string>
     <string name="cloud_backup_derail_size_summary">Dimensione: %s</string>
@@ -204,7 +206,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="cloud_backup_detail_frequence_every_7_day">Ogni 7 giorni</string>
     <string name="cloud_backup_detail_frequence_every_day">Ogni giorno</string>
     <string name="cloud_backup_detail_header_msg">"Ora puoi eseguire il backup del layout della schermata Home, delle app, delle impostazioni di sistema e dei dati WeChat. &lt;font color=#0D84FF&gt;&lt;a href=&gt;Tocca per saperne di più.&lt;/a&gt;&lt;/font&gt;"</string>
-    <string name="cloud_backup_detail_local_backup_size">Dimensione backup: %s</string>
+    <string name="cloud_backup_detail_header_msg_no_wechat_backup">"Esegui il backup del layout della schermata Home, dell'elenco delle app e delle impostazioni di sistema. &lt;font color=#0D84FF&gt;&lt;a href=&gt;Tocca per saperne di più&lt;/a&gt;&lt;/font&gt;."</string>
+    <string name="cloud_backup_detail_local_backup_size">Dimensione di backup stimata: %s</string>
     <string name="cloud_backup_detail_manage">Gestisci backup</string>
     <string name="cloud_backup_detail_no_time">Nessun registro di backup</string>
     <string name="cloud_backup_detail_state">Backup Mi Cloud</string>
@@ -376,6 +379,7 @@ Si prega di inviare questo codice al tecnico."</string>
     <string name="latest_backup_time_loading">Caricamento…</string>
     <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
     <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_isOpenSource">vero</string>
     <string name="library_android_database_sqlcipher_libraryDescription">API SQLite Android basate su SQLCipher</string>
     <string name="library_android_database_sqlcipher_libraryName">SQLCipher per Android</string>
     <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
@@ -468,7 +472,7 @@ Si prega di inviare questo codice al tecnico."</string>
     <string name="network_error_info">Si è verificato un errore di rete. Controlla le impostazioni di rete e riprova.</string>
     <string name="network_timeout_info">"Impossibile connettersi alla rete. Riprova."</string>
     <string name="night">Sera</string>
-    <string name="no_account">Accesso al Mi Account non eseguito.</string>
+    <string name="no_account">Non hai effettuato l\'accesso all\'account Xiaomi.</string>
     <string name="no_backup">Nessun backup su Mi Cloud.</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_set">Non impostato</string>
@@ -480,6 +484,7 @@ Si prega di inviare questo codice al tecnico."</string>
     <string name="other_device_second_space">Secondo spazio</string>
     <string name="pc_mode_not_support_restore_warning">"Impossibile ripristinare gli elementi in mod. PC. Disattiva la mod. PC e riprova."</string>
     <string name="permission_to_use">Dettagli permessi</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="process_whole_recovery">Ripristino di \"%s\"</string>
     <string name="progressbar_title">Verifica falle di sicurezza…</string>
@@ -618,6 +623,7 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="start_backup_to_micloud">Esegui backup su Mi Cloud</string>
     <string name="start_recover">Ripristino %s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_unit_gb">%s GB</string>
     <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">Backup applicazioni Schermata Home attivato</string>

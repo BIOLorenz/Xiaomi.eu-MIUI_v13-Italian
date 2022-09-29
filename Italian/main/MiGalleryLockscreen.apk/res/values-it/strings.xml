@@ -92,6 +92,8 @@
     <string name="addcw_apply_btn_txt">Aggiungi sfondo</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="allowed">Concesso</string>
+    <string name="am">AM</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Sfondi Carousel</string>
     <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignora questa versione</string>
     <string name="app_self_upgrade_dlg_content">È disponibile una nuova versione. Aggiornare ora?</string>
@@ -103,10 +105,15 @@
     <string name="apply_to_above_all">Imposta su entrambi</string>
     <string name="apply_to_screenlock">Imposta su Schermata di blocco</string>
     <string name="apply_to_wallpaper">Imposta su schermata Home</string>
+    <string name="apply_warning_content">"Stai usando uno sfondo Super. Se cambi lo sfondo, verrà applicato sia alla schermata Home che alla schermata di blocco. Applicare ora?"</string>
+    <string name="apply_warning_content_with_aod">"Stai usando una carta da parati Super. Se cambi lo sfondo, sarà applicato sia alle schermate Home che di Blocco, e il display Sempre acceso potrebbe essere ripristinato come predefinito. Applicare ora?"</string>
+    <string name="apply_warning_content_with_maml">"Stai usando un tema di terze parti. Se cambi lo sfondo, l'orologio della schermata di blocco potrebbe essere ripristinato come predefinito. Applicare ora?"</string>
+    <string name="apply_warning_title">Applica sfondo</string>
     <string name="article_item_hot">Dai un\'occhiata a %s+ sfondi popolari</string>
     <string name="at_least_one">Seleziona almeno una categoria</string>
     <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo.</string>
     <string name="auto_interval">Dopo ogni sblocco del dispositivo</string>
+    <string name="back">Indietro</string>
     <string name="back_icon_content_description">Indietro</string>
     <string name="bind_sign_in_title">Aggiungi Mi Account</string>
     <string name="cancel">Annulla</string>
@@ -135,6 +142,7 @@
     <string name="change_time">Cambia sfondo</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d di %2$d</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -211,6 +219,7 @@
     <string name="clear_text_end_icon_content_description">Cancella testo</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="close">Chiudi</string>
+    <string name="close_country_code_content_description">Elimina il prefisso nazionale</string>
     <string name="close_gallery">Disattiva</string>
     <string name="collect_diagnosis_log">Raccogli logs</string>
     <string name="comment_pop_cancel">Non adesso</string>
@@ -245,8 +254,8 @@
     <string name="cw_added_fav_no_pic">Nessun elemento trovato.</string>
     <string name="cw_added_toast">Questo elemento è stato già aggiunto.</string>
     <string name="cw_adding">Aggiunta (%1$d)</string>
-    <string name="cw_album_no_pic">"Impossibile trovare immagini sul tuo dispositivo"</string>
-    <string name="cw_album_no_right">Consenti a Sfondi Carousel di accedere alla Galleria</string>
+    <string name="cw_album_no_pic">Non c\'è niente qui</string>
+    <string name="cw_album_no_right">Permessi richiesti</string>
     <string name="cw_all_folder">Immagini recenti</string>
     <string name="cw_batch_all_added_tip">"Non è possibile aggiungere elementi già presenti."</string>
     <string name="cw_batch_part_tip_fail">Alcuni elementi sono stati aggiunti</string>
@@ -257,7 +266,7 @@
     <string name="cw_delete">Elimina</string>
     <string name="cw_delete2">Elimina (%d)</string>
     <string name="cw_deleting">Elimina (%1$d/%2$d)</string>
-    <string name="cw_local_pic">Galleria</string>
+    <string name="cw_local_pic">Seleziona immagini</string>
     <string name="cw_my_fav">Preferiti</string>
     <string name="cw_permission_tip">Consenti a Sfondi Carousel di accedere alla memoria in Impostazioni &gt; Impostazioni app.</string>
     <string name="cw_wallpaper_empty_dlg_btn">Ok</string>
@@ -284,7 +293,7 @@
     <string name="detail_menu_history">Cronologia</string>
     <string name="detail_menu_home">Vai alla pagina iniziale</string>
     <string name="detail_menu_setting">Impostazioni dell\'app</string>
-    <string name="detail_menu_settingbtn_save">Salva in Galleria</string>
+    <string name="detail_menu_settingbtn_save">Salva</string>
     <string name="detail_menu_settingbtn_setting">Impostazioni</string>
     <string name="detail_menu_settingbtn_share">Condividi</string>
     <string name="detail_menu_wall">"Gli sfondi di oggi"</string>
@@ -316,6 +325,7 @@ Invia questo codice al supervisore."</string>
     <string name="disable_dlg_title">Disattivare Carosello Sfondi?</string>
     <string name="dislike">Elimina</string>
     <string name="dlg_cancel">Annulla</string>
+    <string name="dlg_ok">Applica</string>
     <string name="doing_login">Accesso…</string>
     <string name="doing_query_account">Controllo info account…</string>
     <string name="doing_register">Creazione account…</string>
@@ -351,6 +361,7 @@ Invia questo codice al supervisore."</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a tendina</string>
     <string name="external_storage_permission">Accesso alla memoria</string>
     <string name="external_storage_permission_summary">Per selezionare sfondi personalizzati e salvare gli elementi scaricati</string>
+    <string name="facebook_login_btn_content_description">Accedi con Facebook</string>
     <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
     <string name="favor_list_no_data">Nessun elemento trovato.</string>
     <string name="favor_list_title">Preferiti</string>
@@ -403,6 +414,8 @@ Invia questo codice al supervisore."</string>
     <string name="get_ph_ticket">Ottieni codice</string>
     <string name="get_phone_bind_exceed_limit">"È possibile associare fino a 3 Mi Account a un numero di telefono. Impossibile aggiungere nuovi account."</string>
     <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
+    <string name="getverifycode_seconde">s</string>
+    <string name="google_login_btn_content_description">Accedi con Google</string>
     <string name="goto_confirm">Impostazioni</string>
     <string name="goto_sign_up">Crea account</string>
     <string name="header_help">Guida</string>
@@ -440,6 +453,7 @@ Invia questo codice al supervisore."</string>
     <string name="launch_bg_permission_exception">Consenti a Carosello Sfondi di visualizzare finestre pop-up mentre viene eseguito in background su Sicurezza</string>
     <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
     <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_isOpenSource">vero</string>
     <string name="library_android_database_sqlcipher_libraryDescription">API SQLite Android basate su SQLCipher</string>
     <string name="library_android_database_sqlcipher_libraryName">SQLCipher per Android</string>
     <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
@@ -454,6 +468,8 @@ Invia questo codice al supervisore."</string>
     <string name="lks_cta_summary1">Carosello sfondi offre le seguenti caratteristiche:</string>
     <string name="lks_cta_summary2">"1. Sfondi aggiornati automaticamente&lt;br&gt;2. Immagini e storie applicate alla schermata di blocco&lt;br&gt;3. Opzioni di personalizzazione&lt;br&gt;Questa funzione deve connettersi a Internet per funzionare normalmente.&lt;br&gt;&lt;br&gt;Per fornire servizi aggiuntivi, potremmo chiedere l'autorizzazione per accedere e salvare gli elementi nella memoria di questo dispositivo. Leggi e accetta il nostro &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Accordo utente&lt;/font&gt;&lt;/a&gt; e &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Informativa sulla privacy&lt;/font&gt;&lt;/a&gt; prima di continuare."</string>
     <string name="lks_cta_title">Termini e condizioni</string>
+    <string name="lks_data_warning_toast_1">"Stai utilizzando dati mobili per sfogliare gli sfondi.
+Questo potrebbe generare commissioni aggiuntive."</string>
     <string name="lks_dislike">"Non mi piace"</string>
     <string name="lks_left_net_deny">La connessione di rete è limitata</string>
     <string name="lks_left_net_error">"Impossibile connettersi alla rete."</string>
@@ -462,18 +478,24 @@ Invia questo codice al supervisore."</string>
     <string name="lks_logo_desc2">Nuovi sfondi giornalieri</string>
     <string name="lks_logo_desc_search">Nuovi sfondi giornalieri</string>
     <string name="lks_loop_icon_ask_cancle">Annulla</string>
+    <string name="lks_loop_icon_ask_dlg">Attiva la presentazione della schermata di blocco per ottenere nuove immagini e storie consegnate quotidianamente alla schermata di blocco.</string>
     <string name="lks_loop_icon_ask_ok">Attiva</string>
     <string name="lks_loop_icon_ask_title">Diapositive schermata di blocco</string>
     <string name="lks_loop_icon_close_cancle">Annulla</string>
+    <string name="lks_loop_icon_close_dlg">La presentazione della schermata di blocco sarà disattivata se si imposta questa immagine come schermata di blocco. Impostare ora come schermata di blocco?</string>
     <string name="lks_loop_icon_close_ok">OK</string>
     <string name="lks_loop_icon_close_title">Attenzione</string>
     <string name="lks_loop_icon_dlg_title">Diapositive schermata di blocco</string>
+    <string name="lks_loop_icon_open_dlg">La presentazione della schermata di blocco è attivata e fornisce ogni giorno nuove immagini e storie alla schermata di blocco.</string>
     <string name="lks_loop_icon_open_ok">Ok</string>
+    <string name="lks_more_pics_coming_toast">Nuove immagini sono in viaggio</string>
+    <string name="lks_new_user_help_anime">Scorri verso l\'alto per vedere di più da Carosello di carta da parati</string>
     <string name="lks_no_network">"Impossibile connettersi alla rete"</string>
     <string name="lks_please_reload">Ricarica</string>
     <string name="lks_retry">Riprova</string>
     <string name="lks_subscription_toast">Sfondo cambiato con successo</string>
     <string name="lks_to_history">Cronologia</string>
+    <string name="lks_to_setting">Wallpaper Carousel settings</string>
     <string name="llks_add_cate">Iscriviti a %s</string>
     <string name="llks_auto_switch_wp">Iscriviti alle categorie che ti piacciono</string>
     <string name="llks_display_error">Permessi richiesti</string>
@@ -538,6 +560,7 @@ Invia questo codice al supervisore."</string>
     <string name="main_fragment_title_search">Migliori</string>
     <string name="main_fragment_title_user">Impostazioni</string>
     <string name="manage">Gestisci</string>
+    <string name="marketSdkVersion">3.2.12</string>
     <string name="midnight">Notte</string>
     <string name="minutes_15">Ogni 15 minuti</string>
     <string name="minutes_5">Ogni 5 minuti</string>
@@ -553,13 +576,15 @@ d MMMM"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEEE
 d MMMM"</string>
     <string name="miui_lock_screen_large_date">"EEE
-dd/M"</string>
+dd/MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-dd/M"</string>
+dd/MM"</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
+    <string name="miuix_access_state_desc">Selezionato</string>
+    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -574,6 +599,8 @@ mm"</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_indexer_collect">Raccolte</string>
+    <string name="miuix_indexer_selected">Selezionato %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -656,6 +683,7 @@ mm"</string>
     <string name="mtrl_picker_out_of_range">Intervallo non valido: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data di inizio – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data di fine</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Seleziona un intervallo di date</string>
     <string name="mtrl_picker_range_header_unselected">Data di inizio – Data di fine</string>
     <string name="mtrl_picker_save">Salva</string>
@@ -663,6 +691,8 @@ mm"</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
     <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a mod. inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa a mod. inserimento testo</string>
@@ -811,6 +841,7 @@ mm"</string>
     <string name="platform_unavailable_wechatmoment">Installa WeChat</string>
     <string name="platform_unavailable_weibo">Installa Weibo</string>
     <string name="please_agree_protocal">Si prega di accettare il protocollo</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
     <string name="privacy_setting">Impostazioni sulla privacy</string>
@@ -836,6 +867,7 @@ mm"</string>
     <string name="pull_to_refresh_pull_up_label">Tira verso l\'alto per aggiornare</string>
     <string name="pull_to_refresh_refreshing_label">Aggiornamento…</string>
     <string name="pull_to_refresh_release_label">Rilascia per aggiornare</string>
+    <string name="qq_login_btn_content_description">Accedi con QQ</string>
     <string name="recommend_switch_desc">Ricevi consigli sui contenuti in base alle tue preferenze</string>
     <string name="recommend_switch_dlg_close">Disattiva</string>
     <string name="recommend_switch_dlg_desc">"Non sarai in grado di ricevere consigli in base alle tue preferenze se disattivi questa funzione."</string>
@@ -884,7 +916,7 @@ mm"</string>
     <string name="saturday_shortest">Sab</string>
     <string name="save_hdpicture_in_favor">Visualizza immagini HD in \"Preferiti\"</string>
     <string name="save_picture_success">Salvato con successo</string>
-    <string name="save_to_album">Salvataggio in Galleria riuscito</string>
+    <string name="save_to_album">Salvato con successo</string>
     <string name="save_to_album_fail">"Impossibile salvare"</string>
     <string name="scribe_btn_ok">Iscriviti</string>
     <string name="scribe_title1">Iscriviti a Sfondi Carousel</string>
@@ -896,7 +928,7 @@ mm"</string>
     <string name="see_more">Mostra altro</string>
     <string name="see_more_content">Mostra altro</string>
     <string name="select_package">Seleziona versione</string>
-    <string name="select_photo_album">Seleziona album</string>
+    <string name="select_photo_album">Seleziona immagini</string>
     <string name="select_picture">Seleziona immagini</string>
     <string name="select_picture_des">Aggiungi le tue foto e immagini online per farle apparire automaticamente nella presentazione.</string>
     <string name="send">Invia</string>
@@ -1026,6 +1058,7 @@ mm"</string>
     <string name="sst_wallpaper_history_title">Cronologia</string>
     <string name="sst_wifi_only_desc">Disattiva per aggiornare gli sfondi solo tramite Wi-Fi</string>
     <string name="sst_wifi_only_title">Aggiorna gli sfondi utilizzando i dati</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_wallpaper_loop_not_start">Spenta</string>
     <string name="status_wallpaper_loop_start">Attivata</string>
     <string name="subscribe_apply_wp">Sfondo schermata di blocco applicato correttamente</string>
@@ -1050,6 +1083,7 @@ mm"</string>
     <string name="summary3">"Benvenuto su Carosello Sfondi! Qui puoi iscriverti alle tue categorie preferite di wallpaper e ottenere nuove immagini consegnate regolarmente alla schermata di blocco. Questa app deve connettersi a internet e raccogliere i dati personali necessari per poter lavorare normalmente.&lt;br&gt;Per fornire servizi aggiuntivi, potremmo chiedere l'autorizzazione per accedere e salvare gli elementi sull'archivio di questo dispositivo.&lt;br&gt;Per comprendere pienamente i tuoi diritti come utente e le mod. con cui utilizziamo i tuoi dati, leggi e accetti il nostro &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Accordo per l'utente&lt;/font&gt;&lt;/a&gt; e &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Informativa sulla privacy&lt;/font&gt;&lt;/a&gt; prima di utilizzare questa app."</string>
     <string name="summary4">"Benvenuto su Carosello Sfondi! Qui puoi iscriverti alle tue categorie di sfondi preferite e ottenere nuove immagini giornalmente sulla schermata di blocco. "</string>
     <string name="summary5">"Per fornire servizi aggiuntivi, potremmo chiedere l'autorizzazione per accedere e salvare gli elementi nell'archivio di questo dispositivo. "</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_international">"Utilizzando questa funzione, concorderai con il ​​nostro &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Accordo Utente&lt;/a&gt; e &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Informativa sulla Privacy&lt;/a&gt;. Questa funzionalità necessiterà di una connessione ad Internet per funzionare normalmente.​"</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
@@ -1179,6 +1213,8 @@ mm"</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="weibo_login_btn_content_description">Accedi con Weibo</string>
+    <string name="weixin_login_btn_content_description">Accedi con WeChat</string>
     <string name="wlan_download">Aggiorna solo tramite Wi-Fi</string>
     <string name="wlan_download_cn">Aggiorna solo tramite Wi-Fi</string>
     <string name="wm_storage_left">"Rimanente: "</string>

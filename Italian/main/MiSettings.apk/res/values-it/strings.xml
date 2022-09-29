@@ -32,8 +32,10 @@
     <string name="all_ringtone">Altro</string>
     <string name="all_ringtone_summary">Seleziona suonerie online</string>
     <string name="all_ringtone_summary_pad">Seleziona suonerie</string>
+    <string name="am">AM</string>
     <string name="amazon_introduction">La regione più biodiversa del nostro pianeta spesso definita come i \"Polmoni della Terra\".</string>
     <string name="amazon_orange_winged_info">L\'amazzone arancione è un grande pappagallo rumoroso che produce urla forti.</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="animal_branch">Famiglia</string>
     <string name="animal_class">Classe</string>
     <string name="animal_item">Ordina</string>
@@ -59,6 +61,7 @@
     <string name="australian_magpie">Gazza australiana</string>
     <string name="authorization_btn_text">Avvia</string>
     <string name="authorization_tips">Permessi richiesti</string>
+    <string name="avalible_per_day">Durata sessione</string>
     <string name="baboon_info">Il babbuino oliva vive in gruppi con classificazione sociale sviluppata a seconda del dominio di ogni individuo.</string>
     <string name="back">Indietro</string>
     <string name="bear_info">Gli orsi sono i più grandi carnivori sulla Terra. Vivono in regioni fredde e sono conosciuti per il loro senso dell\'olfatto sviluppato.</string>
@@ -108,6 +111,9 @@
     <string name="canada_goose">Oca canadese</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">I Capybaras sono roditori erbivori semiacquatici che possono trattenere il respiro sott’acqua per un massimo di cinque minuti.</string>
+    <string name="category_limit_notify_title">Avviso schermo attivo</string>
+    <string name="category_list_expand">Altro</string>
+    <string name="category_list_packup">Nascondi</string>
     <string name="category_other">Altro</string>
     <string name="chacma_baboon">Babbuino Chacma</string>
     <string name="cheetah">Ghepardo</string>
@@ -187,11 +193,14 @@
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="click_to_save">Premi \"Fatto\" per impostare una suoneria generale.</string>
     <string name="close">Chiudi</string>
+    <string name="closed_high_refresh_options">Applicazioni che non utilizzano un elevato tasso di aggiornamento</string>
     <string name="color_gamut">Gamma di colore</string>
     <string name="common_brushtail">Tricosuro Volpino</string>
     <string name="common_ostrich">Struzzo</string>
+    <string name="compulsor_tip">Schermata Home</string>
     <string name="contact_description">Tocca i collegamenti della schermata Home per effettuare chiamate</string>
     <string name="contact_title">Collegamenti ai contatti</string>
+    <string name="continue_time">Durata sessione</string>
     <string name="contrast_ratio">Contrasto</string>
     <string name="control_center_title">Schermo attivo oggi</string>
     <string name="control_center_title_new">Utilizzato oggi</string>
@@ -203,6 +212,8 @@
     <string name="created_successfully">Creato correttamente</string>
     <string name="crowned_hornbill">Bucero codabianca</string>
     <string name="cu_confirm">Imposta</string>
+    <string name="customize_high_refresh_summary">Questa funzione supporta una frequenza di aggiornamento fino a %d Hz. La frequenza di aggiornamento appropriata può essere selezionata automaticamente in base alle preferenze del dispositivo.</string>
+    <string name="customize_high_refresh_title">Applicazioni con alta frequenza di aggiornamento</string>
     <string name="customize_radio_btn_summary">Preferisci la frequenza di aggiornamento selezionata</string>
     <string name="customize_radio_btn_title">Personalizza</string>
     <string name="dall_sheep">Bighorn bianco</string>
@@ -223,6 +234,8 @@
     <string name="desktop_widget_not_support">"Le statistiche di schermo attivo
 non vengono generate nel Secondo Spazio"</string>
     <string name="desktop_widget_screen_use_time">Schermo attivo</string>
+    <string name="device_limit_enable">Attivata</string>
+    <string name="device_limit_un_enable">Spenta</string>
     <string name="display_description">Icone più grandi, testo grande, meno disordine visivo</string>
     <string name="display_title">Elementi più grandi</string>
     <string name="dynamic_ringtone_desc">"Abbiamo esplorato diversi ecosistemi e ricreato i loro suoni distintivi. Inizia ad esplorare i suoni della natura con noi!"</string>
@@ -287,6 +300,7 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="exo_download_failed">Download non riuscito</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
@@ -349,7 +363,11 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d a %d minuti</string>
     <string name="focus_mode_timer_pick_dialog_title">Inserisci durata</string>
     <string name="focus_time_exception_tip">Sembra che l\'ora di sistema sia cambiata. Mod. Focus disattivata.</string>
+    <string name="follow_apps_settings">Basato sulle impostazioni dell\'app</string>
     <string name="follow_sim1">Applica impostazioni SIM 1</string>
+    <string name="force_rest">Usa pause di sessione</string>
+    <string name="force_rest_summary">Prendere interruzioni obbligatorie quando le sessioni raggiungono il limite impostato</string>
+    <string name="force_rest_time">Durata interruzione</string>
     <string name="fps_high">Alta</string>
     <string name="fps_nature_summary">Una frequenza di aggiornamento elevata fa sembrare tutto nitido e fluido</string>
     <string name="fps_nature_title">Massimo</string>
@@ -382,6 +400,16 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="green_peafowl">Pavone verde</string>
     <string name="green_warbler_finch">Fringuello cantore delle Galapagos</string>
     <string name="grey_headed_flying_fox">Volpe volante dalla testa grigia</string>
+    <string name="guard_item_app_summary">Disinstalla le app in remoto</string>
+    <string name="guard_item_app_title">Gestisci applicazioni</string>
+    <string name="guard_item_browser_summary">Controlla l\'accesso alle app e ai contenuti</string>
+    <string name="guard_item_browser_title">Limitazioni</string>
+    <string name="guard_item_call_summary">Consenti a contatti specifici di effettuare chiamate</string>
+    <string name="guard_item_call_title">Comunicazioni</string>
+    <string name="guard_item_eye_protect_summary">Monitoraggio postura</string>
+    <string name="guard_item_eye_protect_title">Confort oculare</string>
+    <string name="guard_range_from">Da</string>
+    <string name="guard_range_to">A</string>
     <string name="harp_seal">Foca della Groenlandia</string>
     <string name="harpy_eagle">Aquila arpia</string>
     <string name="has_applied">Applicato</string>
@@ -399,11 +427,14 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="helmeted_guineafowl">Faraona</string>
     <string name="high_fps_description">Alta frequenza di refrsh dello schermo. Maggiore consumo di energia.</string>
     <string name="high_fps_tip_footer">L\'utilizzo di frequenze di aggiornamento più elevate rende l\'esperienza visiva più fluida ma consuma più energia.</string>
+    <string name="high_refresh_options_title">App compatibili</string>
     <string name="hippopotamus">Ippopotamo</string>
+    <string name="holiday_limit">Giorni di riposo</string>
     <string name="hsv_space_color">Spazio colori HSV</string>
     <string name="hsv_space_color_hue">Tonalità</string>
     <string name="hsv_space_color_saturation">Saturazione</string>
     <string name="hsv_space_color_value">Valore</string>
+    <string name="in_forbidden_period">L\'uso è limitato ora</string>
     <string name="intelligent_radio_btn_summary">Regola la frequenza di aggiornamento in modo dinamico in base agli scenari per bilanciare le prestazioni e il consumo energetico</string>
     <string name="intelligent_radio_btn_title">Predefinito (Consigliato)</string>
     <string name="intelligent_recognition_item_summary">Suoneria dedicata per le chiamate dai servizi di consegna e taxi. Questa funzione è attiva solo quando %s è impostata come suoneria predefinita.</string>
@@ -444,6 +475,7 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="less_than_one">&lt; %d</string>
     <string name="lion">Leone</string>
     <string name="lion_info">I leoni sono predatori feroci e potenti, vivono in gruppi e hanno un forte senso del territorio.</string>
+    <string name="loading_error">"Impossibile caricare gli elementi"</string>
     <string name="lock_summary">Proteggi le tue informazioni personali</string>
     <string name="long_tai1ed_iaeger">Jaeger dalla coda lunga</string>
     <string name="low_flicker_mode">Luce scarsa</string>
@@ -546,6 +578,8 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="nature_mix_summary">Crea un mix personalizzato</string>
     <string name="nazca_booby">Sula granti</string>
     <string name="network_error">Si è verificato un errore di rete. Riprova.</string>
+    <string name="new_customize_high_refresh_title">Alta frequenza di aggiornamento</string>
+    <string name="next_day">"(Nesto giorno) "</string>
     <string name="night">Sera</string>
     <string name="nine_banded_armadillo">Armadillo</string>
     <string name="no_matching">"Impossibile trovare un'app per aprire questo link"</string>
@@ -561,6 +595,7 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="notification_sound">Suoni di notifica</string>
     <string name="ocelot">Gattopardo</string>
     <string name="olive_baboon">Babbuino oliva</string>
+    <string name="opened_high_refresh_options">Applicazioni con alta frequenza di aggiornamento</string>
     <string name="orange_winged_amazon">Amazzone alato arancione</string>
     <string name="orca">Orca marina</string>
     <string name="ostrich_info">Gli struzzi sono grandi uccelli non volanti dell\'Africa che depongono le uova più grandi di qualsiasi animale terrestre vivente.</string>
@@ -577,6 +612,7 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="plains_zebra">Zebra</string>
     <string name="platpus_info">"L'ornitorinco è un animale importante nello studio della biologia evolutiva, è anche una delle poche specie di mammiferi velenosi."</string>
     <string name="platypus">Ornitorinco</string>
+    <string name="pm">PM</string>
     <string name="polar_bear">Orso polare</string>
     <string name="pomarine_jaeger">Stercorario Mezzano</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
@@ -594,6 +630,9 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="restore_default">Ripristina predefinite</string>
     <string name="retry">Riprova</string>
     <string name="rgb_space_color">Spazio colori RGB</string>
+    <string name="rgb_space_color_B">B</string>
+    <string name="rgb_space_color_G">G</string>
+    <string name="rgb_space_color_R">R</string>
     <string name="rhinoceros_info">"Il rinoceronte bianco è un potente erbivoro dal temperamento delicato. Molto raro oggi, è sull'orlo dell'estinzione."</string>
     <string name="ringtone_slot_setting_title">Suonerie Dual SIM</string>
     <string name="ringtone_sound">Suoneria</string>
@@ -621,6 +660,7 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="sea_otter">Lontra di mare</string>
     <string name="seal_info">Le foche sono mammiferi marini che possono muoversi rapidamente in acque profonde, nutrendosi di pesci e gamberetti.</string>
     <string name="search_app_name">Cerca app</string>
+    <string name="search_app_tips">Cerca app</string>
     <string name="search_empty">Nessuna app trovata</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_nature_mix">Museo Naturale; Animali</string>
@@ -634,6 +674,13 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="silver_pheasant">Fagiano argentato</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="skywalker_hoolock_gibbon">Gibbone hoolock Skywalker</string>
     <string name="small_ground_finch">Fringuello terricolo piccolo</string>
     <string name="sms_delivered_sound_title">Messaggio consegnato</string>
@@ -674,9 +721,12 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="srgb_color_region">sRGB</string>
     <string name="srgb_color_region_summary">Visualizza tutto il contenuto dello schermo nella gamma di colori sRGB</string>
     <string name="start_easymode">Attiva Mod. Semplificata</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="steady_on_screen_notification_title">Metti giù il telefono e fai una pausa</string>
     <string name="steady_on_screen_notification_title_pad">Metti giù il dispositivo e fai una pausa</string>
     <string name="steady_on_screen_notify">Notifica utilizzo ininterrotto</string>
+    <string name="steady_on_screen_notify_new">Fai una pausa</string>
+    <string name="steady_on_screen_ntf_msg">Tutte le funzionalità saranno nuovamente disponibili in %1$s</string>
     <string name="steady_on_screen_setting">Limite di tempo per sessioni ininterrotte</string>
     <string name="steady_on_screen_summary">Limite di tempo per sessioni ininterrotte</string>
     <string name="stop_app_timer">Disattiva Benessere Digitale</string>
@@ -685,6 +735,7 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="stop_app_timer_tip">Tutti i dati e i permessi di Benessere Digitale, incluse le impostazioni individuali, così come gli elementi memorizzati localmente e sincronizzati con il cloud, verranno eliminati dopo la disattivazione di questa funzione.</string>
     <string name="stop_summary">Tutte le statistiche e i dati del tempo sullo schermo verranno eliminati quando si disattiva questa funzionalità</string>
     <string name="suggestion">Segnalazione</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -736,6 +787,12 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="thursday">Giovedì</string>
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
+    <string name="time_over_back_home">Schermata Home</string>
+    <string name="time_over_delayed_use">Ignora</string>
+    <string name="time_over_not_delayed_use">Ok</string>
+    <string name="time_over_today">"Non resta più tempo
+per oggi"</string>
+    <string name="time_over_today_use">"Sessioni di oggi: "</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="time_placeholder">--</string>
     <string name="title_activity_easy_mode">Mod. semplificata</string>
@@ -762,6 +819,7 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="two_toed_sloths">Bradipi Didattili</string>
     <string name="two_toed_sloths_info">I bradipi didattili possono facilmente viaggiare da un albero all\'albero nelle foreste pluviali.</string>
+    <string name="unavailable_per_day">Interruzioni</string>
     <string name="unlock_times_per_day">"Media giornaliera: "</string>
     <string name="unlock_times_per_hour">"Sblocchi all'ora: "</string>
     <string name="usage_agree">Accetto</string>
@@ -797,8 +855,10 @@ non vengono generate nel Secondo Spazio"</string>
     <string name="usage_device_limit_app_prolong_time3">Aggiungi 60 minuti</string>
     <string name="usage_device_limit_app_prolong_time4">"Non limitare oggi"</string>
     <string name="usage_device_limit_app_prolong_time5">Aggiungi una volta</string>
+    <string name="usage_device_limit_forbidden_period">L\'uso è limitato tra %1$s e %2$s</string>
     <string name="usage_device_limit_notifation_summary_start">"Raggiungerai il tuo limite tra %1$s"</string>
     <string name="usage_device_limit_notifation_title">Tempo rimanente oggi</string>
+    <string name="usage_device_limit_start_forbidden_period">L\'uso sarà limitato tra %1$s e %2$s (%3$s rimanenti)</string>
     <string name="usage_device_limit_time_over">"Hai raggiunto il limite di oggi (%1$s)"</string>
     <string name="usage_exit">Esci</string>
     <string name="usage_focus_focus_premission_main_summary">Questa app ha bisogno di accedere alle informazioni del tuo account per registrare le statistiche di utilizzo della mod. Concentrazione.</string>
@@ -830,6 +890,8 @@ Questa app deve anche connettersi a internet e richiede le seguenti autorizzazio
     <string name="usage_home_premission_second_summary_double_link_prefix">"Proteggeremo le tue informazioni personali in conformità con le leggi, i regolamenti e le politiche sulla privacy. Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questa app. Puoi revocare la tua autorizzazione in Benessere Digitale &gt; Impostazioni &gt; Disattiva Benessere Digitale."</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>\"Ho letto e accettato l\' &lt;a href=\'%1s\'&gt;Accordo utente&lt;/a&gt; e &lt;a href=\'%2s\'&gt;Informativa sulla privacy&lt;/a&gt;.\"</Data></string>
     <string name="usage_home_premission_second_summary_new">"Proteggeremo le tue informazioni personali in conformità con le leggi, i regolamenti e le politiche sulla privacy. Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questa app. Puoi revocare la tua autorizzazione in Benessere Digitale &gt; Impostazioni &gt; Disattiva Benessere Digitale. Se hai altre domande sulla privacy, puoi contattarci all'indirizzo privacy@xiaomi.com."</string>
+    <string name="usage_new_category_limit_summary">Imposta limiti di utilizzo giornalieri per tutte le applicazioni di questa categoria</string>
+    <string name="usage_new_category_limit_title">Limita utilizzo per la categoria app</string>
     <string name="usage_new_home_app_limit_summary">Impostare un limite di tempo giornaliero per questa applicazione</string>
     <string name="usage_new_home_app_limit_title">Limite utilizzo app</string>
     <string name="usage_new_home_average">"Media "</string>
@@ -882,6 +944,7 @@ Questa app deve collegarsi a internet e richiede le seguenti autorizzazioni per 
     <string name="usage_reach_device_limit_warning_text">"Hai raggiunto il tuo limite di schermo attivo per oggi"</string>
     <string name="usage_refresh">Riprova</string>
     <string name="usage_remain_about_hour_miunte">≈%1$s%2$s</string>
+    <string name="usage_remain_hour_miunte">%1$s %2$s</string>
     <string name="usage_request_error_summary">Siamo spiacenti, si è verificato un errore sconosciuto</string>
     <string name="usage_request_timeout_summary">Richiesta scaduta</string>
     <string name="usage_runtime_per_des_summary">Per salvare le statistiche di schermo acceso</string>
@@ -1053,6 +1116,7 @@ Questa app deve collegarsi a internet e richiede le seguenti autorizzazioni per 
     <string name="willow_grouse_info">Pernice bianca nordica è erbivora per la maggior parte della sua vita e occupa principalmente habitat subalpini e subartici.</string>
     <string name="wolf">Lupo</string>
     <string name="wombat">Vombato</string>
+    <string name="workday_limit">Giorni lavorativi</string>
     <string name="yellow_necked_spurfowl">Francolino golagialla</string>
     <string name="yellow_throated_marten">Martora dalla gola gialla</string>
     <string name="yesterday">Ieri</string>

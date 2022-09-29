@@ -36,6 +36,10 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">%2$d minuti rimanenti per \"%1$s\" oggi</item>
+        <item quantity="one">%2$d minuti rimanenti per \"%1$s\" oggi</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>
@@ -76,9 +80,21 @@
         <item quantity="other">"Hai usato il tuo dispositivo per %d minuti senza interruzioni"</item>
         <item quantity="one">"Hai usato il tuo dispositivo per %d minuto senza interruzioni"</item>
     </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">Riposo per %d minuti</item>
+        <item quantity="one">Riposo per %d minuti</item>
+    </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d minuti</item>
         <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">"Stai usando questo dispositivo già da %d minuti"</item>
+        <item quantity="one">"Stai già usando questo dispositivo da %d minuti"</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">Puoi aggiungere fino a %d pause</item>
+        <item quantity="one">Puoi aggiungere fino a %d pausa</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">L\'utilizzo di oggi è uguale alla media di %d giorni</item>

@@ -24,6 +24,7 @@
     <string name="abc_toolbar_collapse_description">Riduci</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
+    <string name="am">AM</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -169,6 +170,7 @@
     <string name="icon_remove_description_content">"\"Servizi e Feedback\" è un'app di sistema. Sarai comunque in grado di utilizzarla tramite Impostazioni dopo aver rimosso il collegamento sulla schermata iniziale."</string>
     <string name="icon_remove_description_title">Rimuovere \"Servizi e Feedback\" dalla schermata Home?</string>
     <string name="mi_service_app_name">Servizi e feedback</string>
+    <string name="mi_service_back">Indietro</string>
     <string name="midnight">Notte</string>
     <string name="miservice_channel_boot_name">avvio</string>
     <string name="miservice_channel_guide_name">guida</string>
@@ -402,7 +404,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="permission_china_version_msg"><Data>Prima di utilizzare \"Servizi e feedback\", devi leggere e accettare i nostri  &lt;a href=%1$s&gt; Contratto Utente&lt;/a&gt;  e &lt;a href=%2$s&amp;gtInformativa sulla privacy&lt;/a&gt;. Questa applicazione deve anche connettersi ad internet per funzionare correttamente.</Data></string>
     <string name="permission_complete">Fatto</string>
     <string name="permission_contacts_info">Accesso alle informazioni dell\'account</string>
-    <string name="permission_contacts_introduce">Per accedere tramite Mi Account</string>
+    <string name="permission_contacts_introduce">Per accedere utilizzando l\'account Xiaomi</string>
     <string name="permission_device_info">Accesso alle info dispositivo</string>
     <string name="permission_device_introduce">Per determinare il periodo di garanzia</string>
     <string name="permission_exit">Esci</string>
@@ -418,6 +420,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="permission_storage">Archiviazione</string>
     <string name="permission_storage_introduce">Per salvare elementi sul tuo dispositivo</string>
     <string name="permission_user_protocol">Accordo utente (obbligatorio)</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_policy_update_hint">"%1$s Informativa sulla privacy è stata aggiornata:
 %2$s
@@ -433,6 +436,7 @@ Leggi e accetta la nuova versione di %3$s prima di continuare."</string>
     <string name="public_welcome_use_feedback_service">Benvenuto in Servizi e Feedback! È possibile utilizzare questa app per inviare feedback, visualizzare le domande frequenti, applicare per i resi e gli scambi dei prodotti e altro ancora.</string>
     <string name="rationale_ask">L\'app potrebbe non funzionare correttamente senza le autorizzazioni richieste.</string>
     <string name="rationale_ask_again">Questa app potrebbe non funzionare correttamente senza le autorizzazioni richieste. Apri le impostazioni dell\'app per modificare le autorizzazioni.</string>
+    <string name="required_permissions">;</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
@@ -462,6 +466,8 @@ Leggi e accetta la nuova versione di %3$s prima di continuare."</string>
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

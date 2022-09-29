@@ -76,6 +76,8 @@
     <string name="backup_hint_pad">Non spegnere il dispositivo</string>
     <string name="backup_is_running">Dispositivo in fase di backup</string>
     <string name="backup_new">Nuovo:</string>
+    <string name="backup_notice_content">"I tuoi backup non saranno crittografati, significa che potrebbero essere accessibili o manomessi da app di terze parti. Potrebbero sorgere anche altri rischi per la sicurezza. Assicurati di memorizzare gli elementi di backup in un ambiente ben protetto."</string>
+    <string name="backup_notice_title">Attenzione</string>
     <string name="backup_notification_title">\"Backup\" in esecuzione…</string>
     <string name="backup_progress">Backup in corso</string>
     <string name="backup_report">Vedi dettagli</string>
@@ -104,6 +106,8 @@
     <string name="cancel_moving_dialog_message">Sicuro di voler interrompere l\'importazione?</string>
     <string name="cancel_moving_dialog_title">Interrompi importazione</string>
     <string name="cancel_restore">Interrompi</string>
+    <string name="category_contacts">Contatti</string>
+    <string name="category_message_contacts">Messaggi e Contatti</string>
     <string name="check_privacy_policy">Visualizza Informativa sulla Privacy</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -430,7 +434,7 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="local_main_backup_time">Ultimo backup: %1$s</string>
     <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
     <string name="local_main_encrypt_backup_summary">Cripta gli i dati nel backup utilizzando il tuo Mi Account</string>
-    <string name="local_main_encrypt_backup_title">Crittografia abilitata</string>
+    <string name="local_main_encrypt_backup_title">Verifica l\'account per ripristinare gli elementi</string>
     <string name="local_main_latest_backup_time_loading">Attendi…</string>
     <string name="local_no_backup">Nessun backup</string>
     <string name="local_no_backup_data">Ancora nessun backup</string>
@@ -659,6 +663,8 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
     <string name="permission_read_storage_global">Accesso alla memoria</string>
     <string name="permission_read_write_storage">Per essere in grado di eseguire il backup degli elementi, consentire a questa funzione di accedere alla memoria.</string>
     <string name="permission_read_write_sys_app">Per essere in grado di eseguire il backup e ripristinare messaggi, contatti e cronologia chiamate, consentire a questa funzione di accedere a questi elementi.</string>
+    <string name="permission_read_write_sys_app1">Consenti a questa funzione di accedere ai tuoi messaggi e contatti per essere in grado di eseguire il backup e ripristinare questi elementi.</string>
+    <string name="permission_read_write_sys_app2">Consenti a questa funzione di accedere ai tuoi contatti per essere in grado di eseguire il backup e ripristinare questi elementi.</string>
     <string name="permission_related">Permessi</string>
     <string name="permission_restore_calendar">Per ripristinare gli eventi del calendario</string>
     <string name="permission_restore_calendar_desc">Per essere in grado di ripristinare gli eventi del calendario, consentire a questa app di modificare gli eventi del calendario.</string>
@@ -1106,6 +1112,8 @@ Non uscire da quea pagina finché non è stata stabilita una connessione."</stri
     <string name="wifi_title">Impostazioni Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">"Connessione Download Manager fallita, controlla lo stato del Download Manager nella Gestione Applicazioni."</string>
     <string name="xiaomi_external_storage_unavailable">"Memoria non disponibile, verifica la scheda SD."</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s
