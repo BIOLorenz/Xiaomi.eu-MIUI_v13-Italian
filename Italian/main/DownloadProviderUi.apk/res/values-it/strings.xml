@@ -174,7 +174,6 @@
     <string name="download_list_title_browser">Download</string>
     <string name="download_no_application">Nessuna app supporta questo formato</string>
     <string name="download_no_application_title">"Impossibile aprire il file"</string>
-    <string name="download_num_size">%1$s|%2$s</string>
     <string name="download_pending">Download in attesa</string>
     <string name="download_remain_time">Rimanente</string>
     <string name="download_running">Download in corso…</string>
@@ -210,7 +209,6 @@
     <string name="evening">Pomeriggio</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="extract_file">Scompattamento file…</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_exist_hint">Questo file esiste già</string>
     <string name="file_picker">Scegli una posizione</string>
     <string name="file_size">Dimensione</string>

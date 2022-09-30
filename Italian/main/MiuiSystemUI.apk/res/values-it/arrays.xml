@@ -1043,52 +1043,6 @@
         <item>Area ritaglio non rettangolare blu</item>
         <item>Evidenzia comandi di disegno test in verde</item>
     </string-array>
-    <string-array name="system_foreground_notification_whitelist">
-        <item>com.xiaomi.uatalive:mimonitor_bootload</item>
-        <item>com.jtom.userprobation</item>
-        <item>com.xiaomi.joyose</item>
-        <item>com.android.launcher3</item>
-        <item>com.mi.android.globallauncher</item>
-        <item>com.android.providers.contacts</item>
-        <item>com.android.updater</item>
-        <item>com.android.gallery3d</item>
-        <item>com.mi.android.globalFileexplorer</item>
-        <item>com.miui.securitycenter</item>
-        <item>com.miui.cloudappbackup</item>
-        <item>com.miui.fmradio</item>
-        <item>com.android.systemui</item>
-        <item>com.miui.contentextension</item>
-        <item>com.android.mms</item>
-        <item>com.miui.smsextra</item>
-        <item>com.miui.securitycore</item>
-        <item>com.miui.notification</item>
-        <item>com.mi.health</item>
-        <item>com.xiaomi.market:com.xiaomi.market_hide</item>
-        <item>com.xiaomi.mipicks</item>
-        <item>com.xiaomi.discover</item>
-        <item>com.miui.mishare.connectivity</item>
-        <item>com.qualcomm.wfd.service</item>
-        <item>com.miui.notes</item>
-        <item>com.miui.tsmclient</item>
-        <item>com.mi.android.globalminusscreen</item>
-        <item>com.mfashiongallery.emag</item>
-        <item>com.android.thememanager</item>
-        <item>com.android.mtp</item>
-        <item>com.miui.voiceassist:com.miui.voiceassistforeground</item>
-        <item>com.tencent.tim</item>
-        <item>com.twitter.android</item>
-        <item>com.miui.personalassistant</item>
-        <item>com.xiaomi.miplay_client</item>
-        <item>com.miui.screenshot</item>
-        <item>com.tobila.tobilaphone.mobile.android.au</item>
-        <item>com.miui.cleanmaster</item>
-        <item>com.miui.cleaner</item>
-        <item>com.instagram.android</item>
-        <item>com.milink.service:hide_foreground</item>
-        <item>com.xiaomi.aiasst.vision:ai_toolbox_fs</item>
-        <item>com.quicinc.voice.activation</item>
-        <item>com.oray.sunlogin.service</item>
-    </string-array>
     <string-array name="tile_states_airplane">
         <item>Non disponibile</item>
         <item>Spenta</item>
@@ -1232,14 +1186,6 @@
         <item>Scala animazione 2x</item>
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
-    </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
     </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>

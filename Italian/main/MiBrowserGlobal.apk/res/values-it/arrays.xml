@@ -65,15 +65,6 @@
         <item>Raccolta</item>
         <item>Libreria</item>
     </string-array>
-    <string-array name="exo_playback_speeds">
-        <item>0.25x</item>
-        <item>0.5x</item>
-        <item>0.75x</item>
-        <item>@string/exo_controls_playback_speed_normal</item>
-        <item>1.25x</item>
-        <item>1.5x</item>
-        <item>2x</item>
-    </string-array>
     <string-array name="general__notification_toolbar_book_tips_array">
         <item>{\"title\": \"Alien Freedom Heaven\", \"summary\": \"Heaven-level secret code, above all things!\", \"fiction_id\":\"25731 , \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01faREj2kgH/qdNQgCljVWMNpK.jpg\"}</item>
         <item>{\"title\": \"Wu Ni Qiankun\", \"summary\": \"Trash to the legend of the peerless strongman\", \"fiction_id\":\"18838\", \" cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01NBCjISbV5/wEPQHF3Lij92EQ.jpg\"}</item>
@@ -277,14 +268,6 @@
         <item>Bahasa Indonesia</item>
         <item>Filipino</item>
     </string-array>
-    <string-array name="personal__personal_item_title_arr">
-        <item>@string/personal__daily_reward</item>
-        <item>@string/personal__read_history__history</item>
-        <item>@string/feedback</item>
-        <item>@string/settings</item>
-        <item>@string/personal__settings_recruit_contract_writer</item>
-        <item>@string/general__personal_about_item_copy_right</item>
-    </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Vai indietro/avanti</item>
         <item>Cambia scheda</item>
@@ -343,13 +326,6 @@
         <item>Nessuno</item>
         <item>Nuovo utente</item>
     </string-array>
-    <string-array name="reading_feedback_issue_cases">
-        <item>@string/reeading__reading_feedback_dialog_issue_case1</item>
-        <item>@string/reeading__reading_feedback_dialog_issue_case2</item>
-        <item>@string/reeading__reading_feedback_dialog_issue_case3</item>
-        <item>@string/reeading__reading_feedback_dialog_issue_case4</item>
-        <item>@string/reeading__reading_feedback_dialog_issue_case5</item>
-    </string-array>
     <string-array name="search_bar_search_engines_default">
         <item>google</item>
         <item>bing</item>
@@ -360,13 +336,6 @@
     <string-array name="setting_swipe_up_target">
         <item>Cerca</item>
         <item>Notizie</item>
-    </string-array>
-    <string-array name="settings_timeout_option_entries">
-        <item>@string/reading__settings_timeout_option_follow_system</item>
-        <item>@string/reading__settings_timeout_option_5min</item>
-        <item>@string/reading__settings_timeout_option_15min</item>
-        <item>@string/reading__settings_timeout_option_30min</item>
-        <item>@string/reading__settings_timeout_option_always_on</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>Elimina</item>

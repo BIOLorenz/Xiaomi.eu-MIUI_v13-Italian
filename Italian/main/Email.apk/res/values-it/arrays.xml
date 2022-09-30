@@ -123,49 +123,6 @@
         <item>client disabilitato, si prega di cambiare stato sul sito https://mail.sohu.com</item>
         <item>nessuna password iniziale, effettua il login https://mail.sohu.com per generare la password del client</item>
     </string-array>
-    <string-array name="error_message_respond_revert">
-        <item>@string/error_message_respond_revert_01</item>
-        <item>@string/error_message_respond_revert_02</item>
-        <item>@string/error_message_respond_revert_02</item>
-        <item>@string/error_message_respond_revert_02</item>
-        <item>@string/error_message_respond_revert_02</item>
-        <item>@string/error_message_respond_revert_03</item>
-        <item>@string/error_message_respond_revert_04</item>
-        <item>@string/error_message_respond_revert_04</item>
-        <item>@string/error_message_respond_revert_05</item>
-        <item>@string/error_message_respond_revert_06</item>
-        <item>@string/error_message_respond_revert_06</item>
-        <item>@string/error_message_respond_revert_07</item>
-        <item>@string/error_message_respond_revert_08</item>
-        <item>@string/error_message_respond_revert_09</item>
-        <item>@string/error_message_respond_revert_10</item>
-        <item>@string/error_message_respond_revert_11</item>
-        <item>@string/error_message_respond_revert_12</item>
-        <item>@string/error_message_respond_revert_14</item>
-        <item>@string/error_message_respond_revert_15</item>
-        <item>@string/error_message_respond_revert_16</item>
-        <item>@string/error_message_respond_revert_17</item>
-        <item>@string/error_message_respond_revert_18</item>
-        <item>@string/error_message_respond_revert_19</item>
-        <item>@string/error_message_respond_revert_20</item>
-        <item>@string/error_message_respond_revert_21</item>
-        <item>@string/error_message_respond_revert_22</item>
-        <item>@string/error_message_respond_revert_23</item>
-        <item>@string/error_message_respond_revert_24</item>
-        <item>@string/error_message_respond_revert_25</item>
-        <item>@string/error_message_respond_revert_26</item>
-        <item>@string/error_message_respond_revert_27</item>
-    </string-array>
-    <string-array name="folder_junk_name_array">
-        <item>@string/folder_junk_name_en1</item>
-        <item>@string/folder_junk_name_en2</item>
-        <item>@string/folder_junk_name_en3</item>
-        <item>@string/folder_junk_name_en4</item>
-        <item>@string/folder_junk_name_en5</item>
-        <item>@string/folder_junk_name_cn0</item>
-        <item>@string/folder_junk_name_cn1</item>
-        <item>@string/folder_junk_name_cn2</item>
-    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Testo molto piccolo</item>
         <item>Piccolo</item>

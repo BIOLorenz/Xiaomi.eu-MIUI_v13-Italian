@@ -123,7 +123,6 @@
     <string name="copies_increase">Aumenta copie di 1</string>
     <string name="copy">Copia</string>
     <string name="could_not_create_file">Impossibile creare file</string>
-    <string name="current_page_template">%1$d/%2$d</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="delete_saved_printer_content">Eliminare le stampanti selezionate?</string>
@@ -332,7 +331,6 @@
     <string name="printer_busy">Stampante occupata</string>
     <string name="printer_error">Errore di stampa</string>
     <string name="printer_error_msg">Errore della stampante: %1$s</string>
-    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">Informazioni dettagliate su questa stampante</string>
     <string name="printer_notification_error_title">"Impossibile stampare %1$s"</string>
     <string name="printer_unavailable">"Stampante non disponibile"</string>

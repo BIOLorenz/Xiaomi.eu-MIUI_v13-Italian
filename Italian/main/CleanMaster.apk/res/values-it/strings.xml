@@ -571,7 +571,6 @@
     <string name="hints_garbage_cleanup_result_safe">Sembra tutto OK</string>
     <string name="hints_garbage_handle_item_content">%1$d elementi，%2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Vuoto</string>
-    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Utilizzata raramente</string>
     <string name="hints_installed_app_near">Usato di recente</string>
     <string name="hints_installed_app_never">Non utilizzata di recente</string>
@@ -901,7 +900,6 @@
     <string name="preference_category_key_engine_settings">key_category_engine_settings</string>
     <string name="preference_category_key_whatsapp_privacy">key_category_whatsapp_privacy</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
-    <string name="preference_key_wechat_garbage_clean_alert">key_wechat_clean_switch_state</string>
     <string name="privacy_app_desc">Account e password</string>
     <string name="privacy_app_desc_message">Account, password e messaggi</string>
     <string name="privacy_app_desc_search">Account, password e cronologia di ricerca</string>

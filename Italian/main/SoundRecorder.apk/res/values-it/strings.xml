@@ -24,7 +24,6 @@
     <string name="abc_toolbar_collapse_description">Riduci</string>
     <string name="access_denied_info">Troppi tentativi. Attendi e riprova.</string>
     <string name="actionbar_button_up_description">Indietro</string>
-    <string name="add_remark_dialog_title">@string/record_item_title_remark</string>
     <string name="add_remark_hint">Inserisci il tuo commento</string>
     <string name="add_remark_tip">Tocca per aggiungere un commento</string>
     <string name="afternoon">Pomeriggio</string>
@@ -319,7 +318,6 @@
     <string name="material_timepicker_select_time">Imposta ora</string>
     <string name="material_timepicker_text_input_mode_description">Passa alla mod. di inserimento testo per inserire l\'ora.</string>
     <string name="menu">Premi Menu</string>
-    <string name="menu_remark">@string/record_item_title_remark</string>
     <string name="message_file_size_error">La registrazione ha raggiunto la lunghezza massima per %s</string>
     <string name="mi_account_msg">Accedi con l\'account Xiaomi per trascrivere i file nel cloud e ottenere i primi 60 minuti gratis.</string>
     <string name="mi_account_ok">Accedi</string>
@@ -598,7 +596,6 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="record_downloading_notification_complete">Download completato</string>
     <string name="record_downloading_notification_count">%d in download</string>
     <string name="record_format_preference_title">Formato di registrazione</string>
-    <string name="record_item_title_delete">@string/delete</string>
     <string name="record_item_title_multi_choice">Scegli</string>
     <string name="record_item_title_remark">Aggiungi commento</string>
     <string name="record_item_title_send">Condividi</string>
@@ -729,7 +726,6 @@ Tocca \"%1$s\", quindi seleziona \"%2$s\"."</string>
     <string name="tab_apps">Applicazioni</string>
     <string name="tab_call">Chiamate</string>
     <string name="tab_fm">FM</string>
-    <string name="tab_record">@string/app_name</string>
     <string name="tap_to_record">Tocca l\'icona per avviare una registrazione.​</string>
     <string name="text_btn_backward_3_seconds">Riavvolgi di 3 secondi</string>
     <string name="text_btn_complete">Interrompi</string>

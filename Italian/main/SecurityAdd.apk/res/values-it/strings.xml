@@ -496,8 +496,6 @@
     <string name="power_center_battery_duration_screen_on">Tempo rimanente dello schermo</string>
     <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s di tempo rimanente sullo schermo</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
-    <string name="preference_key_information_setting_close">key_information_setting_close</string>
-    <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
     <string name="privacy_declare_dialog_title">Condizioni d\'uso</string>
     <string name="privacy_prompt_traffic_purchase_message">"Le informazioni relative al tuo numero di telefono e al tuo operatore verranno crittografate e caricate sui server Xiaomi per fornire maggiori dettagli sulle possibilità di acquisto."</string>
     <string name="renew_now">Rinnova</string>
@@ -542,7 +540,6 @@
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>

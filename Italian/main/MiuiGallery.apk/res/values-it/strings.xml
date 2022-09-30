@@ -393,7 +393,6 @@ Collega il caricabatterie e disattiva lo schermo per far apparire i ricordi."</s
     <string name="card_description_annual_peoples">Visi, storie, luoghi</string>
     <string name="card_description_annual_pets">Code, zampe e baffi</string>
     <string name="card_description_annual_travel">Cose che hai visto per strada</string>
-    <string name="card_description_from_to">%1$s - %2$s</string>
     <string name="card_title_activities">Agenda</string>
     <string name="card_title_annual_babys">Il tesoro a %1$s</string>
     <string name="card_title_annual_events">Le mie feste nel %1$s</string>
@@ -1000,7 +999,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="face_name_edit">Modifica</string>
     <string name="face_name_input">Inserisci il nome</string>
     <string name="face_recommend">Consigliati</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">"Operazione fallita"</string>
     <string name="fail_reason_migrate">Elaborazione elementi… Attendi un minuto o due e riprova.</string>
     <string name="fail_to_pick_email">Email selezionata non valida</string>
@@ -1014,7 +1012,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="feedback_my_reports">Segnalazione</string>
     <string name="feedback_problem">Segnala un problema</string>
     <string name="feedback_suggest">Invia un suggerimento</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">"Impossibile stampare questo elemento."</string>
     <string name="file_cannot_screen_throw">"Impossibile trasmettere questo elemento."</string>
     <string name="file_sending">Trasferimento file…</string>
@@ -1231,7 +1228,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="grant_permission_go_and_set">Imposta</string>
     <string name="grant_permission_go_and_set_2">Impostazioni</string>
     <string name="grant_permission_go_and_set_3">Impostazioni</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">Permessi richiesti</string>
     <string name="grant_permission_manage_storage_unlock">Sblocca il dispositivo e consente a questa app di accedere a tutti i file per poter visualizzare gli elementi.</string>
     <string name="grant_permission_shortcut">Consenti a questa app di creare collegamenti sulla schermata Home.</string>
@@ -1274,7 +1270,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="home_menu_camera">Mostra solo elementi Fotocamera</string>
     <string name="home_menu_cleaner">Libera spazio</string>
     <string name="home_menu_collage">Collage</string>
-    <string name="home_menu_community">@string/assistant_page_community</string>
     <string name="home_menu_id_photo">ID</string>
     <string name="home_menu_macarons">Vignetta magica</string>
     <string name="home_menu_magic_matting">Magico</string>
@@ -1926,7 +1921,6 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="people_page_label">Nome</string>
     <string name="people_page_photo">Miniatura di una persona</string>
     <string name="people_page_unname">Senza nome</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">Per accedere e gestire gli account di sistema</string>
     <string name="permission_account_name">Accesso agli account</string>
     <string name="permission_clipboard_desc">Per accedere e salvare elementi negli appunti</string>
@@ -2500,7 +2494,6 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="share_album_baby_age">宝宝%1$s了</string>
     <string name="share_album_change_background">更换相册背景</string>
     <string name="share_album_create_failed">创建共享相册失败</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">取消共享</string>
     <string name="share_album_exit_confirm">退出后将无法查看该相册内所有内容,请提前转存</string>
     <string name="share_album_exit_confirm_title">退出提示</string>
